@@ -1,0 +1,1315 @@
+Thu Dec 02 2021 18:09:36.674242 - //==============================================================================================
+Thu Dec 02 2021 18:09:36.674316 - ================================================================================================
+Thu Dec 02 2021 18:09:36.674334 - ================================================================================================
+Thu Dec 02 2021 18:09:36.674350 - vrmonitor 1.20.4 startup with PID=35042, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:09:36.674412 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Thu Dec 02 2021 18:09:36.674432 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Thu Dec 02 2021 18:09:37.199243 - Default Playback Audio Devices: ,  (Comm)
+Thu Dec 02 2021 18:09:37.199364 - Default Record Audio Device: ,  (Comm)
+Thu Dec 02 2021 18:09:37.716524 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Thu Dec 02 2021 18:09:37.816244 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:09:41.009105 - VR_Init failed with Hmd Not Found (108)
+Thu Dec 02 2021 18:09:41.009643 - [Steam] Attempt to connect to Steam
+Thu Dec 02 2021 18:09:41.010683 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:09:41.010893 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:09:41.011037 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:09:41.011289 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:09:41.011467 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:09:41.011535 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:09:41.011609 - CSharedResourceNamespaceClient::Init(): received namespace data 35214
+Thu Dec 02 2021 18:09:41.013037 - [Audio] Audio init
+Thu Dec 02 2021 18:09:41.076282 - [Steam] Connected to Steam in 0.02 seconds.
+Thu Dec 02 2021 18:09:41.077877 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:09:41.077989 - [Steam] Connect to Steam finished: check for dismissable warnings
+Thu Dec 02 2021 18:09:41.083942 - [Status] Graphics driver version is .
+Thu Dec 02 2021 18:09:41.094104 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:09:41.097953 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Thu Dec 02 2021 18:09:41.273203 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:09:41.285251 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Thu Dec 02 2021 18:09:46.910586 - [System] System is running for 10 seconds.
+Thu Dec 02 2021 18:10:30.403382 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Thu Dec 02 2021 18:10:30.415739 - [System] Quit gracefully: Waiting for process quitting...
+Thu Dec 02 2021 18:10:30.569468 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Thu Dec 02 2021 18:10:30.569549 - [Audio] Audio shutdown!
+Thu Dec 02 2021 18:10:30.833875 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Thu Dec 02 2021 18:14:44.566738 - //==============================================================================================
+Thu Dec 02 2021 18:14:44.566799 - ================================================================================================
+Thu Dec 02 2021 18:14:44.566822 - ================================================================================================
+Thu Dec 02 2021 18:14:44.566848 - vrmonitor 1.20.4 startup with PID=35993, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:14:44.566951 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Thu Dec 02 2021 18:14:44.567003 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Thu Dec 02 2021 18:14:45.093453 - Default Playback Audio Devices: ,  (Comm)
+Thu Dec 02 2021 18:14:45.093557 - Default Record Audio Device: ,  (Comm)
+Thu Dec 02 2021 18:14:45.588727 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Thu Dec 02 2021 18:14:45.700905 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:14:49.064344 - VR_Init failed with Hmd Not Found (108)
+Thu Dec 02 2021 18:14:49.064806 - [Steam] Attempt to connect to Steam
+Thu Dec 02 2021 18:14:49.065810 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:14:49.066080 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:14:49.066297 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:14:49.066689 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:14:49.066963 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:14:49.067065 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:14:49.067180 - CSharedResourceNamespaceClient::Init(): received namespace data 36160
+Thu Dec 02 2021 18:14:49.068346 - [Audio] Audio init
+Thu Dec 02 2021 18:14:49.086331 - [Steam] Connected to Steam in 0.02 seconds.
+Thu Dec 02 2021 18:14:49.094483 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:14:49.094582 - [Steam] Connect to Steam finished: check for dismissable warnings
+Thu Dec 02 2021 18:14:49.099155 - [Status] Graphics driver version is .
+Thu Dec 02 2021 18:14:49.099228 - [Dismissable Warning Added] SteamVR Safe Mode (0x1000000)
+Thu Dec 02 2021 18:14:49.119099 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:14:49.158665 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Thu Dec 02 2021 18:14:49.292363 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:14:49.400388 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:14:49.518237 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Thu Dec 02 2021 18:14:49.588544 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:14:54.362100 - Open URL vrmonitor://safemode/disable
+Thu Dec 02 2021 18:14:54.910508 - [System] System is running for 10 seconds.
+Thu Dec 02 2021 18:31:06.490234 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Thu Dec 02 2021 18:31:06.501979 - [System] Quit gracefully: Waiting for process quitting...
+Thu Dec 02 2021 18:31:06.655289 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Thu Dec 02 2021 18:31:06.655336 - [Audio] Audio shutdown!
+Thu Dec 02 2021 18:31:06.917765 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Do Dez 02 2021 18:33:12.203511 - //==============================================================================================
+Do Dez 02 2021 18:33:12.921016 - ================================================================================================
+Do Dez 02 2021 18:33:12.921078 - ================================================================================================
+Do Dez 02 2021 18:33:12.921131 - vrmonitor 1.20.4 startup with PID=4375, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 18:33:12.921360 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Do Dez 02 2021 18:33:12.921413 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Do Dez 02 2021 18:33:13.502321 - Default Playback Audio Devices: ,  (Comm)
+Do Dez 02 2021 18:33:13.502376 - Default Record Audio Device: ,  (Comm)
+Do Dez 02 2021 18:33:13.502413 - TerminateZombieProcesses()
+Do Dez 02 2021 18:33:14.095813 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Do Dez 02 2021 18:33:14.246982 - [System] Runtime: 1634602223 250820  STEAMVR
+Do Dez 02 2021 18:33:17.970894 - VR_Init failed with Hmd Not Found (108)
+Do Dez 02 2021 18:33:17.971290 - [Steam] Attempt to connect to Steam
+Do Dez 02 2021 18:33:17.972200 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Do Dez 02 2021 18:33:17.972390 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Do Dez 02 2021 18:33:17.972555 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Do Dez 02 2021 18:33:17.972879 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Do Dez 02 2021 18:33:17.973093 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Do Dez 02 2021 18:33:17.973171 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 18:33:17.973246 - CSharedResourceNamespaceClient::Init(): received namespace data 4736
+Do Dez 02 2021 18:33:17.974729 - [Audio] Audio init
+Do Dez 02 2021 18:33:18.014103 - [Steam] Connected to Steam in 0,02 seconds.
+Do Dez 02 2021 18:33:18.065365 - [System] Runtime: 1634602223 250820  STEAMVR
+Do Dez 02 2021 18:33:18.065469 - [Steam] Connect to Steam finished: check for dismissable warnings
+Do Dez 02 2021 18:33:18.070057 - [Status] Graphics driver version is .
+Do Dez 02 2021 18:33:18.070139 - [Dismissable Warning Added] SteamVR Safe Mode (0x1000000)
+Do Dez 02 2021 18:33:18.094923 - [Status Alert] Headset Not Detected (108)
+Do Dez 02 2021 18:33:18.100170 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Do Dez 02 2021 18:33:18.103924 - [Status Alert] Headset Not Detected (108)
+Do Dez 02 2021 18:33:18.335114 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Do Dez 02 2021 18:33:20.440895 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Do Dez 02 2021 18:33:20.452641 - [System] Quit gracefully: Waiting for process quitting...
+Do Dez 02 2021 18:33:22.274207 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Do Dez 02 2021 18:33:22.274250 - [Audio] Audio shutdown!
+Do Dez 02 2021 18:33:22.534308 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Do Dez 02 2021 18:34:53.167201 - //==============================================================================================
+Do Dez 02 2021 18:34:53.167764 - ================================================================================================
+Do Dez 02 2021 18:34:53.167834 - ================================================================================================
+Do Dez 02 2021 18:34:53.167951 - vrmonitor 1.20.4 startup with PID=6471, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 18:34:53.168209 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Do Dez 02 2021 18:34:53.168289 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Do Dez 02 2021 18:34:53.702418 - Default Playback Audio Devices: ,  (Comm)
+Do Dez 02 2021 18:34:53.702533 - Default Record Audio Device: ,  (Comm)
+Do Dez 02 2021 18:34:53.702587 - TerminateZombieProcesses()
+Do Dez 02 2021 18:34:54.321020 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Do Dez 02 2021 18:34:54.432024 - [System] Runtime: 1634602223 250820  STEAMVR
+Do Dez 02 2021 18:34:57.973813 - VR_Init failed with Hmd Not Found (108)
+Do Dez 02 2021 18:34:57.974352 - [Steam] Attempt to connect to Steam
+Do Dez 02 2021 18:34:57.975535 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Do Dez 02 2021 18:34:57.975878 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Do Dez 02 2021 18:34:57.976233 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Do Dez 02 2021 18:34:57.976839 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Do Dez 02 2021 18:34:57.977277 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Do Dez 02 2021 18:34:57.977429 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 18:34:57.977569 - CSharedResourceNamespaceClient::Init(): received namespace data 6704
+Do Dez 02 2021 18:34:57.979918 - [Audio] Audio init
+Do Dez 02 2021 18:34:58.002619 - [Steam] Connected to Steam in 0,02 seconds.
+Do Dez 02 2021 18:34:58.011913 - [System] Runtime: 1634602223 250820  STEAMVR
+Do Dez 02 2021 18:34:58.012003 - [Steam] Connect to Steam finished: check for dismissable warnings
+Do Dez 02 2021 18:34:58.016385 - [Status] Graphics driver version is .
+Do Dez 02 2021 18:34:58.016504 - [Dismissable Warning Added] SteamVR Safe Mode (0x1000000)
+Do Dez 02 2021 18:34:58.038940 - [Status Alert] Headset Not Detected (108)
+Do Dez 02 2021 18:34:58.087868 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Do Dez 02 2021 18:34:58.090932 - [Status Alert] Headset Not Detected (108)
+Do Dez 02 2021 18:34:58.256790 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Do Dez 02 2021 18:35:01.032585 - Open URL vrmonitor://safemode/disable
+Do Dez 02 2021 18:35:03.922852 - [System] System is running for 10 seconds.
+Do Dez 02 2021 18:35:09.122890 - Open URL vrmonitor://restartsystem
+Do Dez 02 2021 18:35:09.123064 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_Restart'.
+Do Dez 02 2021 18:35:09.124648 - [System] Quit gracefully: Waiting for process quitting...
+Do Dez 02 2021 18:35:09.845047 - [System] Transition from 'SteamVRSystemState_Restart' to 'SteamVRSystemState_Shutdown'.
+Do Dez 02 2021 18:35:09.845123 - [Audio] Audio shutdown!
+Do Dez 02 2021 18:35:10.219346 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Thu Dec 02 2021 18:35:17.851228 - //==============================================================================================
+Thu Dec 02 2021 18:35:17.851327 - ================================================================================================
+Thu Dec 02 2021 18:35:17.851355 - ================================================================================================
+Thu Dec 02 2021 18:35:17.851387 - vrmonitor 1.20.4 startup with PID=7024, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:35:17.851510 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Thu Dec 02 2021 18:35:17.851550 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Thu Dec 02 2021 18:35:18.444195 - Default Playback Audio Devices: ,  (Comm)
+Thu Dec 02 2021 18:35:18.444248 - Default Record Audio Device: ,  (Comm)
+Thu Dec 02 2021 18:35:18.939772 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Thu Dec 02 2021 18:35:19.036164 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:35:21.573521 - VR_Init successful
+Thu Dec 02 2021 18:35:21.649139 - [Steam] Attempt to connect to Steam
+Thu Dec 02 2021 18:35:21.650387 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:35:21.650547 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:35:21.650686 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:35:21.650923 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:35:21.651063 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:35:21.651126 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:35:21.651816 - CSharedResourceNamespaceClient::Init(): received namespace data 6952
+Thu Dec 02 2021 18:35:21.653257 - [Audio] Audio init
+Thu Dec 02 2021 18:35:21.653341 - [Dismissable Warning Added] Display Warning (0x10000)
+Thu Dec 02 2021 18:35:21.937526 - [Steam] Connected to Steam in 0.02 seconds.
+Thu Dec 02 2021 18:35:21.939306 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:35:21.939408 - [Steam] Connect to Steam finished: check for dismissable warnings
+Thu Dec 02 2021 18:35:21.948491 - [Status] Graphics driver version is .
+Thu Dec 02 2021 18:35:22.108568 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Thu Dec 02 2021 18:35:22.146720 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Thu Dec 02 2021 18:35:22.272288 - [System] Chaperone Universe changes for the first time
+Thu Dec 02 2021 18:35:22.272374 - [System] Chaperone does not indicate room setup
+Thu Dec 02 2021 18:35:22.380852 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Thu Dec 02 2021 18:35:23.052301 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_NotReady'.
+Thu Dec 02 2021 18:35:23.061723 - [Status Alert] SteamVR Fail (-301)
+Thu Dec 02 2021 18:35:25.525930 - [Status Alert] SteamVR Fail (-301)
+Thu Dec 02 2021 18:35:28.922844 - [System] System is running for 10 seconds.
+Thu Dec 02 2021 18:35:28.923066 - [Status Warning Added CTRL1Serial Controller(1)] Searching...
+Thu Dec 02 2021 18:35:28.923134 - [Status Warning Added CTRL2Serial Controller(2)] Searching...
+Thu Dec 02 2021 18:35:28.955571 - [Status Alert] SteamVR Fail (-301)
+Thu Dec 02 2021 18:35:36.514170 - Open URL vrmonitor://restartsystem
+Thu Dec 02 2021 18:35:36.514338 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_Restart'.
+Thu Dec 02 2021 18:35:36.517016 - [System] Quit gracefully: Waiting for process quitting...
+Thu Dec 02 2021 18:35:37.518303 - [System] Quit gracefully: Failed, force quit now.
+Thu Dec 02 2021 18:35:37.518428 - [System] Transition from 'SteamVRSystemState_Restart' to 'SteamVRSystemState_Shutdown'.
+Thu Dec 02 2021 18:35:37.518460 - [Audio] Audio shutdown!
+Thu Dec 02 2021 18:36:11.248328 - Drops over entire run:-  13 single frame-  2 2 frame-  1 3 frame-  2 4 or more- Total 681 in 706 frames
+Thu Dec 02 2021 18:36:18.922294 - //==============================================================================================
+Thu Dec 02 2021 18:36:18.922355 - ================================================================================================
+Thu Dec 02 2021 18:36:18.922370 - ================================================================================================
+Thu Dec 02 2021 18:36:18.922386 - vrmonitor 1.20.4 startup with PID=7847, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:36:18.922444 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Thu Dec 02 2021 18:36:18.922464 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Thu Dec 02 2021 18:36:19.472998 - Default Playback Audio Devices: ,  (Comm)
+Thu Dec 02 2021 18:36:19.473093 - Default Record Audio Device: ,  (Comm)
+Thu Dec 02 2021 18:36:19.994880 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Thu Dec 02 2021 18:36:20.108678 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:36:23.559279 - VR_Init failed with Hmd Not Found (108)
+Thu Dec 02 2021 18:36:23.559539 - [Steam] Attempt to connect to Steam
+Thu Dec 02 2021 18:36:23.559908 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:36:23.559995 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:36:23.560074 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:36:23.560222 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:36:23.560337 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:36:23.560379 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:36:23.560444 - CSharedResourceNamespaceClient::Init(): received namespace data 8030
+Thu Dec 02 2021 18:36:23.561323 - [Audio] Audio init
+Thu Dec 02 2021 18:36:23.728558 - [Steam] Connected to Steam in 0.02 seconds.
+Thu Dec 02 2021 18:36:23.729922 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:36:23.730027 - [Steam] Connect to Steam finished: check for dismissable warnings
+Thu Dec 02 2021 18:36:23.737987 - [Status] Graphics driver version is .
+Thu Dec 02 2021 18:36:23.738123 - [Dismissable Warning Added] SteamVR Safe Mode (0x1000000)
+Thu Dec 02 2021 18:36:23.746265 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:36:23.758815 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Thu Dec 02 2021 18:36:23.762185 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:36:23.811269 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Thu Dec 02 2021 18:36:26.596085 - Open URL vrmonitor://safemode/disable
+Thu Dec 02 2021 18:36:29.923518 - [System] System is running for 10 seconds.
+Thu Dec 02 2021 18:36:30.314839 - Open URL vrmonitor://safemode/disable
+Thu Dec 02 2021 18:36:34.620772 - Open URL vrmonitor://safemode/disable
+Thu Dec 02 2021 18:36:41.240769 - Open URL vrmonitor://reboothmd
+Thu Dec 02 2021 18:36:41.240947 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_Restart'.
+Thu Dec 02 2021 18:36:41.242650 - [System] Quit gracefully: Waiting for process quitting...
+Thu Dec 02 2021 18:36:41.264365 - [System] Transition from 'SteamVRSystemState_Restart' to 'SteamVRSystemState_Shutdown'.
+Thu Dec 02 2021 18:36:41.264464 - [Audio] Audio shutdown!
+Thu Dec 02 2021 18:36:41.535533 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Thu Dec 02 2021 18:36:49.166016 - //==============================================================================================
+Thu Dec 02 2021 18:36:49.166076 - ================================================================================================
+Thu Dec 02 2021 18:36:49.166097 - ================================================================================================
+Thu Dec 02 2021 18:36:49.166121 - vrmonitor 1.20.4 startup with PID=8214, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:36:49.166206 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Thu Dec 02 2021 18:36:49.166235 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Thu Dec 02 2021 18:36:49.687368 - Default Playback Audio Devices: ,  (Comm)
+Thu Dec 02 2021 18:36:49.687468 - Default Record Audio Device: ,  (Comm)
+Thu Dec 02 2021 18:36:50.251358 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Thu Dec 02 2021 18:36:50.366142 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:36:53.450098 - VR_Init failed with Hmd Not Found (108)
+Thu Dec 02 2021 18:36:53.450402 - [Steam] Attempt to connect to Steam
+Thu Dec 02 2021 18:36:53.451013 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:36:53.451131 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:36:53.451241 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:36:53.451477 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:36:53.451656 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:36:53.451716 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:36:53.451803 - CSharedResourceNamespaceClient::Init(): received namespace data 8418
+Thu Dec 02 2021 18:36:53.452963 - [Audio] Audio init
+Thu Dec 02 2021 18:36:53.533423 - [Steam] Connected to Steam in 0.02 seconds.
+Thu Dec 02 2021 18:36:53.534521 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:36:53.534672 - [Steam] Connect to Steam finished: check for dismissable warnings
+Thu Dec 02 2021 18:36:53.540292 - [Status] Graphics driver version is .
+Thu Dec 02 2021 18:36:53.540370 - [Dismissable Warning Added] SteamVR Safe Mode (0x1000000)
+Thu Dec 02 2021 18:36:53.547419 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:36:53.557219 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Thu Dec 02 2021 18:36:53.559274 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:36:53.638767 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Thu Dec 02 2021 18:36:55.219599 - Open URL vrmonitor://safemode/disable
+Thu Dec 02 2021 18:36:59.923712 - [System] System is running for 10 seconds.
+Thu Dec 02 2021 18:37:01.158509 - Open URL vrmonitor://safemode/disable
+Thu Dec 02 2021 18:37:04.366370 - Open URL vrmonitor://safemode/disable
+Thu Dec 02 2021 18:37:09.577451 - Open URL vrmonitor://safemode/disable
+Thu Dec 02 2021 18:37:15.970895 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Thu Dec 02 2021 18:37:15.982891 - [System] Quit gracefully: Waiting for process quitting...
+Thu Dec 02 2021 18:37:15.999888 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Thu Dec 02 2021 18:37:15.999991 - [Audio] Audio shutdown!
+Thu Dec 02 2021 18:37:16.262884 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Thu Dec 02 2021 18:37:32.427066 - //==============================================================================================
+Thu Dec 02 2021 18:37:32.427124 - ================================================================================================
+Thu Dec 02 2021 18:37:32.427143 - ================================================================================================
+Thu Dec 02 2021 18:37:32.427165 - vrmonitor 1.20.4 startup with PID=8580, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:37:32.427244 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Thu Dec 02 2021 18:37:32.427270 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Thu Dec 02 2021 18:37:32.959911 - Default Playback Audio Devices: ,  (Comm)
+Thu Dec 02 2021 18:37:32.960029 - Default Record Audio Device: ,  (Comm)
+Thu Dec 02 2021 18:37:33.455124 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Thu Dec 02 2021 18:37:33.570033 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:37:36.902512 - VR_Init failed with Hmd Not Found (108)
+Thu Dec 02 2021 18:37:36.902844 - [Steam] Attempt to connect to Steam
+Thu Dec 02 2021 18:37:36.903556 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:37:36.903651 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:37:36.903811 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:37:36.904007 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:37:36.904121 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:37:36.904164 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:37:36.904225 - CSharedResourceNamespaceClient::Init(): received namespace data 8765
+Thu Dec 02 2021 18:37:36.905053 - [Audio] Audio init
+Thu Dec 02 2021 18:37:36.924535 - [Status] Graphics driver version is .
+Thu Dec 02 2021 18:37:36.924693 - [Dismissable Warning Added] SteamVR Safe Mode (0x1000000)
+Thu Dec 02 2021 18:37:36.951549 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:37:36.956855 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Thu Dec 02 2021 18:37:36.958583 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:37:37.114724 - [Steam] Connected to Steam in 0.02 seconds.
+Thu Dec 02 2021 18:37:37.128647 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:37:37.128748 - [Steam] Connect to Steam finished: check for dismissable warnings
+Thu Dec 02 2021 18:37:37.138347 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Thu Dec 02 2021 18:37:39.167107 - Open URL vrmonitor://safemode/disable
+Thu Dec 02 2021 18:37:42.922890 - [System] System is running for 10 seconds.
+Thu Dec 02 2021 18:37:45.019410 - Open URL vrmonitor://safemode/disable
+Thu Dec 02 2021 18:37:46.014513 - Open URL vrmonitor://safemode/disable
+Thu Dec 02 2021 18:37:47.147087 - [Dismissable Warning Removed] SteamVR Safe Mode (0x1000000)
+Thu Dec 02 2021 18:37:47.147332 - [Dismissable Warning Added] SteamVR Safe Mode (0x1000000)
+Thu Dec 02 2021 18:37:47.151314 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:37:47.152788 - [Dismissable Warning] SteamVR Safe Mode (0x1000000) not shown: the warning is dismissed.
+Thu Dec 02 2021 18:38:12.193236 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Thu Dec 02 2021 18:38:12.205233 - [System] Quit gracefully: Waiting for process quitting...
+Thu Dec 02 2021 18:38:12.217731 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Thu Dec 02 2021 18:38:12.217831 - [Audio] Audio shutdown!
+Thu Dec 02 2021 18:38:12.589776 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Thu Dec 02 2021 18:48:51.767055 - //==============================================================================================
+Thu Dec 02 2021 18:48:51.767125 - ================================================================================================
+Thu Dec 02 2021 18:48:51.767147 - ================================================================================================
+Thu Dec 02 2021 18:48:51.767174 - vrmonitor 1.20.4 startup with PID=13490, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:48:51.767264 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Thu Dec 02 2021 18:48:51.767294 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Thu Dec 02 2021 18:48:52.349755 - Default Playback Audio Devices: ,  (Comm)
+Thu Dec 02 2021 18:48:52.349860 - Default Record Audio Device: ,  (Comm)
+Thu Dec 02 2021 18:48:52.818675 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Thu Dec 02 2021 18:48:52.936492 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:48:56.125349 - VR_Init failed with Hmd Not Found (108)
+Thu Dec 02 2021 18:48:56.125650 - [Steam] Attempt to connect to Steam
+Thu Dec 02 2021 18:48:56.126304 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:48:56.126420 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:48:56.126525 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:48:56.126747 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:48:56.126899 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:48:56.126956 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:48:56.127022 - CSharedResourceNamespaceClient::Init(): received namespace data 13663
+Thu Dec 02 2021 18:48:56.127835 - [Audio] Audio init
+Thu Dec 02 2021 18:48:56.154422 - [Steam] Connected to Steam in 0.02 seconds.
+Thu Dec 02 2021 18:48:56.164372 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:48:56.164473 - [Steam] Connect to Steam finished: check for dismissable warnings
+Thu Dec 02 2021 18:48:56.172813 - [Status] Graphics driver version is .
+Thu Dec 02 2021 18:48:56.172921 - [Dismissable Warning Added] SteamVR Safe Mode (0x1000000)
+Thu Dec 02 2021 18:48:56.197270 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:48:56.209830 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Thu Dec 02 2021 18:48:56.213464 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:48:56.305915 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Thu Dec 02 2021 18:48:56.312113 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:48:57.338149 - [Status Alert] Headset Not Detected (108)
+Thu Dec 02 2021 18:48:58.852244 - Open URL vrmonitor://safemode/disable
+Thu Dec 02 2021 18:49:01.923373 - [System] System is running for 10 seconds.
+Thu Dec 02 2021 18:49:04.722812 - Open URL vrmonitor://restartsystem
+Thu Dec 02 2021 18:49:04.722929 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_Restart'.
+Thu Dec 02 2021 18:49:04.723961 - [System] Quit gracefully: Waiting for process quitting...
+Thu Dec 02 2021 18:49:05.409003 - [System] Transition from 'SteamVRSystemState_Restart' to 'SteamVRSystemState_Shutdown'.
+Thu Dec 02 2021 18:49:05.409120 - [Audio] Audio shutdown!
+Thu Dec 02 2021 18:49:05.678335 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Thu Dec 02 2021 18:49:12.673322 - //==============================================================================================
+Thu Dec 02 2021 18:49:12.673379 - ================================================================================================
+Thu Dec 02 2021 18:49:12.673397 - ================================================================================================
+Thu Dec 02 2021 18:49:12.673417 - vrmonitor 1.20.4 startup with PID=13967, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:49:12.673495 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Thu Dec 02 2021 18:49:12.673519 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Thu Dec 02 2021 18:49:13.206104 - Default Playback Audio Devices: ,  (Comm)
+Thu Dec 02 2021 18:49:13.206180 - Default Record Audio Device: ,  (Comm)
+Thu Dec 02 2021 18:49:13.711868 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Thu Dec 02 2021 18:49:13.822670 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:49:16.339023 - VR_Init successful
+Thu Dec 02 2021 18:49:16.369592 - [Steam] Attempt to connect to Steam
+Thu Dec 02 2021 18:49:16.370071 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:49:16.370344 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:49:16.370559 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:49:16.371021 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:49:16.371312 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Thu Dec 02 2021 18:49:16.371446 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:49:16.371574 - CSharedResourceNamespaceClient::Init(): received namespace data 13898
+Thu Dec 02 2021 18:49:16.373663 - [Audio] Audio init
+Thu Dec 02 2021 18:49:16.373772 - [Dismissable Warning Added] Display Warning (0x10000)
+Thu Dec 02 2021 18:49:16.515877 - [Steam] Connected to Steam in 0.02 seconds.
+Thu Dec 02 2021 18:49:16.516895 - [System] Runtime: 1634602223 250820  STEAMVR
+Thu Dec 02 2021 18:49:16.516982 - [Steam] Connect to Steam finished: check for dismissable warnings
+Thu Dec 02 2021 18:49:16.526204 - [Status] Graphics driver version is .
+Thu Dec 02 2021 18:49:16.550203 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Thu Dec 02 2021 18:49:16.619023 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Thu Dec 02 2021 18:49:16.636932 - [System] Chaperone Universe changes for the first time
+Thu Dec 02 2021 18:49:16.637023 - [System] Chaperone does not indicate room setup
+Thu Dec 02 2021 18:49:16.664017 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Thu Dec 02 2021 18:49:17.752011 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_NotReady'.
+Thu Dec 02 2021 18:49:17.759379 - [Status Alert] SteamVR Fail (-301)
+Thu Dec 02 2021 18:49:20.526365 - [Status Alert] SteamVR Fail (-301)
+Thu Dec 02 2021 18:49:23.708187 - [System] System is running for 10 seconds.
+Thu Dec 02 2021 18:49:23.708371 - [Status Warning Added CTRL1Serial Controller(1)] Searching...
+Thu Dec 02 2021 18:49:23.708407 - [Status Warning Added CTRL2Serial Controller(2)] Searching...
+Thu Dec 02 2021 18:49:23.737888 - [Status Alert] SteamVR Fail (-301)
+Thu Dec 02 2021 18:49:34.925551 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Thu Dec 02 2021 18:49:34.937684 - [System] Quit gracefully: Waiting for process quitting...
+Thu Dec 02 2021 18:49:35.938770 - [System] Quit gracefully: Failed, force quit now.
+Thu Dec 02 2021 18:49:35.938851 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Thu Dec 02 2021 18:49:35.938882 - [Audio] Audio shutdown!
+Thu Dec 02 2021 18:50:15.166037 - Drops over entire run:-  18 single frame-  2 2 frame-  2 3 frame-  0 4 or more- Total 1042 in 1068 frames
+Sat Dec 04 2021 11:51:08.563941 - //==============================================================================================
+Sat Dec 04 2021 11:51:08.582811 - ================================================================================================
+Sat Dec 04 2021 11:51:08.582869 - ================================================================================================
+Sat Dec 04 2021 11:51:08.582920 - vrmonitor 1.20.4 startup with PID=11929, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:51:08.583110 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 11:51:08.583164 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 11:51:09.130872 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 11:51:09.130985 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 11:51:09.617182 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 11:51:09.750364 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 11:51:12.465342 - VR_Init failed with Hmd Not Found (108)
+Sat Dec 04 2021 11:51:12.465731 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 11:51:12.466365 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:51:12.466477 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:51:12.466584 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:51:12.466794 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:51:12.466924 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:51:12.466971 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 11:51:12.467050 - CSharedResourceNamespaceClient::Init(): received namespace data 12100
+Sat Dec 04 2021 11:51:12.468208 - [Audio] Audio init
+Sat Dec 04 2021 11:51:12.495394 - [Status] Graphics driver version is .
+Sat Dec 04 2021 11:51:12.521697 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 11:51:12.523427 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 11:51:12.525284 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 11:51:12.570112 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 11:51:12.603822 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 11:51:12.603917 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 11:51:12.605898 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Sat Dec 04 2021 11:51:18.938071 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 11:51:29.081080 - Open URL vrmonitor://reboothmd
+Sat Dec 04 2021 11:51:29.081343 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_Restart'.
+Sat Dec 04 2021 11:51:29.083293 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 11:51:29.548912 - [System] Transition from 'SteamVRSystemState_Restart' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 11:51:29.548992 - [Audio] Audio shutdown!
+Sat Dec 04 2021 11:51:29.808562 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Sat Dec 04 2021 11:51:37.600185 - //==============================================================================================
+Sat Dec 04 2021 11:51:37.600243 - ================================================================================================
+Sat Dec 04 2021 11:51:37.600261 - ================================================================================================
+Sat Dec 04 2021 11:51:37.600283 - vrmonitor 1.20.4 startup with PID=12317, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:51:37.600361 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 11:51:37.600386 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 11:51:38.092556 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 11:51:38.092617 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 11:51:38.596039 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 11:51:38.694567 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 11:51:41.421566 - VR_Init failed with Hmd Not Found (108)
+Sat Dec 04 2021 11:51:41.421963 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 11:51:41.422821 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:51:41.422965 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:51:41.423086 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:51:41.423304 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:51:41.423459 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:51:41.423513 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 11:51:41.423592 - CSharedResourceNamespaceClient::Init(): received namespace data 12489
+Sat Dec 04 2021 11:51:41.424750 - [Audio] Audio init
+Sat Dec 04 2021 11:51:41.456175 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 11:51:41.458267 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 11:51:41.458367 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 11:51:41.466731 - [Status] Graphics driver version is .
+Sat Dec 04 2021 11:51:41.475853 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 11:51:41.479861 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 11:51:41.483965 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 11:51:41.506850 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Sat Dec 04 2021 11:51:47.938250 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 11:52:59.795576 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 11:52:59.808070 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 11:52:59.998398 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 11:52:59.998525 - [Audio] Audio shutdown!
+Sat Dec 04 2021 11:53:00.371624 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Sat Dec 04 2021 11:54:14.669797 - //==============================================================================================
+Sat Dec 04 2021 11:54:14.669849 - ================================================================================================
+Sat Dec 04 2021 11:54:14.669868 - ================================================================================================
+Sat Dec 04 2021 11:54:14.669890 - vrmonitor 1.20.4 startup with PID=12957, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:54:14.669967 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 11:54:14.669992 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 11:54:15.177603 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 11:54:15.177709 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 11:54:15.675174 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 11:54:15.774957 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 11:54:18.547789 - VR_Init failed with Hmd Not Found (108)
+Sat Dec 04 2021 11:54:18.548035 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 11:54:18.548589 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:54:18.548726 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:54:18.548844 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:54:18.549053 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:54:18.549202 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 11:54:18.549256 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 11:54:18.549318 - CSharedResourceNamespaceClient::Init(): received namespace data 13125
+Sat Dec 04 2021 11:54:18.550914 - [Audio] Audio init
+Sat Dec 04 2021 11:54:18.574880 - [Status] Graphics driver version is .
+Sat Dec 04 2021 11:54:18.601637 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 11:54:18.603161 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 11:54:18.606509 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 11:54:18.634847 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 11:54:18.646570 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 11:54:18.646668 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 11:54:18.652452 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Sat Dec 04 2021 11:54:24.938203 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 11:54:53.711959 - Open URL vrmonitor://resetdismissedwarnings
+Sat Dec 04 2021 11:54:55.049919 - Open URL vrmonitor://resetdismissedwarnings
+Sat Dec 04 2021 11:55:00.086394 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 11:55:00.102707 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 11:55:00.282814 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 11:55:00.282874 - [Audio] Audio shutdown!
+Sat Dec 04 2021 11:55:00.661040 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Sat Dec 04 2021 12:04:15.577984 - //==============================================================================================
+Sat Dec 04 2021 12:04:15.592611 - ================================================================================================
+Sat Dec 04 2021 12:04:15.592660 - ================================================================================================
+Sat Dec 04 2021 12:04:15.592706 - vrmonitor 1.20.4 startup with PID=14978, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:04:15.592877 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 12:04:15.592932 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 12:04:16.103232 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 12:04:16.103323 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 12:04:16.563024 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 12:04:16.664058 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 12:04:19.305737 - VR_Init failed with Hmd Not Found (108)
+Sat Dec 04 2021 12:04:19.306124 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 12:04:19.306539 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:04:19.306632 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:04:19.306717 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:04:19.306870 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:04:19.306968 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:04:19.307005 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 12:04:19.307071 - CSharedResourceNamespaceClient::Init(): received namespace data 15159
+Sat Dec 04 2021 12:04:19.307927 - [Audio] Audio init
+Sat Dec 04 2021 12:04:19.323600 - [Status] Graphics driver version is .
+Sat Dec 04 2021 12:04:19.344578 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 12:04:19.346615 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 12:04:19.446777 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 12:04:19.483463 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 12:04:19.492618 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 12:04:19.492713 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 12:04:19.497723 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Sat Dec 04 2021 12:04:25.937635 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 12:13:49.188999 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 12:13:49.202251 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 12:13:49.287256 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 12:13:49.287359 - [Audio] Audio shutdown!
+Sat Dec 04 2021 12:13:49.551894 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Sat Dec 04 2021 12:14:13.714048 - //==============================================================================================
+Sat Dec 04 2021 12:14:13.714100 - ================================================================================================
+Sat Dec 04 2021 12:14:13.714117 - ================================================================================================
+Sat Dec 04 2021 12:14:13.714147 - vrmonitor 1.20.4 startup with PID=16395, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:14:13.714217 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 12:14:13.714241 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 12:14:14.200515 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 12:14:14.200571 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 12:14:14.653078 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 12:14:14.749992 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 12:14:17.358015 - VR_Init failed with Hmd Not Found (108)
+Sat Dec 04 2021 12:14:17.358328 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 12:14:17.358722 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:14:17.358826 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:14:17.358917 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:14:17.359077 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:14:17.359173 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:14:17.359210 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 12:14:17.359275 - CSharedResourceNamespaceClient::Init(): received namespace data 16560
+Sat Dec 04 2021 12:14:17.360101 - [Audio] Audio init
+Sat Dec 04 2021 12:14:17.375057 - [Status] Graphics driver version is .
+Sat Dec 04 2021 12:14:17.398482 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 12:14:17.400474 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 12:14:17.488160 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 12:14:17.619223 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 12:14:17.626074 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 12:14:17.626191 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 12:14:17.629664 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Sat Dec 04 2021 12:14:23.938064 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 12:14:50.181746 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 12:14:50.204647 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 12:14:50.290652 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 12:14:50.290740 - [Audio] Audio shutdown!
+Sat Dec 04 2021 12:14:50.557634 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Sat Dec 04 2021 12:27:53.360104 - //==============================================================================================
+Sat Dec 04 2021 12:27:53.360160 - ================================================================================================
+Sat Dec 04 2021 12:27:53.360180 - ================================================================================================
+Sat Dec 04 2021 12:27:53.360202 - vrmonitor 1.20.4 startup with PID=17297, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:27:53.360278 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 12:27:53.360303 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 12:27:53.867442 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 12:27:53.867559 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 12:27:54.348537 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 12:27:54.448334 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 12:27:57.889856 - VR_Init failed with Hmd Not Found (108)
+Sat Dec 04 2021 12:27:57.890318 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 12:27:57.891205 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:27:57.891455 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:27:57.891720 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:27:57.892160 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:27:57.892546 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 12:27:57.892682 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 12:27:57.892778 - CSharedResourceNamespaceClient::Init(): received namespace data 17458
+Sat Dec 04 2021 12:27:57.894536 - [Audio] Audio init
+Sat Dec 04 2021 12:27:57.917628 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 12:27:57.929005 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 12:27:57.929083 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 12:27:57.934503 - [Status] Graphics driver version is .
+Sat Dec 04 2021 12:27:57.955318 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 12:27:57.998890 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 12:27:58.109815 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 12:27:58.316531 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Sat Dec 04 2021 12:28:03.937887 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 12:28:19.389106 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 12:28:19.401108 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 12:28:19.603125 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 12:28:19.603208 - [Audio] Audio shutdown!
+Sat Dec 04 2021 12:28:19.861966 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Sat Dec 04 2021 13:27:58.495787 - //==============================================================================================
+Sat Dec 04 2021 13:27:58.500040 - ================================================================================================
+Sat Dec 04 2021 13:27:58.500095 - ================================================================================================
+Sat Dec 04 2021 13:27:58.500142 - vrmonitor 1.20.4 startup with PID=24818, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:27:58.500307 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 13:27:58.500356 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 13:27:59.389072 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 13:27:59.389214 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 13:28:00.029742 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 13:28:00.155328 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:28:02.940598 - VR_Init successful
+Sat Dec 04 2021 13:28:03.203817 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 13:28:03.204815 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:28:03.204971 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:28:03.205081 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:28:03.205287 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:28:03.205456 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:28:03.205522 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:28:03.205603 - CSharedResourceNamespaceClient::Init(): received namespace data 24744
+Sat Dec 04 2021 13:28:03.207263 - [Audio] Audio init
+Sat Dec 04 2021 13:28:03.207405 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Dec 04 2021 13:28:03.254599 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 13:28:03.362275 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:28:03.362336 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 13:28:03.377345 - [Status] Graphics driver version is .
+Sat Dec 04 2021 13:28:03.407242 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Dec 04 2021 13:28:03.419718 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 13:28:03.655629 - [System] Chaperone Universe changes for the first time
+Sat Dec 04 2021 13:28:03.655694 - [System] Chaperone does not indicate room setup
+Sat Dec 04 2021 13:28:03.962154 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Dec 04 2021 13:28:08.938183 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 13:28:09.438233 - [Status Warning Added CTRL1Serial Controller(1)] Searching...
+Sat Dec 04 2021 13:28:09.438319 - [Status Warning Added CTRL2Serial Controller(2)] Searching...
+Sat Dec 04 2021 13:29:57.820620 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 13:29:57.838068 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 13:29:59.235600 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 13:29:59.235727 - [Audio] Audio shutdown!
+Sat Dec 04 2021 13:29:59.735356 - Drops over entire run:-  97 single frame-  18 2 frame-  5 3 frame-  8 4 or more- Total 6261 in 6527 frames
+Sat Dec 04 2021 13:31:40.760997 - //==============================================================================================
+Sat Dec 04 2021 13:31:40.761086 - ================================================================================================
+Sat Dec 04 2021 13:31:40.761124 - ================================================================================================
+Sat Dec 04 2021 13:31:40.761165 - vrmonitor 1.20.4 startup with PID=26554, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:31:40.761319 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 13:31:40.761373 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 13:31:41.485412 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 13:31:41.485475 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 13:31:42.169463 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 13:31:42.283617 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:31:45.502051 - VR_Init failed with Hmd Not Found (108)
+Sat Dec 04 2021 13:31:45.502479 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 13:31:45.503494 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:31:45.503639 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:31:45.503764 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:31:45.503969 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:31:45.504114 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:31:45.504205 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:31:45.504331 - CSharedResourceNamespaceClient::Init(): received namespace data 26727
+Sat Dec 04 2021 13:31:45.508060 - [Audio] Audio init
+Sat Dec 04 2021 13:31:45.555403 - [Steam] Connected to Steam in 0.04 seconds.
+Sat Dec 04 2021 13:31:45.570261 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:31:45.570345 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 13:31:45.574744 - [Status] Graphics driver version is .
+Sat Dec 04 2021 13:31:45.603007 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 13:31:45.604518 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 13:31:45.716004 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 13:31:45.838625 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Sat Dec 04 2021 13:31:51.937671 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 13:32:01.941447 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 13:32:01.971605 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 13:32:02.105190 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 13:32:02.105256 - [Audio] Audio shutdown!
+Sat Dec 04 2021 13:32:02.368537 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Sat Dec 04 2021 13:34:06.990094 - //==============================================================================================
+Sat Dec 04 2021 13:34:06.990170 - ================================================================================================
+Sat Dec 04 2021 13:34:06.990197 - ================================================================================================
+Sat Dec 04 2021 13:34:06.990226 - vrmonitor 1.20.4 startup with PID=27096, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:34:06.990334 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 13:34:06.990374 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 13:34:07.740586 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 13:34:07.740662 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 13:34:08.471448 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 13:34:08.579569 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:34:12.028423 - VR_Init failed with Hmd Not Found (108)
+Sat Dec 04 2021 13:34:12.028845 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 13:34:12.029478 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:34:12.029628 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:34:12.029771 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:34:12.029983 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:34:12.030139 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:34:12.030194 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:34:12.030282 - CSharedResourceNamespaceClient::Init(): received namespace data 27267
+Sat Dec 04 2021 13:34:12.031360 - [Audio] Audio init
+Sat Dec 04 2021 13:34:12.053039 - [Status] Graphics driver version is .
+Sat Dec 04 2021 13:34:12.078538 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 13:34:12.125961 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 13:34:12.254989 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 13:34:12.473620 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 13:34:12.523396 - [Steam] Connected to Steam in 0.03 seconds.
+Sat Dec 04 2021 13:34:12.531973 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:34:12.532087 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 13:34:12.534293 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Sat Dec 04 2021 13:34:12.560891 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 13:34:17.938124 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 13:35:30.809725 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 13:35:30.821191 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 13:35:31.050988 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 13:35:31.051070 - [Audio] Audio shutdown!
+Sat Dec 04 2021 13:35:31.310238 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Sat Dec 04 2021 13:37:33.732039 - //==============================================================================================
+Sat Dec 04 2021 13:37:33.732117 - ================================================================================================
+Sat Dec 04 2021 13:37:33.732136 - ================================================================================================
+Sat Dec 04 2021 13:37:33.732157 - vrmonitor 1.20.4 startup with PID=27927, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:37:33.732236 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 13:37:33.732263 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 13:37:34.498054 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 13:37:34.498193 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 13:37:35.231594 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 13:37:35.340727 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:37:37.921077 - VR_Init successful
+Sat Dec 04 2021 13:37:38.055742 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 13:37:38.056070 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:37:38.056209 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:37:38.056316 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:37:38.056510 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:37:38.056644 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:37:38.056699 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:37:38.056775 - CSharedResourceNamespaceClient::Init(): received namespace data 27855
+Sat Dec 04 2021 13:37:38.058247 - [Audio] Audio init
+Sat Dec 04 2021 13:37:38.058350 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Dec 04 2021 13:37:38.102225 - [Status] Graphics driver version is .
+Sat Dec 04 2021 13:37:38.139681 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 13:37:38.156930 - [System] Chaperone Universe changes for the first time
+Sat Dec 04 2021 13:37:38.157012 - [System] Chaperone does not indicate room setup
+Sat Dec 04 2021 13:37:38.271019 - [Steam] Connected to Steam in 0.04 seconds.
+Sat Dec 04 2021 13:37:38.284333 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:37:38.284422 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 13:37:38.318410 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Dec 04 2021 13:37:38.383373 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Dec 04 2021 13:37:44.938210 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 13:37:45.071740 - [Status Warning Added CTRL1Serial Controller(1)] Searching...
+Sat Dec 04 2021 13:37:45.071838 - [Status Warning Added CTRL2Serial Controller(2)] Searching...
+Sat Dec 04 2021 13:38:58.021823 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 13:38:58.041040 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 13:38:58.685886 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 13:38:58.685988 - [Audio] Audio shutdown!
+Sat Dec 04 2021 13:38:59.176647 - Drops over entire run:-  68 single frame-  9 2 frame-  5 3 frame-  1 4 or more- Total 1808 in 3270 frames
+Sat Dec 04 2021 13:39:25.172917 - //==============================================================================================
+Sat Dec 04 2021 13:39:25.172976 - ================================================================================================
+Sat Dec 04 2021 13:39:25.172997 - ================================================================================================
+Sat Dec 04 2021 13:39:25.173020 - vrmonitor 1.20.4 startup with PID=29411, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:39:25.173106 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 13:39:25.173134 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 13:39:25.929703 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 13:39:25.929774 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 13:39:26.676732 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 13:39:26.785535 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:39:30.191529 - VR_Init failed with Hmd Not Found (108)
+Sat Dec 04 2021 13:39:30.192078 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 13:39:30.193095 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:39:30.193338 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:39:30.193564 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:39:30.193946 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:39:30.194200 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:39:30.194332 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:39:30.194657 - CSharedResourceNamespaceClient::Init(): received namespace data 29578
+Sat Dec 04 2021 13:39:30.197305 - [Audio] Audio init
+Sat Dec 04 2021 13:39:30.223503 - [Steam] Connected to Steam in 0.03 seconds.
+Sat Dec 04 2021 13:39:30.236852 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:39:30.236957 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 13:39:30.244789 - [Status] Graphics driver version is .
+Sat Dec 04 2021 13:39:30.244909 - [Dismissable Warning Added] SteamVR Safe Mode (0x1000000)
+Sat Dec 04 2021 13:39:30.266686 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 13:39:30.273438 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 13:39:30.276303 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 13:39:30.511406 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Sat Dec 04 2021 13:39:35.938281 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 13:51:59.104486 - Open URL vrmonitor://safemode/disable
+Sat Dec 04 2021 13:52:21.337783 - Open URL vrmonitor://restartsystem
+Sat Dec 04 2021 13:52:21.337900 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_Restart'.
+Sat Dec 04 2021 13:52:21.339292 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 13:52:21.987776 - [System] Transition from 'SteamVRSystemState_Restart' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 13:52:21.987838 - [Audio] Audio shutdown!
+Sat Dec 04 2021 13:52:22.361327 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Sat Dec 04 2021 13:52:27.424662 - //==============================================================================================
+Sat Dec 04 2021 13:52:27.424719 - ================================================================================================
+Sat Dec 04 2021 13:52:27.424739 - ================================================================================================
+Sat Dec 04 2021 13:52:27.424759 - vrmonitor 1.20.4 startup with PID=31127, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:52:27.424834 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 13:52:27.424859 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 13:52:28.219231 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 13:52:28.219346 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 13:52:28.805979 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 13:52:28.904782 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:52:32.008452 - VR_Init failed with Hmd Not Found (108)
+Sat Dec 04 2021 13:52:32.008727 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 13:52:32.009493 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:52:32.009673 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:52:32.009795 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:52:32.009990 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:52:32.010128 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:52:32.010178 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:52:32.010229 - CSharedResourceNamespaceClient::Init(): received namespace data 31301
+Sat Dec 04 2021 13:52:32.011254 - [Audio] Audio init
+Sat Dec 04 2021 13:52:32.046391 - [Status] Graphics driver version is .
+Sat Dec 04 2021 13:52:32.046461 - [Dismissable Warning Added] SteamVR Safe Mode (0x1000000)
+Sat Dec 04 2021 13:52:32.055474 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 13:52:32.062643 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 13:52:32.064827 - [Status Alert] Headset Not Detected (108)
+Sat Dec 04 2021 13:52:32.089759 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 13:52:32.091330 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:52:32.091425 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 13:52:32.094283 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_NotReady'.
+Sat Dec 04 2021 13:52:33.908205 - Open URL vrmonitor://safemode/disable
+Sat Dec 04 2021 13:52:37.938163 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 13:52:58.538092 - Open URL vrmonitor://restartsystem
+Sat Dec 04 2021 13:52:58.538217 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_Restart'.
+Sat Dec 04 2021 13:52:58.539878 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 13:52:58.838559 - [System] Transition from 'SteamVRSystemState_Restart' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 13:52:58.838671 - [Audio] Audio shutdown!
+Sat Dec 04 2021 13:52:59.109531 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Sat Dec 04 2021 13:53:05.723762 - //==============================================================================================
+Sat Dec 04 2021 13:53:05.723804 - ================================================================================================
+Sat Dec 04 2021 13:53:05.723818 - ================================================================================================
+Sat Dec 04 2021 13:53:05.723834 - vrmonitor 1.20.4 startup with PID=31678, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:53:05.723889 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 13:53:05.723908 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 13:53:06.472154 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 13:53:06.472290 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 13:53:07.193182 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 13:53:07.288933 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:53:09.676566 - VR_Init successful
+Sat Dec 04 2021 13:53:09.682980 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 13:53:09.683345 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:53:09.683523 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:53:09.683694 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:53:09.683989 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:53:09.684186 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 13:53:09.684261 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:53:09.684347 - CSharedResourceNamespaceClient::Init(): received namespace data 31608
+Sat Dec 04 2021 13:53:09.686142 - [Audio] Audio init
+Sat Dec 04 2021 13:53:09.686351 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Dec 04 2021 13:53:09.720908 - [Steam] Connected to Steam in 0.03 seconds.
+Sat Dec 04 2021 13:53:09.722406 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 13:53:09.722457 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 13:53:09.731963 - [Status] Graphics driver version is .
+Sat Dec 04 2021 13:53:09.846108 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Dec 04 2021 13:53:09.861404 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 13:53:09.929082 - [System] Chaperone Universe changes for the first time
+Sat Dec 04 2021 13:53:09.929192 - [System] Chaperone does not indicate room setup
+Sat Dec 04 2021 13:53:09.968840 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Dec 04 2021 13:53:16.937931 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 13:53:17.917462 - [Status Warning Added CTRL1Serial Controller(1)] Searching...
+Sat Dec 04 2021 13:53:17.917540 - [Status Warning Added CTRL2Serial Controller(2)] Searching...
+Sat Dec 04 2021 13:53:32.477607 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 13:53:32.489623 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 13:53:33.974586 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 13:53:33.974696 - [Audio] Audio shutdown!
+Sat Dec 04 2021 13:53:34.471533 - Drops over entire run:-  38 single frame-  1 2 frame-  2 3 frame-  2 4 or more- Total 1260 in 1332 frames
+Sat Dec 04 2021 14:28:57.902944 - //==============================================================================================
+Sat Dec 04 2021 14:28:57.903008 - ================================================================================================
+Sat Dec 04 2021 14:28:57.903021 - ================================================================================================
+Sat Dec 04 2021 14:28:57.903037 - vrmonitor 1.20.4 startup with PID=35583, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:28:57.903102 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 14:28:57.903125 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 14:28:58.610290 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 14:28:58.610397 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 14:28:59.286687 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 14:28:59.392174 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 14:29:02.067315 - VR_Init successful
+Sat Dec 04 2021 14:29:02.194357 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 14:29:02.195175 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:29:02.195312 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:29:02.195430 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:29:02.195645 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:29:02.195804 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:29:02.195865 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:29:02.195978 - CSharedResourceNamespaceClient::Init(): received namespace data 35507
+Sat Dec 04 2021 14:29:02.197283 - [Audio] Audio init
+Sat Dec 04 2021 14:29:02.197425 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Dec 04 2021 14:29:02.221298 - [Status] Graphics driver version is .
+Sat Dec 04 2021 14:29:02.254774 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 14:29:02.281768 - [System] Chaperone Universe changes for the first time
+Sat Dec 04 2021 14:29:02.281868 - [System] Chaperone does not indicate room setup
+Sat Dec 04 2021 14:29:02.377773 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 14:29:02.481145 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 14:29:02.481268 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 14:29:02.531456 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Dec 04 2021 14:29:02.559755 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Dec 04 2021 14:29:08.938246 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 14:29:09.370667 - [Status Warning Added CTRL1Serial Controller(1)] Searching...
+Sat Dec 04 2021 14:29:09.370715 - [Status Warning Added CTRL2Serial Controller(2)] Searching...
+Sat Dec 04 2021 14:29:56.825120 - [System] The chaperone file has changed on disk.
+Sat Dec 04 2021 14:34:27.938063 - Open URL vrmonitor://directmode/enable
+Sat Dec 04 2021 14:34:29.863304 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:34:29.863973 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 14:34:29.864437 - [Settings] Save Json Settings to /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 14:34:29.864565 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_Restart'.
+Sat Dec 04 2021 14:34:29.865313 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 14:34:31.516198 - [System] Transition from 'SteamVRSystemState_Restart' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 14:34:31.516270 - [Audio] Audio shutdown!
+Sat Dec 04 2021 14:34:32.006131 - Drops over entire run:-  276 single frame-  43 2 frame-  20 3 frame-  20 4 or more- Total 13412 in 16430 frames
+Sat Dec 04 2021 14:34:39.390261 - //==============================================================================================
+Sat Dec 04 2021 14:34:39.390324 - ================================================================================================
+Sat Dec 04 2021 14:34:39.390355 - ================================================================================================
+Sat Dec 04 2021 14:34:39.390389 - vrmonitor 1.20.4 startup with PID=38228, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:34:39.390517 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 14:34:39.390561 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 14:34:40.101621 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 14:34:40.101692 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 14:34:40.762226 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 14:34:40.862217 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 14:34:43.439152 - VR_Init successful
+Sat Dec 04 2021 14:34:43.643695 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 14:34:43.644394 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:34:43.644497 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:34:43.644612 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:34:43.644790 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:34:43.644921 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:34:43.644967 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:34:43.645008 - CSharedResourceNamespaceClient::Init(): received namespace data 38146
+Sat Dec 04 2021 14:34:43.646142 - [Audio] Audio init
+Sat Dec 04 2021 14:34:43.646232 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Dec 04 2021 14:34:44.179122 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 14:34:44.180856 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 14:34:44.180938 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 14:34:44.192488 - [Status] Graphics driver version is .
+Sat Dec 04 2021 14:34:44.288064 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Dec 04 2021 14:34:44.531335 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 14:34:44.581217 - [System] Chaperone Universe changes for the first time
+Sat Dec 04 2021 14:34:44.581296 - [System] Chaperone does not indicate room setup
+Sat Dec 04 2021 14:34:44.657053 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Dec 04 2021 14:34:49.937669 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 14:34:50.380475 - [Status Warning Added CTRL1Serial Controller(1)] Searching...
+Sat Dec 04 2021 14:34:50.380588 - [Status Warning Added CTRL2Serial Controller(2)] Searching...
+Sat Dec 04 2021 14:35:22.456104 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_NotReady'.
+Sat Dec 04 2021 14:35:22.460038 - [Status Alert] SteamVR Fail (-203)
+Sat Dec 04 2021 14:35:25.417485 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 14:35:25.429858 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 14:35:26.326321 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 14:35:26.326441 - [Audio] Audio shutdown!
+Sat Dec 04 2021 14:35:26.589664 - Drops over entire run:-  52 single frame-  13 2 frame-  3 3 frame-  8 4 or more- Total 1845 in 1984 frames
+Sat Dec 04 2021 14:36:06.885147 - //==============================================================================================
+Sat Dec 04 2021 14:36:06.885212 - ================================================================================================
+Sat Dec 04 2021 14:36:06.885233 - ================================================================================================
+Sat Dec 04 2021 14:36:06.885256 - vrmonitor 1.20.4 startup with PID=39465, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:36:06.885348 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 14:36:06.885416 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 14:36:07.662211 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 14:36:07.662420 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 14:36:08.443009 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 14:36:08.568473 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 14:36:11.568186 - VR_Init successful
+Sat Dec 04 2021 14:36:11.761628 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 14:36:11.762004 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:36:11.762156 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:36:11.762263 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:36:11.762459 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:36:11.762614 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:36:11.762673 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:36:11.762719 - CSharedResourceNamespaceClient::Init(): received namespace data 39393
+Sat Dec 04 2021 14:36:11.764013 - [Audio] Audio init
+Sat Dec 04 2021 14:36:11.764126 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Dec 04 2021 14:36:11.790821 - [Status] Graphics driver version is .
+Sat Dec 04 2021 14:36:11.828802 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 14:36:11.849423 - [System] Chaperone Universe changes for the first time
+Sat Dec 04 2021 14:36:11.849510 - [System] Chaperone does not indicate room setup
+Sat Dec 04 2021 14:36:12.076857 - [Steam] Connected to Steam in 0.03 seconds.
+Sat Dec 04 2021 14:36:12.084565 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 14:36:12.084660 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 14:36:12.149057 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Dec 04 2021 14:36:12.229279 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Dec 04 2021 14:36:17.947765 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 14:36:18.937708 - [Status Warning Added CTRL1Serial Controller(1)] Searching...
+Sat Dec 04 2021 14:36:18.937773 - [Status Warning Added CTRL2Serial Controller(2)] Searching...
+Sat Dec 04 2021 14:37:30.010023 - [Dismissable Warning Removed] Display Warning (0x10000)
+Sat Dec 04 2021 14:44:45.837045 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 14:44:45.849925 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 14:44:47.495045 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 14:44:47.495099 - [Audio] Audio shutdown!
+Sat Dec 04 2021 14:44:47.994042 - Drops over entire run:-  298 single frame-  30 2 frame-  13 3 frame-  6 4 or more- Total 29119 in 29921 frames
+Sat Dec 04 2021 14:55:18.288474 - //==============================================================================================
+Sat Dec 04 2021 14:55:18.288584 - ================================================================================================
+Sat Dec 04 2021 14:55:18.288628 - ================================================================================================
+Sat Dec 04 2021 14:55:18.288685 - vrmonitor 1.20.4 startup with PID=43670, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:55:18.288883 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 14:55:18.288948 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 14:55:19.042962 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 14:55:19.043078 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 14:55:19.663217 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 14:55:19.776236 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 14:55:22.565825 - VR_Init successful
+Sat Dec 04 2021 14:55:22.764778 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 14:55:22.765310 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:55:22.765620 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:55:22.765876 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:55:22.766328 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:55:22.766677 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:55:22.766821 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:55:22.766921 - CSharedResourceNamespaceClient::Init(): received namespace data 43589
+Sat Dec 04 2021 14:55:22.768811 - [Audio] Audio init
+Sat Dec 04 2021 14:55:22.768989 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Dec 04 2021 14:55:22.796310 - [Status] Graphics driver version is .
+Sat Dec 04 2021 14:55:22.830346 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 14:55:22.852517 - [System] Chaperone Universe changes for the first time
+Sat Dec 04 2021 14:55:22.852628 - [System] Chaperone does not indicate room setup
+Sat Dec 04 2021 14:55:22.995972 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 14:55:23.116587 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 14:55:23.116739 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 14:55:23.178027 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Dec 04 2021 14:55:23.197964 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Dec 04 2021 14:55:26.199265 - [Dismissable Warning Removed] Display Warning (0x10000)
+Sat Dec 04 2021 14:55:28.966547 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 14:57:26.825540 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 14:57:26.836355 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 14:57:28.035933 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 14:57:28.036033 - [Audio] Audio shutdown!
+Sat Dec 04 2021 14:57:28.766037 - Drops over entire run:-  68 single frame-  16 2 frame-  4 3 frame-  3 4 or more- Total 2872 in 5072 frames
+Sat Dec 04 2021 14:57:42.261097 - //==============================================================================================
+Sat Dec 04 2021 14:57:42.261159 - ================================================================================================
+Sat Dec 04 2021 14:57:42.261192 - ================================================================================================
+Sat Dec 04 2021 14:57:42.261225 - vrmonitor 1.20.4 startup with PID=45255, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:57:42.261319 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 14:57:42.261352 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 14:57:43.036256 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 14:57:43.036316 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 14:57:43.658357 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 14:57:43.774411 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 14:57:46.587805 - VR_Init successful
+Sat Dec 04 2021 14:57:46.765502 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 14:57:46.766287 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:57:46.766548 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:57:46.766726 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:57:46.766914 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:57:46.767066 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 14:57:46.767132 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:57:46.767317 - CSharedResourceNamespaceClient::Init(): received namespace data 45186
+Sat Dec 04 2021 14:57:46.768761 - [Audio] Audio init
+Sat Dec 04 2021 14:57:46.768863 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Dec 04 2021 14:57:46.802098 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 14:57:46.809345 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 14:57:46.809435 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 14:57:46.823532 - [Status] Graphics driver version is .
+Sat Dec 04 2021 14:57:46.914099 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Dec 04 2021 14:57:46.947113 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 14:57:46.986409 - [System] Chaperone Universe changes for the first time
+Sat Dec 04 2021 14:57:46.986514 - [System] Chaperone does not indicate room setup
+Sat Dec 04 2021 14:57:47.279773 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Dec 04 2021 14:57:52.946427 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 15:01:18.732432 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 15:01:18.749182 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 15:01:20.903147 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 15:01:20.903239 - [Audio] Audio shutdown!
+Sat Dec 04 2021 15:01:21.430750 - Drops over entire run:-  76 single frame-  16 2 frame-  6 3 frame-  5 4 or more- Total 4325 in 8140 frames
+Sat Dec 04 2021 15:02:46.563157 - //==============================================================================================
+Sat Dec 04 2021 15:02:46.563245 - ================================================================================================
+Sat Dec 04 2021 15:02:46.563269 - ================================================================================================
+Sat Dec 04 2021 15:02:46.563293 - vrmonitor 1.20.4 startup with PID=47412, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:02:46.563402 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 15:02:46.563471 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 15:02:47.334217 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 15:02:47.334326 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 15:02:47.944014 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 15:02:48.060813 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 15:02:50.841981 - VR_Init successful
+Sat Dec 04 2021 15:02:50.963989 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 15:02:50.964795 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:02:50.964963 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:02:50.965100 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:02:50.965316 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:02:50.965498 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:02:50.965569 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 15:02:50.965645 - CSharedResourceNamespaceClient::Init(): received namespace data 47343
+Sat Dec 04 2021 15:02:50.967243 - [Audio] Audio init
+Sat Dec 04 2021 15:02:50.967520 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Dec 04 2021 15:02:51.069221 - [Steam] Connected to Steam in 0.10 seconds.
+Sat Dec 04 2021 15:02:51.079986 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 15:02:51.080147 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 15:02:51.088763 - [Status] Graphics driver version is .
+Sat Dec 04 2021 15:02:51.217439 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Dec 04 2021 15:02:51.228504 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 15:02:51.239333 - [System] Chaperone Universe changes for the first time
+Sat Dec 04 2021 15:02:51.239415 - [System] Chaperone does not indicate room setup
+Sat Dec 04 2021 15:02:51.474616 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Dec 04 2021 15:02:56.937705 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 15:10:43.317426 - [Dismissable Warning Removed] Display Warning (0x10000)
+Sat Dec 04 2021 15:17:18.978090 - [System] Unknown Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_Standby'.
+Sat Dec 04 2021 15:20:35.969712 - [System] Unknown Transition from 'SteamVRSystemState_Standby' to 'SteamVRSystemState_Ready'.
+Sat Dec 04 2021 15:22:32.972703 - Skipping add_ogs_row field appAtEnd because we don't support that type of field
+Sat Dec 04 2021 15:22:32.998826 - Skipping add_ogs_row field appAtStart because we don't support that type of field
+Sat Dec 04 2021 15:22:39.053248 - Skipping add_ogs_row field appAtEnd because we don't support that type of field
+Sat Dec 04 2021 15:22:39.053324 - Skipping add_ogs_row field appAtStart because we don't support that type of field
+Sat Dec 04 2021 15:30:07.037784 - //==============================================================================================
+Sat Dec 04 2021 15:30:07.046290 - ================================================================================================
+Sat Dec 04 2021 15:30:07.046330 - ================================================================================================
+Sat Dec 04 2021 15:30:07.046360 - vrmonitor 1.20.4 startup with PID=8062, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:30:07.046483 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 15:30:07.046512 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 15:30:09.298663 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 15:30:09.298731 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 15:30:11.410149 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 15:30:11.589595 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 15:30:14.735152 - VR_Init successful
+Sat Dec 04 2021 15:30:14.910170 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 15:30:14.910442 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:30:14.910562 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:30:14.910667 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:30:14.910866 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:30:14.911001 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:30:14.911054 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 15:30:14.911180 - CSharedResourceNamespaceClient::Init(): received namespace data 7972
+Sat Dec 04 2021 15:30:14.913181 - [Audio] Audio init
+Sat Dec 04 2021 15:30:14.913273 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Dec 04 2021 15:30:14.980358 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 15:30:15.084219 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 15:30:15.084325 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 15:30:15.095662 - [Status] Graphics driver version is .
+Sat Dec 04 2021 15:30:15.119467 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Dec 04 2021 15:30:15.129554 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 15:30:15.146016 - [System] Chaperone Universe changes for the first time
+Sat Dec 04 2021 15:30:15.146075 - [System] Chaperone does not indicate room setup
+Sat Dec 04 2021 15:30:15.324023 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Dec 04 2021 15:30:18.913076 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 15:33:55.514324 - Skipping add_ogs_row field appAtEnd because we don't support that type of field
+Sat Dec 04 2021 15:33:55.533986 - Skipping add_ogs_row field appAtStart because we don't support that type of field
+Sat Dec 04 2021 15:33:58.188732 - [Dismissable Warning Removed] Display Warning (0x10000)
+Sat Dec 04 2021 15:34:00.764925 - Skipping add_ogs_row field appAtEnd because we don't support that type of field
+Sat Dec 04 2021 15:34:00.765018 - Skipping add_ogs_row field appAtStart because we don't support that type of field
+Sat Dec 04 2021 15:35:53.496863 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 15:35:53.507789 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 15:35:53.807943 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 15:35:53.807993 - [Audio] Audio shutdown!
+Sat Dec 04 2021 15:35:54.433535 - Drops over entire run:-  176 single frame-  28 2 frame-  11 3 frame-  6 4 or more- Total 19277 in 19655 frames
+Sat Dec 04 2021 15:39:53.238682 - //==============================================================================================
+Sat Dec 04 2021 15:39:53.238725 - ================================================================================================
+Sat Dec 04 2021 15:39:53.238737 - ================================================================================================
+Sat Dec 04 2021 15:39:53.238751 - vrmonitor 1.20.4 startup with PID=15188, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:39:53.238811 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 04 2021 15:39:53.238840 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 04 2021 15:39:53.921630 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 04 2021 15:39:53.921678 - Default Record Audio Device: ,  (Comm)
+Sat Dec 04 2021 15:39:54.486032 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 04 2021 15:39:54.598120 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 15:39:57.370144 - VR_Init successful
+Sat Dec 04 2021 15:39:57.577367 - [Steam] Attempt to connect to Steam
+Sat Dec 04 2021 15:39:57.577856 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:39:57.578229 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:39:57.578448 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:39:57.578851 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:39:57.579105 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 04 2021 15:39:57.579201 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 15:39:57.579308 - CSharedResourceNamespaceClient::Init(): received namespace data 15114
+Sat Dec 04 2021 15:39:57.581531 - [Audio] Audio init
+Sat Dec 04 2021 15:39:57.581642 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Dec 04 2021 15:39:57.619510 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Dec 04 2021 15:39:57.632230 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 04 2021 15:39:57.632321 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 04 2021 15:39:57.646672 - [Status] Graphics driver version is .
+Sat Dec 04 2021 15:39:57.747002 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Dec 04 2021 15:39:57.761606 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 04 2021 15:39:57.777320 - [System] Chaperone Universe changes for the first time
+Sat Dec 04 2021 15:39:57.777402 - [System] Chaperone does not indicate room setup
+Sat Dec 04 2021 15:39:57.983435 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Dec 04 2021 15:39:59.807631 - [Dismissable Warning Removed] Display Warning (0x10000)
+Sat Dec 04 2021 15:40:03.913674 - [System] System is running for 10 seconds.
+Sat Dec 04 2021 15:51:10.892120 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 04 2021 15:51:10.916370 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 04 2021 15:51:16.087036 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 04 2021 15:51:16.087098 - [Audio] Audio shutdown!
+Sat Dec 04 2021 15:51:16.944472 - Drops over entire run:-  1286 single frame-  673 2 frame-  298 3 frame-  165 4 or more- Total 20350 in 28663 frames
+Sat Dec 11 2021 12:19:06.965856 - //==============================================================================================
+Sat Dec 11 2021 12:19:06.973835 - ================================================================================================
+Sat Dec 11 2021 12:19:06.973897 - ================================================================================================
+Sat Dec 11 2021 12:19:06.973949 - vrmonitor 1.20.4 startup with PID=11196, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 11 2021 12:19:06.974161 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Dec 11 2021 12:19:06.974216 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Dec 11 2021 12:19:07.547978 - Default Playback Audio Devices: ,  (Comm)
+Sat Dec 11 2021 12:19:07.548037 - Default Record Audio Device: ,  (Comm)
+Sat Dec 11 2021 12:19:08.063013 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Dec 11 2021 12:19:08.201446 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 11 2021 12:19:10.959105 - VR_Init successful
+Sat Dec 11 2021 12:19:11.176609 - [Steam] Attempt to connect to Steam
+Sat Dec 11 2021 12:19:11.177997 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Dec 11 2021 12:19:11.178250 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Dec 11 2021 12:19:11.178483 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Dec 11 2021 12:19:11.178945 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Dec 11 2021 12:19:11.179254 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Dec 11 2021 12:19:11.179364 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 11 2021 12:19:11.179457 - CSharedResourceNamespaceClient::Init(): received namespace data 11125
+Sat Dec 11 2021 12:19:11.182338 - [Audio] Audio init
+Sat Dec 11 2021 12:19:11.182535 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Dec 11 2021 12:19:11.207147 - [Status] Graphics driver version is .
+Sat Dec 11 2021 12:19:11.249860 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Dec 11 2021 12:19:11.301059 - [System] Chaperone Universe changes for the first time
+Sat Dec 11 2021 12:19:11.301168 - [System] Chaperone does not indicate room setup
+Sat Dec 11 2021 12:19:11.492060 - [Steam] Connected to Steam in 0.03 seconds.
+Sat Dec 11 2021 12:19:11.601349 - [System] Runtime: 1634602223 250820  STEAMVR
+Sat Dec 11 2021 12:19:11.601418 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Dec 11 2021 12:19:11.668953 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Dec 11 2021 12:19:11.675044 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Dec 11 2021 12:19:17.686081 - [System] System is running for 10 seconds.
+Sat Dec 11 2021 12:20:52.061759 - [Dismissable Warning Removed] Display Warning (0x10000)
+Sat Dec 11 2021 12:36:01.410398 - [System] The chaperone file has changed on disk.
+Sat Dec 11 2021 12:56:20.119382 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Dec 11 2021 12:56:20.130601 - [System] Quit gracefully: Waiting for process quitting...
+Sat Dec 11 2021 12:56:21.782234 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Dec 11 2021 12:56:21.782331 - [Audio] Audio shutdown!
+Sat Dec 11 2021 12:56:22.290917 - Drops over entire run:-  320 single frame-  52 2 frame-  28 3 frame-  11 4 or more- Total 123980 in 128662 frames
+Fri Dec 24 2021 16:32:54.617677 - //==============================================================================================
+Fri Dec 24 2021 16:32:54.631794 - ================================================================================================
+Fri Dec 24 2021 16:32:54.631854 - ================================================================================================
+Fri Dec 24 2021 16:32:54.631900 - vrmonitor 1.20.4 startup with PID=32428, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Fri Dec 24 2021 16:32:54.632107 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Fri Dec 24 2021 16:32:54.632146 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Fri Dec 24 2021 16:32:55.421947 - Default Playback Audio Devices: ,  (Comm)
+Fri Dec 24 2021 16:32:55.421991 - Default Record Audio Device: ,  (Comm)
+Fri Dec 24 2021 16:32:56.190458 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Fri Dec 24 2021 16:32:56.326887 - [System] Runtime: 1634602223 250820  STEAMVR
+Fri Dec 24 2021 16:32:59.229074 - VR_Init successful
+Fri Dec 24 2021 16:32:59.300219 - [Steam] Attempt to connect to Steam
+Fri Dec 24 2021 16:32:59.300630 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Fri Dec 24 2021 16:32:59.300966 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Fri Dec 24 2021 16:32:59.301228 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Fri Dec 24 2021 16:32:59.301656 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Fri Dec 24 2021 16:32:59.301828 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Fri Dec 24 2021 16:32:59.301884 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Fri Dec 24 2021 16:32:59.302011 - CSharedResourceNamespaceClient::Init(): received namespace data 32343
+Fri Dec 24 2021 16:32:59.303557 - [Audio] Audio init
+Fri Dec 24 2021 16:32:59.303657 - [Dismissable Warning Added] Display Warning (0x10000)
+Fri Dec 24 2021 16:32:59.796850 - [Steam] Connected to Steam in 0.02 seconds.
+Fri Dec 24 2021 16:32:59.800006 - [System] Runtime: 1634602223 250820  STEAMVR
+Fri Dec 24 2021 16:32:59.800096 - [Steam] Connect to Steam finished: check for dismissable warnings
+Fri Dec 24 2021 16:32:59.807251 - [Status] Graphics driver version is .
+Fri Dec 24 2021 16:33:00.049159 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Fri Dec 24 2021 16:33:00.082462 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Fri Dec 24 2021 16:33:00.145976 - [System] Chaperone Universe changes for the first time
+Fri Dec 24 2021 16:33:00.146047 - [System] Chaperone does not indicate room setup
+Fri Dec 24 2021 16:33:00.196472 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Fri Dec 24 2021 16:33:01.913830 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Fri Dec 24 2021 16:33:01.925109 - [System] Quit gracefully: Waiting for process quitting...
+Fri Dec 24 2021 16:33:04.301135 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Fri Dec 24 2021 16:33:04.301227 - [Audio] Audio shutdown!
+Fri Dec 24 2021 16:33:05.027286 - Drops over entire run:-  11 single frame-  1 2 frame-  2 3 frame-  0 4 or more- Total 187 in 212 frames
+Sun Dec 26 2021 14:47:32.189421 - //==============================================================================================
+Sun Dec 26 2021 14:47:32.204935 - ================================================================================================
+Sun Dec 26 2021 14:47:32.204964 - ================================================================================================
+Sun Dec 26 2021 14:47:32.204993 - vrmonitor 1.20.4 startup with PID=25596, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sun Dec 26 2021 14:47:32.205118 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sun Dec 26 2021 14:47:32.205147 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sun Dec 26 2021 14:47:33.962116 - Default Playback Audio Devices: ,  (Comm)
+Sun Dec 26 2021 14:47:33.962199 - Default Record Audio Device: ,  (Comm)
+Sun Dec 26 2021 14:47:34.677038 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sun Dec 26 2021 14:47:34.851719 - [System] Runtime: 1634602223 250820  STEAMVR
+Sun Dec 26 2021 14:47:36.919690 - VR_Init successful
+Sun Dec 26 2021 14:47:36.985979 - [Steam] Attempt to connect to Steam
+Sun Dec 26 2021 14:47:36.986488 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sun Dec 26 2021 14:47:36.986608 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sun Dec 26 2021 14:47:36.986720 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sun Dec 26 2021 14:47:36.986885 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sun Dec 26 2021 14:47:36.987022 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sun Dec 26 2021 14:47:36.987089 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sun Dec 26 2021 14:47:36.987141 - CSharedResourceNamespaceClient::Init(): received namespace data 25509
+Sun Dec 26 2021 14:47:36.988601 - [Audio] Audio init
+Sun Dec 26 2021 14:47:36.988716 - [Dismissable Warning Added] Display Warning (0x10000)
+Sun Dec 26 2021 14:47:37.126672 - [Steam] Connected to Steam in 0.10 seconds.
+Sun Dec 26 2021 14:47:37.131410 - [System] Runtime: 1634602223 250820  STEAMVR
+Sun Dec 26 2021 14:47:37.131507 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sun Dec 26 2021 14:47:37.143985 - [Status] Graphics driver version is .
+Sun Dec 26 2021 14:47:37.428657 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sun Dec 26 2021 14:47:37.451300 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sun Dec 26 2021 14:47:37.624983 - [System] Chaperone Universe changes for the first time
+Sun Dec 26 2021 14:47:37.625079 - [System] Chaperone does not indicate room setup
+Sun Dec 26 2021 14:47:37.746534 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sun Dec 26 2021 14:47:43.791897 - [System] System is running for 10 seconds.
+Sun Dec 26 2021 14:52:56.445875 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Sun Dec 26 2021 14:52:56.498785 - [System] Quit gracefully: Waiting for process quitting...
+Sun Dec 26 2021 14:53:01.635599 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sun Dec 26 2021 14:53:01.635725 - [Audio] Audio shutdown!
+Sun Dec 26 2021 14:53:02.288996 - Drops over entire run:-  34 single frame-  6 2 frame-  1 3 frame-  3 4 or more- Total 3564 in 11410 frames
+Sun Dec 26 2021 15:07:58.304899 - //==============================================================================================
+Sun Dec 26 2021 15:07:58.307996 - ================================================================================================
+Sun Dec 26 2021 15:07:58.308017 - ================================================================================================
+Sun Dec 26 2021 15:07:58.308036 - vrmonitor 1.20.4 startup with PID=31359, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sun Dec 26 2021 15:07:58.308117 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sun Dec 26 2021 15:07:58.308137 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sun Dec 26 2021 15:07:59.554156 - Default Playback Audio Devices: ,  (Comm)
+Sun Dec 26 2021 15:07:59.554225 - Default Record Audio Device: ,  (Comm)
+Sun Dec 26 2021 15:08:00.625823 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sun Dec 26 2021 15:08:01.708241 - [System] Runtime: 1634602223 250820  STEAMVR
+Sun Dec 26 2021 15:08:04.743248 - VR_Init successful
+Sun Dec 26 2021 15:08:04.803389 - [Steam] Attempt to connect to Steam
+Sun Dec 26 2021 15:08:04.804997 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sun Dec 26 2021 15:08:04.808091 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sun Dec 26 2021 15:08:04.809839 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sun Dec 26 2021 15:08:04.813843 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sun Dec 26 2021 15:08:04.819019 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sun Dec 26 2021 15:08:04.819537 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sun Dec 26 2021 15:08:04.823659 - CSharedResourceNamespaceClient::Init(): received namespace data 31278
+Sun Dec 26 2021 15:08:04.835859 - [Audio] Audio init
+Sun Dec 26 2021 15:08:04.836169 - [Dismissable Warning Added] Display Warning (0x10000)
+Sun Dec 26 2021 15:08:04.839503 - [Status] Graphics driver version is .
+Sun Dec 26 2021 15:08:04.951850 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sun Dec 26 2021 15:08:05.033133 - [System] Chaperone Universe changes for the first time
+Sun Dec 26 2021 15:08:05.033223 - [System] Chaperone does not indicate room setup
+Sun Dec 26 2021 15:08:05.488413 - [Steam] Connected to Steam in 0.08 seconds.
+Sun Dec 26 2021 15:08:05.515200 - [System] Runtime: 1634602223 250820  STEAMVR
+Sun Dec 26 2021 15:08:05.515336 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sun Dec 26 2021 15:08:05.615349 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sun Dec 26 2021 15:08:05.875685 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sun Dec 26 2021 15:08:09.328687 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_NotReady'.
+Sun Dec 26 2021 15:08:09.619901 - [Status Alert] SteamVR Fail (-203)
+Sun Dec 26 2021 15:08:09.949709 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_Ready'.
+Sun Dec 26 2021 15:08:10.239575 - [System] System is running for 10 seconds.
+Sun Dec 26 2021 15:08:24.805389 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Sun Dec 26 2021 15:08:24.856407 - [System] Quit gracefully: Waiting for process quitting...
+Sun Dec 26 2021 15:08:28.978956 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sun Dec 26 2021 15:08:28.980356 - [Audio] Audio shutdown!
+Sun Dec 26 2021 15:08:29.638219 - Drops over entire run:-  17 single frame-  4 2 frame-  3 3 frame-  0 4 or more- Total 38 in 679 frames

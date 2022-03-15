@@ -1,0 +1,586 @@
+Do Dez 02 2021 18:59:51.077039 - //==============================================================================================
+Do Dez 02 2021 18:59:51.077106 - ================================================================================================
+Do Dez 02 2021 18:59:51.077129 - ================================================================================================
+Do Dez 02 2021 18:59:51.077158 - wine64-preloader 1.20.4 startup with PID=16649, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 18:59:51.077218 - vrclient type=VRApplication_Background
+Do Dez 02 2021 18:59:51.078316 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Do Dez 02 2021 18:59:51.078393 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Do Dez 02 2021 18:59:51.078464 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Do Dez 02 2021 18:59:51.078746 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Do Dez 02 2021 18:59:51.079362 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Do Dez 02 2021 18:59:51.079742 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 18:59:51.079781 - Unable to connect to pipe errno=111
+Do Dez 02 2021 18:59:51.079812 - Not starting vrserver for background application.
+Do Dez 02 2021 18:59:51.079837 - Skipping starting apps because we're in an app container
+Do Dez 02 2021 19:05:47.870751 - //==============================================================================================
+Do Dez 02 2021 19:05:47.882259 - ================================================================================================
+Do Dez 02 2021 19:05:47.882298 - ================================================================================================
+Do Dez 02 2021 19:05:47.882339 - wine64-preloader 1.20.4 startup with PID=18672, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 19:05:47.882429 - vrclient type=VRApplication_Background
+Do Dez 02 2021 19:05:47.883610 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Do Dez 02 2021 19:05:47.883703 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Do Dez 02 2021 19:05:47.883774 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Do Dez 02 2021 19:05:47.884053 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Do Dez 02 2021 19:05:47.884632 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Do Dez 02 2021 19:05:47.884971 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 19:05:47.885009 - Unable to connect to pipe errno=111
+Do Dez 02 2021 19:05:47.885035 - Not starting vrserver for background application.
+Do Dez 02 2021 19:05:47.885055 - Skipping starting apps because we're in an app container
+Do Dez 02 2021 19:23:15.146557 - //==============================================================================================
+Do Dez 02 2021 19:23:15.158529 - ================================================================================================
+Do Dez 02 2021 19:23:15.158581 - ================================================================================================
+Do Dez 02 2021 19:23:15.158682 - wine64-preloader 1.20.4 startup with PID=24264, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 19:23:15.158809 - vrclient type=VRApplication_Background
+Do Dez 02 2021 19:23:15.161538 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Do Dez 02 2021 19:23:15.161695 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Do Dez 02 2021 19:23:15.161802 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Do Dez 02 2021 19:23:15.162204 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Do Dez 02 2021 19:23:15.163048 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Do Dez 02 2021 19:23:15.163499 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 19:23:15.163549 - Unable to connect to pipe errno=111
+Do Dez 02 2021 19:23:15.163591 - Not starting vrserver for background application.
+Do Dez 02 2021 19:23:15.163623 - Skipping starting apps because we're in an app container
+Do Dez 02 2021 19:27:46.381724 - //==============================================================================================
+Do Dez 02 2021 19:27:46.381819 - ================================================================================================
+Do Dez 02 2021 19:27:46.381848 - ================================================================================================
+Do Dez 02 2021 19:27:46.381887 - wine64-preloader 1.20.4 startup with PID=28980, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 19:27:46.381959 - vrclient type=VRApplication_Background
+Do Dez 02 2021 19:27:46.384747 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Do Dez 02 2021 19:27:46.384891 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Do Dez 02 2021 19:27:46.384963 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Do Dez 02 2021 19:27:46.385239 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Do Dez 02 2021 19:27:46.385805 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Do Dez 02 2021 19:27:46.386153 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 19:27:46.386192 - Unable to connect to pipe errno=111
+Do Dez 02 2021 19:27:46.386227 - Not starting vrserver for background application.
+Do Dez 02 2021 19:27:46.386249 - Skipping starting apps because we're in an app container
+Do Dez 02 2021 19:42:45.522123 - //==============================================================================================
+Do Dez 02 2021 19:42:45.522232 - ================================================================================================
+Do Dez 02 2021 19:42:45.522265 - ================================================================================================
+Do Dez 02 2021 19:42:45.522310 - wine64-preloader 1.20.4 startup with PID=32436, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 19:42:45.522383 - vrclient type=VRApplication_Background
+Do Dez 02 2021 19:42:45.523735 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Do Dez 02 2021 19:42:45.523833 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Do Dez 02 2021 19:42:45.523908 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Do Dez 02 2021 19:42:45.524177 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Do Dez 02 2021 19:42:45.524741 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Do Dez 02 2021 19:42:45.525028 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 19:42:45.525059 - Unable to connect to pipe errno=111
+Do Dez 02 2021 19:42:45.525078 - Not starting vrserver for background application.
+Do Dez 02 2021 19:42:45.525092 - Skipping starting apps because we're in an app container
+Do Dez 02 2021 19:45:29.232515 - //==============================================================================================
+Do Dez 02 2021 19:45:29.232751 - ================================================================================================
+Do Dez 02 2021 19:45:29.232843 - ================================================================================================
+Do Dez 02 2021 19:45:29.233397 - wine64-preloader 1.20.4 startup with PID=35415, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 19:45:29.233498 - vrclient type=VRApplication_Background
+Do Dez 02 2021 19:45:29.241751 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Do Dez 02 2021 19:45:29.242144 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Do Dez 02 2021 19:45:29.242463 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Do Dez 02 2021 19:45:29.243578 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Do Dez 02 2021 19:45:29.244216 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Do Dez 02 2021 19:45:29.245138 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 19:45:29.245184 - Unable to connect to pipe errno=111
+Do Dez 02 2021 19:45:29.245215 - Not starting vrserver for background application.
+Do Dez 02 2021 19:45:29.245236 - Skipping starting apps because we're in an app container
+Do Dez 02 2021 19:47:22.088152 - //==============================================================================================
+Do Dez 02 2021 19:47:22.088253 - ================================================================================================
+Do Dez 02 2021 19:47:22.088286 - ================================================================================================
+Do Dez 02 2021 19:47:22.088324 - wine64-preloader 1.20.4 startup with PID=36900, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 19:47:22.088403 - vrclient type=VRApplication_Background
+Do Dez 02 2021 19:47:22.089820 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Do Dez 02 2021 19:47:22.089927 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Do Dez 02 2021 19:47:22.090042 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Do Dez 02 2021 19:47:22.090401 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Do Dez 02 2021 19:47:22.091185 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Do Dez 02 2021 19:47:22.091562 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 19:47:22.091601 - Unable to connect to pipe errno=111
+Do Dez 02 2021 19:47:22.091627 - Not starting vrserver for background application.
+Do Dez 02 2021 19:47:22.091647 - Skipping starting apps because we're in an app container
+Do Dez 02 2021 19:59:53.741482 - //==============================================================================================
+Do Dez 02 2021 19:59:53.741555 - ================================================================================================
+Do Dez 02 2021 19:59:53.741574 - ================================================================================================
+Do Dez 02 2021 19:59:53.741602 - wine64-preloader 1.20.4 startup with PID=38667, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 19:59:53.741650 - vrclient type=VRApplication_Background
+Do Dez 02 2021 19:59:53.744750 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Do Dez 02 2021 19:59:53.744890 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Do Dez 02 2021 19:59:53.744969 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Do Dez 02 2021 19:59:53.745286 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Do Dez 02 2021 19:59:53.745914 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Do Dez 02 2021 19:59:53.746323 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 19:59:53.746368 - Unable to connect to pipe errno=111
+Do Dez 02 2021 19:59:53.746399 - Not starting vrserver for background application.
+Do Dez 02 2021 19:59:53.746420 - Skipping starting apps because we're in an app container
+Do Dez 02 2021 20:31:02.256349 - //==============================================================================================
+Do Dez 02 2021 20:31:02.267863 - ================================================================================================
+Do Dez 02 2021 20:31:02.267917 - ================================================================================================
+Do Dez 02 2021 20:31:02.267999 - wine64-preloader 1.20.4 startup with PID=41927, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 20:31:02.268162 - vrclient type=VRApplication_Background
+Do Dez 02 2021 20:31:02.270516 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Do Dez 02 2021 20:31:02.270736 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Do Dez 02 2021 20:31:02.270908 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Do Dez 02 2021 20:31:02.271475 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Do Dez 02 2021 20:31:02.272861 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Do Dez 02 2021 20:31:02.273608 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 20:31:02.273688 - Unable to connect to pipe errno=111
+Do Dez 02 2021 20:31:02.273753 - Not starting vrserver for background application.
+Do Dez 02 2021 20:31:02.273802 - Skipping starting apps because we're in an app container
+Do Dez 02 2021 21:08:25.030105 - //==============================================================================================
+Do Dez 02 2021 21:08:25.035746 - ================================================================================================
+Do Dez 02 2021 21:08:25.035848 - ================================================================================================
+Do Dez 02 2021 21:08:25.035916 - wine64-preloader 1.20.4 startup with PID=44248, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 21:08:25.036041 - vrclient type=VRApplication_Background
+Do Dez 02 2021 21:08:25.037955 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Do Dez 02 2021 21:08:25.038109 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Do Dez 02 2021 21:08:25.038199 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Do Dez 02 2021 21:08:25.038573 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Do Dez 02 2021 21:08:25.039312 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Do Dez 02 2021 21:08:25.039658 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 21:08:25.039696 - Unable to connect to pipe errno=111
+Do Dez 02 2021 21:08:25.039722 - Not starting vrserver for background application.
+Do Dez 02 2021 21:08:25.039742 - Skipping starting apps because we're in an app container
+Sa Dez 04 2021 15:22:53.622133 - //==============================================================================================
+Sa Dez 04 2021 15:22:53.651900 - ================================================================================================
+Sa Dez 04 2021 15:22:53.651956 - ================================================================================================
+Sa Dez 04 2021 15:22:53.652006 - wine64-preloader 1.20.4 startup with PID=57830, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sa Dez 04 2021 15:22:53.652330 - vrclient type=VRApplication_Background
+Sa Dez 04 2021 15:22:53.667523 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:22:53.668327 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:22:53.668822 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:22:53.669444 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:22:53.670038 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:22:53.671084 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sa Dez 04 2021 15:22:53.673634 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sa Dez 04 2021 15:22:53.673888 - CSharedResourceNamespaceClient::Init(): received namespace data 47343
+Sa Dez 04 2021 15:22:53.673963 - CIPCPipe::ConnectPipe(VR_ServerPipe_47343) attempting connect to steamvr:VR_ServerPipe_47343
+Sa Dez 04 2021 15:22:53.705723 - Received success response from vrserver connect
+Sa Dez 04 2021 15:22:55.814660 - Timed out waiting for a good app key
+Sa Dez 04 2021 15:22:55.814774 - App key after connect message:steam.overlay.438100
+Sa Dez 04 2021 15:22:55.865729 - CIPCPipe::ConnectPipe(VR_CompositorPipe_47343) attempting connect to steamvr:VR_CompositorPipe_47343
+Sa Dez 04 2021 15:22:55.881955 - Received success response from vrcompositor connect
+Sa Dez 04 2021 15:22:55.882021 - Initializing the limited version of CVRCompositorClient
+Sa Dez 04 2021 15:22:55.892881 - Skipping starting apps because we're in an app container
+Sa Dez 04 2021 15:22:56.146297 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sa Dez 04 2021 15:22:56.149591 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sa Dez 04 2021 15:22:56.176639 - VR_Shutdown called
+Sa Dez 04 2021 15:40:47.579527 - //==============================================================================================
+Sa Dez 04 2021 15:40:47.593491 - ================================================================================================
+Sa Dez 04 2021 15:40:47.593528 - ================================================================================================
+Sa Dez 04 2021 15:40:47.593566 - wine64-preloader 1.20.4 startup with PID=16762, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sa Dez 04 2021 15:40:47.593649 - vrclient type=VRApplication_Background
+Sa Dez 04 2021 15:40:47.596953 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:40:47.597072 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:40:47.597141 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:40:47.597220 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:40:47.597444 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:40:47.598055 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sa Dez 04 2021 15:40:47.598535 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sa Dez 04 2021 15:40:47.598632 - CSharedResourceNamespaceClient::Init(): received namespace data 15114
+Sa Dez 04 2021 15:40:47.598700 - CIPCPipe::ConnectPipe(VR_ServerPipe_15114) attempting connect to steamvr:VR_ServerPipe_15114
+Sa Dez 04 2021 15:40:47.603480 - Received success response from vrserver connect
+Sa Dez 04 2021 15:40:49.714409 - Timed out waiting for a good app key
+Sa Dez 04 2021 15:40:49.714493 - App key after connect message:steam.overlay.438100
+Sa Dez 04 2021 15:40:49.760354 - CIPCPipe::ConnectPipe(VR_CompositorPipe_15114) attempting connect to steamvr:VR_CompositorPipe_15114
+Sa Dez 04 2021 15:40:49.760657 - Received success response from vrcompositor connect
+Sa Dez 04 2021 15:40:49.760685 - Initializing the limited version of CVRCompositorClient
+Sa Dez 04 2021 15:40:49.765813 - Skipping starting apps because we're in an app container
+Sa Dez 04 2021 15:40:49.931633 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sa Dez 04 2021 15:40:49.934894 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sa Dez 04 2021 15:40:49.941324 - VR_Shutdown called
+Sa Dez 04 2021 15:40:55.450132 - //==============================================================================================
+Sa Dez 04 2021 15:40:55.450183 - ================================================================================================
+Sa Dez 04 2021 15:40:55.450196 - ================================================================================================
+Sa Dez 04 2021 15:40:55.450214 - wine64-preloader 1.20.4 startup with PID=16866, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sa Dez 04 2021 15:40:55.450252 - vrclient type=VRApplication_Scene
+Sa Dez 04 2021 15:40:55.450967 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:40:55.451015 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:40:55.451060 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:40:55.451104 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:40:55.451262 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sa Dez 04 2021 15:40:55.451648 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sa Dez 04 2021 15:40:55.451879 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sa Dez 04 2021 15:40:55.451942 - CSharedResourceNamespaceClient::Init(): received namespace data 15114
+Sa Dez 04 2021 15:40:55.451987 - CIPCPipe::ConnectPipe(VR_ServerPipe_15114) attempting connect to steamvr:VR_ServerPipe_15114
+Sa Dez 04 2021 15:40:55.456165 - Received success response from vrserver connect
+Sa Dez 04 2021 15:40:55.462666 - App key after connect message:steam.app.438100
+Sa Dez 04 2021 15:40:55.478117 - CIPCPipe::ConnectPipe(VR_CompositorPipe_15114) attempting connect to steamvr:VR_CompositorPipe_15114
+Sa Dez 04 2021 15:40:55.478442 - Received success response from vrcompositor connect
+Sa Dez 04 2021 15:40:55.478461 - Initializing the limited version of CVRCompositorClient
+Sa Dez 04 2021 15:40:55.483813 - Attempting to load initial input config
+Sa Dez 04 2021 15:40:55.486270 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:55.591940 - Invalid input type click for controller (/user/head/proximity)
+Sa Dez 04 2021 15:40:55.596249 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:55.696397 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:55.796576 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:55.896780 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:55.997002 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:56.097177 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:56.197349 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:56.297504 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:56.397646 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:56.497809 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:56.598004 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:56.698170 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:56.798317 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:56.898449 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:56.998592 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:57.098819 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:57.198961 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:57.299100 - Failed to find device container 100000001. Waiting some more.
+Sa Dez 04 2021 15:40:57.401220 - Invalid input type click for controller (/user/head/proximity)
+Sa Dez 04 2021 15:40:57.402824 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sa Dez 04 2021 15:40:57.403078 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sa Dez 04 2021 15:40:57.403797 - After initial config load, app appears to be using legacy input
+Sa Dez 04 2021 15:40:57.403830 - /user/hand/left is 1
+Sa Dez 04 2021 15:40:57.403854 - /user/hand/right is 2
+Sa Dez 04 2021 15:40:57.404019 - TrackedControllerRole_LeftHand (1)-> 
+Sa Dez 04 2021 15:40:57.404065 - TrackedControllerRole_RightHand (2)-> 
+Sa Dez 04 2021 15:40:57.404096 - TrackedControllerRole_Invalid (0)-> 
+Sa Dez 04 2021 15:40:57.404180 - Skipping starting apps because we're in an app container
+Sa Dez 04 2021 15:40:57.411857 - Capturing Scene Focus
+Sa Dez 04 2021 15:40:57.412057 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sa Dez 04 2021 15:40:57.412088 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sa Dez 04 2021 15:40:57.412110 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sa Dez 04 2021 15:40:58.361656 - Enable advanced image processing of scene textures.
+Sa Dez 04 2021 15:40:58.397801 - Initializing CVulkanVRRenderer
+Sa Dez 04 2021 15:40:58.397920 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Sa Dez 04 2021 15:40:58.517958 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7fcab0000000.
+Sa Dez 04 2021 15:40:58.553776 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Sa Dez 04 2021 15:40:58.566440 - Created remote Vulkan image 0x4000003b1a, dimensions 1 x 1, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:40:58.570760 - Created remote Vulkan image 0x4100003b1a, dimensions 1 x 1, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:40:58.575735 - Created remote Vulkan image 0x4200003b1a, dimensions 1 x 1, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:40:58.576654 - Invalid texture bounds( 0.500000, 0.500000, 0.000000, 0.000000 ) from application
+Sa Dez 04 2021 15:41:00.187185 - Screenshot: Hook Screenshot called with types:
+Sa Dez 04 2021 15:41:00.187251 -  5
+Sa Dez 04 2021 15:41:00.187269 - 
+Sa Dez 04 2021 15:41:00.194731 - RendermodelManager: Reading data from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/vr_controller_vive_1_5.json
+Sa Dez 04 2021 15:41:00.194790 - RendermodelManager: name=base inputRouting=0 filename=
+Sa Dez 04 2021 15:41:00.194813 - RendermodelManager: name=body inputRouting=0 filename=body.obj
+Sa Dez 04 2021 15:41:00.194845 - RendermodelManager: name=button inputRouting=1 filename=button.obj
+Sa Dez 04 2021 15:41:00.194864 - RendermodelManager: name=front inputRouting=0 filename=
+Sa Dez 04 2021 15:41:00.194881 - RendermodelManager: name=gdc2015 inputRouting=0 filename=
+Sa Dez 04 2021 15:41:00.194897 - RendermodelManager: name=grip inputRouting=0 filename=
+Sa Dez 04 2021 15:41:00.194913 - RendermodelManager: name=handgrip inputRouting=0 filename=
+Sa Dez 04 2021 15:41:00.194929 - RendermodelManager: name=led inputRouting=0 filename=led.obj
+Sa Dez 04 2021 15:41:00.194956 - RendermodelManager: name=lgrip inputRouting=1 filename=l_grip.obj
+Sa Dez 04 2021 15:41:00.194974 - RendermodelManager: name=openxr_handmodel inputRouting=0 filename=
+Sa Dez 04 2021 15:41:00.194990 - RendermodelManager: name=openxr_handmodel_r inputRouting=0 filename=
+Sa Dez 04 2021 15:41:00.195024 - RendermodelManager: name=rgrip inputRouting=1 filename=r_grip.obj
+Sa Dez 04 2021 15:41:00.195119 - RendermodelManager: name=scroll_wheel inputRouting=2 filename=scroll_wheel.obj
+Sa Dez 04 2021 15:41:00.195144 - RendermodelManager: name=status inputRouting=0 filename=status.obj
+Sa Dez 04 2021 15:41:00.195167 - RendermodelManager: name=sys_button inputRouting=1 filename=sys_button.obj
+Sa Dez 04 2021 15:41:00.195183 - RendermodelManager: name=tip inputRouting=0 filename=
+Sa Dez 04 2021 15:41:00.195210 - RendermodelManager: name=trackpad inputRouting=2 filename=trackpad.obj
+Sa Dez 04 2021 15:41:00.195228 - RendermodelManager: name=trackpad_scroll_cut inputRouting=0 filename=trackpad_scroll_cut.obj
+Sa Dez 04 2021 15:41:00.195254 - RendermodelManager: name=trackpad_touch inputRouting=2 filename=trackpad_touch.obj
+Sa Dez 04 2021 15:41:00.195328 - RendermodelManager: name=trigger inputRouting=2 filename=trigger.obj
+Sa Dez 04 2021 15:41:00.319757 - Created remote Vulkan image 0x4300003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:00.324231 - Created remote Vulkan image 0x4400003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:00.328722 - Created remote Vulkan image 0x4500003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:00.332280 - Created remote Vulkan image 0x4600003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:00.334048 - Unflushed events requested in CGpuTiming::GetDeltas!
+Sa Dez 04 2021 15:41:00.377558 - Created remote Vulkan image 0x4700003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:02.007206 - Created remote Vulkan image 0x4800003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:10.886841 - ClearSkyboxOverride
+Sa Dez 04 2021 15:41:32.667624 - SetSkyboxOverride with 6 textures
+Sa Dez 04 2021 15:41:32.671585 - Created remote Vulkan image 0x4900003b1a, dimensions 256 x 256, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:32.676134 - Created remote Vulkan image 0x4a00003b1a, dimensions 256 x 256, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:32.679598 - Created remote Vulkan image 0x4b00003b1a, dimensions 256 x 256, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:32.682576 - Created remote Vulkan image 0x4c00003b1a, dimensions 256 x 256, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:32.685225 - Created remote Vulkan image 0x4d00003b1a, dimensions 256 x 256, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:32.688917 - Created remote Vulkan image 0x4e00003b1a, dimensions 256 x 256, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:32.703971 - Created remote Vulkan image 0x4f00003b1a, dimensions 512 x 512, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:33.216743 - Created remote Vulkan image 0x5000003b1a, dimensions 256 x 192, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:38.632025 - ClearSkyboxOverride
+Sa Dez 04 2021 15:41:46.398256 - Created remote Vulkan image 0x5100003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:46.401194 - Created remote Vulkan image 0x5200003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:46.407035 - Created remote Vulkan image 0x5300003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:46.410687 - Created remote Vulkan image 0x5400003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:46.413941 - Created remote Vulkan image 0x5500003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:46.422601 - Created remote Vulkan image 0x5600003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:48.957019 - Created remote Vulkan image 0x5700003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:48.962514 - Created remote Vulkan image 0x5800003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:48.966752 - Created remote Vulkan image 0x5900003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:48.973276 - Created remote Vulkan image 0x5a00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:48.977152 - Created remote Vulkan image 0x5b00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:41:48.982208 - Created remote Vulkan image 0x5c00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:42:27.422686 - Created remote Vulkan image 0x5d00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:42:27.425596 - Created remote Vulkan image 0x5e00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:42:27.428198 - Created remote Vulkan image 0x5f00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:42:27.432354 - Created remote Vulkan image 0x6000003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:42:27.436401 - Created remote Vulkan image 0x6100003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:42:27.441480 - Created remote Vulkan image 0x6200003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:42:28.759888 - Created remote Vulkan image 0x6300003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:42:28.764005 - Created remote Vulkan image 0x6400003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:42:28.769699 - Created remote Vulkan image 0x6500003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:42:28.776842 - Created remote Vulkan image 0x6600003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:42:28.780436 - Created remote Vulkan image 0x6700003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:42:28.787246 - Created remote Vulkan image 0x6800003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:43:44.921804 - ClearSkyboxOverride
+Sa Dez 04 2021 15:44:08.053620 - SetSkyboxOverride with 6 textures
+Sa Dez 04 2021 15:44:08.056543 - Created remote Vulkan image 0x6900003b1a, dimensions 256 x 256, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:44:08.059489 - Created remote Vulkan image 0x6a00003b1a, dimensions 256 x 256, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:44:08.062092 - Created remote Vulkan image 0x6b00003b1a, dimensions 256 x 256, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:44:08.065659 - Created remote Vulkan image 0x6c00003b1a, dimensions 256 x 256, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:44:08.068804 - Created remote Vulkan image 0x6d00003b1a, dimensions 256 x 256, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:44:08.071926 - Created remote Vulkan image 0x6e00003b1a, dimensions 256 x 256, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:44:08.084159 - Created remote Vulkan image 0x6f00003b1a, dimensions 512 x 512, format 43, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:44:08.424423 - Created remote Vulkan image 0x7000003b1a, dimensions 256 x 192, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:44:26.036852 - ClearSkyboxOverride
+Sa Dez 04 2021 15:45:30.519729 - Created remote Vulkan image 0x7100003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:45:30.522958 - Created remote Vulkan image 0x7200003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:45:30.526628 - Created remote Vulkan image 0x7300003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:45:30.529654 - Created remote Vulkan image 0x7400003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:45:30.532779 - Created remote Vulkan image 0x7500003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:45:30.537138 - Created remote Vulkan image 0x7600003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:45:56.118589 - Created remote Vulkan image 0x7700003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:45:56.122182 - Created remote Vulkan image 0x7800003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:45:56.126459 - Created remote Vulkan image 0x7900003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:45:56.133087 - Created remote Vulkan image 0x7a00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:45:56.136729 - Created remote Vulkan image 0x7b00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:45:56.141234 - Created remote Vulkan image 0x7c00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:03.238691 - Created remote Vulkan image 0x7d00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:03.242711 - Created remote Vulkan image 0x7e00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:03.249610 - Created remote Vulkan image 0x7f00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:03.253827 - Created remote Vulkan image 0x8000003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:03.257721 - Created remote Vulkan image 0x8100003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:03.262934 - Created remote Vulkan image 0x8200003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:14.712151 - Created remote Vulkan image 0x8300003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:14.715574 - Created remote Vulkan image 0x8400003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:14.718847 - Created remote Vulkan image 0x8500003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:14.721990 - Created remote Vulkan image 0x8600003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:14.725710 - Created remote Vulkan image 0x8700003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:14.729341 - Created remote Vulkan image 0x8800003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:17.030772 - Created remote Vulkan image 0x8900003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:17.033433 - Created remote Vulkan image 0x8a00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:17.036408 - Created remote Vulkan image 0x8b00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:17.040106 - Created remote Vulkan image 0x8c00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:17.045670 - Created remote Vulkan image 0x8d00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:46:17.053969 - Created remote Vulkan image 0x8e00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:47:07.634058 - Created remote Vulkan image 0x8f00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:47:07.637306 - Created remote Vulkan image 0x9000003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:47:07.639911 - Created remote Vulkan image 0x9100003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:47:07.644690 - Created remote Vulkan image 0x9200003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:47:07.649138 - Created remote Vulkan image 0x9300003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:47:07.651889 - Created remote Vulkan image 0x9400003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:47:18.199488 - Created remote Vulkan image 0x9500003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:47:18.202758 - Created remote Vulkan image 0x9600003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:47:18.205676 - Created remote Vulkan image 0x9700003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:47:18.210188 - Created remote Vulkan image 0x9800003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:47:18.214776 - Created remote Vulkan image 0x9900003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:47:18.218938 - Created remote Vulkan image 0x9a00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:21.786107 - Created remote Vulkan image 0x9b00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:21.789842 - Created remote Vulkan image 0x9c00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:21.793936 - Created remote Vulkan image 0x9d00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:21.797204 - Created remote Vulkan image 0x9e00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:21.799919 - Created remote Vulkan image 0x9f00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:21.802947 - Created remote Vulkan image 0xa000003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:23.443170 - Created remote Vulkan image 0xa100003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:23.448182 - Created remote Vulkan image 0xa200003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:23.453025 - Created remote Vulkan image 0xa300003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:23.456220 - Created remote Vulkan image 0xa400003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:23.461251 - Created remote Vulkan image 0xa500003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:23.466572 - Created remote Vulkan image 0xa600003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:27.840966 - Created remote Vulkan image 0xa700003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:27.845090 - Created remote Vulkan image 0xa800003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:27.850380 - Created remote Vulkan image 0xa900003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:27.862137 - Created remote Vulkan image 0xaa00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:27.872539 - Created remote Vulkan image 0xab00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:27.876071 - Created remote Vulkan image 0xac00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:30.247475 - Created remote Vulkan image 0xad00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:30.251525 - Created remote Vulkan image 0xae00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:30.254013 - Created remote Vulkan image 0xaf00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:30.257168 - Created remote Vulkan image 0xb000003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:30.259711 - Created remote Vulkan image 0xb100003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:30.263637 - Created remote Vulkan image 0xb200003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:32.232243 - Created remote Vulkan image 0xb300003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:32.235119 - Created remote Vulkan image 0xb400003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:32.237470 - Created remote Vulkan image 0xb500003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:32.242156 - Created remote Vulkan image 0xb600003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:32.250462 - Created remote Vulkan image 0xb700003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:32.256244 - Created remote Vulkan image 0xb800003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:50.509338 - Created remote Vulkan image 0xb900003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:50.514107 - Created remote Vulkan image 0xba00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:50.516971 - Created remote Vulkan image 0xbb00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:50.521029 - Created remote Vulkan image 0xbc00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:50.524471 - Created remote Vulkan image 0xbd00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:48:50.527901 - Created remote Vulkan image 0xbe00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:26.227054 - PropertyContainer: High lock acquisition counters: sp:100001 yd:1 re:0
+Sa Dez 04 2021 15:49:28.853288 - Created remote Vulkan image 0xbf00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:28.856497 - Created remote Vulkan image 0xc000003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:28.863708 - Created remote Vulkan image 0xc100003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:28.866888 - Created remote Vulkan image 0xc200003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:28.869692 - Created remote Vulkan image 0xc300003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:28.872739 - Created remote Vulkan image 0xc400003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:38.280383 - Created remote Vulkan image 0xc500003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:38.286130 - Created remote Vulkan image 0xc600003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:38.292522 - Created remote Vulkan image 0xc700003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:38.297617 - Created remote Vulkan image 0xc800003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:38.303115 - Created remote Vulkan image 0xc900003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:38.307916 - Created remote Vulkan image 0xca00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:42.727039 - Created remote Vulkan image 0xcb00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:42.729949 - Created remote Vulkan image 0xcc00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:42.732831 - Created remote Vulkan image 0xcd00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:42.738852 - Created remote Vulkan image 0xce00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:42.741845 - Created remote Vulkan image 0xcf00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:42.744470 - Created remote Vulkan image 0xd000003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:45.954921 - Created remote Vulkan image 0xd100003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:45.959558 - Created remote Vulkan image 0xd200003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:45.962953 - Created remote Vulkan image 0xd300003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:45.966334 - Created remote Vulkan image 0xd400003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:45.970409 - Created remote Vulkan image 0xd500003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:49:45.977707 - Created remote Vulkan image 0xd600003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:00.391880 - Created remote Vulkan image 0xd700003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:00.394865 - Created remote Vulkan image 0xd800003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:00.398276 - Created remote Vulkan image 0xd900003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:00.403349 - Created remote Vulkan image 0xda00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:00.407961 - Created remote Vulkan image 0xdb00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:00.412268 - Created remote Vulkan image 0xdc00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:04.689358 - Created remote Vulkan image 0xdd00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:04.692829 - Created remote Vulkan image 0xde00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:04.695424 - Created remote Vulkan image 0xdf00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:04.698357 - Created remote Vulkan image 0xe000003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:04.703368 - Created remote Vulkan image 0xe100003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:04.706890 - Created remote Vulkan image 0xe200003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:13.173979 - Created remote Vulkan image 0xe300003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:13.179423 - Created remote Vulkan image 0xe400003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:13.182789 - Created remote Vulkan image 0xe500003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:13.187529 - Created remote Vulkan image 0xe600003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:13.190946 - Created remote Vulkan image 0xe700003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:13.195223 - Created remote Vulkan image 0xe800003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:48.412712 - Created remote Vulkan image 0xe900003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:48.417993 - Created remote Vulkan image 0xea00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:48.422859 - Created remote Vulkan image 0xeb00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:48.434805 - Created remote Vulkan image 0xec00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:48.439416 - Created remote Vulkan image 0xed00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:50:48.442985 - Created remote Vulkan image 0xee00003b1a, dimensions 906 x 1008, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:51:00.599746 - Created remote Vulkan image 0xef00003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:51:00.604049 - Created remote Vulkan image 0xf000003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:51:00.607123 - Created remote Vulkan image 0xf100003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:51:00.610450 - Created remote Vulkan image 0xf200003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:51:00.614091 - Created remote Vulkan image 0xf300003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 15:51:00.617746 - Created remote Vulkan image 0xf400003b1a, dimensions 1812 x 2016, format 37, memory size 7 and memory type 7.
+Sa Dez 04 2021 17:52:01.236649 - //==============================================================================================
+Sa Dez 04 2021 17:52:01.259568 - ================================================================================================
+Sa Dez 04 2021 17:52:01.259704 - ================================================================================================
+Sa Dez 04 2021 17:52:01.260316 - wine64-preloader 1.20.4 startup with PID=72790, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sa Dez 04 2021 17:52:01.260493 - vrclient type=VRApplication_Background
+Sa Dez 04 2021 17:52:01.287094 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:01.287908 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:01.288637 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:01.289387 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:01.290267 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:01.292037 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sa Dez 04 2021 17:52:01.655611 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sa Dez 04 2021 17:52:01.655742 - Unable to connect to pipe errno=111
+Sa Dez 04 2021 17:52:01.655796 - Not starting vrserver for background application.
+Sa Dez 04 2021 17:52:01.897409 - //==============================================================================================
+Sa Dez 04 2021 17:52:01.897453 - ================================================================================================
+Sa Dez 04 2021 17:52:01.897466 - ================================================================================================
+Sa Dez 04 2021 17:52:01.897480 - wine64-preloader 1.20.4 startup with PID=72790, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sa Dez 04 2021 17:52:01.897519 - vrclient type=VRApplication_Background
+Sa Dez 04 2021 17:52:01.898125 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:01.898173 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:01.898218 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:01.898262 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:01.898425 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:01.898805 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sa Dez 04 2021 17:52:01.899031 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sa Dez 04 2021 17:52:01.899054 - Unable to connect to pipe errno=111
+Sa Dez 04 2021 17:52:01.899071 - Not starting vrserver for background application.
+Sa Dez 04 2021 17:52:03.274298 - //==============================================================================================
+Sa Dez 04 2021 17:52:03.274346 - ================================================================================================
+Sa Dez 04 2021 17:52:03.274361 - ================================================================================================
+Sa Dez 04 2021 17:52:03.274378 - wine64-preloader 1.20.4 startup with PID=72790, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sa Dez 04 2021 17:52:03.274429 - vrclient type=VRApplication_Background
+Sa Dez 04 2021 17:52:03.275094 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:03.275143 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:03.275187 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:03.275231 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:03.275398 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:03.275781 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sa Dez 04 2021 17:52:03.276016 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sa Dez 04 2021 17:52:03.276039 - Unable to connect to pipe errno=111
+Sa Dez 04 2021 17:52:03.276067 - Not starting vrserver for background application.
+Sa Dez 04 2021 17:52:03.590850 - //==============================================================================================
+Sa Dez 04 2021 17:52:03.590902 - ================================================================================================
+Sa Dez 04 2021 17:52:03.590919 - ================================================================================================
+Sa Dez 04 2021 17:52:03.590940 - wine64-preloader 1.20.4 startup with PID=72790, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sa Dez 04 2021 17:52:03.590992 - vrclient type=VRApplication_Background
+Sa Dez 04 2021 17:52:03.591782 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:03.591846 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:03.591906 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:03.591965 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:03.592182 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sa Dez 04 2021 17:52:03.592737 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sa Dez 04 2021 17:52:03.593051 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sa Dez 04 2021 17:52:03.593081 - Unable to connect to pipe errno=111
+Sa Dez 04 2021 17:52:03.593104 - Not starting vrserver for background application.
+Fr Mär 04 2022 23:18:11.903279 - //==============================================================================================
+Fr Mär 04 2022 23:18:12.041673 - ================================================================================================
+Fr Mär 04 2022 23:18:12.041731 - ================================================================================================
+Fr Mär 04 2022 23:18:12.041807 - wine64-preloader 1.21.8 startup with PID=36726, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Fr Mär 04 2022 23:18:12.041964 - vrclient type=VRApplication_Background
+Fr Mär 04 2022 23:18:12.044652 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:12.044804 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:12.044941 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:12.045084 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:12.045527 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:12.046593 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Fr Mär 04 2022 23:18:12.120803 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Fr Mär 04 2022 23:18:12.120852 - Unable to connect to pipe errno=111
+Fr Mär 04 2022 23:18:12.120871 - Not starting vrserver for VRApplication_Background application.
+Sa Mär 12 2022 22:43:24.421464 - //==============================================================================================
+Sa Mär 12 2022 22:43:24.447526 - ================================================================================================
+Sa Mär 12 2022 22:43:24.447579 - ================================================================================================
+Sa Mär 12 2022 22:43:24.447631 - wine64-preloader 1.21.11 startup with PID=88576, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sa Mär 12 2022 22:43:24.447755 - vrclient type=VRApplication_Background
+Sa Mär 12 2022 22:43:24.449352 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:24.449476 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:24.449576 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:24.449689 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:24.450067 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:24.451001 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sa Mär 12 2022 22:43:24.451406 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sa Mär 12 2022 22:43:24.451485 - CSharedResourceNamespaceClient::Init(): received namespace data 86225
+Sa Mär 12 2022 22:43:24.451534 - CIPCPipe::ConnectPipe(VR_ServerPipe_86225) attempting connect to steamvr:VR_ServerPipe_86225
+Sa Mär 12 2022 22:43:24.457467 - Received success response from vrserver connect
+Sa Mär 12 2022 22:43:26.566626 - Timed out waiting for a good app key
+Sa Mär 12 2022 22:43:26.566746 - App key after connect message:steam.overlay.1806420
+Sa Mär 12 2022 22:43:26.608133 - CIPCPipe::ConnectPipe(VR_CompositorPipe_86225) attempting connect to steamvr:VR_CompositorPipe_86225
+Sa Mär 12 2022 22:43:26.608747 - Received success response from vrcompositor connect
+Sa Mär 12 2022 22:43:26.608787 - Initializing the limited version of CVRCompositorClient
+Sa Mär 12 2022 22:43:26.615418 - Skipping starting apps because we're in an app container
+Sa Mär 12 2022 22:43:26.718548 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sa Mär 12 2022 22:43:26.721416 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sa Mär 12 2022 22:43:26.749022 - VR_Shutdown called
+Sa Mär 12 2022 22:43:26.887349 - //==============================================================================================
+Sa Mär 12 2022 22:43:26.887424 - ================================================================================================
+Sa Mär 12 2022 22:43:26.887444 - ================================================================================================
+Sa Mär 12 2022 22:43:26.887467 - wine64-preloader 1.21.11 startup with PID=88678, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sa Mär 12 2022 22:43:26.887525 - vrclient type=VRApplication_Scene
+Sa Mär 12 2022 22:43:26.888615 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:26.888725 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:26.888793 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:26.888883 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:26.889112 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:26.889639 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sa Mär 12 2022 22:43:26.890020 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sa Mär 12 2022 22:43:26.890101 - CSharedResourceNamespaceClient::Init(): received namespace data 86225
+Sa Mär 12 2022 22:43:26.890144 - CIPCPipe::ConnectPipe(VR_ServerPipe_86225) attempting connect to steamvr:VR_ServerPipe_86225
+Sa Mär 12 2022 22:43:26.922745 - Received connect response VRInitError_Init_ShuttingDown. Giving up.
+Sa Mär 12 2022 22:43:26.922909 - Skipping starting apps because we're in an app container
+Sa Mär 12 2022 22:43:28.294045 - //==============================================================================================
+Sa Mär 12 2022 22:43:28.294158 - ================================================================================================
+Sa Mär 12 2022 22:43:28.294184 - ================================================================================================
+Sa Mär 12 2022 22:43:28.294215 - wine64-preloader 1.21.11 startup with PID=88678, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sa Mär 12 2022 22:43:28.294339 - vrclient type=VRApplication_Scene
+Sa Mär 12 2022 22:43:28.295958 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:28.296083 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:28.296189 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:28.296300 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:28.296649 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sa Mär 12 2022 22:43:28.297528 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sa Mär 12 2022 22:43:28.298019 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sa Mär 12 2022 22:43:28.298068 - Unable to connect to pipe errno=111
+Sa Mär 12 2022 22:43:28.298102 - Not starting vrserver inside app container.
+Sa Mär 12 2022 22:43:28.298121 - Skipping starting apps because we're in an app container

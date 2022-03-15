@@ -15,8 +15,7 @@ add_library(${TARGET_NAME} MODULE
   csamplecontrollerdriver.cpp
   csamplecontrollerdriver.h
   cwatchdogdriver_sample.cpp
-  cwatchdogdriver_sample.h
-)
+  cwatchdogdriver_sample.h)
 
 SET_TARGET_PROPERTIES(${TARGET_NAME} PROPERTIES PREFIX "")
 
@@ -36,6 +35,8 @@ if(CMAKE_SIZEOF_VOID_P STREQUAL "8")
 else()
     set(ARCH 64)
 endif()
+
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -lX11")
 
 install(TARGETS ${TARGET_NAME}
     RUNTIME DESTINATION drivers/sample/bin/${PREFIX}${ARCH}

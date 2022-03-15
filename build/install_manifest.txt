@@ -1,0 +1,2 @@
+/usr/local/drivers/sample/bin/linux64/driver_sample.so
+/usr/local/drivers/sample/resources/settings/default.vrsettings

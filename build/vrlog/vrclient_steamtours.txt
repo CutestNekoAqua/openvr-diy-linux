@@ -1,0 +1,1496 @@
+Sat Dec 11 2021 12:28:44.704648 - //==============================================================================================
+Sat Dec 11 2021 12:28:44.704779 - ================================================================================================
+Sat Dec 11 2021 12:28:44.704827 - ================================================================================================
+Sat Dec 11 2021 12:28:44.704886 - steamtours 1.20.4 startup with PID=15333, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 11 2021 12:28:44.705002 - vrclient type=VRApplication_Scene
+Sat Dec 11 2021 12:28:44.706751 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:28:44.706925 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:28:44.707123 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:28:44.707298 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:28:44.707819 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:28:44.709111 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 11 2021 12:28:44.727054 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 11 2021 12:28:44.727352 - CSharedResourceNamespaceClient::Init(): received namespace data 11125
+Sat Dec 11 2021 12:28:44.727489 - CIPCPipe::ConnectPipe(VR_ServerPipe_11125) attempting connect to steamvr:VR_ServerPipe_11125
+Sat Dec 11 2021 12:28:44.730559 - Received success response from vrserver connect
+Sat Dec 11 2021 12:28:44.736540 - App key after connect message:openvr.tool.steamvr_environments
+Sat Dec 11 2021 12:28:44.757338 - CIPCPipe::ConnectPipe(VR_CompositorPipe_11125) attempting connect to steamvr:VR_CompositorPipe_11125
+Sat Dec 11 2021 12:28:44.757617 - Received success response from vrcompositor connect
+Sat Dec 11 2021 12:28:44.757662 - Initializing the limited version of CVRCompositorClient
+Sat Dec 11 2021 12:28:44.765362 - Attempting to load initial input config
+Sat Dec 11 2021 12:28:44.772478 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 11 2021 12:28:44.772721 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:28:44.773179 - Item /user/hand/left/input/skeleton/left in "skeleton" array missing path invalid device path for skeleton output
+Sat Dec 11 2021 12:28:44.773228 - Item /user/hand/right/input/skeleton/right in "skeleton" array missing path invalid device path for skeleton output
+Sat Dec 11 2021 12:28:44.773456 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 11 2021 12:28:44.773657 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:28:44.775655 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:28:44.775707 - Unable to init filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:28:44.775743 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:28:44.775767 - Unable to init filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:28:44.775794 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:28:44.775813 - Unable to init filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:28:44.775845 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:28:44.775861 - Unable to init filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:28:44.777862 - After initial config load, app appears to not be using SteamVR Input
+Sat Dec 11 2021 12:28:44.822022 - Failed to find interface 'IXrProto_001'
+Sat Dec 11 2021 12:28:44.822494 - Action Manifest Path set to /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/steamtours/cfg/actions.json
+Sat Dec 11 2021 12:28:44.823674 - Capturing Scene Focus
+Sat Dec 11 2021 12:28:44.823886 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:28:44.823944 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:28:44.823990 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:28:44.832779 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:28:44.832841 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:28:44.832870 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:28:45.788176 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sat Dec 11 2021 12:28:45.791099 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sat Dec 11 2021 12:28:47.431452 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:28:47.431537 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:28:47.431571 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:28:49.973879 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 11 2021 12:28:49.974028 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:28:49.974232 - Item /user/hand/left/input/skeleton/left in "skeleton" array missing path invalid device path for skeleton output
+Sat Dec 11 2021 12:28:49.974265 - Item /user/hand/right/input/skeleton/right in "skeleton" array missing path invalid device path for skeleton output
+Sat Dec 11 2021 12:28:49.974492 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 11 2021 12:28:49.974676 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:28:49.975209 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:28:49.975237 - Unable to init filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:28:49.975261 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:28:49.975277 - Unable to init filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:28:49.975298 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:28:49.975313 - Unable to init filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:28:49.975333 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:28:49.975349 - Unable to init filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:28:49.990552 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:28:49.990631 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:28:49.990664 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:28:50.004526 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:28:50.004588 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:28:50.004607 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:28:50.019596 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:28:50.019660 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:28:50.019684 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:28:50.027583 - ClearSkyboxOverride
+Sat Dec 11 2021 12:28:50.033975 - VR_Shutdown called
+Sat Dec 11 2021 12:32:27.478498 - //==============================================================================================
+Sat Dec 11 2021 12:32:27.478560 - ================================================================================================
+Sat Dec 11 2021 12:32:27.478585 - ================================================================================================
+Sat Dec 11 2021 12:32:27.478618 - steamtours 1.20.4 startup with PID=16516, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 11 2021 12:32:27.478682 - vrclient type=VRApplication_Scene
+Sat Dec 11 2021 12:32:27.479748 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:32:27.479826 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:32:27.479896 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:32:27.479969 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:32:27.480248 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:32:27.480879 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 11 2021 12:32:27.495240 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 11 2021 12:32:27.495494 - CSharedResourceNamespaceClient::Init(): received namespace data 11125
+Sat Dec 11 2021 12:32:27.495570 - CIPCPipe::ConnectPipe(VR_ServerPipe_11125) attempting connect to steamvr:VR_ServerPipe_11125
+Sat Dec 11 2021 12:32:27.499493 - Received success response from vrserver connect
+Sat Dec 11 2021 12:32:27.504148 - App key after connect message:openvr.tool.steamvr_environments
+Sat Dec 11 2021 12:32:27.518683 - CIPCPipe::ConnectPipe(VR_CompositorPipe_11125) attempting connect to steamvr:VR_CompositorPipe_11125
+Sat Dec 11 2021 12:32:27.518994 - Received success response from vrcompositor connect
+Sat Dec 11 2021 12:32:27.519012 - Initializing the limited version of CVRCompositorClient
+Sat Dec 11 2021 12:32:27.523491 - Attempting to load initial input config
+Sat Dec 11 2021 12:32:27.528518 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 11 2021 12:32:27.528822 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:32:27.529431 - Item /user/hand/left/input/skeleton/left in "skeleton" array missing path invalid device path for skeleton output
+Sat Dec 11 2021 12:32:27.529485 - Item /user/hand/right/input/skeleton/right in "skeleton" array missing path invalid device path for skeleton output
+Sat Dec 11 2021 12:32:27.529665 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 11 2021 12:32:27.529786 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:32:27.531961 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:32:27.531994 - Unable to init filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:32:27.532017 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:32:27.532032 - Unable to init filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:32:27.532051 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:32:27.532065 - Unable to init filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:32:27.532083 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:32:27.532098 - Unable to init filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:32:27.534419 - After initial config load, app appears to not be using SteamVR Input
+Sat Dec 11 2021 12:32:27.572264 - Failed to find interface 'IXrProto_001'
+Sat Dec 11 2021 12:32:27.572623 - Action Manifest Path set to /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/steamtours/cfg/actions.json
+Sat Dec 11 2021 12:32:27.573231 - Capturing Scene Focus
+Sat Dec 11 2021 12:32:27.573334 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:27.573364 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:27.573387 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:27.586930 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:27.587003 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:27.587022 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:28.535652 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sat Dec 11 2021 12:32:28.538810 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sat Dec 11 2021 12:32:30.376458 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:30.376521 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:30.376542 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:32.904349 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 11 2021 12:32:32.904450 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:32:32.904580 - Item /user/hand/left/input/skeleton/left in "skeleton" array missing path invalid device path for skeleton output
+Sat Dec 11 2021 12:32:32.904600 - Item /user/hand/right/input/skeleton/right in "skeleton" array missing path invalid device path for skeleton output
+Sat Dec 11 2021 12:32:32.904732 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 11 2021 12:32:32.904842 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:32:32.905196 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:32:32.905214 - Unable to init filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:32:32.905231 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:32:32.905242 - Unable to init filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:32:32.905260 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:32:32.905282 - Unable to init filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:32:32.905296 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:32:32.905309 - Unable to init filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:32:32.924252 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:32.924314 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:32.924335 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:32.939378 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:32.939441 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:32.939463 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.032157 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.032226 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.032247 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.044461 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.044543 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.044569 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.056798 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.056850 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.056865 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.071167 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.071210 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.071221 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.088532 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.088613 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.088649 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.112376 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.112439 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.112455 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.124660 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.124718 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.124739 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.138458 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.138539 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.138565 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.154286 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.154344 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.154361 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.178883 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.178966 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.178993 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.197513 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.197611 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.197650 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.205008 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.205102 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.205139 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.371218 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.371269 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.371289 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.372200 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.372232 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.372249 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.487371 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.487449 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.487475 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.492202 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.492267 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.492285 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.505548 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.505668 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.505706 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.521329 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.521428 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.521503 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.537426 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.537530 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.537576 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.554713 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.554782 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.554801 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.572625 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.572715 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.572758 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.588136 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.588214 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.588257 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.605015 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.605079 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.605097 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.621498 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.621572 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.621609 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.638482 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.638545 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.638565 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.655076 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.655138 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.655159 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.673469 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.673581 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.673667 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.691683 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.691744 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.691763 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.711506 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.711571 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.711589 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.721206 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.721272 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.721294 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.738897 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.739000 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.739043 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.785720 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.785800 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.785827 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.790681 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.790748 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.790768 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.805976 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.806050 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.806070 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.821444 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.821522 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.821541 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.837470 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.837538 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.837558 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.854732 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.854826 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.854860 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.871498 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.871595 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.871631 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.887315 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.887379 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.887398 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.904583 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.904674 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.904706 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.921571 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.921666 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.921697 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.938661 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.938756 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.938811 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.959909 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.960000 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.960031 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.971738 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.971811 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.971837 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:33.987910 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:33.987970 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:33.987988 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.004499 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.004607 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.004651 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.028565 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.028672 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.028695 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.037461 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.037525 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.037546 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.054384 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.054457 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.054482 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.071390 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.071458 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.071481 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.094422 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.094586 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.094641 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.108193 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.108262 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.108283 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.122332 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.122382 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.122395 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.138437 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.138517 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.138548 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.155701 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.155777 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.155797 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.171666 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.171726 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.171745 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.193102 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.193181 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.193211 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.205390 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.205436 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.205449 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.220534 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.220624 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.220661 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.238781 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.238852 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.238870 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.254688 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.254770 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.254797 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.270771 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.270844 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.270872 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.287495 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.287557 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.287574 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.304263 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.304327 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.304345 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.321155 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.321210 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.321223 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.338507 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.338585 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.338612 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.422193 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.422290 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.422330 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.539554 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.539631 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.539653 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:34.909436 - Previous frame overflowed per-device vector by 8 actions (to 72 total) Bumping up the high water mark.
+Sat Dec 11 2021 12:32:34.933906 - RendermodelManager: Reading data from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/vr_controller_vive_1_5.json
+Sat Dec 11 2021 12:32:34.933984 - RendermodelManager: name=base inputRouting=0 filename=
+Sat Dec 11 2021 12:32:34.934004 - RendermodelManager: name=body inputRouting=0 filename=body.obj
+Sat Dec 11 2021 12:32:34.934033 - RendermodelManager: name=button inputRouting=1 filename=button.obj
+Sat Dec 11 2021 12:32:34.934048 - RendermodelManager: name=front inputRouting=0 filename=
+Sat Dec 11 2021 12:32:34.934066 - RendermodelManager: name=gdc2015 inputRouting=0 filename=
+Sat Dec 11 2021 12:32:34.934088 - RendermodelManager: name=grip inputRouting=0 filename=
+Sat Dec 11 2021 12:32:34.934103 - RendermodelManager: name=handgrip inputRouting=0 filename=
+Sat Dec 11 2021 12:32:34.934119 - RendermodelManager: name=led inputRouting=0 filename=led.obj
+Sat Dec 11 2021 12:32:34.934144 - RendermodelManager: name=lgrip inputRouting=1 filename=l_grip.obj
+Sat Dec 11 2021 12:32:34.934162 - RendermodelManager: name=openxr_handmodel inputRouting=0 filename=
+Sat Dec 11 2021 12:32:34.934194 - RendermodelManager: name=openxr_handmodel_r inputRouting=0 filename=
+Sat Dec 11 2021 12:32:34.934218 - RendermodelManager: name=rgrip inputRouting=1 filename=r_grip.obj
+Sat Dec 11 2021 12:32:34.934293 - RendermodelManager: name=scroll_wheel inputRouting=2 filename=scroll_wheel.obj
+Sat Dec 11 2021 12:32:34.934312 - RendermodelManager: name=status inputRouting=0 filename=status.obj
+Sat Dec 11 2021 12:32:34.934329 - RendermodelManager: name=sys_button inputRouting=1 filename=sys_button.obj
+Sat Dec 11 2021 12:32:34.934341 - RendermodelManager: name=tip inputRouting=0 filename=
+Sat Dec 11 2021 12:32:34.934360 - RendermodelManager: name=trackpad inputRouting=2 filename=trackpad.obj
+Sat Dec 11 2021 12:32:34.934373 - RendermodelManager: name=trackpad_scroll_cut inputRouting=0 filename=trackpad_scroll_cut.obj
+Sat Dec 11 2021 12:32:34.934391 - RendermodelManager: name=trackpad_touch inputRouting=2 filename=trackpad_touch.obj
+Sat Dec 11 2021 12:32:34.934437 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:32:34.934484 - RendermodelManager: name=trigger inputRouting=2 filename=trigger.obj
+Sat Dec 11 2021 12:32:34.934503 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:32:34.934535 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:32:35.099133 - Enable advanced image processing of scene textures.
+Sat Dec 11 2021 12:32:35.119479 - Initializing CVulkanVRRenderer
+Sat Dec 11 2021 12:32:35.119556 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Sat Dec 11 2021 12:32:35.209416 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7fe8a5d73000.
+Sat Dec 11 2021 12:32:35.246946 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Sat Dec 11 2021 12:32:35.250223 - Created remote Vulkan image 0x7d00002b83, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Dec 11 2021 12:32:35.255958 - Created remote Vulkan image 0x7e00002b83, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Dec 11 2021 12:32:35.260791 - Created remote Vulkan image 0x7f00002b83, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Dec 11 2021 12:32:35.267659 - Created remote Vulkan image 0x8000002b83, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Dec 11 2021 12:32:35.272251 - Created remote Vulkan image 0x8100002b83, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Dec 11 2021 12:32:35.275430 - Created remote Vulkan image 0x8200002b83, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Dec 11 2021 12:32:35.275657 - Unflushed events requested in CGpuTiming::GetDeltas!
+Sat Dec 11 2021 12:32:41.608202 - PropertyContainer: High lock acquisition counters: sp:100001 yd:1 re:0
+Sat Dec 11 2021 12:33:20.573013 - ClearSkyboxOverride
+Sat Dec 11 2021 12:33:20.573125 - VR_Shutdown called
+Sat Dec 11 2021 12:56:00.589757 - //==============================================================================================
+Sat Dec 11 2021 12:56:00.589823 - ================================================================================================
+Sat Dec 11 2021 12:56:00.589842 - ================================================================================================
+Sat Dec 11 2021 12:56:00.589867 - steamtours 1.20.4 startup with PID=23587, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 11 2021 12:56:00.589918 - vrclient type=VRApplication_Scene
+Sat Dec 11 2021 12:56:00.590717 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:56:00.590778 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:56:00.590846 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:56:00.590904 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:56:00.591108 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:56:00.591696 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 11 2021 12:56:00.605785 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 11 2021 12:56:00.605880 - CSharedResourceNamespaceClient::Init(): received namespace data 11125
+Sat Dec 11 2021 12:56:00.605925 - CIPCPipe::ConnectPipe(VR_ServerPipe_11125) attempting connect to steamvr:VR_ServerPipe_11125
+Sat Dec 11 2021 12:56:00.610300 - Received success response from vrserver connect
+Sat Dec 11 2021 12:56:00.618286 - App key after connect message:openvr.tool.steamvr_environments
+Sat Dec 11 2021 12:56:00.639644 - CIPCPipe::ConnectPipe(VR_CompositorPipe_11125) attempting connect to steamvr:VR_CompositorPipe_11125
+Sat Dec 11 2021 12:56:00.639940 - Received success response from vrcompositor connect
+Sat Dec 11 2021 12:56:00.639987 - Initializing the limited version of CVRCompositorClient
+Sat Dec 11 2021 12:56:00.648702 - Attempting to load initial input config
+Sat Dec 11 2021 12:56:00.651000 - Failed to find device container 100000001. Waiting some more.
+Sat Dec 11 2021 12:56:00.755862 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 11 2021 12:56:00.756104 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:56:00.756620 - Item /user/hand/left/input/skeleton/left in "skeleton" array missing path invalid device path for skeleton output
+Sat Dec 11 2021 12:56:00.756672 - Item /user/hand/right/input/skeleton/right in "skeleton" array missing path invalid device path for skeleton output
+Sat Dec 11 2021 12:56:00.756879 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 11 2021 12:56:00.757045 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:56:00.759247 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:56:00.759301 - Unable to init filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:56:00.759324 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:56:00.759339 - Unable to init filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:56:00.759358 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:56:00.759372 - Unable to init filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:56:00.759391 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:56:00.759405 - Unable to init filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:56:00.761310 - After initial config load, app appears to not be using SteamVR Input
+Sat Dec 11 2021 12:56:00.802471 - Failed to find interface 'IXrProto_001'
+Sat Dec 11 2021 12:56:00.802951 - Action Manifest Path set to /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/steamtours/cfg/actions.json
+Sat Dec 11 2021 12:56:00.803634 - Capturing Scene Focus
+Sat Dec 11 2021 12:56:00.807336 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:00.807437 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:00.807487 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:00.816910 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:00.818379 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:00.818424 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:01.792141 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sat Dec 11 2021 12:56:01.796286 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sat Dec 11 2021 12:56:03.580009 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:03.580072 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:03.580091 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.198216 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 11 2021 12:56:06.198335 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:56:06.198466 - Item /user/hand/left/input/skeleton/left in "skeleton" array missing path invalid device path for skeleton output
+Sat Dec 11 2021 12:56:06.198484 - Item /user/hand/right/input/skeleton/right in "skeleton" array missing path invalid device path for skeleton output
+Sat Dec 11 2021 12:56:06.198617 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 11 2021 12:56:06.198734 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:56:06.199163 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:56:06.199181 - Unable to init filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:56:06.199213 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:56:06.199224 - Unable to init filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:56:06.199240 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:56:06.199250 - Unable to init filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Dec 11 2021 12:56:06.199264 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:56:06.199274 - Unable to init filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Dec 11 2021 12:56:06.214151 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.214210 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.214225 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.228718 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.228787 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.228814 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.322498 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.322564 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.322584 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.323860 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.323895 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.323912 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.333359 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.333446 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.333462 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.350713 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.350816 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.350842 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.366794 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.366858 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.366883 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.383636 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.383728 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.383745 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.400885 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.400963 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.400983 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.416513 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.416556 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.416569 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.434089 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.434176 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.434202 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.455947 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.456021 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.456052 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.467124 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.467207 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.467226 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.640168 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.640268 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.640297 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.641097 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.641156 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.641177 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.760073 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.760152 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.760172 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.764882 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.765041 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.765064 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.769987 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.770060 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.770086 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.785154 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.785247 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.785280 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.800309 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.800397 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.800427 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.816765 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.816835 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.816854 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.833764 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.833857 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.833876 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.850581 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.850683 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.850709 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.867333 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.867420 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.867438 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.883748 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.883847 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.883875 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.900472 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.900576 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.900619 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.917019 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.917099 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.917124 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.934055 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.934137 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.934151 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.950920 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.951002 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.951032 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.967674 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.967755 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.967774 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:06.985823 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:06.985916 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:06.985962 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.001719 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.001786 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.001804 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.020574 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.020636 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.020651 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.063356 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.063408 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.063426 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.069440 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.069511 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.069530 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.083494 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.083585 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.083617 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.100810 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.100888 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.100906 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.116920 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.117001 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.117023 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.134367 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.134453 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.134478 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.150351 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.150462 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.150491 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.169166 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.169249 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.169268 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.184050 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.184174 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.184200 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.200692 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.200785 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.200806 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.216463 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.216523 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.216541 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.242286 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.242385 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.242619 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.256202 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.256284 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.256310 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.267789 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.267869 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.267889 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.283613 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.283687 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.283701 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.300407 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.300497 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.300516 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.317482 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.317579 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.317608 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.334355 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.334422 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.334436 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.351250 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.351332 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.351350 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.366961 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.367057 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.367084 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.385567 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.385647 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.385673 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.401729 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.401863 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.401911 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.421072 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.421137 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.421157 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.434591 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.434672 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.434691 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.450901 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.451032 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.451068 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.467072 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.467182 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.467220 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.483440 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.483533 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.483551 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.500357 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.500480 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.500538 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.516735 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.516832 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.516866 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.533541 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.533690 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.533752 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.550468 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.550587 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.550627 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.576033 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.576120 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.576147 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.583847 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.583950 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.583974 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.600280 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.600388 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.600406 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.702568 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.702661 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.702689 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:07.828789 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:07.828841 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:07.828855 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:08.248256 - Previous frame overflowed per-device vector by 8 actions (to 72 total) Bumping up the high water mark.
+Sat Dec 11 2021 12:56:08.263066 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Dec 11 2021 12:56:08.263122 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Dec 11 2021 12:56:08.263135 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Dec 11 2021 12:56:08.266383 - RendermodelManager: Reading data from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/vr_controller_vive_1_5.json
+Sat Dec 11 2021 12:56:08.266512 - RendermodelManager: name=base inputRouting=0 filename=
+Sat Dec 11 2021 12:56:08.266536 - RendermodelManager: name=body inputRouting=0 filename=body.obj
+Sat Dec 11 2021 12:56:08.266570 - RendermodelManager: name=button inputRouting=1 filename=button.obj
+Sat Dec 11 2021 12:56:08.266590 - RendermodelManager: name=front inputRouting=0 filename=
+Sat Dec 11 2021 12:56:08.266608 - RendermodelManager: name=gdc2015 inputRouting=0 filename=
+Sat Dec 11 2021 12:56:08.266625 - RendermodelManager: name=grip inputRouting=0 filename=
+Sat Dec 11 2021 12:56:08.266668 - RendermodelManager: name=handgrip inputRouting=0 filename=
+Sat Dec 11 2021 12:56:08.266703 - RendermodelManager: name=led inputRouting=0 filename=led.obj
+Sat Dec 11 2021 12:56:08.266732 - RendermodelManager: name=lgrip inputRouting=1 filename=l_grip.obj
+Sat Dec 11 2021 12:56:08.266749 - RendermodelManager: name=openxr_handmodel inputRouting=0 filename=
+Sat Dec 11 2021 12:56:08.266766 - RendermodelManager: name=openxr_handmodel_r inputRouting=0 filename=
+Sat Dec 11 2021 12:56:08.266788 - RendermodelManager: name=rgrip inputRouting=1 filename=r_grip.obj
+Sat Dec 11 2021 12:56:08.266911 - RendermodelManager: name=scroll_wheel inputRouting=2 filename=scroll_wheel.obj
+Sat Dec 11 2021 12:56:08.266938 - RendermodelManager: name=status inputRouting=0 filename=status.obj
+Sat Dec 11 2021 12:56:08.266963 - RendermodelManager: name=sys_button inputRouting=1 filename=sys_button.obj
+Sat Dec 11 2021 12:56:08.266978 - RendermodelManager: name=tip inputRouting=0 filename=
+Sat Dec 11 2021 12:56:08.267008 - RendermodelManager: name=trackpad inputRouting=2 filename=trackpad.obj
+Sat Dec 11 2021 12:56:08.267026 - RendermodelManager: name=trackpad_scroll_cut inputRouting=0 filename=trackpad_scroll_cut.obj
+Sat Dec 11 2021 12:56:08.267051 - RendermodelManager: name=trackpad_touch inputRouting=2 filename=trackpad_touch.obj
+Sat Dec 11 2021 12:56:08.267121 - RendermodelManager: name=trigger inputRouting=2 filename=trigger.obj
+Sat Dec 11 2021 12:56:08.414989 - Enable advanced image processing of scene textures.
+Sat Dec 11 2021 12:56:08.438303 - Initializing CVulkanVRRenderer
+Sat Dec 11 2021 12:56:08.438384 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Sat Dec 11 2021 12:56:08.564190 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7fe2ee828000.
+Sat Dec 11 2021 12:56:08.599666 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Sat Dec 11 2021 12:56:08.603286 - Created remote Vulkan image 0xad00002b83, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Dec 11 2021 12:56:08.607680 - Created remote Vulkan image 0xae00002b83, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Dec 11 2021 12:56:08.613739 - Created remote Vulkan image 0xaf00002b83, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Dec 11 2021 12:56:08.623042 - Created remote Vulkan image 0xb000002b83, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Dec 11 2021 12:56:08.627799 - Created remote Vulkan image 0xb100002b83, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Dec 11 2021 12:56:08.634022 - Created remote Vulkan image 0xb200002b83, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Dec 11 2021 12:56:08.634381 - Unflushed events requested in CGpuTiming::GetDeltas!
+Sat Dec 11 2021 12:56:20.296908 - ClearSkyboxOverride
+Sat Dec 11 2021 12:56:20.296995 - VR_Shutdown called
+Mon Feb 07 2022 15:23:43.569779 - //==============================================================================================
+Mon Feb 07 2022 15:23:43.573597 - ================================================================================================
+Mon Feb 07 2022 15:23:43.573660 - ================================================================================================
+Mon Feb 07 2022 15:23:43.573740 - steamtours 1.20.4 startup with PID=36633, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Mon Feb 07 2022 15:23:43.573877 - vrclient type=VRApplication_Scene
+Mon Feb 07 2022 15:23:43.576047 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Mon Feb 07 2022 15:23:43.576180 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Mon Feb 07 2022 15:23:43.576306 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Mon Feb 07 2022 15:23:43.576427 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Mon Feb 07 2022 15:23:43.576893 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Mon Feb 07 2022 15:23:43.578193 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Mon Feb 07 2022 15:23:43.593047 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Mon Feb 07 2022 15:23:43.593195 - CSharedResourceNamespaceClient::Init(): received namespace data 36558
+Mon Feb 07 2022 15:23:43.593287 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:23:43.596078 - Received success response from vrserver connect
+Mon Feb 07 2022 15:23:43.598302 - App key after connect message:openvr.tool.steamvr_environments
+Mon Feb 07 2022 15:23:43.609983 - CIPCPipe::ConnectPipe(VR_CompositorPipe_36558) attempting connect to steamvr:VR_CompositorPipe_36558
+Mon Feb 07 2022 15:23:43.610417 - Received success response from vrcompositor connect
+Mon Feb 07 2022 15:23:43.610498 - Initializing the limited version of CVRCompositorClient
+Mon Feb 07 2022 15:23:43.616928 - Attempting to load initial input config
+Mon Feb 07 2022 15:23:43.622419 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Mon Feb 07 2022 15:23:43.622700 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Mon Feb 07 2022 15:23:43.623791 - Item /user/hand/left/input/skeleton/left in "skeleton" array missing path invalid device path for skeleton output
+Mon Feb 07 2022 15:23:43.623938 - Item /user/hand/right/input/skeleton/right in "skeleton" array missing path invalid device path for skeleton output
+Mon Feb 07 2022 15:23:43.624552 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Mon Feb 07 2022 15:23:43.625039 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Mon Feb 07 2022 15:23:43.628202 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Mon Feb 07 2022 15:23:43.628267 - Unable to init filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Mon Feb 07 2022 15:23:43.628346 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Mon Feb 07 2022 15:23:43.628411 - Unable to init filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Mon Feb 07 2022 15:23:43.628478 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Mon Feb 07 2022 15:23:43.628529 - Unable to init filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Mon Feb 07 2022 15:23:43.628592 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Mon Feb 07 2022 15:23:43.628641 - Unable to init filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Mon Feb 07 2022 15:23:43.631024 - After initial config load, app appears to not be using SteamVR Input
+Mon Feb 07 2022 15:23:43.658589 - Started /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper.sh with pid 36817
+Mon Feb 07 2022 15:23:43.675827 - Failed to find interface 'IXrProto_001'
+Mon Feb 07 2022 15:23:43.676202 - Action Manifest Path set to /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/steamtours/cfg/actions.json
+Mon Feb 07 2022 15:23:43.676665 - Capturing Scene Focus
+Mon Feb 07 2022 15:23:43.676782 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:43.676815 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:43.676840 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:43.690074 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:43.690238 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:43.690328 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:44.573179 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Mon Feb 07 2022 15:23:44.577463 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Mon Feb 07 2022 15:23:46.467128 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:46.467230 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:46.467271 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.326067 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Mon Feb 07 2022 15:23:49.326205 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Mon Feb 07 2022 15:23:49.326333 - Item /user/hand/left/input/skeleton/left in "skeleton" array missing path invalid device path for skeleton output
+Mon Feb 07 2022 15:23:49.326352 - Item /user/hand/right/input/skeleton/right in "skeleton" array missing path invalid device path for skeleton output
+Mon Feb 07 2022 15:23:49.326482 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Mon Feb 07 2022 15:23:49.326590 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Mon Feb 07 2022 15:23:49.326949 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Mon Feb 07 2022 15:23:49.326968 - Unable to init filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Mon Feb 07 2022 15:23:49.326995 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Mon Feb 07 2022 15:23:49.327007 - Unable to init filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Mon Feb 07 2022 15:23:49.327021 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Mon Feb 07 2022 15:23:49.327031 - Unable to init filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Mon Feb 07 2022 15:23:49.327045 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Mon Feb 07 2022 15:23:49.327055 - Unable to init filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Mon Feb 07 2022 15:23:49.442146 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.442256 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.442305 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.457007 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.457073 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.457100 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.712578 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.712635 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.712649 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.723833 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.723940 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.723992 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.749114 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.749173 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.749186 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.751159 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.751224 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.751258 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.759224 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.759292 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.759305 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.776306 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.776391 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.776428 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.790342 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.790423 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.790458 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.824623 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.824726 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.824820 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.841477 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.841553 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.841575 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.875730 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.875814 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.875848 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.892125 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.892197 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.892218 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.926345 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.926443 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.926493 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:49.940789 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:49.940855 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:49.940886 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.026048 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.026121 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.026145 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.048403 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.048467 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.048480 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.219753 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.219826 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.219846 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.223996 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.224048 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.224065 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.337033 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.337093 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.337108 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.373812 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.373918 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.373971 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.392148 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.392207 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.392226 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.424385 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.424465 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.424503 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.430368 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.430447 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.430476 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.459582 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.459668 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.459681 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.476508 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.476615 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.476661 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.509091 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.509161 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.509184 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.592280 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.594179 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.597489 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.609387 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.609451 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.609468 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.641703 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.641843 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.642125 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.658079 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.658156 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.658173 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.676809 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.676908 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.676950 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.698760 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.698833 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.698851 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.713150 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.713232 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.713253 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.722489 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.722585 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.722626 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.744123 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.744188 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.744205 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.764384 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.764482 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.764519 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.831147 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.831231 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.831258 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.841335 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.841398 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.841421 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.875780 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.875858 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.876081 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.942761 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.942830 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.942845 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.975863 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.975962 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.975999 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:50.996222 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:50.996300 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:50.996321 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.010071 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.010150 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.010170 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.024936 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.025108 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.025183 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.059646 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.059749 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.059799 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.077466 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.077545 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.077572 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.097934 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.097993 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.098025 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.107849 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.107913 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.107931 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.124542 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.124625 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.124647 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.143464 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.143600 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.143651 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.158158 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.158237 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.158253 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.178478 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.178545 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.178559 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.188768 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.188868 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.188902 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.228527 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.228769 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.228802 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.237087 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.237190 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.237218 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.261021 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.261231 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.261267 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.263304 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.263405 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.263425 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.277059 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.277120 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.277139 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.290595 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.290687 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.290713 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.307428 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.307517 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.307546 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.327027 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.327085 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.327101 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.342981 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.343056 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.343082 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.358727 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.358836 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.358878 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.374542 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.374606 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.374640 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.445020 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.445087 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.445108 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.454001 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.454074 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.454100 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.469911 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.469980 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.469992 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.559545 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.559639 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.559665 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.601999 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.602050 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.602069 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.607461 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.607534 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.607555 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.624075 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.624123 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.624142 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.650152 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.650261 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.650315 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.668661 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.668863 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.668886 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.687807 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.687884 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.687901 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.694870 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.694943 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.694958 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.718282 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.718362 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.718387 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.723883 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.723964 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.723982 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.740753 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.740838 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.740857 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.757269 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.757344 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.757367 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.774108 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.774184 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.774214 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.791571 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.791655 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.791676 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.807572 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.807644 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.807663 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.834688 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.834753 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.834773 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.841309 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.841380 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.841413 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:51.857279 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:51.857412 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:51.857441 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:52.007111 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:52.007230 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:52.007286 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:52.160351 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:52.160412 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:52.160426 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:52.686627 - Previous frame overflowed per-device vector by 8 actions (to 72 total) Bumping up the high water mark.
+Mon Feb 07 2022 15:23:52.702392 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Feb 07 2022 15:23:52.702473 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Feb 07 2022 15:23:52.702500 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Feb 07 2022 15:23:52.703608 - RendermodelManager: Reading data from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/vr_controller_vive_1_5.json
+Mon Feb 07 2022 15:23:52.703649 - RendermodelManager: name=base inputRouting=0 filename=
+Mon Feb 07 2022 15:23:52.703671 - RendermodelManager: name=body inputRouting=0 filename=body.obj
+Mon Feb 07 2022 15:23:52.703698 - RendermodelManager: name=button inputRouting=1 filename=button.obj
+Mon Feb 07 2022 15:23:52.703715 - RendermodelManager: name=front inputRouting=0 filename=
+Mon Feb 07 2022 15:23:52.703732 - RendermodelManager: name=gdc2015 inputRouting=0 filename=
+Mon Feb 07 2022 15:23:52.703747 - RendermodelManager: name=grip inputRouting=0 filename=
+Mon Feb 07 2022 15:23:52.703762 - RendermodelManager: name=handgrip inputRouting=0 filename=
+Mon Feb 07 2022 15:23:52.703778 - RendermodelManager: name=led inputRouting=0 filename=led.obj
+Mon Feb 07 2022 15:23:52.703800 - RendermodelManager: name=lgrip inputRouting=1 filename=l_grip.obj
+Mon Feb 07 2022 15:23:52.703815 - RendermodelManager: name=openxr_handmodel inputRouting=0 filename=
+Mon Feb 07 2022 15:23:52.703830 - RendermodelManager: name=openxr_handmodel_r inputRouting=0 filename=
+Mon Feb 07 2022 15:23:52.703850 - RendermodelManager: name=rgrip inputRouting=1 filename=r_grip.obj
+Mon Feb 07 2022 15:23:52.703929 - RendermodelManager: name=scroll_wheel inputRouting=2 filename=scroll_wheel.obj
+Mon Feb 07 2022 15:23:52.703950 - RendermodelManager: name=status inputRouting=0 filename=status.obj
+Mon Feb 07 2022 15:23:52.703971 - RendermodelManager: name=sys_button inputRouting=1 filename=sys_button.obj
+Mon Feb 07 2022 15:23:52.703986 - RendermodelManager: name=tip inputRouting=0 filename=
+Mon Feb 07 2022 15:23:52.704011 - RendermodelManager: name=trackpad inputRouting=2 filename=trackpad.obj
+Mon Feb 07 2022 15:23:52.704027 - RendermodelManager: name=trackpad_scroll_cut inputRouting=0 filename=trackpad_scroll_cut.obj
+Mon Feb 07 2022 15:23:52.704050 - RendermodelManager: name=trackpad_touch inputRouting=2 filename=trackpad_touch.obj
+Mon Feb 07 2022 15:23:52.704120 - RendermodelManager: name=trigger inputRouting=2 filename=trigger.obj
+Mon Feb 07 2022 15:23:52.870288 - Enable advanced image processing of scene textures.
+Mon Feb 07 2022 15:23:52.887334 - Initializing CVulkanVRRenderer
+Mon Feb 07 2022 15:23:52.887415 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Mon Feb 07 2022 15:23:53.016836 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7f8395d61000.
+Mon Feb 07 2022 15:23:53.084531 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Mon Feb 07 2022 15:23:53.087285 - Created remote Vulkan image 0x2900008edc, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Mon Feb 07 2022 15:23:53.091209 - Created remote Vulkan image 0x2a00008edc, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Mon Feb 07 2022 15:23:53.096625 - Created remote Vulkan image 0x2b00008edc, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Mon Feb 07 2022 15:23:53.105745 - Created remote Vulkan image 0x2c00008edc, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Mon Feb 07 2022 15:23:53.111807 - Created remote Vulkan image 0x2e00008edc, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Mon Feb 07 2022 15:23:53.116602 - Created remote Vulkan image 0x3000008edc, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Mon Feb 07 2022 15:23:53.117145 - Unflushed events requested in CGpuTiming::GetDeltas!
+Mon Feb 07 2022 15:24:21.396639 - PropertyContainer: High lock acquisition counters: sp:100001 yd:1 re:0
+Mon Feb 07 2022 15:24:51.000495 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.000587 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.000948 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.000981 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.001371 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.001401 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.201840 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.201924 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.201971 - Lost connection to VR Server
+Mon Feb 07 2022 15:24:51.202035 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.202075 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.203559 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.203649 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.204357 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.204432 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.218423 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.218481 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.420484 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.420585 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.421135 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.421169 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.421429 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.421451 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.623267 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.623360 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.623881 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.623940 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.624715 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.624820 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.834492 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.834543 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.834581 - ClearSkyboxOverride
+Mon Feb 07 2022 15:24:51.834645 - VR_Shutdown called
+Mon Feb 07 2022 15:24:51.834766 - CIPCPipe::ConnectPipe(VR_ServerPipe_36558) attempting connect to steamvr:VR_ServerPipe_36558
+Mon Feb 07 2022 15:24:51.834795 - Unable to connect to pipe errno=111
+Mon Feb 07 2022 15:24:51.834853 - Failed to unref VRCompositor resource 0x2800008edc
+Mon Feb 07 2022 15:24:51.835763 - Failed to unref VRCompositor resource 0x100008edc
+Mon Feb 07 2022 15:24:51.835952 - Failed to unref VRCompositor resource 0x2900008edc
+Mon Feb 07 2022 15:24:51.836627 - Failed to unref VRCompositor resource 0x2a00008edc
+Mon Feb 07 2022 15:24:51.837299 - Failed to unref VRCompositor resource 0x2b00008edc
+Mon Feb 07 2022 15:24:51.837909 - Failed to unref VRCompositor resource 0x2c00008edc
+Mon Feb 07 2022 15:24:51.838521 - Failed to unref VRCompositor resource 0x2e00008edc
+Mon Feb 07 2022 15:24:51.839117 - Failed to unref VRCompositor resource 0x3000008edc
+Mon Feb 07 2022 15:24:51.869495 - Failed to unref VRCompositor resource 0x1a00008edc
+Mon Feb 07 2022 15:24:51.870247 - Failed to unref VRCompositor resource 0x1b00008edc
+Mon Feb 07 2022 15:24:51.870457 - Failed to unref VRCompositor resource 0x1c00008edc
+Mon Feb 07 2022 15:24:51.870613 - Failed to unref VRCompositor resource 0x1d00008edc
+Mon Feb 07 2022 15:24:51.870781 - Failed to unref VRCompositor resource 0x1e00008edc
+Mon Feb 07 2022 15:24:51.871039 - Failed to unref VRCompositor resource 0x1f00008edc
+Sat Mar 12 2022 22:40:54.871243 - //==============================================================================================
+Sat Mar 12 2022 22:40:54.876070 - ================================================================================================
+Sat Mar 12 2022 22:40:54.876165 - ================================================================================================
+Sat Mar 12 2022 22:40:54.876246 - steamtours 1.21.11 startup with PID=86302, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Mar 12 2022 22:40:54.876422 - vrclient type=VRApplication_Scene
+Sat Mar 12 2022 22:40:54.878504 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:40:54.878668 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:40:54.878814 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:40:54.878979 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:40:54.879522 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:40:54.880811 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Mar 12 2022 22:40:54.898370 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Mar 12 2022 22:40:54.898510 - CSharedResourceNamespaceClient::Init(): received namespace data 86225
+Sat Mar 12 2022 22:40:54.898586 - CIPCPipe::ConnectPipe(VR_ServerPipe_86225) attempting connect to steamvr:VR_ServerPipe_86225
+Sat Mar 12 2022 22:40:54.905168 - Received success response from vrserver connect
+Sat Mar 12 2022 22:40:54.908741 - App key after connect message:openvr.tool.steamvr_environments
+Sat Mar 12 2022 22:40:54.919160 - CIPCPipe::ConnectPipe(VR_CompositorPipe_86225) attempting connect to steamvr:VR_CompositorPipe_86225
+Sat Mar 12 2022 22:40:54.919607 - Received success response from vrcompositor connect
+Sat Mar 12 2022 22:40:54.919687 - Initializing the limited version of CVRCompositorClient
+Sat Mar 12 2022 22:40:54.926377 - Attempting to load initial input config
+Sat Mar 12 2022 22:40:54.929902 - Failed to find device container 100000001. Waiting some more.
+Sat Mar 12 2022 22:40:55.034471 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Mar 12 2022 22:40:55.034706 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Mar 12 2022 22:40:55.035181 - Item /user/hand/left/input/skeleton/left in "skeleton" array missing path invalid device path for skeleton output
+Sat Mar 12 2022 22:40:55.035232 - Item /user/hand/right/input/skeleton/right in "skeleton" array missing path invalid device path for skeleton output
+Sat Mar 12 2022 22:40:55.035471 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Mar 12 2022 22:40:55.035636 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Mar 12 2022 22:40:55.037390 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Mar 12 2022 22:40:55.037434 - Unable to init filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Mar 12 2022 22:40:55.037459 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Mar 12 2022 22:40:55.037475 - Unable to init filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Mar 12 2022 22:40:55.037493 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Mar 12 2022 22:40:55.037506 - Unable to init filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Mar 12 2022 22:40:55.037523 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Mar 12 2022 22:40:55.037536 - Unable to init filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Mar 12 2022 22:40:55.039256 - After initial config load, app appears to not be using SteamVR Input
+Sat Mar 12 2022 22:40:55.069010 - Started /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper.sh with pid 86536
+Sat Mar 12 2022 22:40:55.085047 - Failed to find interface 'IXrProto_001'
+Sat Mar 12 2022 22:40:55.088399 - Action Manifest Path set to /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/steamtours/cfg/actions.json
+Sat Mar 12 2022 22:40:55.088873 - Capturing Scene Focus
+Sat Mar 12 2022 22:40:55.088985 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:40:55.089017 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:40:55.089042 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:40:55.089948 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:40:55.089989 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:40:55.090013 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:40:56.262513 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sat Mar 12 2022 22:40:56.265372 - Optional vulkan device extension is unavailable: VK_EXT_debug_marker
+Sat Mar 12 2022 22:40:58.616589 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:40:58.616690 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:40:58.616732 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:01.642384 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Mar 12 2022 22:41:01.642496 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Mar 12 2022 22:41:01.642631 - Item /user/hand/left/input/skeleton/left in "skeleton" array missing path invalid device path for skeleton output
+Sat Mar 12 2022 22:41:01.642661 - Item /user/hand/right/input/skeleton/right in "skeleton" array missing path invalid device path for skeleton output
+Sat Mar 12 2022 22:41:01.642815 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Mar 12 2022 22:41:01.642938 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Mar 12 2022 22:41:01.643393 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Mar 12 2022 22:41:01.643413 - Unable to init filter trackpad_scroll__actions_scroll_discrete_1_user_hand_left_input_trackpad
+Sat Mar 12 2022 22:41:01.643429 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Mar 12 2022 22:41:01.643440 - Unable to init filter trackpad_scroll__actions_scroll_discrete_2_user_hand_right_input_trackpad
+Sat Mar 12 2022 22:41:01.643455 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Mar 12 2022 22:41:01.643466 - Unable to init filter trackpad_scroll__actions_scroll_smooth_1_user_hand_left_input_trackpad
+Sat Mar 12 2022 22:41:01.643480 - Unable to find input 'touch' in filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Mar 12 2022 22:41:01.643490 - Unable to init filter trackpad_scroll__actions_scroll_smooth_2_user_hand_right_input_trackpad
+Sat Mar 12 2022 22:41:01.795260 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:01.795358 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:01.795378 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:01.838886 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:01.839002 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:01.839049 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.353898 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.353978 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.354008 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.362486 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.362581 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.362604 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.374403 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.374469 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.374483 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.390432 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.390505 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.390528 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.422171 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.422241 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.422255 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.461466 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.461535 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.461553 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.521352 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.521431 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.521452 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.556954 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.557016 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.557036 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.655096 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.655188 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.655212 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.705128 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.705198 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.705218 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.723178 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.723261 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.723285 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.805173 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.805240 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.805258 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.828252 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.828335 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.828352 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.846474 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.846567 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.846601 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.857394 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.857469 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.857493 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.869473 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.869555 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.869567 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.892612 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.892759 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.892814 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.907243 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.907333 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.907356 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.957803 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.957915 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.957960 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:02.989406 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:02.989498 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:02.989538 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.024898 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.024983 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.025010 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.087988 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.088063 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.088083 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.111976 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.112074 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.112090 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.156121 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.156196 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.156213 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.356315 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.356382 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.356399 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.374091 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.374151 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.374168 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.491463 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.491517 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.491530 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.504647 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.504704 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.504717 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.519252 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.519391 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.519410 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.539379 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.539440 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.539459 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.560888 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.560975 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.560998 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.578134 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.578265 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.578310 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.593861 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.593974 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.593993 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.608549 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.608762 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.608783 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.626336 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.626414 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.626441 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.643709 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.643789 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.643806 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.660812 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.660861 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.660881 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.679744 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.679803 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.679816 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.691470 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.691528 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.691545 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.711101 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.711184 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.711198 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.728660 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.728727 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.728742 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.775475 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.775564 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.775579 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.789020 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.789081 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.789098 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.823380 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.823451 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.823468 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.910762 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.910868 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.910887 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.940190 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.940264 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.940285 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:03.975459 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:03.975586 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:03.975602 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.044282 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.044364 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.044380 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.056863 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.056947 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.056962 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.072952 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.073038 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.073061 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.091344 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.091414 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.091432 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.129641 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.129713 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.129729 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.148175 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.148329 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.148360 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.161572 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.161664 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.161689 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.181705 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.181804 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.181825 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.193327 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.193395 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.193418 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.208505 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.208591 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.208610 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.223814 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.223893 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.223918 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.240598 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.240680 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.240700 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.258345 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.258431 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.258454 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.285289 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.285395 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.285416 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.296083 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.296209 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.296229 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.308130 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.308211 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.308230 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.328387 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.328542 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.328567 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.404426 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.404514 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.404537 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.421021 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.421089 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.421107 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.538080 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.538142 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.538155 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.547391 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.547478 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.547493 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.564702 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.564833 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.564870 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.672080 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.672474 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.672752 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.716867 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.716955 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.716983 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.725329 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.725428 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.725473 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.741906 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.741986 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.742009 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.760258 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.760331 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.760349 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.784417 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.784469 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.784490 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.793451 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.793542 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.793563 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.810407 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.810503 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.810521 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.824499 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.824564 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.824583 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.856247 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.856339 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.856360 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.859623 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.859700 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.859719 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.878444 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.878524 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.878540 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.901580 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.901658 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.901682 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.910928 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.911013 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.911034 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.924027 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.924109 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.924139 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.941947 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.942048 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.942069 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.959265 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.959346 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.959365 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.996292 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.996383 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.996398 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:04.999347 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:04.999438 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:04.999454 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:05.007458 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:05.007546 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:05.007602 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:05.170931 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:05.170983 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:05.170997 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:05.198295 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:05.198393 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:05.198423 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:06.046392 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Sat Mar 12 2022 22:41:06.046561 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Sat Mar 12 2022 22:41:06.046582 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Sat Mar 12 2022 22:41:06.062788 - Previous frame overflowed per-device vector by 8 actions (to 72 total) Bumping up the high water mark.
+Sat Mar 12 2022 22:41:06.090797 - RendermodelManager: Reading data from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/vr_controller_vive_1_5.json
+Sat Mar 12 2022 22:41:06.090889 - RendermodelManager: name=base inputRouting=0 filename=
+Sat Mar 12 2022 22:41:06.090916 - RendermodelManager: name=body inputRouting=0 filename=body.obj
+Sat Mar 12 2022 22:41:06.090953 - RendermodelManager: name=button inputRouting=1 filename=button.obj
+Sat Mar 12 2022 22:41:06.090992 - RendermodelManager: name=front inputRouting=0 filename=
+Sat Mar 12 2022 22:41:06.091015 - RendermodelManager: name=gdc2015 inputRouting=0 filename=
+Sat Mar 12 2022 22:41:06.091034 - RendermodelManager: name=grip inputRouting=0 filename=
+Sat Mar 12 2022 22:41:06.091052 - RendermodelManager: name=handgrip inputRouting=0 filename=
+Sat Mar 12 2022 22:41:06.091072 - RendermodelManager: name=led inputRouting=0 filename=led.obj
+Sat Mar 12 2022 22:41:06.091099 - RendermodelManager: name=lgrip inputRouting=1 filename=l_grip.obj
+Sat Mar 12 2022 22:41:06.091121 - RendermodelManager: name=openxr_handmodel inputRouting=0 filename=
+Sat Mar 12 2022 22:41:06.091140 - RendermodelManager: name=openxr_handmodel_r inputRouting=0 filename=
+Sat Mar 12 2022 22:41:06.091165 - RendermodelManager: name=rgrip inputRouting=1 filename=r_grip.obj
+Sat Mar 12 2022 22:41:06.091272 - RendermodelManager: name=scroll_wheel inputRouting=2 filename=scroll_wheel.obj
+Sat Mar 12 2022 22:41:06.091298 - RendermodelManager: name=status inputRouting=0 filename=status.obj
+Sat Mar 12 2022 22:41:06.091318 - RendermodelManager: name=sys_button inputRouting=1 filename=sys_button.obj
+Sat Mar 12 2022 22:41:06.091334 - RendermodelManager: name=tip inputRouting=0 filename=
+Sat Mar 12 2022 22:41:06.091362 - RendermodelManager: name=trackpad inputRouting=2 filename=trackpad.obj
+Sat Mar 12 2022 22:41:06.091380 - RendermodelManager: name=trackpad_scroll_cut inputRouting=0 filename=trackpad_scroll_cut.obj
+Sat Mar 12 2022 22:41:06.091407 - RendermodelManager: name=trackpad_touch inputRouting=2 filename=trackpad_touch.obj
+Sat Mar 12 2022 22:41:06.091480 - RendermodelManager: name=trigger inputRouting=2 filename=trigger.obj
+Sat Mar 12 2022 22:41:06.344284 - Enable advanced image processing of scene textures.
+Sat Mar 12 2022 22:41:06.373631 - Initializing CVulkanVRRenderer
+Sat Mar 12 2022 22:41:06.373726 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Sat Mar 12 2022 22:41:06.518077 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7f1cf4ac2000.
+Sat Mar 12 2022 22:41:06.698860 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Sat Mar 12 2022 22:41:06.703209 - Created remote Vulkan image 0x2b000150db, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Mar 12 2022 22:41:06.788943 - Created remote Vulkan image 0x2c000150db, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Mar 12 2022 22:41:06.802308 - Created remote Vulkan image 0x2d000150db, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Mar 12 2022 22:41:06.823858 - Created remote Vulkan image 0x2e000150db, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Mar 12 2022 22:41:06.835667 - Created remote Vulkan image 0x2f000150db, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Mar 12 2022 22:41:06.839542 - Created remote Vulkan image 0x30000150db, dimensions 2562 x 2850, format 43, memory size 7 and memory type 7.
+Sat Mar 12 2022 22:41:06.839874 - Unflushed events requested in CGpuTiming::GetDeltas!
+Sat Mar 12 2022 22:42:19.562648 - PropertyContainer: High lock acquisition counters: sp:100001 yd:1 re:0
+Sat Mar 12 2022 22:42:55.139148 - ClearSkyboxOverride
+Sat Mar 12 2022 22:42:55.139341 - VR_Shutdown called

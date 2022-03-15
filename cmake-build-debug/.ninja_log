@@ -1,0 +1,10 @@
+# ninja log v5
+2	389	1638622312481049008	OpenVR/samples/driver_sample/CMakeFiles/driver_sample.dir/cserverdriver_sample.cpp.o	a8f99085e64f74d0
+1	432	1638626036205594896	OpenVR/samples/driver_sample/CMakeFiles/driver_sample.dir/csampledevicedriver.cpp.o	b54ab3c3632f6c3a
+1	469	1638622312557048586	OpenVR/samples/driver_sample/CMakeFiles/driver_sample.dir/driver_sample.cpp.o	a0ddad458da0bb45
+2	408	1638626036181595043	OpenVR/samples/driver_sample/CMakeFiles/driver_sample.dir/basics.cpp.o	3f1285eb46edb372
+2	534	1638626036305594285	OpenVR/samples/driver_sample/CMakeFiles/driver_sample.dir/cwatchdogdriver_sample.cpp.o	71a24d124807f254
+1	250	1638622793201990265	OpenVR/samples/driver_sample/CMakeFiles/driver_sample.dir/__/__/__/Test/TEst1.cpp.o	57d584f61dbcb724
+4	428	1638626645757881882	OpenVR/samples/driver_sample/CMakeFiles/driver_sample.dir/csamplecontrollerdriver.cpp.o	fecf05eeb7f659f7
+1	293	1638622312381049561	OpenVR/samples/driver_sample/CMakeFiles/driver_sample.dir/driverlog.cpp.o	78b674710577195e
+428	564	1638626645893881055	OpenVR/samples/driver_sample/driver_sample.so	73002c8dc5f97a3e

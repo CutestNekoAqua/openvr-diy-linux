@@ -207,55 +207,55 @@ vr::DriverPose_t CSampleDeviceDriver::GetPose()
     pose.qDriverFromHeadRotation = HmdQuaternion_Init(1, 0, 0, 0);
 
     //Simple change yaw, pitch, roll with numpad keys
-    if ((GetAsyncKeyState(VK_NUMPAD3) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_NUMPAD3) != 0) {
         yaw += 0.01;
     }
-    if ((GetAsyncKeyState(VK_NUMPAD1) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_NUMPAD1) != 0) {
         yaw += -0.01;
     }
 
-    if ((GetAsyncKeyState(VK_NUMPAD4) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_NUMPAD4) != 0) {
         pitch += 0.01;
     }
-    if ((GetAsyncKeyState(VK_NUMPAD6) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_NUMPAD6) != 0) {
         pitch += -0.01;
     }
 
-    if ((GetAsyncKeyState(VK_NUMPAD8) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_NUMPAD8) != 0) {
         roll += 0.01;
     }
-    if ((GetAsyncKeyState(VK_NUMPAD2) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_NUMPAD2) != 0) {
         roll += -0.01;
     }
 
-    if ((GetAsyncKeyState(VK_NUMPAD9) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_NUMPAD9) != 0) {
         yaw = 0;
         pitch = 0;
         roll = 0;
     }
 
-    if ((GetAsyncKeyState(VK_UP) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_UP) != 0) {
         pZ += -0.01;
     }
-    if ((GetAsyncKeyState(VK_DOWN) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_DOWN) != 0) {
         pZ += 0.01;
     }
 
-    if ((GetAsyncKeyState(VK_LEFT) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_LEFT) != 0) {
         pX += -0.01;
     }
-    if ((GetAsyncKeyState(VK_RIGHT) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_RIGHT) != 0) {
         pX += 0.01;
     }
 
-    if ((GetAsyncKeyState(VK_PRIOR) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_PRIOR) != 0) {
         pY += 0.01;
     }
-    if ((GetAsyncKeyState(VK_NEXT) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_NEXT) != 0) {
         pY += -0.01;
     }
 
-    if ((GetAsyncKeyState(VK_END) & 0x8000) != 0) {
+    if (GetAsyncKeyState(VK_END) != 0) {
         pX = 0;
         pY = 0;
         pZ = 0;

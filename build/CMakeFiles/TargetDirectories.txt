@@ -1,0 +1,14 @@
+/home/waterdev/hdd/openvr-driver-for-diy/build/CMakeFiles/install/strip.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/CMakeFiles/install/local.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/CMakeFiles/edit_cache.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/CMakeFiles/install.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/CMakeFiles/list_install_components.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/CMakeFiles/rebuild_cache.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/CMakeFiles/uncrustify.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/OpenVR/samples/driver_sample/CMakeFiles/install/strip.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/OpenVR/samples/driver_sample/CMakeFiles/install.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/OpenVR/samples/driver_sample/CMakeFiles/list_install_components.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/OpenVR/samples/driver_sample/CMakeFiles/rebuild_cache.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/OpenVR/samples/driver_sample/CMakeFiles/edit_cache.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/OpenVR/samples/driver_sample/CMakeFiles/install/local.dir
+/home/waterdev/hdd/openvr-driver-for-diy/build/OpenVR/samples/driver_sample/CMakeFiles/driver_sample.dir

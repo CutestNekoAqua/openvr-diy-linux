@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"OpenVR/samples/driver_sample/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 41,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 46,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "drivers/sample/bin/linux64",
+			"paths" : 
+			[
+				"OpenVR/samples/driver_sample/driver_sample.so"
+			],
+			"targetId" : "driver_sample::@b9bc51da2664c630bf6d",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "drivers/sample/resources/settings",
+			"paths" : 
+			[
+				"OpenVR/samples/driver_sample/default.vrsettings"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "OpenVR/samples/driver_sample",
+		"source" : "OpenVR/samples/driver_sample"
+	}
+}

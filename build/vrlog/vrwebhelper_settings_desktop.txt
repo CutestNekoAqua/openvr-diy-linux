@@ -1,0 +1,701 @@
+Thu Dec 02 2021 18:14:53.647379 - //==============================================================================================
+Thu Dec 02 2021 18:14:53.647436 - ================================================================================================
+Thu Dec 02 2021 18:14:53.647456 - ================================================================================================
+Thu Dec 02 2021 18:14:53.647489 - vrwebhelper 1.20.4 startup with PID=36218, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:14:55.780964 - Browser context created for browser "settings_desktop" (overlay key: "")
+Thu Dec 02 2021 18:14:55.781344 - Creating limited VRHTML object (No HMD present)
+Thu Dec 02 2021 18:14:55.788895 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:14:55.790435 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:14:55.868529 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Thu Dec 02 2021 18:14:55.869188 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Thu Dec 02 2021 18:14:55.869278 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Thu Dec 02 2021 18:14:55.869354 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Thu Dec 02 2021 18:14:55.885759 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Thu Dec 02 2021 18:14:55.893823 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Thu Dec 02 2021 18:14:56.074108 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Thu Dec 02 2021 18:14:56.088027 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:14:56.088677 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Thu Dec 02 2021 18:14:56.090568 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:31:06.566324 - Closing context.
+Do Dez 02 2021 18:35:02.719822 - //==============================================================================================
+Do Dez 02 2021 18:35:02.719884 - ================================================================================================
+Do Dez 02 2021 18:35:02.719903 - ================================================================================================
+Do Dez 02 2021 18:35:02.719935 - vrwebhelper 1.20.4 startup with PID=6767, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 18:35:04.895895 - Browser context created for browser "settings_desktop" (overlay key: "")
+Do Dez 02 2021 18:35:04.896985 - Creating limited VRHTML object (No HMD present)
+Do Dez 02 2021 18:35:04.903765 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Do Dez 02 2021 18:35:04.903853 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Do Dez 02 2021 18:35:04.979879 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Do Dez 02 2021 18:35:04.980792 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Do Dez 02 2021 18:35:04.980960 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Do Dez 02 2021 18:35:04.981075 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Do Dez 02 2021 18:35:04.997441 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Do Dez 02 2021 18:35:05.006003 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Do Dez 02 2021 18:35:05.222704 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Do Dez 02 2021 18:35:05.228090 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Do Dez 02 2021 18:35:05.229006 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Do Dez 02 2021 18:35:05.230779 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:49:00.487433 - //==============================================================================================
+Thu Dec 02 2021 18:49:00.487480 - ================================================================================================
+Thu Dec 02 2021 18:49:00.487500 - ================================================================================================
+Thu Dec 02 2021 18:49:00.487532 - vrwebhelper 1.20.4 startup with PID=13717, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:49:00.611986 - Browser context created for browser "settings_desktop" (overlay key: "")
+Thu Dec 02 2021 18:49:00.612414 - Creating limited VRHTML object (No HMD present)
+Thu Dec 02 2021 18:49:00.617517 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:49:00.619853 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:49:00.688482 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Thu Dec 02 2021 18:49:00.689074 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Thu Dec 02 2021 18:49:00.689160 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Thu Dec 02 2021 18:49:00.689228 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Thu Dec 02 2021 18:49:00.693337 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Thu Dec 02 2021 18:49:00.718357 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Thu Dec 02 2021 18:49:00.760731 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Thu Dec 02 2021 18:49:00.761147 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Thu Dec 02 2021 18:49:00.847483 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:49:00.852021 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 11:51:16.951142 - //==============================================================================================
+Sat Dec 04 2021 11:51:16.951365 - ================================================================================================
+Sat Dec 04 2021 11:51:16.951415 - ================================================================================================
+Sat Dec 04 2021 11:51:16.951483 - vrwebhelper 1.20.4 startup with PID=12167, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:51:19.148945 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 11:51:19.151866 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 11:51:19.155201 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 11:51:19.155398 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 11:51:19.230442 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 11:51:19.230995 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 11:51:19.231070 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 11:51:19.231144 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 11:51:19.236101 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 11:51:19.258112 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 11:51:19.491254 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 11:51:19.493684 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 11:51:19.494606 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 11:51:19.495903 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 11:54:22.223194 - //==============================================================================================
+Sat Dec 04 2021 11:54:22.223256 - ================================================================================================
+Sat Dec 04 2021 11:54:22.223280 - ================================================================================================
+Sat Dec 04 2021 11:54:22.223316 - vrwebhelper 1.20.4 startup with PID=13180, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:54:24.357540 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 11:54:24.358107 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 11:54:24.364293 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 11:54:24.365611 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 11:54:24.449768 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 11:54:24.450837 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 11:54:24.451024 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 11:54:24.451175 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 11:54:24.469015 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 11:54:24.472698 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 11:54:24.682067 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 11:54:24.683555 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 11:54:24.684757 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 11:54:24.706736 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:04:22.938922 - //==============================================================================================
+Sat Dec 04 2021 12:04:22.946337 - ================================================================================================
+Sat Dec 04 2021 12:04:22.946366 - ================================================================================================
+Sat Dec 04 2021 12:04:22.946400 - vrwebhelper 1.20.4 startup with PID=15218, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:04:25.125532 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 12:04:25.126148 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 12:04:25.133165 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:04:25.133768 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:04:25.195537 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 12:04:25.196231 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 12:04:25.196326 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 12:04:25.196402 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 12:04:25.200026 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 12:04:25.223301 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 12:04:25.423923 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 12:04:25.432017 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:04:25.433142 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 12:04:25.434042 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:14:21.300787 - //==============================================================================================
+Sat Dec 04 2021 12:14:21.300846 - ================================================================================================
+Sat Dec 04 2021 12:14:21.300876 - ================================================================================================
+Sat Dec 04 2021 12:14:21.300923 - vrwebhelper 1.20.4 startup with PID=16620, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:14:23.430914 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 12:14:23.431530 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 12:14:23.435957 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:14:23.436758 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:14:23.500286 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 12:14:23.500820 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 12:14:23.500915 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 12:14:23.500986 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 12:14:23.504320 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 12:14:23.531653 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 12:14:23.577479 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 12:14:23.577704 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 12:14:23.671390 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:14:23.676384 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:28:02.522116 - //==============================================================================================
+Sat Dec 04 2021 12:28:02.522157 - ================================================================================================
+Sat Dec 04 2021 12:28:02.522180 - ================================================================================================
+Sat Dec 04 2021 12:28:02.522206 - vrwebhelper 1.20.4 startup with PID=17515, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:28:02.569055 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 12:28:02.569823 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 12:28:02.575512 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:28:02.576259 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:28:02.643273 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 12:28:02.644121 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 12:28:02.644252 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 12:28:02.644350 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 12:28:02.669746 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 12:28:02.685516 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 12:28:02.713149 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 12:28:02.713264 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 12:28:02.801565 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:28:02.807500 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:28:08.466490 - //==============================================================================================
+Sat Dec 04 2021 13:28:08.482102 - ================================================================================================
+Sat Dec 04 2021 13:28:08.482154 - ================================================================================================
+Sat Dec 04 2021 13:28:08.482205 - vrwebhelper 1.20.4 startup with PID=25299, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:28:10.636708 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 13:28:10.637366 - Creating VRHML JS object
+Sat Dec 04 2021 13:28:10.643344 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:28:10.648023 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:28:10.801821 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 13:28:10.801958 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 13:28:10.802591 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 13:28:10.802686 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 13:28:10.860269 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 13:28:10.866613 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 13:28:11.171144 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 13:28:11.174188 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sat Dec 04 2021 13:28:11.175063 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:28:11.207508 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:28:11.306826 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:28:42.245895 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_binding_manager/vrwebhelper_settings_desktop_3...
+Sat Dec 04 2021 13:29:15.899664 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_binding_manager/vrwebhelper_settings_desktop_4...
+Sat Dec 04 2021 13:31:50.124817 - //==============================================================================================
+Sat Dec 04 2021 13:31:50.124875 - ================================================================================================
+Sat Dec 04 2021 13:31:50.124893 - ================================================================================================
+Sat Dec 04 2021 13:31:50.124926 - vrwebhelper 1.20.4 startup with PID=26803, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:31:52.254105 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 13:31:52.254583 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 13:31:52.263608 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:31:52.264302 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:31:52.370471 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 13:31:52.371253 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 13:31:52.371425 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 13:31:52.371543 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 13:31:52.388216 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 13:31:52.397839 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 13:31:52.614962 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 13:31:52.624217 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:31:52.625241 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:31:52.628789 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:34:16.774886 - //==============================================================================================
+Sat Dec 04 2021 13:34:16.774946 - ================================================================================================
+Sat Dec 04 2021 13:34:16.774967 - ================================================================================================
+Sat Dec 04 2021 13:34:16.775004 - vrwebhelper 1.20.4 startup with PID=27339, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:34:18.905056 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 13:34:18.905561 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 13:34:18.912024 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:34:18.912733 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:34:18.990933 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 13:34:18.992060 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 13:34:18.992237 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 13:34:18.992377 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 13:34:19.013698 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 13:34:19.038071 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 13:34:19.245038 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 13:34:19.259498 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:34:19.260600 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:34:19.263895 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:37:42.413831 - //==============================================================================================
+Sat Dec 04 2021 13:37:42.413885 - ================================================================================================
+Sat Dec 04 2021 13:37:42.413906 - ================================================================================================
+Sat Dec 04 2021 13:37:42.413954 - vrwebhelper 1.20.4 startup with PID=28417, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:37:44.602575 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 13:37:44.603205 - Creating VRHML JS object
+Sat Dec 04 2021 13:37:44.612616 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:37:44.614065 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:37:44.754489 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 13:37:44.754649 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 13:37:44.754761 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 13:37:44.755584 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 13:37:44.794285 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 13:37:44.801487 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 13:37:45.070822 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 13:37:45.072781 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sat Dec 04 2021 13:37:45.073456 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:37:45.074469 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:37:45.100214 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:38:58.092099 - Closing context.
+Sat Dec 04 2021 13:39:34.974152 - //==============================================================================================
+Sat Dec 04 2021 13:39:34.974196 - ================================================================================================
+Sat Dec 04 2021 13:39:34.974209 - ================================================================================================
+Sat Dec 04 2021 13:39:34.974235 - vrwebhelper 1.20.4 startup with PID=29634, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:39:37.103744 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 13:39:37.104266 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 13:39:37.108890 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:39:37.110646 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:39:37.194777 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 13:39:37.195581 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 13:39:37.195726 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 13:39:37.195858 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 13:39:37.209403 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 13:39:37.218366 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 13:39:37.447825 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 13:39:37.449857 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:39:37.450991 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:39:37.452110 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:52:35.697037 - //==============================================================================================
+Sat Dec 04 2021 13:52:35.697121 - ================================================================================================
+Sat Dec 04 2021 13:52:35.697146 - ================================================================================================
+Sat Dec 04 2021 13:52:35.697192 - vrwebhelper 1.20.4 startup with PID=31359, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:52:35.756606 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 13:52:35.756905 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 13:52:35.763074 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:52:35.763721 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:52:35.842256 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 13:52:35.843239 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 13:52:35.843409 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 13:52:35.843548 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 13:52:35.868052 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 13:52:35.884486 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 13:52:36.011718 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 13:52:36.022941 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:52:36.023886 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:52:36.027513 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:29:06.796165 - //==============================================================================================
+Sat Dec 04 2021 14:29:06.796220 - ================================================================================================
+Sat Dec 04 2021 14:29:06.796240 - ================================================================================================
+Sat Dec 04 2021 14:29:06.796275 - vrwebhelper 1.20.4 startup with PID=36076, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:29:08.990598 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 14:29:08.991286 - Creating VRHML JS object
+Sat Dec 04 2021 14:29:08.997674 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:29:09.001991 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:29:09.134229 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 14:29:09.134377 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:29:09.134487 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 14:29:09.135398 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 14:29:09.178871 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 14:29:09.191629 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:29:09.406033 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:29:09.490907 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sat Dec 04 2021 14:29:09.491368 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:29:09.492271 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:29:09.576362 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:29.971321 - Closing context.
+Sat Dec 04 2021 14:34:45.217356 - //==============================================================================================
+Sat Dec 04 2021 14:34:45.217418 - ================================================================================================
+Sat Dec 04 2021 14:34:45.217438 - ================================================================================================
+Sat Dec 04 2021 14:34:45.217472 - vrwebhelper 1.20.4 startup with PID=38503, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:34:47.367649 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 14:34:47.368205 - Creating VRHML JS object
+Sat Dec 04 2021 14:34:47.380112 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:47.380215 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:47.476653 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 14:34:47.476825 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:34:47.476973 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 14:34:47.477100 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 14:34:47.516598 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 14:34:47.517814 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:34:47.641118 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:34:47.660675 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sat Dec 04 2021 14:34:47.661208 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:47.665814 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:34:47.688990 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:36:17.026784 - //==============================================================================================
+Sat Dec 04 2021 14:36:17.026829 - ================================================================================================
+Sat Dec 04 2021 14:36:17.026848 - ================================================================================================
+Sat Dec 04 2021 14:36:17.026880 - vrwebhelper 1.20.4 startup with PID=39975, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:36:17.167913 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 14:36:17.168498 - Creating VRHML JS object
+Sat Dec 04 2021 14:36:17.173981 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:36:17.175057 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:36:17.317457 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 14:36:17.317699 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:36:17.317936 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 14:36:17.318136 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 14:36:17.329852 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:36:17.348259 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 14:36:18.152161 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:36:18.360151 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sat Dec 04 2021 14:36:18.360348 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:36:18.360749 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:36:18.360832 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:36:18.408968 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:36:19.651067 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:55:27.844493 - //==============================================================================================
+Sat Dec 04 2021 14:55:27.844544 - ================================================================================================
+Sat Dec 04 2021 14:55:27.844558 - ================================================================================================
+Sat Dec 04 2021 14:55:27.844584 - vrwebhelper 1.20.4 startup with PID=44157, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:55:27.962198 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 14:55:27.962959 - Creating VRHML JS object
+Sat Dec 04 2021 14:55:27.969643 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:55:27.971183 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:55:28.074181 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 14:55:28.074309 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:55:28.074399 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 14:55:28.074474 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 14:55:28.174660 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 14:55:28.479700 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:55:28.779371 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:55:28.789171 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sat Dec 04 2021 14:55:28.795778 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:55:29.197143 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:55:29.197392 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:55:29.202842 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:55:30.344738 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:57:52.027948 - //==============================================================================================
+Sat Dec 04 2021 14:57:52.028099 - ================================================================================================
+Sat Dec 04 2021 14:57:52.028120 - ================================================================================================
+Sat Dec 04 2021 14:57:52.028149 - vrwebhelper 1.20.4 startup with PID=45748, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:57:52.290592 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 14:57:52.291168 - Creating VRHML JS object
+Sat Dec 04 2021 14:57:52.306587 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:52.306691 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:52.392615 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 14:57:52.393313 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:57:52.393450 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 14:57:52.393529 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 14:57:52.477756 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 14:57:52.477950 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:57:52.964219 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:57:52.991195 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sat Dec 04 2021 14:57:52.991572 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:53.125560 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:57:53.125694 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:57:53.315694 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:54.664468 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:02:56.219299 - //==============================================================================================
+Sat Dec 04 2021 15:02:56.219731 - ================================================================================================
+Sat Dec 04 2021 15:02:56.219765 - ================================================================================================
+Sat Dec 04 2021 15:02:56.219812 - vrwebhelper 1.20.4 startup with PID=47890, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:02:56.346588 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 15:02:56.347177 - Creating VRHML JS object
+Sat Dec 04 2021 15:02:56.396331 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:02:56.396431 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:02:56.494102 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 15:02:56.494224 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 15:02:56.494329 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 15:02:56.494427 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 15:02:56.501333 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 15:02:56.559609 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 15:02:57.880524 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 15:02:57.880783 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sat Dec 04 2021 15:02:57.881493 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:02:57.881583 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:02:59.129733 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:30:20.815357 - //==============================================================================================
+Sat Dec 04 2021 15:30:20.824686 - ================================================================================================
+Sat Dec 04 2021 15:30:20.824737 - ================================================================================================
+Sat Dec 04 2021 15:30:20.824783 - vrwebhelper 1.20.4 startup with PID=8565, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:30:20.919828 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 15:30:20.921995 - Creating VRHML JS object
+Sat Dec 04 2021 15:30:21.068007 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:30:21.081651 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:30:22.505019 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 15:30:22.507992 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 15:30:22.508174 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 15:30:22.508271 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 15:30:23.401501 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 15:30:23.401670 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 15:30:23.525040 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 15:30:23.532280 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sat Dec 04 2021 15:30:23.633982 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:30:26.421144 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:40:02.290135 - //==============================================================================================
+Sat Dec 04 2021 15:40:02.290223 - ================================================================================================
+Sat Dec 04 2021 15:40:02.290290 - ================================================================================================
+Sat Dec 04 2021 15:40:02.290330 - vrwebhelper 1.20.4 startup with PID=15674, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:40:04.465825 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Dec 04 2021 15:40:04.466599 - Creating VRHML JS object
+Sat Dec 04 2021 15:40:04.473644 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:40:04.474764 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:40:04.583836 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sat Dec 04 2021 15:40:04.584496 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 15:40:04.584727 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Dec 04 2021 15:40:04.584851 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 15:40:04.606120 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 15:40:04.622799 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 15:40:04.823152 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 15:40:04.840173 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sat Dec 04 2021 15:40:04.846156 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:40:04.851274 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:40:04.917683 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sun Dec 26 2021 14:47:36.780820 - //==============================================================================================
+Sun Dec 26 2021 14:47:36.801656 - ================================================================================================
+Sun Dec 26 2021 14:47:36.801696 - ================================================================================================
+Sun Dec 26 2021 14:47:36.801736 - vrwebhelper 1.20.4 startup with PID=25810, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sun Dec 26 2021 14:47:38.959399 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sun Dec 26 2021 14:47:38.962294 - Creating VRHML JS object
+Sun Dec 26 2021 14:47:38.975571 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sun Dec 26 2021 14:47:38.975722 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sun Dec 26 2021 14:47:39.082457 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sun Dec 26 2021 14:47:39.083379 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sun Dec 26 2021 14:47:39.083528 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sun Dec 26 2021 14:47:39.083602 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sun Dec 26 2021 14:47:39.093552 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sun Dec 26 2021 14:47:39.122618 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sun Dec 26 2021 14:47:39.285216 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sun Dec 26 2021 14:47:39.288286 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sun Dec 26 2021 14:47:39.325910 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sun Dec 26 2021 14:47:39.327001 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sun Dec 26 2021 14:47:39.344447 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sun Dec 26 2021 15:08:04.642920 - //==============================================================================================
+Sun Dec 26 2021 15:08:04.649656 - ================================================================================================
+Sun Dec 26 2021 15:08:04.649699 - ================================================================================================
+Sun Dec 26 2021 15:08:04.649750 - vrwebhelper 1.20.4 startup with PID=31635, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sun Dec 26 2021 15:08:04.843971 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sun Dec 26 2021 15:08:04.844683 - Creating VRHML JS object
+Sun Dec 26 2021 15:08:04.852053 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sun Dec 26 2021 15:08:04.883647 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sun Dec 26 2021 15:08:04.993046 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings/desktop...
+Sun Dec 26 2021 15:08:04.993211 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sun Dec 26 2021 15:08:04.993682 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sun Dec 26 2021 15:08:04.994018 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sun Dec 26 2021 15:08:05.004454 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sun Dec 26 2021 15:08:05.390869 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sun Dec 26 2021 15:08:05.395641 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sun Dec 26 2021 15:08:05.395946 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=53796bcd6c71bd330452:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sun Dec 26 2021 15:08:05.396093 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sun Dec 26 2021 15:08:05.396329 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sun Dec 26 2021 15:08:05.396454 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sun Dec 26 2021 15:08:06.271682 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sun Dec 26 2021 15:08:07.283292 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Mar 12 2022 22:41:03.659993 - //==============================================================================================
+Sat Mar 12 2022 22:41:03.699076 - ================================================================================================
+Sat Mar 12 2022 22:41:03.699121 - ================================================================================================
+Sat Mar 12 2022 22:41:03.699180 - vrwebhelper 1.21.11 startup with PID=86994, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Mar 12 2022 22:41:05.944487 - Browser context created for browser "settings_desktop" (overlay key: "")
+Sat Mar 12 2022 22:41:05.945070 - Creating VRHML JS object
+Sat Mar 12 2022 22:41:05.953538 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:05.954083 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:06.084981 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=f095100ef0961500ab3a:4:
+| Connecting vrmailbox settings/desktop...
+Sat Mar 12 2022 22:41:06.086040 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Connecting vrsettings...
+Sat Mar 12 2022 22:41:06.086231 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=f095100ef0961500ab3a:4:
+| Connecting vrmailbox input_state/vrwebhelper_settings_desktop_1...
+Sat Mar 12 2022 22:41:06.086399 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Connecting vrsystem...
+Sat Mar 12 2022 22:41:06.126164 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Websocket connected
+Sat Mar 12 2022 22:41:06.126727 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Mar 12 2022 22:41:06.369015 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Got vr settings schema
+Sat Mar 12 2022 22:41:06.395090 - Console message (Info) from http://localhost:27062/dashboard/settings_desktop.js?v=f095100ef0961500ab3a:4:
+| Connecting vrmailbox settings_controller_page/vrwebhelper_settings_desktop_2...
+Sat Mar 12 2022 22:41:06.395637 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:06.407300 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Got audio devices
+Sat Mar 12 2022 22:41:06.426708 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)

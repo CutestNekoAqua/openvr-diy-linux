@@ -1,0 +1,116 @@
+Sat Mar 12 2022 22:43:33.094215 - //==============================================================================================
+Sat Mar 12 2022 22:43:33.094322 - ================================================================================================
+Sat Mar 12 2022 22:43:33.094351 - ================================================================================================
+Sat Mar 12 2022 22:43:33.094394 - steam 1.21.11 startup with PID=70895, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Mar 12 2022 22:43:33.094507 - vrclient type=VRApplication_SteamWatchdog
+Sat Mar 12 2022 22:43:33.095950 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:43:33.096036 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:43:33.096116 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:43:33.096208 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:43:33.096566 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:43:33.097413 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Mar 12 2022 22:43:33.182392 - Watchdog namespace: 70895
+Sat Mar 12 2022 22:43:33.182742 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:43:33.182835 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:43:33.182937 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:43:33.183028 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:43:33.183369 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:43:33.184312 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Mar 12 2022 22:43:33.252428 - error VRInitError_Init_LowPowerWatchdogNotSupported when initing driver lighthouse from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/bin/linux32/driver_lighthouse.so.
+Sat Mar 12 2022 22:43:33.252522 - Unable to init watchdog mode for driver lighthouse: VRInitError_Init_LowPowerWatchdogNotSupported
+Sat Mar 12 2022 22:43:33.252826 - Unable to load driver oculus. Primary driver shared library not found on filesystem (for this architecture): /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/oculus/bin/linux32/driver_oculus.so.
+Sat Mar 12 2022 22:43:33.252864 - Unable to init watchdog mode for driver oculus: VRInitError_Init_FileNotFound
+Sat Mar 12 2022 22:43:33.253005 - Unable to load driver oculus_legacy. Primary driver shared library not found on filesystem (for this architecture): /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/oculus_legacy/bin/linux32/driver_oculus_legacy.so.
+Sat Mar 12 2022 22:43:33.253035 - Unable to init watchdog mode for driver oculus_legacy: VRInitError_Init_FileNotFound
+Sat Mar 12 2022 22:43:33.253154 - Unable to load driver sample. Primary driver shared library not found on filesystem (for this architecture): /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/bin/linux32/driver_sample.so.
+Sat Mar 12 2022 22:43:33.253191 - Unable to init watchdog mode for driver sample: VRInitError_Init_FileNotFound
+Sat Mar 12 2022 22:43:33.257855 - Could not create interface in driver gamepad from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/gamepad/bin/linux32/driver_gamepad.so.
+Sat Mar 12 2022 22:43:33.257918 - Unable to init watchdog mode for driver gamepad: VRInitError_Init_InterfaceNotFound
+Sat Mar 12 2022 22:43:33.257935 - No drivers were capable of being watchdogs. Failing init.
+Sun Mar 13 2022 11:25:22.048278 - //==============================================================================================
+Sun Mar 13 2022 11:25:22.050110 - ================================================================================================
+Sun Mar 13 2022 11:25:22.050137 - ================================================================================================
+Sun Mar 13 2022 11:25:22.050172 - steam 1.21.11 startup with PID=3429, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sun Mar 13 2022 11:25:22.050277 - vrclient type=VRApplication_SteamWatchdog
+Sun Mar 13 2022 11:25:22.051571 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sun Mar 13 2022 11:25:22.051657 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sun Mar 13 2022 11:25:22.051736 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sun Mar 13 2022 11:25:22.051821 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sun Mar 13 2022 11:25:22.052142 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sun Mar 13 2022 11:25:22.052864 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sun Mar 13 2022 11:25:22.114833 - Watchdog namespace: 3429
+Sun Mar 13 2022 11:25:22.115093 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sun Mar 13 2022 11:25:22.115176 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sun Mar 13 2022 11:25:22.115265 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sun Mar 13 2022 11:25:22.115351 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sun Mar 13 2022 11:25:22.115672 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sun Mar 13 2022 11:25:22.116421 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sun Mar 13 2022 11:25:22.182535 - error VRInitError_Init_LowPowerWatchdogNotSupported when initing driver lighthouse from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/bin/linux32/driver_lighthouse.so.
+Sun Mar 13 2022 11:25:22.182616 - Unable to init watchdog mode for driver lighthouse: VRInitError_Init_LowPowerWatchdogNotSupported
+Sun Mar 13 2022 11:25:22.183588 - Unable to load driver oculus. Primary driver shared library not found on filesystem (for this architecture): /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/oculus/bin/linux32/driver_oculus.so.
+Sun Mar 13 2022 11:25:22.183623 - Unable to init watchdog mode for driver oculus: VRInitError_Init_FileNotFound
+Sun Mar 13 2022 11:25:22.184498 - Unable to load driver oculus_legacy. Primary driver shared library not found on filesystem (for this architecture): /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/oculus_legacy/bin/linux32/driver_oculus_legacy.so.
+Sun Mar 13 2022 11:25:22.184530 - Unable to init watchdog mode for driver oculus_legacy: VRInitError_Init_FileNotFound
+Sun Mar 13 2022 11:25:22.185244 - Unable to load driver sample. Primary driver shared library not found on filesystem (for this architecture): /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/bin/linux32/driver_sample.so.
+Sun Mar 13 2022 11:25:22.185276 - Unable to init watchdog mode for driver sample: VRInitError_Init_FileNotFound
+Sun Mar 13 2022 11:25:22.196181 - Could not create interface in driver gamepad from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/gamepad/bin/linux32/driver_gamepad.so.
+Sun Mar 13 2022 11:25:22.196278 - Unable to init watchdog mode for driver gamepad: VRInitError_Init_InterfaceNotFound
+Sun Mar 13 2022 11:25:22.196314 - No drivers were capable of being watchdogs. Failing init.
+Mon Mar 14 2022 14:54:44.100325 - //==============================================================================================
+Mon Mar 14 2022 14:54:44.108408 - ================================================================================================
+Mon Mar 14 2022 14:54:44.108470 - ================================================================================================
+Mon Mar 14 2022 14:54:44.108535 - steam 1.21.11 startup with PID=3424, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Mon Mar 14 2022 14:54:44.108707 - vrclient type=VRApplication_SteamWatchdog
+Mon Mar 14 2022 14:54:44.111119 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Mon Mar 14 2022 14:54:44.111270 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Mon Mar 14 2022 14:54:44.111418 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Mon Mar 14 2022 14:54:44.111571 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Mon Mar 14 2022 14:54:44.112162 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Mon Mar 14 2022 14:54:44.113550 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Mon Mar 14 2022 14:54:44.184458 - Watchdog namespace: 3424
+Mon Mar 14 2022 14:54:44.184709 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Mon Mar 14 2022 14:54:44.184800 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Mon Mar 14 2022 14:54:44.184905 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Mon Mar 14 2022 14:54:44.185006 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Mon Mar 14 2022 14:54:44.185341 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Mon Mar 14 2022 14:54:44.186158 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Mon Mar 14 2022 14:54:44.258211 - error VRInitError_Init_LowPowerWatchdogNotSupported when initing driver lighthouse from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/bin/linux32/driver_lighthouse.so.
+Mon Mar 14 2022 14:54:44.258320 - Unable to init watchdog mode for driver lighthouse: VRInitError_Init_LowPowerWatchdogNotSupported
+Mon Mar 14 2022 14:54:44.260153 - Unable to load driver oculus. Primary driver shared library not found on filesystem (for this architecture): /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/oculus/bin/linux32/driver_oculus.so.
+Mon Mar 14 2022 14:54:44.260221 - Unable to init watchdog mode for driver oculus: VRInitError_Init_FileNotFound
+Mon Mar 14 2022 14:54:44.264205 - Unable to load driver oculus_legacy. Primary driver shared library not found on filesystem (for this architecture): /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/oculus_legacy/bin/linux32/driver_oculus_legacy.so.
+Mon Mar 14 2022 14:54:44.264274 - Unable to init watchdog mode for driver oculus_legacy: VRInitError_Init_FileNotFound
+Mon Mar 14 2022 14:54:44.265930 - Unable to load driver sample. Primary driver shared library not found on filesystem (for this architecture): /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/bin/linux32/driver_sample.so.
+Mon Mar 14 2022 14:54:44.265973 - Unable to init watchdog mode for driver sample: VRInitError_Init_FileNotFound
+Mon Mar 14 2022 14:54:44.287047 - Could not create interface in driver gamepad from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/gamepad/bin/linux32/driver_gamepad.so.
+Mon Mar 14 2022 14:54:44.287134 - Unable to init watchdog mode for driver gamepad: VRInitError_Init_InterfaceNotFound
+Mon Mar 14 2022 14:54:44.287163 - No drivers were capable of being watchdogs. Failing init.
+Tue Mar 15 2022 14:37:12.039790 - //==============================================================================================
+Tue Mar 15 2022 14:37:12.042166 - ================================================================================================
+Tue Mar 15 2022 14:37:12.042195 - ================================================================================================
+Tue Mar 15 2022 14:37:12.042235 - steam 1.21.11 startup with PID=3448, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Tue Mar 15 2022 14:37:12.042348 - vrclient type=VRApplication_SteamWatchdog
+Tue Mar 15 2022 14:37:12.043808 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Tue Mar 15 2022 14:37:12.043902 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Tue Mar 15 2022 14:37:12.043979 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Tue Mar 15 2022 14:37:12.044066 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Tue Mar 15 2022 14:37:12.044403 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Tue Mar 15 2022 14:37:12.045163 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Tue Mar 15 2022 14:37:12.109736 - Watchdog namespace: 3448
+Tue Mar 15 2022 14:37:12.110024 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Tue Mar 15 2022 14:37:12.110119 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Tue Mar 15 2022 14:37:12.110225 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Tue Mar 15 2022 14:37:12.110338 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Tue Mar 15 2022 14:37:12.110733 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Tue Mar 15 2022 14:37:12.111732 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Tue Mar 15 2022 14:37:12.180014 - error VRInitError_Init_LowPowerWatchdogNotSupported when initing driver lighthouse from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/bin/linux32/driver_lighthouse.so.
+Tue Mar 15 2022 14:37:12.180084 - Unable to init watchdog mode for driver lighthouse: VRInitError_Init_LowPowerWatchdogNotSupported
+Tue Mar 15 2022 14:37:12.180593 - Unable to load driver oculus. Primary driver shared library not found on filesystem (for this architecture): /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/oculus/bin/linux32/driver_oculus.so.
+Tue Mar 15 2022 14:37:12.180636 - Unable to init watchdog mode for driver oculus: VRInitError_Init_FileNotFound
+Tue Mar 15 2022 14:37:12.181537 - Unable to load driver oculus_legacy. Primary driver shared library not found on filesystem (for this architecture): /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/oculus_legacy/bin/linux32/driver_oculus_legacy.so.
+Tue Mar 15 2022 14:37:12.181575 - Unable to init watchdog mode for driver oculus_legacy: VRInitError_Init_FileNotFound
+Tue Mar 15 2022 14:37:12.182310 - Unable to load driver sample. Primary driver shared library not found on filesystem (for this architecture): /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/bin/linux32/driver_sample.so.
+Tue Mar 15 2022 14:37:12.182346 - Unable to init watchdog mode for driver sample: VRInitError_Init_FileNotFound
+Tue Mar 15 2022 14:37:12.189115 - Could not create interface in driver gamepad from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/gamepad/bin/linux32/driver_gamepad.so.
+Tue Mar 15 2022 14:37:12.189179 - Unable to init watchdog mode for driver gamepad: VRInitError_Init_InterfaceNotFound
+Tue Mar 15 2022 14:37:12.189201 - No drivers were capable of being watchdogs. Failing init.

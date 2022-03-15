@@ -1,0 +1,318 @@
+Sat Dec 04 2021 13:28:08.472497 - //==============================================================================================
+Sat Dec 04 2021 13:28:08.472542 - ================================================================================================
+Sat Dec 04 2021 13:28:08.472556 - ================================================================================================
+Sat Dec 04 2021 13:28:08.472579 - vrwebhelper 1.20.4 startup with PID=25310, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:28:08.472623 - vrclient type=VRApplication_WebHelper
+Sat Dec 04 2021 13:28:08.473425 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:28:08.473481 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:28:08.473528 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:28:08.473575 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:28:08.473743 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:28:08.474151 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 13:28:08.491651 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:28:08.491783 - CSharedResourceNamespaceClient::Init(): received namespace data 24744
+Sat Dec 04 2021 13:28:08.491932 - CIPCPipe::ConnectPipe(VR_ServerPipe_24744) attempting connect to steamvr:VR_ServerPipe_24744
+Sat Dec 04 2021 13:28:08.494181 - Received success response from vrserver connect
+Sat Dec 04 2021 13:28:08.598693 - App key after connect message:
+Sat Dec 04 2021 13:28:08.644230 - CIPCPipe::ConnectPipe(VR_CompositorPipe_24744) attempting connect to steamvr:VR_CompositorPipe_24744
+Sat Dec 04 2021 13:28:08.644448 - Received success response from vrcompositor connect
+Sat Dec 04 2021 13:28:08.644469 - Initializing the limited version of CVRCompositorClient
+Sat Dec 04 2021 13:28:08.700002 - Invalid input type click for controller (/user/head/proximity)
+Sat Dec 04 2021 13:28:08.702148 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 04 2021 13:28:08.702551 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 04 2021 13:37:42.415784 - //==============================================================================================
+Sat Dec 04 2021 13:37:42.415864 - ================================================================================================
+Sat Dec 04 2021 13:37:42.415886 - ================================================================================================
+Sat Dec 04 2021 13:37:42.415920 - vrwebhelper 1.20.4 startup with PID=28424, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:37:42.415982 - vrclient type=VRApplication_WebHelper
+Sat Dec 04 2021 13:37:42.417047 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:37:42.417142 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:37:42.417222 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:37:42.417294 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:37:42.417586 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:37:42.418233 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 13:37:42.432119 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:37:42.432218 - CSharedResourceNamespaceClient::Init(): received namespace data 27855
+Sat Dec 04 2021 13:37:42.432268 - CIPCPipe::ConnectPipe(VR_ServerPipe_27855) attempting connect to steamvr:VR_ServerPipe_27855
+Sat Dec 04 2021 13:37:42.441069 - Received success response from vrserver connect
+Sat Dec 04 2021 13:37:42.447090 - App key after connect message:
+Sat Dec 04 2021 13:37:42.488382 - CIPCPipe::ConnectPipe(VR_CompositorPipe_27855) attempting connect to steamvr:VR_CompositorPipe_27855
+Sat Dec 04 2021 13:37:42.488750 - Received success response from vrcompositor connect
+Sat Dec 04 2021 13:37:42.488779 - Initializing the limited version of CVRCompositorClient
+Sat Dec 04 2021 13:37:42.546090 - Invalid input type click for controller (/user/head/proximity)
+Sat Dec 04 2021 13:37:42.547260 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 04 2021 13:37:42.547458 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 04 2021 13:53:10.081681 - //==============================================================================================
+Sat Dec 04 2021 13:53:10.081758 - ================================================================================================
+Sat Dec 04 2021 13:53:10.081781 - ================================================================================================
+Sat Dec 04 2021 13:53:10.081813 - vrwebhelper 1.20.4 startup with PID=31955, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:53:10.081873 - vrclient type=VRApplication_WebHelper
+Sat Dec 04 2021 13:53:10.082652 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:53:10.082706 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:53:10.082758 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:53:10.082810 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:53:10.082986 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 13:53:10.083424 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 13:53:10.097549 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:53:10.097634 - CSharedResourceNamespaceClient::Init(): received namespace data 31608
+Sat Dec 04 2021 13:53:10.097670 - CIPCPipe::ConnectPipe(VR_ServerPipe_31608) attempting connect to steamvr:VR_ServerPipe_31608
+Sat Dec 04 2021 13:53:10.100761 - Received success response from vrserver connect
+Sat Dec 04 2021 13:53:12.207819 - Timed out waiting for a good app key
+Sat Dec 04 2021 13:53:12.207906 - App key after connect message:steam.overlay.250820
+Sat Dec 04 2021 13:53:12.221348 - CIPCPipe::ConnectPipe(VR_CompositorPipe_31608) attempting connect to steamvr:VR_CompositorPipe_31608
+Sat Dec 04 2021 13:53:12.221704 - Received success response from vrcompositor connect
+Sat Dec 04 2021 13:53:12.221772 - Initializing the limited version of CVRCompositorClient
+Sat Dec 04 2021 13:53:12.244396 - Invalid input type click for controller (/user/head/proximity)
+Sat Dec 04 2021 13:53:12.247133 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 04 2021 13:53:12.247432 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 04 2021 14:29:06.800263 - //==============================================================================================
+Sat Dec 04 2021 14:29:06.800307 - ================================================================================================
+Sat Dec 04 2021 14:29:06.800325 - ================================================================================================
+Sat Dec 04 2021 14:29:06.800349 - vrwebhelper 1.20.4 startup with PID=36083, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:29:06.800400 - vrclient type=VRApplication_WebHelper
+Sat Dec 04 2021 14:29:06.801247 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:29:06.801307 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:29:06.801365 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:29:06.801437 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:29:06.801664 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:29:06.802175 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 14:29:06.815588 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:29:06.815661 - CSharedResourceNamespaceClient::Init(): received namespace data 35507
+Sat Dec 04 2021 14:29:06.815700 - CIPCPipe::ConnectPipe(VR_ServerPipe_35507) attempting connect to steamvr:VR_ServerPipe_35507
+Sat Dec 04 2021 14:29:06.819470 - Received success response from vrserver connect
+Sat Dec 04 2021 14:29:06.822183 - App key after connect message:
+Sat Dec 04 2021 14:29:06.865254 - CIPCPipe::ConnectPipe(VR_CompositorPipe_35507) attempting connect to steamvr:VR_CompositorPipe_35507
+Sat Dec 04 2021 14:29:06.865548 - Received success response from vrcompositor connect
+Sat Dec 04 2021 14:29:06.865600 - Initializing the limited version of CVRCompositorClient
+Sat Dec 04 2021 14:29:06.896137 - Invalid input type click for controller (/user/head/proximity)
+Sat Dec 04 2021 14:29:06.898781 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 04 2021 14:29:06.899161 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 04 2021 14:34:45.192316 - //==============================================================================================
+Sat Dec 04 2021 14:34:45.192362 - ================================================================================================
+Sat Dec 04 2021 14:34:45.192379 - ================================================================================================
+Sat Dec 04 2021 14:34:45.192401 - vrwebhelper 1.20.4 startup with PID=38505, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:34:45.192445 - vrclient type=VRApplication_WebHelper
+Sat Dec 04 2021 14:34:45.193770 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:34:45.193861 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:34:45.193934 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:34:45.194005 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:34:45.194222 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:34:45.194664 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 14:34:45.209459 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:34:45.209592 - CSharedResourceNamespaceClient::Init(): received namespace data 38146
+Sat Dec 04 2021 14:34:45.209692 - CIPCPipe::ConnectPipe(VR_ServerPipe_38146) attempting connect to steamvr:VR_ServerPipe_38146
+Sat Dec 04 2021 14:34:45.212619 - Received success response from vrserver connect
+Sat Dec 04 2021 14:34:45.316473 - App key after connect message:
+Sat Dec 04 2021 14:34:45.329433 - CIPCPipe::ConnectPipe(VR_CompositorPipe_38146) attempting connect to steamvr:VR_CompositorPipe_38146
+Sat Dec 04 2021 14:34:45.329757 - Received success response from vrcompositor connect
+Sat Dec 04 2021 14:34:45.329782 - Initializing the limited version of CVRCompositorClient
+Sat Dec 04 2021 14:34:45.357714 - Invalid input type click for controller (/user/head/proximity)
+Sat Dec 04 2021 14:34:45.359299 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 04 2021 14:34:45.360174 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 04 2021 14:36:17.090950 - //==============================================================================================
+Sat Dec 04 2021 14:36:17.090993 - ================================================================================================
+Sat Dec 04 2021 14:36:17.091010 - ================================================================================================
+Sat Dec 04 2021 14:36:17.091032 - vrwebhelper 1.20.4 startup with PID=39983, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:36:17.091079 - vrclient type=VRApplication_WebHelper
+Sat Dec 04 2021 14:36:17.091898 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:36:17.091960 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:36:17.092022 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:36:17.092079 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:36:17.092265 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:36:17.092942 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 14:36:17.111705 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:36:17.111893 - CSharedResourceNamespaceClient::Init(): received namespace data 39393
+Sat Dec 04 2021 14:36:17.111946 - CIPCPipe::ConnectPipe(VR_ServerPipe_39393) attempting connect to steamvr:VR_ServerPipe_39393
+Sat Dec 04 2021 14:36:17.136159 - Received success response from vrserver connect
+Sat Dec 04 2021 14:36:19.253889 - Timed out waiting for a good app key
+Sat Dec 04 2021 14:36:19.253983 - App key after connect message:steam.overlay.250820
+Sat Dec 04 2021 14:36:19.267492 - CIPCPipe::ConnectPipe(VR_CompositorPipe_39393) attempting connect to steamvr:VR_CompositorPipe_39393
+Sat Dec 04 2021 14:36:19.267874 - Received success response from vrcompositor connect
+Sat Dec 04 2021 14:36:19.267907 - Initializing the limited version of CVRCompositorClient
+Sat Dec 04 2021 14:36:19.315727 - Invalid input type click for controller (/user/head/proximity)
+Sat Dec 04 2021 14:36:19.316956 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 04 2021 14:36:19.317528 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 04 2021 14:55:27.856779 - //==============================================================================================
+Sat Dec 04 2021 14:55:27.856840 - ================================================================================================
+Sat Dec 04 2021 14:55:27.856861 - ================================================================================================
+Sat Dec 04 2021 14:55:27.856890 - vrwebhelper 1.20.4 startup with PID=44163, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:55:27.856951 - vrclient type=VRApplication_WebHelper
+Sat Dec 04 2021 14:55:27.858087 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:55:27.858168 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:55:27.858239 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:55:27.858311 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:55:27.858584 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:55:27.859207 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 14:55:27.877629 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:55:27.888288 - CSharedResourceNamespaceClient::Init(): received namespace data 43589
+Sat Dec 04 2021 14:55:27.888388 - CIPCPipe::ConnectPipe(VR_ServerPipe_43589) attempting connect to steamvr:VR_ServerPipe_43589
+Sat Dec 04 2021 14:55:27.899286 - Received success response from vrserver connect
+Sat Dec 04 2021 14:55:30.005571 - Timed out waiting for a good app key
+Sat Dec 04 2021 14:55:30.005696 - App key after connect message:steam.overlay.250820
+Sat Dec 04 2021 14:55:30.017459 - CIPCPipe::ConnectPipe(VR_CompositorPipe_43589) attempting connect to steamvr:VR_CompositorPipe_43589
+Sat Dec 04 2021 14:55:30.017813 - Received success response from vrcompositor connect
+Sat Dec 04 2021 14:55:30.017869 - Initializing the limited version of CVRCompositorClient
+Sat Dec 04 2021 14:55:30.039592 - Invalid input type click for controller (/user/head/proximity)
+Sat Dec 04 2021 14:55:30.040739 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 04 2021 14:55:30.040925 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 04 2021 14:57:52.209154 - //==============================================================================================
+Sat Dec 04 2021 14:57:52.209206 - ================================================================================================
+Sat Dec 04 2021 14:57:52.209224 - ================================================================================================
+Sat Dec 04 2021 14:57:52.209259 - vrwebhelper 1.20.4 startup with PID=45753, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:57:52.209310 - vrclient type=VRApplication_WebHelper
+Sat Dec 04 2021 14:57:52.210216 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:57:52.210281 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:57:52.210341 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:57:52.210401 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:57:52.210629 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 14:57:52.211175 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 14:57:52.225705 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:57:52.225798 - CSharedResourceNamespaceClient::Init(): received namespace data 45186
+Sat Dec 04 2021 14:57:52.225856 - CIPCPipe::ConnectPipe(VR_ServerPipe_45186) attempting connect to steamvr:VR_ServerPipe_45186
+Sat Dec 04 2021 14:57:52.228162 - Received success response from vrserver connect
+Sat Dec 04 2021 14:57:54.334070 - Timed out waiting for a good app key
+Sat Dec 04 2021 14:57:54.334173 - App key after connect message:steam.overlay.250820
+Sat Dec 04 2021 14:57:54.349808 - CIPCPipe::ConnectPipe(VR_CompositorPipe_45186) attempting connect to steamvr:VR_CompositorPipe_45186
+Sat Dec 04 2021 14:57:54.350140 - Received success response from vrcompositor connect
+Sat Dec 04 2021 14:57:54.350192 - Initializing the limited version of CVRCompositorClient
+Sat Dec 04 2021 14:57:54.373106 - Invalid input type click for controller (/user/head/proximity)
+Sat Dec 04 2021 14:57:54.374343 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 04 2021 14:57:54.374524 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 04 2021 15:02:56.223713 - //==============================================================================================
+Sat Dec 04 2021 15:02:56.223881 - ================================================================================================
+Sat Dec 04 2021 15:02:56.223900 - ================================================================================================
+Sat Dec 04 2021 15:02:56.223925 - vrwebhelper 1.20.4 startup with PID=47897, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:02:56.223977 - vrclient type=VRApplication_WebHelper
+Sat Dec 04 2021 15:02:56.224837 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:02:56.224898 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:02:56.224956 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:02:56.225016 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:02:56.225241 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:02:56.225778 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 15:02:56.237335 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 15:02:56.270180 - CSharedResourceNamespaceClient::Init(): received namespace data 47343
+Sat Dec 04 2021 15:02:56.270339 - CIPCPipe::ConnectPipe(VR_ServerPipe_47343) attempting connect to steamvr:VR_ServerPipe_47343
+Sat Dec 04 2021 15:02:56.279986 - Received success response from vrserver connect
+Sat Dec 04 2021 15:02:58.394186 - Timed out waiting for a good app key
+Sat Dec 04 2021 15:02:58.394289 - App key after connect message:steam.overlay.250820
+Sat Dec 04 2021 15:02:58.408803 - CIPCPipe::ConnectPipe(VR_CompositorPipe_47343) attempting connect to steamvr:VR_CompositorPipe_47343
+Sat Dec 04 2021 15:02:58.409123 - Received success response from vrcompositor connect
+Sat Dec 04 2021 15:02:58.409145 - Initializing the limited version of CVRCompositorClient
+Sat Dec 04 2021 15:02:58.505118 - Invalid input type click for controller (/user/head/proximity)
+Sat Dec 04 2021 15:02:58.506860 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 04 2021 15:02:58.507127 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 04 2021 15:05:04.753958 - PropertyContainer: High lock acquisition counters: sp:100001 yd:1 re:0
+Sat Dec 04 2021 15:21:26.430556 - PropertyContainer: High lock acquisition counters: sp:100002 yd:2 re:0
+Sat Dec 04 2021 15:22:38.101184 - PropertyContainer: High lock acquisition counters: sp:100001 yd:1 re:0
+Sat Dec 04 2021 15:30:20.820482 - //==============================================================================================
+Sat Dec 04 2021 15:30:20.829984 - ================================================================================================
+Sat Dec 04 2021 15:30:20.830008 - ================================================================================================
+Sat Dec 04 2021 15:30:20.830034 - vrwebhelper 1.20.4 startup with PID=8571, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:30:20.830098 - vrclient type=VRApplication_WebHelper
+Sat Dec 04 2021 15:30:20.831025 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:30:20.831083 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:30:20.831133 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:30:20.831181 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:30:20.831381 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:30:20.831913 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 15:30:20.849556 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 15:30:20.849697 - CSharedResourceNamespaceClient::Init(): received namespace data 7972
+Sat Dec 04 2021 15:30:20.849736 - CIPCPipe::ConnectPipe(VR_ServerPipe_7972) attempting connect to steamvr:VR_ServerPipe_7972
+Sat Dec 04 2021 15:30:20.853702 - Received success response from vrserver connect
+Sat Dec 04 2021 15:30:20.863925 - App key after connect message:
+Sat Dec 04 2021 15:30:20.927330 - CIPCPipe::ConnectPipe(VR_CompositorPipe_7972) attempting connect to steamvr:VR_CompositorPipe_7972
+Sat Dec 04 2021 15:30:20.928728 - Received success response from vrcompositor connect
+Sat Dec 04 2021 15:30:20.928761 - Initializing the limited version of CVRCompositorClient
+Sat Dec 04 2021 15:30:20.992826 - Invalid input type click for controller (/user/head/proximity)
+Sat Dec 04 2021 15:30:20.994528 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 04 2021 15:30:20.994761 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 04 2021 15:40:02.287772 - //==============================================================================================
+Sat Dec 04 2021 15:40:02.287829 - ================================================================================================
+Sat Dec 04 2021 15:40:02.287847 - ================================================================================================
+Sat Dec 04 2021 15:40:02.287878 - vrwebhelper 1.20.4 startup with PID=15676, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:40:02.287934 - vrclient type=VRApplication_WebHelper
+Sat Dec 04 2021 15:40:02.288956 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:40:02.289023 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:40:02.289084 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:40:02.289381 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:40:02.290022 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:40:02.290647 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 15:40:02.312941 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 15:40:02.313063 - CSharedResourceNamespaceClient::Init(): received namespace data 15114
+Sat Dec 04 2021 15:40:02.313109 - CIPCPipe::ConnectPipe(VR_ServerPipe_15114) attempting connect to steamvr:VR_ServerPipe_15114
+Sat Dec 04 2021 15:40:02.315820 - Received success response from vrserver connect
+Sat Dec 04 2021 15:40:02.420762 - App key after connect message:
+Sat Dec 04 2021 15:40:02.433913 - CIPCPipe::ConnectPipe(VR_CompositorPipe_15114) attempting connect to steamvr:VR_CompositorPipe_15114
+Sat Dec 04 2021 15:40:02.434242 - Received success response from vrcompositor connect
+Sat Dec 04 2021 15:40:02.434274 - Initializing the limited version of CVRCompositorClient
+Sat Dec 04 2021 15:40:02.464092 - Invalid input type click for controller (/user/head/proximity)
+Sat Dec 04 2021 15:40:02.465463 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 04 2021 15:40:02.465655 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Dec 04 2021 15:41:42.884456 - PropertyContainer: High lock acquisition counters: sp:100001 yd:1 re:0
+Sat Dec 11 2021 12:19:16.159063 - //==============================================================================================
+Sat Dec 11 2021 12:19:16.168902 - ================================================================================================
+Sat Dec 11 2021 12:19:16.168953 - ================================================================================================
+Sat Dec 11 2021 12:19:16.169016 - vrwebhelper 1.20.4 startup with PID=11689, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 11 2021 12:19:16.169155 - vrclient type=VRApplication_WebHelper
+Sat Dec 11 2021 12:19:16.170149 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:19:16.170226 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:19:16.170281 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:19:16.170336 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:19:16.170560 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:19:16.171085 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 11 2021 12:19:16.186548 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 11 2021 12:19:16.186619 - CSharedResourceNamespaceClient::Init(): received namespace data 11125
+Sat Dec 11 2021 12:19:16.186659 - CIPCPipe::ConnectPipe(VR_ServerPipe_11125) attempting connect to steamvr:VR_ServerPipe_11125
+Sat Dec 11 2021 12:19:16.188319 - Received success response from vrserver connect
+Sat Dec 11 2021 12:19:16.290923 - App key after connect message:
+Sat Dec 11 2021 12:19:16.310605 - CIPCPipe::ConnectPipe(VR_CompositorPipe_11125) attempting connect to steamvr:VR_CompositorPipe_11125
+Sat Dec 11 2021 12:19:16.310892 - Received success response from vrcompositor connect
+Sat Dec 11 2021 12:19:16.310918 - Initializing the limited version of CVRCompositorClient
+Sat Dec 11 2021 12:19:16.335983 - Invalid input type click for controller (/user/head/proximity)
+Sat Dec 11 2021 12:19:16.338017 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Dec 11 2021 12:19:16.338314 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sun Dec 26 2021 15:08:04.677938 - //==============================================================================================
+Sun Dec 26 2021 15:08:04.691142 - ================================================================================================
+Sun Dec 26 2021 15:08:04.691197 - ================================================================================================
+Sun Dec 26 2021 15:08:04.691234 - vrwebhelper 1.20.4 startup with PID=31644, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sun Dec 26 2021 15:08:04.691317 - vrclient type=VRApplication_WebHelper
+Sun Dec 26 2021 15:08:04.692363 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sun Dec 26 2021 15:08:04.692471 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sun Dec 26 2021 15:08:04.692535 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sun Dec 26 2021 15:08:04.692592 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sun Dec 26 2021 15:08:04.692838 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sun Dec 26 2021 15:08:04.693380 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sun Dec 26 2021 15:08:04.723497 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sun Dec 26 2021 15:08:04.723602 - CSharedResourceNamespaceClient::Init(): received namespace data 31278
+Sun Dec 26 2021 15:08:04.723665 - CIPCPipe::ConnectPipe(VR_ServerPipe_31278) attempting connect to steamvr:VR_ServerPipe_31278
+Sun Dec 26 2021 15:08:04.736913 - Received success response from vrserver connect
+Sun Dec 26 2021 15:08:06.852331 - Timed out waiting for a good app key
+Sun Dec 26 2021 15:08:06.852513 - App key after connect message:steam.overlay.250820
+Sun Dec 26 2021 15:08:06.871226 - CIPCPipe::ConnectPipe(VR_CompositorPipe_31278) attempting connect to steamvr:VR_CompositorPipe_31278
+Sun Dec 26 2021 15:08:06.871460 - Received success response from vrcompositor connect
+Sun Dec 26 2021 15:08:06.871478 - Initializing the limited version of CVRCompositorClient
+Sun Dec 26 2021 15:08:06.910161 - Invalid input type click for controller (/user/head/proximity)
+Sun Dec 26 2021 15:08:06.913229 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sun Dec 26 2021 15:08:06.913636 - Invalid input type touch for controller (/user/hand/right/input/trackpad)
+Sat Mar 12 2022 22:41:03.692779 - //==============================================================================================
+Sat Mar 12 2022 22:41:03.693006 - ================================================================================================
+Sat Mar 12 2022 22:41:03.693024 - ================================================================================================
+Sat Mar 12 2022 22:41:03.693043 - vrwebhelper 1.21.11 startup with PID=87007, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Mar 12 2022 22:41:03.693087 - vrclient type=VRApplication_WebHelper
+Sat Mar 12 2022 22:41:03.694015 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:41:03.694087 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:41:03.694152 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:41:03.694218 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:41:03.694437 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Mar 12 2022 22:41:03.694881 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Mar 12 2022 22:41:03.720062 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Mar 12 2022 22:41:03.720182 - CSharedResourceNamespaceClient::Init(): received namespace data 86225
+Sat Mar 12 2022 22:41:03.720248 - CIPCPipe::ConnectPipe(VR_ServerPipe_86225) attempting connect to steamvr:VR_ServerPipe_86225
+Sat Mar 12 2022 22:41:03.723596 - Received success response from vrserver connect
+Sat Mar 12 2022 22:41:03.827260 - App key after connect message:
+Sat Mar 12 2022 22:41:03.881992 - CIPCPipe::ConnectPipe(VR_CompositorPipe_86225) attempting connect to steamvr:VR_CompositorPipe_86225
+Sat Mar 12 2022 22:41:03.882316 - Received success response from vrcompositor connect
+Sat Mar 12 2022 22:41:03.882345 - Initializing the limited version of CVRCompositorClient
+Sat Mar 12 2022 22:41:03.902324 - Invalid input type click for controller (/user/head/proximity)
+Sat Mar 12 2022 22:41:03.903457 - Invalid input type touch for controller (/user/hand/left/input/trackpad)
+Sat Mar 12 2022 22:41:03.903653 - Invalid input type touch for controller (/user/hand/right/input/trackpad)

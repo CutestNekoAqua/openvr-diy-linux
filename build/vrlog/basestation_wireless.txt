@@ -1,0 +1,331 @@
+Thu Dec 02 2021 18:09:37.217679 - //==============================================================================================
+Thu Dec 02 2021 18:09:37.217786 - ================================================================================================
+Thu Dec 02 2021 18:09:37.217832 - ================================================================================================
+Thu Dec 02 2021 18:09:37.217879 - vrmonitor 1.20.4 startup with PID=35042, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:09:41.012548 - [Bluetooth Controller] BaseStation Controller Init.
+Thu Dec 02 2021 18:09:41.012592 - [Bluetooth Controller] Radio features: 0x00000000
+Thu Dec 02 2021 18:09:41.012920 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Thu Dec 02 2021 18:10:30.569696 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Thu Dec 02 2021 18:10:30.569796 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Thu Dec 02 2021 18:14:45.094950 - //==============================================================================================
+Thu Dec 02 2021 18:14:45.095022 - ================================================================================================
+Thu Dec 02 2021 18:14:45.095068 - ================================================================================================
+Thu Dec 02 2021 18:14:45.095121 - vrmonitor 1.20.4 startup with PID=35993, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:14:49.067996 - [Bluetooth Controller] BaseStation Controller Init.
+Thu Dec 02 2021 18:14:49.068026 - [Bluetooth Controller] Radio features: 0x00000000
+Thu Dec 02 2021 18:14:49.068249 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Thu Dec 02 2021 18:31:06.655490 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Thu Dec 02 2021 18:31:06.655518 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Do Dez 02 2021 18:33:13.613832 - //==============================================================================================
+Do Dez 02 2021 18:33:13.620299 - ================================================================================================
+Do Dez 02 2021 18:33:13.620341 - ================================================================================================
+Do Dez 02 2021 18:33:13.620387 - vrmonitor 1.20.4 startup with PID=4375, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 18:33:17.974145 - [Bluetooth Controller] BaseStation Controller Init.
+Do Dez 02 2021 18:33:17.974189 - [Bluetooth Controller] Radio features: 0x00000000
+Do Dez 02 2021 18:33:17.974481 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Do Dez 02 2021 18:33:22.274399 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Do Dez 02 2021 18:33:22.274430 - [Bluetooth Controller] Shutdown: Completed. (0,00 seconds)
+Do Dez 02 2021 18:34:53.828322 - //==============================================================================================
+Do Dez 02 2021 18:34:53.828382 - ================================================================================================
+Do Dez 02 2021 18:34:53.828398 - ================================================================================================
+Do Dez 02 2021 18:34:53.828420 - vrmonitor 1.20.4 startup with PID=6471, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Do Dez 02 2021 18:34:57.979177 - [Bluetooth Controller] BaseStation Controller Init.
+Do Dez 02 2021 18:34:57.979257 - [Bluetooth Controller] Radio features: 0x00000000
+Do Dez 02 2021 18:34:57.979687 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Do Dez 02 2021 18:35:09.845314 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Do Dez 02 2021 18:35:09.845354 - [Bluetooth Controller] Shutdown: Completed. (0,00 seconds)
+Thu Dec 02 2021 18:35:18.458862 - //==============================================================================================
+Thu Dec 02 2021 18:35:18.458924 - ================================================================================================
+Thu Dec 02 2021 18:35:18.458950 - ================================================================================================
+Thu Dec 02 2021 18:35:18.458981 - vrmonitor 1.20.4 startup with PID=7024, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:35:21.652895 - [Bluetooth Controller] BaseStation Controller Init.
+Thu Dec 02 2021 18:35:21.652926 - [Bluetooth Controller] Radio features: 0x00000000
+Thu Dec 02 2021 18:35:21.653176 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Thu Dec 02 2021 18:35:37.518692 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Thu Dec 02 2021 18:35:37.518719 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Thu Dec 02 2021 18:36:19.486466 - //==============================================================================================
+Thu Dec 02 2021 18:36:19.486512 - ================================================================================================
+Thu Dec 02 2021 18:36:19.486525 - ================================================================================================
+Thu Dec 02 2021 18:36:19.486542 - vrmonitor 1.20.4 startup with PID=7847, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:36:23.561013 - [Bluetooth Controller] BaseStation Controller Init.
+Thu Dec 02 2021 18:36:23.561037 - [Bluetooth Controller] Radio features: 0x00000000
+Thu Dec 02 2021 18:36:23.561243 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Thu Dec 02 2021 18:36:41.264662 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Thu Dec 02 2021 18:36:41.264734 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Thu Dec 02 2021 18:36:49.701107 - //==============================================================================================
+Thu Dec 02 2021 18:36:49.701171 - ================================================================================================
+Thu Dec 02 2021 18:36:49.701195 - ================================================================================================
+Thu Dec 02 2021 18:36:49.701228 - vrmonitor 1.20.4 startup with PID=8214, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:36:53.452530 - [Bluetooth Controller] BaseStation Controller Init.
+Thu Dec 02 2021 18:36:53.452562 - [Bluetooth Controller] Radio features: 0x00000000
+Thu Dec 02 2021 18:36:53.452829 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Thu Dec 02 2021 18:37:16.000216 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Thu Dec 02 2021 18:37:16.000279 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Thu Dec 02 2021 18:37:32.961726 - //==============================================================================================
+Thu Dec 02 2021 18:37:32.961798 - ================================================================================================
+Thu Dec 02 2021 18:37:32.961835 - ================================================================================================
+Thu Dec 02 2021 18:37:32.961880 - vrmonitor 1.20.4 startup with PID=8580, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:37:36.904804 - [Bluetooth Controller] BaseStation Controller Init.
+Thu Dec 02 2021 18:37:36.904827 - [Bluetooth Controller] Radio features: 0x00000000
+Thu Dec 02 2021 18:37:36.904983 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Thu Dec 02 2021 18:38:12.218064 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Thu Dec 02 2021 18:38:12.218137 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Thu Dec 02 2021 18:48:52.351513 - //==============================================================================================
+Thu Dec 02 2021 18:48:52.351600 - ================================================================================================
+Thu Dec 02 2021 18:48:52.351638 - ================================================================================================
+Thu Dec 02 2021 18:48:52.351686 - vrmonitor 1.20.4 startup with PID=13490, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:48:56.127588 - [Bluetooth Controller] BaseStation Controller Init.
+Thu Dec 02 2021 18:48:56.127612 - [Bluetooth Controller] Radio features: 0x00000000
+Thu Dec 02 2021 18:48:56.127762 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Thu Dec 02 2021 18:49:05.409361 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Thu Dec 02 2021 18:49:05.409396 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Thu Dec 02 2021 18:49:13.220782 - //==============================================================================================
+Thu Dec 02 2021 18:49:13.220899 - ================================================================================================
+Thu Dec 02 2021 18:49:13.220954 - ================================================================================================
+Thu Dec 02 2021 18:49:13.221007 - vrmonitor 1.20.4 startup with PID=13967, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:49:16.373093 - [Bluetooth Controller] BaseStation Controller Init.
+Thu Dec 02 2021 18:49:16.373163 - [Bluetooth Controller] Radio features: 0x00000000
+Thu Dec 02 2021 18:49:16.373559 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Thu Dec 02 2021 18:49:35.939055 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Thu Dec 02 2021 18:49:35.939085 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 11:51:09.141394 - //==============================================================================================
+Sat Dec 04 2021 11:51:09.149492 - ================================================================================================
+Sat Dec 04 2021 11:51:09.149541 - ================================================================================================
+Sat Dec 04 2021 11:51:09.149588 - vrmonitor 1.20.4 startup with PID=11929, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:51:12.467762 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 11:51:12.467789 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 11:51:12.468016 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 11:51:29.549142 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 11:51:29.549184 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 11:51:38.112309 - //==============================================================================================
+Sat Dec 04 2021 11:51:38.112365 - ================================================================================================
+Sat Dec 04 2021 11:51:38.112383 - ================================================================================================
+Sat Dec 04 2021 11:51:38.112407 - vrmonitor 1.20.4 startup with PID=12317, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:51:41.424340 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 11:51:41.424379 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 11:51:41.424632 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 11:52:59.998712 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 11:52:59.998800 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 11:54:15.179080 - //==============================================================================================
+Sat Dec 04 2021 11:54:15.179145 - ================================================================================================
+Sat Dec 04 2021 11:54:15.179182 - ================================================================================================
+Sat Dec 04 2021 11:54:15.179228 - vrmonitor 1.20.4 startup with PID=12957, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:54:18.550371 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 11:54:18.550421 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 11:54:18.550748 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 11:55:00.283049 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 11:55:00.283074 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 12:04:16.104826 - //==============================================================================================
+Sat Dec 04 2021 12:04:16.108191 - ================================================================================================
+Sat Dec 04 2021 12:04:16.108237 - ================================================================================================
+Sat Dec 04 2021 12:04:16.108283 - vrmonitor 1.20.4 startup with PID=14978, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:04:19.307659 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 12:04:19.307679 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 12:04:19.307854 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 12:13:49.287528 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 12:13:49.287616 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 12:14:14.201659 - //==============================================================================================
+Sat Dec 04 2021 12:14:14.201738 - ================================================================================================
+Sat Dec 04 2021 12:14:14.201777 - ================================================================================================
+Sat Dec 04 2021 12:14:14.201819 - vrmonitor 1.20.4 startup with PID=16395, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:14:17.359834 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 12:14:17.359853 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 12:14:17.360026 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 12:14:50.290908 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 12:14:50.290958 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 12:27:53.868944 - //==============================================================================================
+Sat Dec 04 2021 12:27:53.869012 - ================================================================================================
+Sat Dec 04 2021 12:27:53.869052 - ================================================================================================
+Sat Dec 04 2021 12:27:53.869101 - vrmonitor 1.20.4 startup with PID=17297, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:27:57.893986 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 12:27:57.894046 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 12:27:57.894364 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 12:28:19.603397 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 12:28:19.603463 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 13:27:59.395361 - //==============================================================================================
+Sat Dec 04 2021 13:27:59.400959 - ================================================================================================
+Sat Dec 04 2021 13:27:59.401001 - ================================================================================================
+Sat Dec 04 2021 13:27:59.401035 - vrmonitor 1.20.4 startup with PID=24818, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:28:03.206736 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 13:28:03.206794 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 13:28:03.207071 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 13:29:59.235881 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 13:29:59.235936 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 13:31:41.486172 - //==============================================================================================
+Sat Dec 04 2021 13:31:41.486205 - ================================================================================================
+Sat Dec 04 2021 13:31:41.486222 - ================================================================================================
+Sat Dec 04 2021 13:31:41.486242 - vrmonitor 1.20.4 startup with PID=26554, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:31:45.505862 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 13:31:45.505933 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 13:31:45.506600 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 13:32:02.105644 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 13:32:02.105696 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 13:34:07.741454 - //==============================================================================================
+Sat Dec 04 2021 13:34:07.741489 - ================================================================================================
+Sat Dec 04 2021 13:34:07.741508 - ================================================================================================
+Sat Dec 04 2021 13:34:07.741530 - vrmonitor 1.20.4 startup with PID=27096, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:34:12.030986 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 13:34:12.031031 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 13:34:12.031251 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 13:35:31.051238 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 13:35:31.051272 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 13:37:34.499801 - //==============================================================================================
+Sat Dec 04 2021 13:37:34.499877 - ================================================================================================
+Sat Dec 04 2021 13:37:34.499930 - ================================================================================================
+Sat Dec 04 2021 13:37:34.500005 - vrmonitor 1.20.4 startup with PID=27927, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:37:38.057845 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 13:37:38.057914 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 13:37:38.058154 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 13:38:58.686142 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 13:38:58.686194 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 13:39:25.930529 - //==============================================================================================
+Sat Dec 04 2021 13:39:25.930562 - ================================================================================================
+Sat Dec 04 2021 13:39:25.930581 - ================================================================================================
+Sat Dec 04 2021 13:39:25.930604 - vrmonitor 1.20.4 startup with PID=29411, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:39:30.196113 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 13:39:30.196209 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 13:39:30.196715 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 13:52:21.987935 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 13:52:21.987964 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 13:52:28.233256 - //==============================================================================================
+Sat Dec 04 2021 13:52:28.233305 - ================================================================================================
+Sat Dec 04 2021 13:52:28.233320 - ================================================================================================
+Sat Dec 04 2021 13:52:28.233336 - vrmonitor 1.20.4 startup with PID=31127, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:52:32.010912 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 13:52:32.010945 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 13:52:32.011157 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 13:52:58.838900 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 13:52:58.838947 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 13:53:06.495943 - //==============================================================================================
+Sat Dec 04 2021 13:53:06.496031 - ================================================================================================
+Sat Dec 04 2021 13:53:06.496071 - ================================================================================================
+Sat Dec 04 2021 13:53:06.496119 - vrmonitor 1.20.4 startup with PID=31678, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:53:09.685554 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 13:53:09.685597 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 13:53:09.685957 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 13:53:33.974905 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 13:53:33.974992 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 14:28:58.611643 - //==============================================================================================
+Sat Dec 04 2021 14:28:58.611707 - ================================================================================================
+Sat Dec 04 2021 14:28:58.611742 - ================================================================================================
+Sat Dec 04 2021 14:28:58.611785 - vrmonitor 1.20.4 startup with PID=35583, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:29:02.196886 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 14:29:02.196947 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 14:29:02.197172 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 14:34:31.516383 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 14:34:31.516542 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 14:34:40.118352 - //==============================================================================================
+Sat Dec 04 2021 14:34:40.118406 - ================================================================================================
+Sat Dec 04 2021 14:34:40.118428 - ================================================================================================
+Sat Dec 04 2021 14:34:40.118454 - vrmonitor 1.20.4 startup with PID=38228, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:34:43.645839 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 14:34:43.645865 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 14:34:43.646063 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 14:35:26.326611 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 14:35:26.326657 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 14:36:07.663465 - //==============================================================================================
+Sat Dec 04 2021 14:36:07.663503 - ================================================================================================
+Sat Dec 04 2021 14:36:07.663522 - ================================================================================================
+Sat Dec 04 2021 14:36:07.663545 - vrmonitor 1.20.4 startup with PID=39465, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:36:11.763591 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 14:36:11.763621 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 14:36:11.763900 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 14:44:47.495307 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 14:44:47.495347 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 14:55:19.044457 - //==============================================================================================
+Sat Dec 04 2021 14:55:19.044538 - ================================================================================================
+Sat Dec 04 2021 14:55:19.044578 - ================================================================================================
+Sat Dec 04 2021 14:55:19.044624 - vrmonitor 1.20.4 startup with PID=43670, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:55:22.768341 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 14:55:22.768397 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 14:55:22.768670 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 14:57:28.036280 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 14:57:28.036359 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 14:57:43.037473 - //==============================================================================================
+Sat Dec 04 2021 14:57:43.037511 - ================================================================================================
+Sat Dec 04 2021 14:57:43.037531 - ================================================================================================
+Sat Dec 04 2021 14:57:43.037556 - vrmonitor 1.20.4 startup with PID=45255, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:57:46.768263 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 14:57:46.768304 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 14:57:46.768652 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 15:01:20.903498 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 15:01:20.903670 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Dec 04 2021 15:02:47.335621 - //==============================================================================================
+Sat Dec 04 2021 15:02:47.335657 - ================================================================================================
+Sat Dec 04 2021 15:02:47.335676 - ================================================================================================
+Sat Dec 04 2021 15:02:47.335700 - vrmonitor 1.20.4 startup with PID=47412, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:02:50.966790 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 15:02:50.966858 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 15:02:50.967137 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 15:30:09.305314 - //==============================================================================================
+Sat Dec 04 2021 15:30:09.314268 - ================================================================================================
+Sat Dec 04 2021 15:30:09.314360 - ================================================================================================
+Sat Dec 04 2021 15:30:09.314437 - vrmonitor 1.20.4 startup with PID=8062, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:30:14.912746 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 15:30:14.912797 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 15:30:14.913030 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 15:35:53.808136 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 15:35:53.816932 - [Bluetooth Controller] Shutdown: Completed. (0.01 seconds)
+Sat Dec 04 2021 15:39:53.922340 - //==============================================================================================
+Sat Dec 04 2021 15:39:53.922366 - ================================================================================================
+Sat Dec 04 2021 15:39:53.922381 - ================================================================================================
+Sat Dec 04 2021 15:39:53.922401 - vrmonitor 1.20.4 startup with PID=15188, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:39:57.581076 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 04 2021 15:39:57.581144 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 04 2021 15:39:57.581431 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 04 2021 15:51:16.087240 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 04 2021 15:51:16.098709 - [Bluetooth Controller] Shutdown: Completed. (0.01 seconds)
+Sat Dec 11 2021 12:19:07.557118 - //==============================================================================================
+Sat Dec 11 2021 12:19:07.568329 - ================================================================================================
+Sat Dec 11 2021 12:19:07.568384 - ================================================================================================
+Sat Dec 11 2021 12:19:07.568428 - vrmonitor 1.20.4 startup with PID=11196, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 11 2021 12:19:11.181479 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Dec 11 2021 12:19:11.181587 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Dec 11 2021 12:19:11.182062 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Dec 11 2021 12:56:21.782475 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Dec 11 2021 12:56:21.782514 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Fri Dec 24 2021 16:32:55.448821 - //==============================================================================================
+Fri Dec 24 2021 16:32:55.462051 - ================================================================================================
+Fri Dec 24 2021 16:32:55.462147 - ================================================================================================
+Fri Dec 24 2021 16:32:55.462211 - vrmonitor 1.20.4 startup with PID=32428, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Fri Dec 24 2021 16:32:59.303108 - [Bluetooth Controller] BaseStation Controller Init.
+Fri Dec 24 2021 16:32:59.303143 - [Bluetooth Controller] Radio features: 0x00000000
+Fri Dec 24 2021 16:32:59.303395 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Fri Dec 24 2021 16:33:04.301371 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Fri Dec 24 2021 16:33:04.301406 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sun Dec 26 2021 14:47:33.991955 - //==============================================================================================
+Sun Dec 26 2021 14:47:34.001446 - ================================================================================================
+Sun Dec 26 2021 14:47:34.001489 - ================================================================================================
+Sun Dec 26 2021 14:47:34.001520 - vrmonitor 1.20.4 startup with PID=25596, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sun Dec 26 2021 14:47:36.988122 - [Bluetooth Controller] BaseStation Controller Init.
+Sun Dec 26 2021 14:47:36.988168 - [Bluetooth Controller] Radio features: 0x00000000
+Sun Dec 26 2021 14:47:36.988425 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sun Dec 26 2021 14:53:01.638207 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sun Dec 26 2021 14:53:01.655860 - [Bluetooth Controller] Shutdown: Completed. (0.02 seconds)
+Sun Dec 26 2021 15:07:59.584419 - //==============================================================================================
+Sun Dec 26 2021 15:07:59.587856 - ================================================================================================
+Sun Dec 26 2021 15:07:59.587901 - ================================================================================================
+Sun Dec 26 2021 15:07:59.587939 - vrmonitor 1.20.4 startup with PID=31359, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sun Dec 26 2021 15:08:04.825690 - [Bluetooth Controller] BaseStation Controller Init.
+Sun Dec 26 2021 15:08:04.834155 - [Bluetooth Controller] Radio features: 0x00000000
+Sun Dec 26 2021 15:08:04.834616 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sun Dec 26 2021 15:08:28.983406 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sun Dec 26 2021 15:08:28.986710 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Mon Feb 07 2022 15:23:41.723300 - //==============================================================================================
+Mon Feb 07 2022 15:23:41.726893 - ================================================================================================
+Mon Feb 07 2022 15:23:41.726955 - ================================================================================================
+Mon Feb 07 2022 15:23:41.727013 - vrmonitor 1.20.4 startup with PID=36629, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Mon Feb 07 2022 15:23:45.685543 - [Bluetooth Controller] BaseStation Controller Init.
+Mon Feb 07 2022 15:23:45.685584 - [Bluetooth Controller] Radio features: 0x00000000
+Mon Feb 07 2022 15:23:45.685868 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Mon Feb 07 2022 15:24:48.676051 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Mon Feb 07 2022 15:24:48.676092 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)
+Sat Mar 12 2022 22:40:54.225152 - //==============================================================================================
+Sat Mar 12 2022 22:40:54.233814 - ================================================================================================
+Sat Mar 12 2022 22:40:54.233880 - ================================================================================================
+Sat Mar 12 2022 22:40:54.233947 - vrmonitor 1.21.11 startup with PID=86294, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Mar 12 2022 22:40:58.017667 - [Bluetooth Controller] BaseStation Controller Init.
+Sat Mar 12 2022 22:40:58.017750 - [Bluetooth Controller] Radio features: 0x00000000
+Sat Mar 12 2022 22:40:58.018084 - [Bluetooth Controller] Setting system inactivity timeout to 60 minutes.
+Sat Mar 12 2022 22:43:27.033649 - [Bluetooth Controller] Shutdown: Stopping worker thread.
+Sat Mar 12 2022 22:43:27.033710 - [Bluetooth Controller] Shutdown: Completed. (0.00 seconds)

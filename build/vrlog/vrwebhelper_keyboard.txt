@@ -1,0 +1,791 @@
+Sat Dec 04 2021 13:37:42.404102 - //==============================================================================================
+Sat Dec 04 2021 13:37:42.404147 - ================================================================================================
+Sat Dec 04 2021 13:37:42.404160 - ================================================================================================
+Sat Dec 04 2021 13:37:42.404184 - vrwebhelper 1.20.4 startup with PID=28405, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:37:42.514097 - Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Sat Dec 04 2021 13:37:42.516148 - Creating VRHML JS object
+Sat Dec 04 2021 13:37:42.522857 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:37:42.526999 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:37:42.634551 - CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1638621462618 -> 404 (Not Found)
+Sat Dec 04 2021 13:37:42.676425 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 13:37:42.676553 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Sat Dec 04 2021 13:37:43.182630 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Sat Dec 04 2021 13:37:43.183556 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Sat Dec 04 2021 13:37:43.183713 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 13:37:43.183817 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| xxx render layout==null, bailing
+Sat Dec 04 2021 13:37:43.355949 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 13:37:43.356273 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:37:44.869800 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:38:58.073251 - Closing context.
+Sat Dec 04 2021 13:53:10.075271 - //==============================================================================================
+Sat Dec 04 2021 13:53:10.075311 - ================================================================================================
+Sat Dec 04 2021 13:53:10.075325 - ================================================================================================
+Sat Dec 04 2021 13:53:10.075351 - vrwebhelper 1.20.4 startup with PID=31939, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:53:10.214361 - Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Sat Dec 04 2021 13:53:10.214964 - Creating VRHML JS object
+Sat Dec 04 2021 13:53:10.220762 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:53:10.223975 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:53:10.625943 - CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1638622390320 -> 404 (Not Found)
+Sat Dec 04 2021 13:53:10.626474 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Sat Dec 04 2021 13:53:10.626616 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 13:53:10.626728 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Sat Dec 04 2021 13:53:10.626812 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Sat Dec 04 2021 13:53:10.626888 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 13:53:10.626964 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| xxx render layout==null, bailing
+Sat Dec 04 2021 13:53:10.783781 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 13:53:10.784092 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:53:12.498669 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:53:32.602684 - Closing context.
+Sat Dec 04 2021 14:29:06.797567 - //==============================================================================================
+Sat Dec 04 2021 14:29:06.797610 - ================================================================================================
+Sat Dec 04 2021 14:29:06.797623 - ================================================================================================
+Sat Dec 04 2021 14:29:06.797653 - vrwebhelper 1.20.4 startup with PID=36066, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:29:07.008534 - Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Sat Dec 04 2021 14:29:07.009252 - Creating VRHML JS object
+Sat Dec 04 2021 14:29:07.025611 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:29:07.026920 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:29:07.639660 - CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1638624547186 -> 404 (Not Found)
+Sat Dec 04 2021 14:29:07.639929 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Sat Dec 04 2021 14:29:07.640132 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:29:07.640293 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Sat Dec 04 2021 14:29:07.640408 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Sat Dec 04 2021 14:29:07.640509 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:29:07.640629 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| xxx render layout==null, bailing
+Sat Dec 04 2021 14:29:07.848675 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:29:07.848822 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:29:09.288640 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:34:29.951388 - Closing context.
+Sat Dec 04 2021 14:34:45.122108 - //==============================================================================================
+Sat Dec 04 2021 14:34:45.122155 - ================================================================================================
+Sat Dec 04 2021 14:34:45.122173 - ================================================================================================
+Sat Dec 04 2021 14:34:45.122203 - vrwebhelper 1.20.4 startup with PID=38496, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:34:45.298805 - Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Sat Dec 04 2021 14:34:45.299841 - Creating VRHML JS object
+Sat Dec 04 2021 14:34:45.307670 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:45.308484 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:45.427815 - CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1638624885398 -> 404 (Not Found)
+Sat Dec 04 2021 14:34:45.430606 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:34:45.461918 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Sat Dec 04 2021 14:34:45.578772 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Sat Dec 04 2021 14:34:45.579093 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Sat Dec 04 2021 14:34:45.579177 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:34:45.579251 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| xxx render layout==null, bailing
+Sat Dec 04 2021 14:34:45.735172 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:34:45.735504 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:34:46.530974 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:34:47.551864 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:35:25.529019 - Closing context.
+Sat Dec 04 2021 14:36:17.074226 - //==============================================================================================
+Sat Dec 04 2021 14:36:17.074270 - ================================================================================================
+Sat Dec 04 2021 14:36:17.074302 - ================================================================================================
+Sat Dec 04 2021 14:36:17.074331 - vrwebhelper 1.20.4 startup with PID=39970, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:36:17.214282 - Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Sat Dec 04 2021 14:36:17.214957 - Creating VRHML JS object
+Sat Dec 04 2021 14:36:17.222760 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:36:17.229639 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:36:17.329035 - CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1638624977312 -> 404 (Not Found)
+Sat Dec 04 2021 14:36:17.332646 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:36:17.332759 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Sat Dec 04 2021 14:36:17.457915 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Sat Dec 04 2021 14:36:17.458488 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Sat Dec 04 2021 14:36:17.458660 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:36:17.458763 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| xxx render layout==null, bailing
+Sat Dec 04 2021 14:36:17.621597 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:36:17.621772 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:36:19.647965 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:44:45.916165 - Closing context.
+Sat Dec 04 2021 14:55:27.847940 - //==============================================================================================
+Sat Dec 04 2021 14:55:27.847974 - ================================================================================================
+Sat Dec 04 2021 14:55:27.847987 - ================================================================================================
+Sat Dec 04 2021 14:55:27.848009 - vrwebhelper 1.20.4 startup with PID=44151, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:55:27.974021 - Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Sat Dec 04 2021 14:55:27.974708 - Creating VRHML JS object
+Sat Dec 04 2021 14:55:27.979626 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:55:27.983990 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:55:28.173978 - CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1638626128069 -> 404 (Not Found)
+Sat Dec 04 2021 14:55:28.174210 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:55:28.174315 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Sat Dec 04 2021 14:55:28.196740 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Sat Dec 04 2021 14:55:28.197223 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Sat Dec 04 2021 14:55:28.197314 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:55:28.197440 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| xxx render layout==null, bailing
+Sat Dec 04 2021 14:55:28.355482 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:55:28.355641 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:55:30.342966 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:57:26.938132 - Closing context.
+Sat Dec 04 2021 14:57:52.193626 - //==============================================================================================
+Sat Dec 04 2021 14:57:52.193668 - ================================================================================================
+Sat Dec 04 2021 14:57:52.193685 - ================================================================================================
+Sat Dec 04 2021 14:57:52.193714 - vrwebhelper 1.20.4 startup with PID=45735, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:57:52.334321 - Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Sat Dec 04 2021 14:57:52.335236 - Creating VRHML JS object
+Sat Dec 04 2021 14:57:52.341514 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:52.344860 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:52.466423 - CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1638626272418 -> 404 (Not Found)
+Sat Dec 04 2021 14:57:52.472905 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:57:52.473058 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Sat Dec 04 2021 14:57:52.524690 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Sat Dec 04 2021 14:57:52.524828 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Sat Dec 04 2021 14:57:52.524919 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:57:52.524995 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| xxx render layout==null, bailing
+Sat Dec 04 2021 14:57:52.636969 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:57:52.637169 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:57:54.663195 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:01:18.814492 - Closing context.
+Sat Dec 04 2021 15:02:56.212789 - //==============================================================================================
+Sat Dec 04 2021 15:02:56.212831 - ================================================================================================
+Sat Dec 04 2021 15:02:56.212850 - ================================================================================================
+Sat Dec 04 2021 15:02:56.212880 - vrwebhelper 1.20.4 startup with PID=47883, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:02:56.356810 - Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Sat Dec 04 2021 15:02:56.357583 - Creating VRHML JS object
+Sat Dec 04 2021 15:02:56.365753 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:02:56.365828 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:02:56.478472 - CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1638626576455 -> 404 (Not Found)
+Sat Dec 04 2021 15:02:56.482577 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 15:02:56.482757 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Sat Dec 04 2021 15:02:56.639699 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Sat Dec 04 2021 15:02:56.640325 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Sat Dec 04 2021 15:02:56.640429 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 15:02:56.640510 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| xxx render layout==null, bailing
+Sat Dec 04 2021 15:02:57.294053 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 15:02:57.294202 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:02:59.089308 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:30:20.822404 - //==============================================================================================
+Sat Dec 04 2021 15:30:20.838936 - ================================================================================================
+Sat Dec 04 2021 15:30:20.838989 - ================================================================================================
+Sat Dec 04 2021 15:30:20.839040 - vrwebhelper 1.20.4 startup with PID=8557, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:30:22.988173 - Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Sat Dec 04 2021 15:30:22.988756 - Creating VRHML JS object
+Sat Dec 04 2021 15:30:22.999678 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:30:23.001083 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:30:23.121451 - CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1638628223102 -> 404 (Not Found)
+Sat Dec 04 2021 15:30:23.223295 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 15:30:23.223447 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Sat Dec 04 2021 15:30:26.320050 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Sat Dec 04 2021 15:30:26.326204 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Sat Dec 04 2021 15:30:26.326315 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 15:30:26.326406 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| xxx render layout==null, bailing
+Sat Dec 04 2021 15:30:26.410812 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 15:30:26.410915 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:35:53.593387 - Closing context.
+Sat Dec 04 2021 15:40:02.276725 - //==============================================================================================
+Sat Dec 04 2021 15:40:02.276769 - ================================================================================================
+Sat Dec 04 2021 15:40:02.276787 - ================================================================================================
+Sat Dec 04 2021 15:40:02.276816 - vrwebhelper 1.20.4 startup with PID=15665, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:40:02.379958 - Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Sat Dec 04 2021 15:40:02.380608 - Creating VRHML JS object
+Sat Dec 04 2021 15:40:02.427415 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:40:02.511693 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:40:02.526898 - CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1638628802490 -> 404 (Not Found)
+Sat Dec 04 2021 15:40:02.537988 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Sat Dec 04 2021 15:40:02.551509 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 15:40:03.057450 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Sat Dec 04 2021 15:40:03.057654 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Sat Dec 04 2021 15:40:03.058103 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 15:40:03.058268 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| xxx render layout==null, bailing
+Sat Dec 04 2021 15:40:03.226700 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 15:40:03.226888 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:40:04.698782 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:51:10.944277 - Closing context.
+Fri Dec 24 2021 16:33:00.233125 - //==============================================================================================
+Fri Dec 24 2021 16:33:00.238185 - ================================================================================================
+Fri Dec 24 2021 16:33:00.238214 - ================================================================================================
+Fri Dec 24 2021 16:33:00.238252 - vrwebhelper 1.20.4 startup with PID=32685, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Mon Feb 07 2022 15:23:50.852532 - //==============================================================================================
+Mon Feb 07 2022 15:23:50.870803 - ================================================================================================
+Mon Feb 07 2022 15:23:50.870852 - ================================================================================================
+Mon Feb 07 2022 15:23:50.870900 - vrwebhelper 1.20.4 startup with PID=37119, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Mon Feb 07 2022 15:23:53.031572 - Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Mon Feb 07 2022 15:23:53.033228 - Creating VRHML JS object
+Mon Feb 07 2022 15:23:53.042130 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Mon Feb 07 2022 15:23:53.042543 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Mon Feb 07 2022 15:23:53.137409 - CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1644243833117 -> 404 (Not Found)
+Mon Feb 07 2022 15:23:53.137688 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:23:53.180720 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Mon Feb 07 2022 15:23:53.288723 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:23:53.291831 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:23:53.291950 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:23:53.292124 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| xxx render layout==null, bailing
+Mon Feb 07 2022 15:23:53.358567 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Mon Feb 07 2022 15:23:53.358715 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Mon Feb 07 2022 15:24:37.455415 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.455550 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:37.455636 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.455731 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:37.456651 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.456763 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:37.456852 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.456948 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:37.457498 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.457594 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.457678 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:37.466507 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.466599 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.466682 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:37.478461 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.478579 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.478653 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:37.488595 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.488722 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.488832 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:37.510040 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.510227 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.510363 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:37.573112 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.573311 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.573487 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:37.583408 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.583594 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.583748 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:37.594108 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.594273 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.594428 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:37.615031 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.615213 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.615363 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:37.678180 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.678376 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.678580 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:37.688501 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.688740 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.688908 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:37.698851 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.699012 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.699164 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:37.720246 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.720431 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.720588 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:37.783431 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.783668 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.783869 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:37.794376 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.794539 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.794701 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:37.804539 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.804721 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.804952 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:37.825871 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.826050 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.826216 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:37.889253 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.889421 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.889603 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:37.899874 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.900053 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.900223 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:37.910789 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.910992 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.911178 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:37.931592 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.931756 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.931896 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:37.984551 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:37.984780 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:37.984942 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:38.005693 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.005853 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.006003 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:38.016141 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.016326 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.016498 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:38.048238 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.048441 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.048592 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:38.079699 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.079943 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.080142 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:38.100683 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.100946 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.101124 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:38.122167 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.122370 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.122543 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:38.153282 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.153510 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.153680 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:38.185605 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.185856 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.186053 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:38.195861 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.196087 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.196281 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:38.227486 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.227750 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.227950 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:38.238582 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.238774 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.238928 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:38.291342 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.291582 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.291791 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:38.312529 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.312774 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.312954 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:38.323232 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.323415 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.323568 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:38.333778 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.334044 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.334242 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:38.375347 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.375593 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.375807 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:38.429289 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.429496 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.429681 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:38.450306 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.450509 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.450666 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:38.492531 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.492786 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.493017 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:38.535599 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.535819 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.536033 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:38.546156 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.546373 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.546583 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:38.642184 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.642410 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.642627 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:38.674138 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.674375 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.674577 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:38.706214 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.706426 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.706603 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:38.803477 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.803705 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.803905 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:38.814141 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.814370 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.814565 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:38.835715 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:38.836062 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:38.836280 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:39.009024 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:39.009233 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:39.009393 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:39.149362 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:39.149618 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:39.149822 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:39.175283 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:39.175490 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:39.175708 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:39.224661 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:39.224918 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:39.225124 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:39.691304 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:39.691533 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:39.691735 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:39.976508 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:39.976765 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:39.976988 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:40.025840 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:40.026093 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:40.026275 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:40.053162 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:40.053408 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:40.053614 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:40.160911 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:40.161184 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:40.161386 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:42.121340 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:42.121503 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:42.121597 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:42.184648 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:42.184899 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:42.185142 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:42.385305 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:42.385417 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:42.385504 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:42.408455 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:42.408569 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:42.408661 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:44.009949 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:44.010186 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:44.010330 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:44.366410 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:44.366667 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:44.366897 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:45.631169 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:45.631385 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:45.631569 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:45.910135 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:45.910406 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:45.910662 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:46.032565 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:46.032751 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:46.032848 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:46.355606 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:46.355751 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:46.355868 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:49.237018 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:49.237311 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:49.237554 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Mon Feb 07 2022 15:24:49.379533 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:49.379826 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:49.380020 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:49.583239 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:49.583507 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:49.583725 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Mon Feb 07 2022 15:24:49.776965 - Console message (Error) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:49.777287 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:49.777526 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=700012b4630e0ff502db:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Mon Feb 07 2022 15:24:50.386053 - Console message (Error) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| WebSocket connection to 'ws://localhost:27062/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Mon Feb 07 2022 15:24:50.386181 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Lost connection to host...
+Mon Feb 07 2022 15:24:50.386267 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Mon Feb 07 2022 15:24:51.048642 - Closing context.
+Sat Mar 12 2022 22:41:03.658874 - //==============================================================================================
+Sat Mar 12 2022 22:41:03.693599 - ================================================================================================
+Sat Mar 12 2022 22:41:03.693626 - ================================================================================================
+Sat Mar 12 2022 22:41:03.693656 - vrwebhelper 1.21.11 startup with PID=86993, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Mar 12 2022 22:41:03.875106 - Browser context created for browser "keyboard" (overlay key: "system.keyboard")
+Sat Mar 12 2022 22:41:03.875847 - Creating VRHML JS object
+Sat Mar 12 2022 22:41:03.885868 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:03.886036 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:04.022654 - CEF Local Resource Load Error: http://localhost:27062/dashboard/localization/systemui_english.json?t=1647121264012 -> 404 (Not Found)
+Sat Mar 12 2022 22:41:04.103027 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Mar 12 2022 22:41:04.103247 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=956ff9a3e7b5ddac6a49:4:
+| Connecting vrmailbox input_state/vrwebhelper_keyboard_1...
+Sat Mar 12 2022 22:41:04.848931 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=956ff9a3e7b5ddac6a49:4:
+| Connecting vrmailbox keyboard/vrwebhelper_keyboard_2...
+Sat Mar 12 2022 22:41:04.849068 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=956ff9a3e7b5ddac6a49:4:
+| Connecting vrmailbox settings/vrwebhelper_keyboard_3...
+Sat Mar 12 2022 22:41:04.849131 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Connecting vrsettings...
+Sat Mar 12 2022 22:41:04.849194 - Console message (Info) from http://localhost:27062/dashboard/keyboard.js?v=956ff9a3e7b5ddac6a49:4:
+| xxx render layout==null, bailing
+Sat Mar 12 2022 22:41:05.023664 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Got vr settings schema
+Sat Mar 12 2022 22:41:05.023802 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Got audio devices
+Sat Mar 12 2022 22:41:06.227504 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Got audio devices
+Sat Mar 12 2022 22:43:26.147374 - Closing context.

@@ -6,24 +6,26 @@
 #if defined(_WINDOWS)
 #include <windows.h>
 #else
-#include <string.h>
+#include <cstring>
+#include <X11/Xlib.h>
+#include "X11/keysym.h"
 #define _stricmp strcasecmp
-int GetAsyncKeyState(int key);
+bool GetAsyncKeyState(KeySym key);
 
-#define VK_NUMPAD3 0x8001
-#define VK_NUMPAD1 0x8002
-#define VK_NUMPAD4 0x8003
-#define VK_NUMPAD6 0x8004
-#define VK_NUMPAD8 0x8005
-#define VK_NUMPAD2 0x8006
-#define VK_NUMPAD9 0x8007
-#define VK_UP      0x8008
-#define VK_DOWN    0x8009
-#define VK_LEFT    0x80010
-#define VK_RIGHT   0x80011
-#define VK_PRIOR   0x80012
-#define VK_NEXT    0x80013
-#define VK_END     0x80014
+#define VK_NUMPAD3 XK_KP_3
+#define VK_NUMPAD1 XK_KP_1
+#define VK_NUMPAD4 XK_KP_4
+#define VK_NUMPAD6 XK_KP_6
+#define VK_NUMPAD8 XK_KP_8
+#define VK_NUMPAD2 XK_KP_2
+#define VK_NUMPAD9 XK_KP_9
+#define VK_UP      XK_Up
+#define VK_DOWN    XK_Down
+#define VK_LEFT    XK_Left
+#define VK_RIGHT   XK_Right
+#define VK_PRIOR   XK_Prior
+#define VK_NEXT    XK_Next
+#define VK_END     XK_End
 #endif
 
 // keys for use with the settings API
@@ -43,7 +45,7 @@ extern bool g_bExiting;
 
 inline vr::HmdQuaternion_t HmdQuaternion_Init( double w, double x, double y, double z )
 {
-    vr::HmdQuaternion_t quat;
+    vr::HmdQuaternion_t quat{};
     quat.w = w;
     quat.x = x;
     quat.y = y;

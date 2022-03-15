@@ -1,0 +1,79 @@
+Mon Feb 07 2022 15:23:40.823555 - //==============================================================================================
+Mon Feb 07 2022 15:23:40.823615 - ================================================================================================
+Mon Feb 07 2022 15:23:40.823641 - ================================================================================================
+Mon Feb 07 2022 15:23:40.823680 - vrmonitor 1.20.4 startup with PID=36629, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Mon Feb 07 2022 15:23:40.823817 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Mon Feb 07 2022 15:23:40.823856 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Mon Feb 07 2022 15:23:41.714309 - Default Playback Audio Devices: ,  (Comm)
+Mon Feb 07 2022 15:23:41.714374 - Default Record Audio Device: ,  (Comm)
+Mon Feb 07 2022 15:23:42.388293 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Mon Feb 07 2022 15:23:42.538070 - [System] Runtime: 1634602223 250820  STEAMVR
+Mon Feb 07 2022 15:23:45.381758 - VR_Init successful
+Mon Feb 07 2022 15:23:45.641208 - [Steam] Attempt to connect to Steam
+Mon Feb 07 2022 15:23:45.641555 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Mon Feb 07 2022 15:23:45.683656 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Mon Feb 07 2022 15:23:45.683817 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Mon Feb 07 2022 15:23:45.684096 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Mon Feb 07 2022 15:23:45.684285 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Mon Feb 07 2022 15:23:45.684358 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Mon Feb 07 2022 15:23:45.684437 - CSharedResourceNamespaceClient::Init(): received namespace data 36558
+Mon Feb 07 2022 15:23:45.686037 - [Audio] Audio init
+Mon Feb 07 2022 15:23:45.686155 - [Dismissable Warning Added] Display Warning (0x10000)
+Mon Feb 07 2022 15:23:45.693859 - [Steam] Connected to Steam in 0.02 seconds.
+Mon Feb 07 2022 15:23:45.877615 - [System] Runtime: 1634602223 250820  STEAMVR
+Mon Feb 07 2022 15:23:45.877742 - [Steam] Connect to Steam finished: check for dismissable warnings
+Mon Feb 07 2022 15:23:45.890512 - [Status] Graphics driver version is .
+Mon Feb 07 2022 15:23:45.922067 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Mon Feb 07 2022 15:23:45.939884 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Mon Feb 07 2022 15:23:45.962250 - [System] Chaperone Universe changes for the first time
+Mon Feb 07 2022 15:23:45.962325 - [System] Chaperone does not indicate room setup
+Mon Feb 07 2022 15:23:46.122990 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Mon Feb 07 2022 15:23:50.649089 - [Dismissable Warning Removed] Display Warning (0x10000)
+Mon Feb 07 2022 15:23:51.280821 - [System] System is running for 10 seconds.
+Mon Feb 07 2022 15:24:42.924809 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_NotReady'.
+Mon Feb 07 2022 15:24:42.951022 - [Status Alert] SteamVR Fail (-203)
+Mon Feb 07 2022 15:24:47.656818 - [System] Transition from 'SteamVRSystemState_NotReady' to 'SteamVRSystemState_ShutdownRequested'.
+Mon Feb 07 2022 15:24:47.674511 - [System] Quit gracefully: Waiting for process quitting...
+Mon Feb 07 2022 15:24:48.675740 - [System] Quit gracefully: Failed, force quit now.
+Mon Feb 07 2022 15:24:48.675838 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Mon Feb 07 2022 15:24:48.675875 - [Audio] Audio shutdown!
+Mon Feb 07 2022 15:24:50.948074 - Drops over entire run:-  38 single frame-  7 2 frame-  4 3 frame-  2 4 or more- Total 1818 in 1917 frames
+Sat Mar 12 2022 22:40:53.139514 - //==============================================================================================
+Sat Mar 12 2022 22:40:53.139649 - ================================================================================================
+Sat Mar 12 2022 22:40:53.139667 - ================================================================================================
+Sat Mar 12 2022 22:40:53.139686 - vrmonitor 1.21.11 startup with PID=86294, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Mar 12 2022 22:40:53.139768 - Tools Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools exists.
+Sat Mar 12 2022 22:40:53.139793 - Demo Path: /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/demo not found.
+Sat Mar 12 2022 22:40:54.201145 - Default Playback Audio Devices: ,  (Comm)
+Sat Mar 12 2022 22:40:54.201239 - Default Record Audio Device: ,  (Comm)
+Sat Mar 12 2022 22:40:55.049727 - [System] Transition from 'SteamVRSystemState_Off' to 'SteamVRSystemState_Startup'.
+Sat Mar 12 2022 22:40:55.241471 - [System] Runtime: 1646167844 250820  STEAMVR
+Sat Mar 12 2022 22:40:57.744010 - VR_Init successful
+Sat Mar 12 2022 22:40:58.011835 - [Steam] Attempt to connect to Steam
+Sat Mar 12 2022 22:40:58.015515 - Add Json firmware manifest from {htc}/firmware/manifest.vrfirmware
+Sat Mar 12 2022 22:40:58.015705 - Add Json firmware manifest from {indexcontroller}/firmware/manifest.vrfirmware
+Sat Mar 12 2022 22:40:58.015806 - Add Json firmware manifest from {indexhmd}/firmware/manifest.vrfirmware
+Sat Mar 12 2022 22:40:58.015975 - Add Json firmware manifest from {lighthouse}/firmware/manifest.vrfirmware
+Sat Mar 12 2022 22:40:58.016120 - Add Json firmware manifest from {tundra_labs}/firmware/manifest.vrfirmware
+Sat Mar 12 2022 22:40:58.016176 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Mar 12 2022 22:40:58.016405 - CSharedResourceNamespaceClient::Init(): received namespace data 86225
+Sat Mar 12 2022 22:40:58.018371 - [Audio] Audio init
+Sat Mar 12 2022 22:40:58.018541 - [Dismissable Warning Added] Display Warning (0x10000)
+Sat Mar 12 2022 22:40:58.047196 - [Steam] Connected to Steam in 0.02 seconds.
+Sat Mar 12 2022 22:40:58.077906 - [System] Runtime: 1646167844 250820  STEAMVR
+Sat Mar 12 2022 22:40:58.078000 - [Steam] Connect to Steam finished: check for dismissable warnings
+Sat Mar 12 2022 22:40:58.090549 - [Status] Graphics driver version is .
+Sat Mar 12 2022 22:40:58.297928 - Skipping OpenXR prompt because we aren't on beta( beta name "")
+Sat Mar 12 2022 22:40:58.384146 - [System] Transition from 'SteamVRSystemState_Startup' to 'SteamVRSystemState_Connecting'.
+Sat Mar 12 2022 22:40:58.411602 - [System] Chaperone Universe changes for the first time
+Sat Mar 12 2022 22:40:58.411669 - [System] Chaperone does not indicate room setup
+Sat Mar 12 2022 22:40:58.651220 - [Dismissable Warning Added] DismissableWarning_SteamVRUpdated https://steamcommunity.com/ogg/250820/announcements/detail/3117058860961173431 1.21.11
+Sat Mar 12 2022 22:40:58.686168 - [System] Transition from 'SteamVRSystemState_Connecting' to 'SteamVRSystemState_Ready'.
+Sat Mar 12 2022 22:41:04.615439 - [System] System is running for 10 seconds.
+Sat Mar 12 2022 22:43:08.674896 - [Dismissable Warning Removed] DismissableWarning_SteamVRUpdated
+Sat Mar 12 2022 22:43:09.679782 - [Dismissable Warning Removed] Display Warning (0x10000)
+Sat Mar 12 2022 22:43:26.069572 - [System] Transition from 'SteamVRSystemState_Ready' to 'SteamVRSystemState_ShutdownRequested'.
+Sat Mar 12 2022 22:43:26.081376 - [System] Quit gracefully: Waiting for process quitting...
+Sat Mar 12 2022 22:43:27.033509 - [System] Transition from 'SteamVRSystemState_ShutdownRequested' to 'SteamVRSystemState_Shutdown'.
+Sat Mar 12 2022 22:43:27.033557 - [Audio] Audio shutdown!
+Sat Mar 12 2022 22:43:27.810071 - Drops over entire run:-  187 single frame-  18 2 frame-  12 3 frame-  7 4 or more- Total 7682 in 8265 frames

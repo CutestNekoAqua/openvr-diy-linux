@@ -1,0 +1,90 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "OpenVR/samples/driver_sample",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-OpenVR.samples.driver_sample-Debug-ec50271ca25f1220190e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "OpenVR/samples/driver_sample",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "openvr-driver-for-diy",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "driver_sample::@b9bc51da2664c630bf6d",
+					"jsonFile" : "target-driver_sample-Debug-ce9064bef8127bdc480f.json",
+					"name" : "driver_sample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uncrustify::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uncrustify-Debug-649cdf76905aeb889fca.json",
+					"name" : "uncrustify",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/waterdev/hdd/openvr-driver-for-diy/cmake-build-debug",
+		"source" : "/home/waterdev/hdd/openvr-driver-for-diy"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

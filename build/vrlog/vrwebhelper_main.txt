@@ -1,0 +1,992 @@
+Thu Dec 02 2021 18:09:41.064175 - //==============================================================================================
+Thu Dec 02 2021 18:09:41.064248 - ================================================================================================
+Thu Dec 02 2021 18:09:41.064275 - ================================================================================================
+Thu Dec 02 2021 18:09:41.064315 - vrwebhelper 1.20.4 startup with PID=35229, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:09:43.541404 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Thu Dec 02 2021 18:09:43.625048 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:09:43.625185 - CSharedResourceNamespaceClient::Init(): received namespace data 35214
+Thu Dec 02 2021 18:09:43.857605 - Added overlay (pairing)
+Thu Dec 02 2021 18:09:44.141281 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Thu Dec 02 2021 18:09:44.141608 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:09:44.141649 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:09:44.141673 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:09:44.141694 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:09:44.141763 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Thu Dec 02 2021 18:09:44.141791 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:09:44.141812 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:09:44.141835 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:09:44.141858 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:09:44.141943 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Thu Dec 02 2021 18:09:44.141974 - Added overlay (settings_desktop)
+Thu Dec 02 2021 18:09:44.733758 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Thu Dec 02 2021 18:09:44.733982 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:09:44.734027 - Added 2 overlays from 2 configurations. 2 have been opened.
+Thu Dec 02 2021 18:09:44.734052 - Starting CEF Message Loop...
+Thu Dec 02 2021 18:10:30.455028 - Completed CEF Message Loop.
+Thu Dec 02 2021 18:10:30.467896 - CEF Shutdown...
+Thu Dec 02 2021 18:10:30.496901 - SDL Quitting...
+Thu Dec 02 2021 18:10:30.553212 - VR Shutting down...
+Thu Dec 02 2021 18:14:49.123388 - //==============================================================================================
+Thu Dec 02 2021 18:14:49.123428 - ================================================================================================
+Thu Dec 02 2021 18:14:49.123442 - ================================================================================================
+Thu Dec 02 2021 18:14:49.123466 - vrwebhelper 1.20.4 startup with PID=36171, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:14:51.635066 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Thu Dec 02 2021 18:14:51.716642 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:14:51.716768 - CSharedResourceNamespaceClient::Init(): received namespace data 36160
+Thu Dec 02 2021 18:14:51.983952 - Added overlay (pairing)
+Thu Dec 02 2021 18:14:52.270167 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Thu Dec 02 2021 18:14:52.270484 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:14:52.270514 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:14:52.270535 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:14:52.270554 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:14:52.270701 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Thu Dec 02 2021 18:14:52.270740 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:14:52.270762 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:14:52.270782 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:14:52.270801 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:14:52.270860 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Thu Dec 02 2021 18:14:52.270887 - Added overlay (settings_desktop)
+Thu Dec 02 2021 18:14:52.594163 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Thu Dec 02 2021 18:14:52.594384 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:14:52.594446 - Added 2 overlays from 2 configurations. 2 have been opened.
+Thu Dec 02 2021 18:14:52.594476 - Starting CEF Message Loop...
+Thu Dec 02 2021 18:14:54.435475 - Unhandled message of type change_route was sent to settings/desktop, but there was nothing to start
+Thu Dec 02 2021 18:31:06.561096 - Completed CEF Message Loop.
+Thu Dec 02 2021 18:31:06.562442 - CEF Shutdown...
+Thu Dec 02 2021 18:31:06.577917 - SDL Quitting...
+Thu Dec 02 2021 18:31:06.652975 - VR Shutting down...
+Thu Dec 02 2021 18:33:18.141693 - //==============================================================================================
+Thu Dec 02 2021 18:33:18.310803 - ================================================================================================
+Thu Dec 02 2021 18:33:18.310859 - ================================================================================================
+Thu Dec 02 2021 18:33:18.310911 - vrwebhelper 1.20.4 startup with PID=4860, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:33:20.870504 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Do Dez 02 2021 18:33:21.146129 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 18:33:21.146292 - CSharedResourceNamespaceClient::Init(): received namespace data 4736
+Do Dez 02 2021 18:33:21.166533 - Added overlay (pairing)
+Do Dez 02 2021 18:33:21.458936 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Do Dez 02 2021 18:33:21.459449 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:33:21.459470 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:33:21.459484 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:33:21.459506 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:33:21.459564 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Do Dez 02 2021 18:33:21.459580 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:33:21.459591 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:33:21.459602 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:33:21.459613 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:33:21.459650 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Do Dez 02 2021 18:33:21.459664 - Added overlay (settings_desktop)
+Do Dez 02 2021 18:33:21.694721 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Do Dez 02 2021 18:33:21.694892 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:33:21.694957 - Added 2 overlays from 2 configurations. 2 have been opened.
+Do Dez 02 2021 18:33:21.694986 - Starting CEF Message Loop...
+Do Dez 02 2021 18:33:22.050771 - Completed CEF Message Loop.
+Do Dez 02 2021 18:33:22.108304 - CEF Shutdown...
+Do Dez 02 2021 18:33:22.201638 - SDL Quitting...
+Do Dez 02 2021 18:33:22.261566 - VR Shutting down...
+Thu Dec 02 2021 18:34:58.021795 - //==============================================================================================
+Thu Dec 02 2021 18:34:58.021889 - ================================================================================================
+Thu Dec 02 2021 18:34:58.021927 - ================================================================================================
+Thu Dec 02 2021 18:34:58.021983 - vrwebhelper 1.20.4 startup with PID=6718, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:35:00.588245 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Do Dez 02 2021 18:35:00.665129 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Do Dez 02 2021 18:35:00.665265 - CSharedResourceNamespaceClient::Init(): received namespace data 6704
+Do Dez 02 2021 18:35:01.015849 - Added overlay (pairing)
+Do Dez 02 2021 18:35:01.329138 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Do Dez 02 2021 18:35:01.329530 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:35:01.329567 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:35:01.329591 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:35:01.329610 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:35:01.329671 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Do Dez 02 2021 18:35:01.329691 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:35:01.329705 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:35:01.329719 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:35:01.329732 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:35:01.329787 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Do Dez 02 2021 18:35:01.329813 - Added overlay (settings_desktop)
+Do Dez 02 2021 18:35:01.573606 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Do Dez 02 2021 18:35:01.573762 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Do Dez 02 2021 18:35:01.573827 - Added 2 overlays from 2 configurations. 2 have been opened.
+Do Dez 02 2021 18:35:01.573854 - Starting CEF Message Loop...
+Do Dez 02 2021 18:35:01.618759 - Unhandled message of type change_route was sent to settings/desktop, but there was nothing to start
+Do Dez 02 2021 18:35:09.232460 - Completed CEF Message Loop.
+Do Dez 02 2021 18:35:09.233951 - CEF Shutdown...
+Do Dez 02 2021 18:35:09.264612 - SDL Quitting...
+Do Dez 02 2021 18:35:09.818425 - VR Shutting down...
+Thu Dec 02 2021 18:35:17.761564 - //==============================================================================================
+Thu Dec 02 2021 18:35:17.761598 - ================================================================================================
+Thu Dec 02 2021 18:35:17.761615 - ================================================================================================
+Thu Dec 02 2021 18:35:17.761634 - vrwebhelper 1.20.4 startup with PID=7018, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:35:19.987011 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Thu Dec 02 2021 18:35:20.067931 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:35:20.068127 - CSharedResourceNamespaceClient::Init(): received namespace data 6952
+Thu Dec 02 2021 18:35:20.448147 - Added overlay (pairing)
+Thu Dec 02 2021 18:35:21.038811 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Thu Dec 02 2021 18:35:21.039225 - Added overlay (bindingcallouts)
+Thu Dec 02 2021 18:35:21.039280 - Added overlay (controllerbinding)
+Thu Dec 02 2021 18:35:21.039303 - Added overlay (controllerbinding_desktop)
+Thu Dec 02 2021 18:35:21.039376 - Added overlay (debugcommands_desktop)
+Thu Dec 02 2021 18:35:21.039455 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Thu Dec 02 2021 18:35:21.039475 - Added overlay (keyboard)
+Thu Dec 02 2021 18:35:21.039909 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Thu Dec 02 2021 18:35:21.039943 - Added overlay (managetrackers_desktop)
+Thu Dec 02 2021 18:35:21.040030 - Added overlay (messageoverlay)
+Thu Dec 02 2021 18:35:21.040054 - Added overlay (notificationtoast)
+Thu Dec 02 2021 18:35:21.040108 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Thu Dec 02 2021 18:35:21.040126 - Added overlay (settings_desktop)
+Thu Dec 02 2021 18:35:21.848606 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Thu Dec 02 2021 18:35:21.848809 - Added overlay (systemui)
+Thu Dec 02 2021 18:35:21.850392 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Thu Dec 02 2021 18:35:21.850738 - Added 11 overlays from 2 configurations. 4 have been opened.
+Thu Dec 02 2021 18:35:21.850820 - Starting CEF Message Loop...
+Thu Dec 02 2021 18:39:05.092395 - Completed CEF Message Loop.
+Thu Dec 02 2021 18:39:05.100736 - CEF Shutdown...
+Thu Dec 02 2021 18:39:05.114450 - SDL Quitting...
+Thu Dec 02 2021 18:39:05.185070 - VR Shutting down...
+Thu Dec 02 2021 18:48:56.180054 - //==============================================================================================
+Thu Dec 02 2021 18:48:56.180132 - ================================================================================================
+Thu Dec 02 2021 18:48:56.180188 - ================================================================================================
+Thu Dec 02 2021 18:48:56.180242 - vrwebhelper 1.20.4 startup with PID=13674, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:48:58.570032 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Thu Dec 02 2021 18:48:58.681990 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:48:58.682115 - CSharedResourceNamespaceClient::Init(): received namespace data 13663
+Thu Dec 02 2021 18:48:58.933546 - Added overlay (pairing)
+Thu Dec 02 2021 18:48:59.210383 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Thu Dec 02 2021 18:48:59.210698 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:48:59.210732 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:48:59.210755 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:48:59.210775 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:48:59.210850 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Thu Dec 02 2021 18:48:59.210877 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:48:59.210896 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:48:59.210914 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:48:59.210932 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:48:59.210989 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Thu Dec 02 2021 18:48:59.211013 - Added overlay (settings_desktop)
+Thu Dec 02 2021 18:48:59.405873 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Thu Dec 02 2021 18:48:59.406006 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Thu Dec 02 2021 18:48:59.406053 - Added 2 overlays from 2 configurations. 2 have been opened.
+Thu Dec 02 2021 18:48:59.406078 - Starting CEF Message Loop...
+Thu Dec 02 2021 18:48:59.418229 - Unhandled message of type change_route was sent to settings/desktop, but there was nothing to start
+Thu Dec 02 2021 18:49:04.807892 - Completed CEF Message Loop.
+Thu Dec 02 2021 18:49:04.809606 - CEF Shutdown...
+Thu Dec 02 2021 18:49:04.830015 - SDL Quitting...
+Thu Dec 02 2021 18:49:05.370493 - VR Shutting down...
+Thu Dec 02 2021 18:49:12.566840 - //==============================================================================================
+Thu Dec 02 2021 18:49:12.566888 - ================================================================================================
+Thu Dec 02 2021 18:49:12.566902 - ================================================================================================
+Thu Dec 02 2021 18:49:12.566924 - vrwebhelper 1.20.4 startup with PID=13961, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:49:14.823803 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Thu Dec 02 2021 18:49:14.927927 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Thu Dec 02 2021 18:49:14.928069 - CSharedResourceNamespaceClient::Init(): received namespace data 13898
+Thu Dec 02 2021 18:49:15.318169 - Added overlay (pairing)
+Thu Dec 02 2021 18:49:15.994322 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Thu Dec 02 2021 18:49:15.994704 - Added overlay (bindingcallouts)
+Thu Dec 02 2021 18:49:15.994743 - Added overlay (controllerbinding)
+Thu Dec 02 2021 18:49:15.994768 - Added overlay (controllerbinding_desktop)
+Thu Dec 02 2021 18:49:15.994900 - Added overlay (debugcommands_desktop)
+Thu Dec 02 2021 18:49:15.995088 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Thu Dec 02 2021 18:49:15.995117 - Added overlay (keyboard)
+Thu Dec 02 2021 18:49:15.995730 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Thu Dec 02 2021 18:49:15.995807 - Added overlay (managetrackers_desktop)
+Thu Dec 02 2021 18:49:15.995890 - Added overlay (messageoverlay)
+Thu Dec 02 2021 18:49:15.995920 - Added overlay (notificationtoast)
+Thu Dec 02 2021 18:49:15.995980 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Thu Dec 02 2021 18:49:15.996004 - Added overlay (settings_desktop)
+Thu Dec 02 2021 18:49:16.451406 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Thu Dec 02 2021 18:49:16.451551 - Added overlay (systemui)
+Thu Dec 02 2021 18:49:16.452265 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Thu Dec 02 2021 18:49:16.452347 - Added 11 overlays from 2 configurations. 4 have been opened.
+Thu Dec 02 2021 18:49:16.452382 - Starting CEF Message Loop...
+Thu Dec 02 2021 18:52:52.907998 - Completed CEF Message Loop.
+Thu Dec 02 2021 18:52:52.914439 - CEF Shutdown...
+Thu Dec 02 2021 18:52:52.925539 - SDL Quitting...
+Thu Dec 02 2021 18:52:53.335285 - VR Shutting down...
+Sat Dec 04 2021 11:51:12.645322 - //==============================================================================================
+Sat Dec 04 2021 11:51:12.645555 - ================================================================================================
+Sat Dec 04 2021 11:51:12.645582 - ================================================================================================
+Sat Dec 04 2021 11:51:12.645614 - vrwebhelper 1.20.4 startup with PID=12123, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:51:14.976182 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 11:51:15.239278 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 11:51:15.239459 - CSharedResourceNamespaceClient::Init(): received namespace data 12100
+Sat Dec 04 2021 11:51:15.420614 - Added overlay (pairing)
+Sat Dec 04 2021 11:51:15.729707 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 11:51:15.730409 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:15.730436 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:15.730455 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:15.730472 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:15.730541 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 11:51:15.730559 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:15.730572 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:15.730584 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:15.730607 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:15.730676 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 11:51:15.730693 - Added overlay (settings_desktop)
+Sat Dec 04 2021 11:51:15.842393 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 11:51:15.842497 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:15.842531 - Added 2 overlays from 2 configurations. 2 have been opened.
+Sat Dec 04 2021 11:51:15.842552 - Starting CEF Message Loop...
+Sat Dec 04 2021 11:51:29.170022 - Completed CEF Message Loop.
+Sat Dec 04 2021 11:51:29.172496 - CEF Shutdown...
+Sat Dec 04 2021 11:51:29.198239 - SDL Quitting...
+Sat Dec 04 2021 11:51:29.543339 - VR Shutting down...
+Sat Dec 04 2021 11:51:41.476235 - //==============================================================================================
+Sat Dec 04 2021 11:51:41.476315 - ================================================================================================
+Sat Dec 04 2021 11:51:41.476350 - ================================================================================================
+Sat Dec 04 2021 11:51:41.476400 - vrwebhelper 1.20.4 startup with PID=12505, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:51:43.810529 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 11:51:43.930468 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 11:51:43.930569 - CSharedResourceNamespaceClient::Init(): received namespace data 12489
+Sat Dec 04 2021 11:51:44.040828 - Added overlay (pairing)
+Sat Dec 04 2021 11:51:44.194614 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 11:51:44.194834 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:44.194861 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:44.194881 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:44.194899 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:44.194971 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 11:51:44.195009 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:44.195043 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:44.195072 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:44.195097 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:44.195206 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 11:51:44.195232 - Added overlay (settings_desktop)
+Sat Dec 04 2021 11:51:44.341222 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 11:51:44.341366 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:51:44.341435 - Added 2 overlays from 2 configurations. 2 have been opened.
+Sat Dec 04 2021 11:51:44.341474 - Starting CEF Message Loop...
+Sat Dec 04 2021 11:52:59.905924 - Completed CEF Message Loop.
+Sat Dec 04 2021 11:52:59.907793 - CEF Shutdown...
+Sat Dec 04 2021 11:52:59.919550 - SDL Quitting...
+Sat Dec 04 2021 11:52:59.957648 - VR Shutting down...
+Sat Dec 04 2021 11:54:18.599717 - //==============================================================================================
+Sat Dec 04 2021 11:54:18.599786 - ================================================================================================
+Sat Dec 04 2021 11:54:18.599817 - ================================================================================================
+Sat Dec 04 2021 11:54:18.599871 - vrwebhelper 1.20.4 startup with PID=13142, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:54:20.815958 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 11:54:20.907145 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 11:54:20.907255 - CSharedResourceNamespaceClient::Init(): received namespace data 13125
+Sat Dec 04 2021 11:54:21.020617 - Added overlay (pairing)
+Sat Dec 04 2021 11:54:21.096997 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 11:54:21.097342 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:54:21.097409 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:54:21.097452 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:54:21.097487 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:54:21.097569 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 11:54:21.097601 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:54:21.097624 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:54:21.097645 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:54:21.097663 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:54:21.097708 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 11:54:21.097731 - Added overlay (settings_desktop)
+Sat Dec 04 2021 11:54:21.123518 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 11:54:21.123660 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 11:54:21.123704 - Added 2 overlays from 2 configurations. 2 have been opened.
+Sat Dec 04 2021 11:54:21.123730 - Starting CEF Message Loop...
+Sat Dec 04 2021 11:55:00.193200 - Completed CEF Message Loop.
+Sat Dec 04 2021 11:55:00.194101 - CEF Shutdown...
+Sat Dec 04 2021 11:55:00.218368 - SDL Quitting...
+Sat Dec 04 2021 11:55:00.270430 - VR Shutting down...
+Sat Dec 04 2021 12:04:19.379749 - //==============================================================================================
+Sat Dec 04 2021 12:04:19.538854 - ================================================================================================
+Sat Dec 04 2021 12:04:19.538915 - ================================================================================================
+Sat Dec 04 2021 12:04:19.538975 - vrwebhelper 1.20.4 startup with PID=15178, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:04:21.772739 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 12:04:21.854072 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 12:04:21.854205 - CSharedResourceNamespaceClient::Init(): received namespace data 15159
+Sat Dec 04 2021 12:04:21.866969 - Added overlay (pairing)
+Sat Dec 04 2021 12:04:21.881709 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 12:04:21.881966 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:04:21.881994 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:04:21.882014 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:04:21.882033 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:04:21.882084 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 12:04:21.882109 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:04:21.882127 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:04:21.882145 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:04:21.882162 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:04:21.882211 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 12:04:21.882233 - Added overlay (settings_desktop)
+Sat Dec 04 2021 12:04:21.897343 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 12:04:21.897492 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:04:21.897547 - Added 2 overlays from 2 configurations. 2 have been opened.
+Sat Dec 04 2021 12:04:21.897579 - Starting CEF Message Loop...
+Sat Dec 04 2021 12:13:49.215380 - Completed CEF Message Loop.
+Sat Dec 04 2021 12:13:49.223122 - CEF Shutdown...
+Sat Dec 04 2021 12:13:49.232406 - SDL Quitting...
+Sat Dec 04 2021 12:13:49.273196 - VR Shutting down...
+Sat Dec 04 2021 12:14:17.408041 - //==============================================================================================
+Sat Dec 04 2021 12:14:17.408122 - ================================================================================================
+Sat Dec 04 2021 12:14:17.408156 - ================================================================================================
+Sat Dec 04 2021 12:14:17.408205 - vrwebhelper 1.20.4 startup with PID=16575, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:14:19.937900 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 12:14:20.026088 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 12:14:20.026218 - CSharedResourceNamespaceClient::Init(): received namespace data 16560
+Sat Dec 04 2021 12:14:20.142687 - Added overlay (pairing)
+Sat Dec 04 2021 12:14:20.170979 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 12:14:20.171203 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:14:20.171232 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:14:20.171264 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:14:20.171284 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:14:20.171344 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 12:14:20.171368 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:14:20.171385 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:14:20.171402 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:14:20.171418 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:14:20.171467 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 12:14:20.171489 - Added overlay (settings_desktop)
+Sat Dec 04 2021 12:14:20.259939 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 12:14:20.260126 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:14:20.260200 - Added 2 overlays from 2 configurations. 2 have been opened.
+Sat Dec 04 2021 12:14:20.260243 - Starting CEF Message Loop...
+Sat Dec 04 2021 12:14:50.224467 - Completed CEF Message Loop.
+Sat Dec 04 2021 12:14:50.225562 - CEF Shutdown...
+Sat Dec 04 2021 12:14:50.237991 - SDL Quitting...
+Sat Dec 04 2021 12:14:50.279555 - VR Shutting down...
+Sat Dec 04 2021 12:27:57.944239 - //==============================================================================================
+Sat Dec 04 2021 12:27:57.944327 - ================================================================================================
+Sat Dec 04 2021 12:27:57.944365 - ================================================================================================
+Sat Dec 04 2021 12:27:57.944417 - vrwebhelper 1.20.4 startup with PID=17470, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:28:00.515792 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 12:28:00.608017 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 12:28:00.608163 - CSharedResourceNamespaceClient::Init(): received namespace data 17458
+Sat Dec 04 2021 12:28:00.815365 - Added overlay (pairing)
+Sat Dec 04 2021 12:28:01.206498 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 12:28:01.206891 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:28:01.206946 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:28:01.206987 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:28:01.207024 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:28:01.207096 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 12:28:01.207118 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:28:01.207133 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:28:01.207149 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:28:01.207174 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:28:01.207224 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 12:28:01.207243 - Added overlay (settings_desktop)
+Sat Dec 04 2021 12:28:01.455151 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 12:28:01.455318 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 12:28:01.455383 - Added 2 overlays from 2 configurations. 2 have been opened.
+Sat Dec 04 2021 12:28:01.455422 - Starting CEF Message Loop...
+Sat Dec 04 2021 12:28:19.418974 - Completed CEF Message Loop.
+Sat Dec 04 2021 12:28:19.419913 - CEF Shutdown...
+Sat Dec 04 2021 12:28:19.458327 - SDL Quitting...
+Sat Dec 04 2021 12:28:19.583330 - VR Shutting down...
+Sat Dec 04 2021 13:28:03.064751 - //==============================================================================================
+Sat Dec 04 2021 13:28:03.077797 - ================================================================================================
+Sat Dec 04 2021 13:28:03.077853 - ================================================================================================
+Sat Dec 04 2021 13:28:03.077910 - vrwebhelper 1.20.4 startup with PID=25053, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:28:05.753279 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 13:28:05.989749 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:28:05.989848 - CSharedResourceNamespaceClient::Init(): received namespace data 24744
+Sat Dec 04 2021 13:28:06.352437 - Added overlay (pairing)
+Sat Dec 04 2021 13:28:06.886591 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 13:28:06.887245 - Added overlay (bindingcallouts)
+Sat Dec 04 2021 13:28:06.887284 - Added overlay (controllerbinding)
+Sat Dec 04 2021 13:28:06.887304 - Added overlay (controllerbinding_desktop)
+Sat Dec 04 2021 13:28:06.887376 - Added overlay (debugcommands_desktop)
+Sat Dec 04 2021 13:28:06.887456 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 13:28:06.887476 - Added overlay (keyboard)
+Sat Dec 04 2021 13:28:06.887936 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Dec 04 2021 13:28:06.887980 - Added overlay (managetrackers_desktop)
+Sat Dec 04 2021 13:28:06.888034 - Added overlay (messageoverlay)
+Sat Dec 04 2021 13:28:06.888056 - Added overlay (notificationtoast)
+Sat Dec 04 2021 13:28:06.888094 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 13:28:06.888112 - Added overlay (settings_desktop)
+Sat Dec 04 2021 13:28:07.174154 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 13:28:07.174260 - Added overlay (systemui)
+Sat Dec 04 2021 13:28:07.174839 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Dec 04 2021 13:28:07.174921 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Dec 04 2021 13:28:07.174948 - Starting CEF Message Loop...
+Sat Dec 04 2021 13:29:57.905713 - Completed CEF Message Loop.
+Sat Dec 04 2021 13:29:57.906566 - CEF Shutdown...
+Sat Dec 04 2021 13:29:57.998030 - SDL Quitting...
+Sat Dec 04 2021 13:29:58.221308 - VR Shutting down...
+Sat Dec 04 2021 13:31:45.556343 - //==============================================================================================
+Sat Dec 04 2021 13:31:45.556466 - ================================================================================================
+Sat Dec 04 2021 13:31:45.556550 - ================================================================================================
+Sat Dec 04 2021 13:31:45.556626 - vrwebhelper 1.20.4 startup with PID=26743, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:31:48.088629 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 13:31:48.177505 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:31:48.177623 - CSharedResourceNamespaceClient::Init(): received namespace data 26727
+Sat Dec 04 2021 13:31:48.354268 - Added overlay (pairing)
+Sat Dec 04 2021 13:31:48.740399 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 13:31:48.740661 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:31:48.740692 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:31:48.740714 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:31:48.740742 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:31:48.740796 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 13:31:48.740822 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:31:48.740842 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:31:48.740860 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:31:48.740878 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:31:48.740918 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 13:31:48.740941 - Added overlay (settings_desktop)
+Sat Dec 04 2021 13:31:48.957997 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 13:31:48.958159 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:31:48.958200 - Added 2 overlays from 2 configurations. 2 have been opened.
+Sat Dec 04 2021 13:31:48.958219 - Starting CEF Message Loop...
+Sat Dec 04 2021 13:32:02.022421 - Completed CEF Message Loop.
+Sat Dec 04 2021 13:32:02.023599 - CEF Shutdown...
+Sat Dec 04 2021 13:32:02.036740 - SDL Quitting...
+Sat Dec 04 2021 13:32:02.087765 - VR Shutting down...
+Sat Dec 04 2021 13:34:12.083676 - //==============================================================================================
+Sat Dec 04 2021 13:34:12.083734 - ================================================================================================
+Sat Dec 04 2021 13:34:12.083753 - ================================================================================================
+Sat Dec 04 2021 13:34:12.083784 - vrwebhelper 1.20.4 startup with PID=27282, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:34:14.670626 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 13:34:14.756334 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:34:14.756536 - CSharedResourceNamespaceClient::Init(): received namespace data 27267
+Sat Dec 04 2021 13:34:15.086990 - Added overlay (pairing)
+Sat Dec 04 2021 13:34:15.413445 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 13:34:15.413815 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:34:15.413867 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:34:15.413906 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:34:15.413941 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:34:15.414023 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 13:34:15.414069 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:34:15.414102 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:34:15.414134 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:34:15.414165 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:34:15.414230 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 13:34:15.414274 - Added overlay (settings_desktop)
+Sat Dec 04 2021 13:34:15.627989 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 13:34:15.628100 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:34:15.628137 - Added 2 overlays from 2 configurations. 2 have been opened.
+Sat Dec 04 2021 13:34:15.628158 - Starting CEF Message Loop...
+Sat Dec 04 2021 13:35:30.926114 - Completed CEF Message Loop.
+Sat Dec 04 2021 13:35:30.926948 - CEF Shutdown...
+Sat Dec 04 2021 13:35:30.947518 - SDL Quitting...
+Sat Dec 04 2021 13:35:31.022999 - VR Shutting down...
+Sat Dec 04 2021 13:37:37.971823 - //==============================================================================================
+Sat Dec 04 2021 13:37:37.971913 - ================================================================================================
+Sat Dec 04 2021 13:37:37.971938 - ================================================================================================
+Sat Dec 04 2021 13:37:37.971981 - vrwebhelper 1.20.4 startup with PID=28171, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:37:40.506028 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 13:37:40.586793 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:37:40.586911 - CSharedResourceNamespaceClient::Init(): received namespace data 27855
+Sat Dec 04 2021 13:37:40.804041 - Added overlay (pairing)
+Sat Dec 04 2021 13:37:41.063544 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 13:37:41.064006 - Added overlay (bindingcallouts)
+Sat Dec 04 2021 13:37:41.064082 - Added overlay (controllerbinding)
+Sat Dec 04 2021 13:37:41.064137 - Added overlay (controllerbinding_desktop)
+Sat Dec 04 2021 13:37:41.064264 - Added overlay (debugcommands_desktop)
+Sat Dec 04 2021 13:37:41.064425 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 13:37:41.064485 - Added overlay (keyboard)
+Sat Dec 04 2021 13:37:41.065722 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Dec 04 2021 13:37:41.065763 - Added overlay (managetrackers_desktop)
+Sat Dec 04 2021 13:37:41.065852 - Added overlay (messageoverlay)
+Sat Dec 04 2021 13:37:41.065881 - Added overlay (notificationtoast)
+Sat Dec 04 2021 13:37:41.065930 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 13:37:41.065951 - Added overlay (settings_desktop)
+Sat Dec 04 2021 13:37:41.326553 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 13:37:41.326651 - Added overlay (systemui)
+Sat Dec 04 2021 13:37:41.327102 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Dec 04 2021 13:37:41.327144 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Dec 04 2021 13:37:41.327161 - Starting CEF Message Loop...
+Sat Dec 04 2021 13:38:58.064866 - Completed CEF Message Loop.
+Sat Dec 04 2021 13:38:58.066456 - CEF Shutdown...
+Sat Dec 04 2021 13:38:58.158482 - SDL Quitting...
+Sat Dec 04 2021 13:38:58.259342 - VR Shutting down...
+Sat Dec 04 2021 13:39:30.268201 - //==============================================================================================
+Sat Dec 04 2021 13:39:30.268286 - ================================================================================================
+Sat Dec 04 2021 13:39:30.268322 - ================================================================================================
+Sat Dec 04 2021 13:39:30.268374 - vrwebhelper 1.20.4 startup with PID=29589, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:39:32.840975 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 13:39:32.928186 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:39:32.928289 - CSharedResourceNamespaceClient::Init(): received namespace data 29578
+Sat Dec 04 2021 13:39:33.189651 - Added overlay (pairing)
+Sat Dec 04 2021 13:39:33.595716 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 13:39:33.596122 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:39:33.596198 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:39:33.596237 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:39:33.596256 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:39:33.596326 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 13:39:33.596352 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:39:33.596367 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:39:33.596380 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:39:33.596393 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:39:33.596429 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 13:39:33.596448 - Added overlay (settings_desktop)
+Sat Dec 04 2021 13:39:33.914171 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 13:39:33.914296 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:39:33.914340 - Added 2 overlays from 2 configurations. 2 have been opened.
+Sat Dec 04 2021 13:39:33.914362 - Starting CEF Message Loop...
+Sat Dec 04 2021 13:52:21.376949 - Completed CEF Message Loop.
+Sat Dec 04 2021 13:52:21.379987 - CEF Shutdown...
+Sat Dec 04 2021 13:52:21.399815 - SDL Quitting...
+Sat Dec 04 2021 13:52:21.958200 - VR Shutting down...
+Sat Dec 04 2021 13:52:32.063061 - //==============================================================================================
+Sat Dec 04 2021 13:52:32.063119 - ================================================================================================
+Sat Dec 04 2021 13:52:32.063133 - ================================================================================================
+Sat Dec 04 2021 13:52:32.063169 - vrwebhelper 1.20.4 startup with PID=31316, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:52:34.340357 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 13:52:34.422149 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:52:34.422261 - CSharedResourceNamespaceClient::Init(): received namespace data 31301
+Sat Dec 04 2021 13:52:34.452579 - Added overlay (pairing)
+Sat Dec 04 2021 13:52:34.470436 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 13:52:34.470688 - Skipped overlay (bindingcallouts) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:52:34.470719 - Skipped overlay (controllerbinding) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:52:34.470741 - Skipped overlay (controllerbinding_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:52:34.470763 - Skipped overlay (debugcommands_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:52:34.470819 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 13:52:34.470851 - Skipped overlay (keyboard) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:52:34.470872 - Skipped overlay (managetrackers_desktop) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:52:34.470891 - Skipped overlay (messageoverlay) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:52:34.470909 - Skipped overlay (notificationtoast) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:52:34.470953 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 13:52:34.470978 - Added overlay (settings_desktop)
+Sat Dec 04 2021 13:52:34.659049 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 13:52:34.659150 - Skipped overlay (systemui) because no HMD is present. Set valid_without_hmd to true to create it anyway.
+Sat Dec 04 2021 13:52:34.659185 - Added 2 overlays from 2 configurations. 2 have been opened.
+Sat Dec 04 2021 13:52:34.659206 - Starting CEF Message Loop...
+Sat Dec 04 2021 13:52:58.586786 - Completed CEF Message Loop.
+Sat Dec 04 2021 13:52:58.587990 - CEF Shutdown...
+Sat Dec 04 2021 13:52:58.598833 - SDL Quitting...
+Sat Dec 04 2021 13:52:58.809156 - VR Shutting down...
+Sat Dec 04 2021 13:53:05.643589 - //==============================================================================================
+Sat Dec 04 2021 13:53:05.643626 - ================================================================================================
+Sat Dec 04 2021 13:53:05.643640 - ================================================================================================
+Sat Dec 04 2021 13:53:05.643663 - vrwebhelper 1.20.4 startup with PID=31672, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:53:07.808841 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 13:53:07.903888 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 13:53:07.904057 - CSharedResourceNamespaceClient::Init(): received namespace data 31608
+Sat Dec 04 2021 13:53:08.208378 - Added overlay (pairing)
+Sat Dec 04 2021 13:53:08.498647 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 13:53:08.499012 - Added overlay (bindingcallouts)
+Sat Dec 04 2021 13:53:08.499052 - Added overlay (controllerbinding)
+Sat Dec 04 2021 13:53:08.499079 - Added overlay (controllerbinding_desktop)
+Sat Dec 04 2021 13:53:08.499167 - Added overlay (debugcommands_desktop)
+Sat Dec 04 2021 13:53:08.499271 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 13:53:08.499297 - Added overlay (keyboard)
+Sat Dec 04 2021 13:53:08.499706 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Dec 04 2021 13:53:08.499745 - Added overlay (managetrackers_desktop)
+Sat Dec 04 2021 13:53:08.499808 - Added overlay (messageoverlay)
+Sat Dec 04 2021 13:53:08.499836 - Added overlay (notificationtoast)
+Sat Dec 04 2021 13:53:08.499888 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 13:53:08.499912 - Added overlay (settings_desktop)
+Sat Dec 04 2021 13:53:09.025618 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 13:53:09.025788 - Added overlay (systemui)
+Sat Dec 04 2021 13:53:09.026785 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Dec 04 2021 13:53:09.026927 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Dec 04 2021 13:53:09.026995 - Starting CEF Message Loop...
+Sat Dec 04 2021 13:53:32.589394 - Completed CEF Message Loop.
+Sat Dec 04 2021 13:53:32.590589 - CEF Shutdown...
+Sat Dec 04 2021 13:53:32.669980 - SDL Quitting...
+Sat Dec 04 2021 13:53:32.741132 - VR Shutting down...
+Sat Dec 04 2021 14:29:02.127841 - //==============================================================================================
+Sat Dec 04 2021 14:29:02.127912 - ================================================================================================
+Sat Dec 04 2021 14:29:02.127942 - ================================================================================================
+Sat Dec 04 2021 14:29:02.127986 - vrwebhelper 1.20.4 startup with PID=35825, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:29:04.677911 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 14:29:04.758793 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:29:04.758919 - CSharedResourceNamespaceClient::Init(): received namespace data 35507
+Sat Dec 04 2021 14:29:05.076999 - Added overlay (pairing)
+Sat Dec 04 2021 14:29:05.388495 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 14:29:05.388761 - Added overlay (bindingcallouts)
+Sat Dec 04 2021 14:29:05.388795 - Added overlay (controllerbinding)
+Sat Dec 04 2021 14:29:05.388822 - Added overlay (controllerbinding_desktop)
+Sat Dec 04 2021 14:29:05.388897 - Added overlay (debugcommands_desktop)
+Sat Dec 04 2021 14:29:05.388981 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 14:29:05.389007 - Added overlay (keyboard)
+Sat Dec 04 2021 14:29:05.389503 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Dec 04 2021 14:29:05.389551 - Added overlay (managetrackers_desktop)
+Sat Dec 04 2021 14:29:05.389609 - Added overlay (messageoverlay)
+Sat Dec 04 2021 14:29:05.389637 - Added overlay (notificationtoast)
+Sat Dec 04 2021 14:29:05.389694 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 14:29:05.389718 - Added overlay (settings_desktop)
+Sat Dec 04 2021 14:29:05.681901 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 14:29:05.682028 - Added overlay (systemui)
+Sat Dec 04 2021 14:29:05.682540 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Dec 04 2021 14:29:05.682587 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Dec 04 2021 14:29:05.682607 - Starting CEF Message Loop...
+Sat Dec 04 2021 14:34:29.929817 - Completed CEF Message Loop.
+Sat Dec 04 2021 14:34:29.948145 - CEF Shutdown...
+Sat Dec 04 2021 14:34:30.018974 - SDL Quitting...
+Sat Dec 04 2021 14:34:30.266483 - VR Shutting down...
+Sat Dec 04 2021 14:34:39.302860 - //==============================================================================================
+Sat Dec 04 2021 14:34:39.302910 - ================================================================================================
+Sat Dec 04 2021 14:34:39.302928 - ================================================================================================
+Sat Dec 04 2021 14:34:39.302953 - vrwebhelper 1.20.4 startup with PID=38222, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:34:41.896514 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 14:34:41.982610 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:34:41.982852 - CSharedResourceNamespaceClient::Init(): received namespace data 38146
+Sat Dec 04 2021 14:34:42.445481 - Added overlay (pairing)
+Sat Dec 04 2021 14:34:43.085746 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 14:34:43.086046 - Added overlay (bindingcallouts)
+Sat Dec 04 2021 14:34:43.086080 - Added overlay (controllerbinding)
+Sat Dec 04 2021 14:34:43.086105 - Added overlay (controllerbinding_desktop)
+Sat Dec 04 2021 14:34:43.086188 - Added overlay (debugcommands_desktop)
+Sat Dec 04 2021 14:34:43.086288 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 14:34:43.086313 - Added overlay (keyboard)
+Sat Dec 04 2021 14:34:43.086797 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Dec 04 2021 14:34:43.086839 - Added overlay (managetrackers_desktop)
+Sat Dec 04 2021 14:34:43.087078 - Added overlay (messageoverlay)
+Sat Dec 04 2021 14:34:43.087122 - Added overlay (notificationtoast)
+Sat Dec 04 2021 14:34:43.087190 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 14:34:43.087257 - Added overlay (settings_desktop)
+Sat Dec 04 2021 14:34:43.566455 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 14:34:43.566581 - Added overlay (systemui)
+Sat Dec 04 2021 14:34:43.567035 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Dec 04 2021 14:34:43.567079 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Dec 04 2021 14:34:43.567097 - Starting CEF Message Loop...
+Sat Dec 04 2021 14:35:25.524116 - Completed CEF Message Loop.
+Sat Dec 04 2021 14:35:25.525232 - CEF Shutdown...
+Sat Dec 04 2021 14:35:25.604953 - SDL Quitting...
+Sat Dec 04 2021 14:35:25.714365 - VR Shutting down...
+Sat Dec 04 2021 14:36:11.623626 - //==============================================================================================
+Sat Dec 04 2021 14:36:11.623683 - ================================================================================================
+Sat Dec 04 2021 14:36:11.623701 - ================================================================================================
+Sat Dec 04 2021 14:36:11.623742 - vrwebhelper 1.20.4 startup with PID=39719, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:36:14.314198 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 14:36:14.414925 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:36:14.415120 - CSharedResourceNamespaceClient::Init(): received namespace data 39393
+Sat Dec 04 2021 14:36:14.827384 - Added overlay (pairing)
+Sat Dec 04 2021 14:36:15.266312 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 14:36:15.266521 - Added overlay (bindingcallouts)
+Sat Dec 04 2021 14:36:15.266550 - Added overlay (controllerbinding)
+Sat Dec 04 2021 14:36:15.266580 - Added overlay (controllerbinding_desktop)
+Sat Dec 04 2021 14:36:15.266701 - Added overlay (debugcommands_desktop)
+Sat Dec 04 2021 14:36:15.266808 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 14:36:15.266830 - Added overlay (keyboard)
+Sat Dec 04 2021 14:36:15.267401 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Dec 04 2021 14:36:15.267455 - Added overlay (managetrackers_desktop)
+Sat Dec 04 2021 14:36:15.267519 - Added overlay (messageoverlay)
+Sat Dec 04 2021 14:36:15.267547 - Added overlay (notificationtoast)
+Sat Dec 04 2021 14:36:15.267599 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 14:36:15.267619 - Added overlay (settings_desktop)
+Sat Dec 04 2021 14:36:15.688201 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 14:36:15.688361 - Added overlay (systemui)
+Sat Dec 04 2021 14:36:15.689163 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Dec 04 2021 14:36:15.689265 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Dec 04 2021 14:36:15.689301 - Starting CEF Message Loop...
+Sat Dec 04 2021 14:44:45.909504 - Completed CEF Message Loop.
+Sat Dec 04 2021 14:44:45.911143 - CEF Shutdown...
+Sat Dec 04 2021 14:44:46.047171 - SDL Quitting...
+Sat Dec 04 2021 14:44:46.230817 - VR Shutting down...
+Sat Dec 04 2021 14:55:22.627259 - //==============================================================================================
+Sat Dec 04 2021 14:55:22.627327 - ================================================================================================
+Sat Dec 04 2021 14:55:22.627358 - ================================================================================================
+Sat Dec 04 2021 14:55:22.627416 - vrwebhelper 1.20.4 startup with PID=43877, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:55:25.248763 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 14:55:25.322761 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:55:25.322877 - CSharedResourceNamespaceClient::Init(): received namespace data 43589
+Sat Dec 04 2021 14:55:25.685738 - Added overlay (pairing)
+Sat Dec 04 2021 14:55:26.234713 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 14:55:26.235143 - Added overlay (bindingcallouts)
+Sat Dec 04 2021 14:55:26.235205 - Added overlay (controllerbinding)
+Sat Dec 04 2021 14:55:26.235249 - Added overlay (controllerbinding_desktop)
+Sat Dec 04 2021 14:55:26.235375 - Added overlay (debugcommands_desktop)
+Sat Dec 04 2021 14:55:26.235548 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 14:55:26.235611 - Added overlay (keyboard)
+Sat Dec 04 2021 14:55:26.236704 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Dec 04 2021 14:55:26.236844 - Added overlay (managetrackers_desktop)
+Sat Dec 04 2021 14:55:26.236988 - Added overlay (messageoverlay)
+Sat Dec 04 2021 14:55:26.237063 - Added overlay (notificationtoast)
+Sat Dec 04 2021 14:55:26.237513 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 14:55:26.237589 - Added overlay (settings_desktop)
+Sat Dec 04 2021 14:55:26.652850 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 14:55:26.652960 - Added overlay (systemui)
+Sat Dec 04 2021 14:55:26.653469 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Dec 04 2021 14:55:26.653531 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Dec 04 2021 14:55:26.653550 - Starting CEF Message Loop...
+Sat Dec 04 2021 14:57:26.917615 - Completed CEF Message Loop.
+Sat Dec 04 2021 14:57:26.935991 - CEF Shutdown...
+Sat Dec 04 2021 14:57:27.042318 - SDL Quitting...
+Sat Dec 04 2021 14:57:27.265642 - VR Shutting down...
+Sat Dec 04 2021 14:57:46.644965 - //==============================================================================================
+Sat Dec 04 2021 14:57:46.645051 - ================================================================================================
+Sat Dec 04 2021 14:57:46.645086 - ================================================================================================
+Sat Dec 04 2021 14:57:46.645135 - vrwebhelper 1.20.4 startup with PID=45488, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:57:49.264976 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 14:57:49.398506 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 14:57:49.400380 - CSharedResourceNamespaceClient::Init(): received namespace data 45186
+Sat Dec 04 2021 14:57:49.846073 - Added overlay (pairing)
+Sat Dec 04 2021 14:57:50.272429 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 14:57:50.272787 - Added overlay (bindingcallouts)
+Sat Dec 04 2021 14:57:50.272836 - Added overlay (controllerbinding)
+Sat Dec 04 2021 14:57:50.272872 - Added overlay (controllerbinding_desktop)
+Sat Dec 04 2021 14:57:50.272963 - Added overlay (debugcommands_desktop)
+Sat Dec 04 2021 14:57:50.273049 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 14:57:50.273074 - Added overlay (keyboard)
+Sat Dec 04 2021 14:57:50.273621 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Dec 04 2021 14:57:50.273665 - Added overlay (managetrackers_desktop)
+Sat Dec 04 2021 14:57:50.273728 - Added overlay (messageoverlay)
+Sat Dec 04 2021 14:57:50.273756 - Added overlay (notificationtoast)
+Sat Dec 04 2021 14:57:50.273801 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 14:57:50.273825 - Added overlay (settings_desktop)
+Sat Dec 04 2021 14:57:50.620883 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 14:57:50.621001 - Added overlay (systemui)
+Sat Dec 04 2021 14:57:50.621612 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Dec 04 2021 14:57:50.621687 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Dec 04 2021 14:57:50.621713 - Starting CEF Message Loop...
+Sat Dec 04 2021 15:01:18.810205 - Completed CEF Message Loop.
+Sat Dec 04 2021 15:01:18.811095 - CEF Shutdown...
+Sat Dec 04 2021 15:01:18.884607 - SDL Quitting...
+Sat Dec 04 2021 15:01:18.982709 - VR Shutting down...
+Sat Dec 04 2021 15:02:50.904502 - //==============================================================================================
+Sat Dec 04 2021 15:02:50.904625 - ================================================================================================
+Sat Dec 04 2021 15:02:50.904681 - ================================================================================================
+Sat Dec 04 2021 15:02:50.904740 - vrwebhelper 1.20.4 startup with PID=47609, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:02:53.549500 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 15:02:53.634911 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 15:02:53.635030 - CSharedResourceNamespaceClient::Init(): received namespace data 47343
+Sat Dec 04 2021 15:02:54.030672 - Added overlay (pairing)
+Sat Dec 04 2021 15:02:54.486538 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 15:02:54.486877 - Added overlay (bindingcallouts)
+Sat Dec 04 2021 15:02:54.486996 - Added overlay (controllerbinding)
+Sat Dec 04 2021 15:02:54.487046 - Added overlay (controllerbinding_desktop)
+Sat Dec 04 2021 15:02:54.487166 - Added overlay (debugcommands_desktop)
+Sat Dec 04 2021 15:02:54.487313 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 15:02:54.487358 - Added overlay (keyboard)
+Sat Dec 04 2021 15:02:54.488092 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Dec 04 2021 15:02:54.488170 - Added overlay (managetrackers_desktop)
+Sat Dec 04 2021 15:02:54.488292 - Added overlay (messageoverlay)
+Sat Dec 04 2021 15:02:54.488332 - Added overlay (notificationtoast)
+Sat Dec 04 2021 15:02:54.488404 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 15:02:54.488436 - Added overlay (settings_desktop)
+Sat Dec 04 2021 15:02:54.771860 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 15:02:54.771969 - Added overlay (systemui)
+Sat Dec 04 2021 15:02:54.772540 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Dec 04 2021 15:02:54.772596 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Dec 04 2021 15:02:54.772619 - Starting CEF Message Loop...
+Sat Dec 04 2021 15:30:14.863027 - //==============================================================================================
+Sat Dec 04 2021 15:30:14.867788 - ================================================================================================
+Sat Dec 04 2021 15:30:14.867824 - ================================================================================================
+Sat Dec 04 2021 15:30:14.867859 - vrwebhelper 1.20.4 startup with PID=8309, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:30:17.463296 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 15:30:17.727227 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 15:30:17.727331 - CSharedResourceNamespaceClient::Init(): received namespace data 7972
+Sat Dec 04 2021 15:30:18.031472 - Added overlay (pairing)
+Sat Dec 04 2021 15:30:18.270627 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 15:30:18.271516 - Added overlay (bindingcallouts)
+Sat Dec 04 2021 15:30:18.271559 - Added overlay (controllerbinding)
+Sat Dec 04 2021 15:30:18.271589 - Added overlay (controllerbinding_desktop)
+Sat Dec 04 2021 15:30:18.271716 - Added overlay (debugcommands_desktop)
+Sat Dec 04 2021 15:30:18.271834 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 15:30:18.271866 - Added overlay (keyboard)
+Sat Dec 04 2021 15:30:18.272497 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Dec 04 2021 15:30:18.272566 - Added overlay (managetrackers_desktop)
+Sat Dec 04 2021 15:30:18.272666 - Added overlay (messageoverlay)
+Sat Dec 04 2021 15:30:18.272702 - Added overlay (notificationtoast)
+Sat Dec 04 2021 15:30:18.272763 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 15:30:18.272790 - Added overlay (settings_desktop)
+Sat Dec 04 2021 15:30:18.498894 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 15:30:18.499053 - Added overlay (systemui)
+Sat Dec 04 2021 15:30:18.499727 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Dec 04 2021 15:30:18.499786 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Dec 04 2021 15:30:18.499809 - Starting CEF Message Loop...
+Sat Dec 04 2021 15:35:53.565650 - Completed CEF Message Loop.
+Sat Dec 04 2021 15:35:53.580481 - CEF Shutdown...
+Sat Dec 04 2021 15:35:53.669060 - SDL Quitting...
+Sat Dec 04 2021 15:35:53.721360 - VR Shutting down...
+Sat Dec 04 2021 15:39:57.426993 - //==============================================================================================
+Sat Dec 04 2021 15:39:57.427078 - ================================================================================================
+Sat Dec 04 2021 15:39:57.427113 - ================================================================================================
+Sat Dec 04 2021 15:39:57.427166 - vrwebhelper 1.20.4 startup with PID=15425, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:40:00.010808 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 04 2021 15:40:00.097432 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 15:40:00.097535 - CSharedResourceNamespaceClient::Init(): received namespace data 15114
+Sat Dec 04 2021 15:40:00.343912 - Added overlay (pairing)
+Sat Dec 04 2021 15:40:00.814692 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 04 2021 15:40:00.815126 - Added overlay (bindingcallouts)
+Sat Dec 04 2021 15:40:00.815164 - Added overlay (controllerbinding)
+Sat Dec 04 2021 15:40:00.815188 - Added overlay (controllerbinding_desktop)
+Sat Dec 04 2021 15:40:00.815261 - Added overlay (debugcommands_desktop)
+Sat Dec 04 2021 15:40:00.815373 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 04 2021 15:40:00.815398 - Added overlay (keyboard)
+Sat Dec 04 2021 15:40:00.815945 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Dec 04 2021 15:40:00.815992 - Added overlay (managetrackers_desktop)
+Sat Dec 04 2021 15:40:00.816052 - Added overlay (messageoverlay)
+Sat Dec 04 2021 15:40:00.816079 - Added overlay (notificationtoast)
+Sat Dec 04 2021 15:40:00.816124 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 04 2021 15:40:00.816146 - Added overlay (settings_desktop)
+Sat Dec 04 2021 15:40:01.118709 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 04 2021 15:40:01.118809 - Added overlay (systemui)
+Sat Dec 04 2021 15:40:01.119322 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Dec 04 2021 15:40:01.119366 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Dec 04 2021 15:40:01.119385 - Starting CEF Message Loop...
+Sat Dec 04 2021 15:51:10.930008 - Completed CEF Message Loop.
+Sat Dec 04 2021 15:51:10.937022 - CEF Shutdown...
+Sat Dec 04 2021 15:51:11.054480 - SDL Quitting...
+Sat Dec 04 2021 15:51:11.173553 - VR Shutting down...
+Sat Dec 11 2021 12:19:11.189960 - //==============================================================================================
+Sat Dec 11 2021 12:19:11.205246 - ================================================================================================
+Sat Dec 11 2021 12:19:11.205281 - ================================================================================================
+Sat Dec 11 2021 12:19:11.205322 - vrwebhelper 1.20.4 startup with PID=11442, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 11 2021 12:19:13.760625 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Dec 11 2021 12:19:14.116413 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 11 2021 12:19:14.116564 - CSharedResourceNamespaceClient::Init(): received namespace data 11125
+Sat Dec 11 2021 12:19:14.393815 - Added overlay (pairing)
+Sat Dec 11 2021 12:19:14.647053 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Dec 11 2021 12:19:14.647763 - Added overlay (bindingcallouts)
+Sat Dec 11 2021 12:19:14.647810 - Added overlay (controllerbinding)
+Sat Dec 11 2021 12:19:14.647836 - Added overlay (controllerbinding_desktop)
+Sat Dec 11 2021 12:19:14.648054 - Added overlay (debugcommands_desktop)
+Sat Dec 11 2021 12:19:14.648178 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Dec 11 2021 12:19:14.648205 - Added overlay (keyboard)
+Sat Dec 11 2021 12:19:14.648784 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Dec 11 2021 12:19:14.648838 - Added overlay (managetrackers_desktop)
+Sat Dec 11 2021 12:19:14.648923 - Added overlay (messageoverlay)
+Sat Dec 11 2021 12:19:14.648953 - Added overlay (notificationtoast)
+Sat Dec 11 2021 12:19:14.649013 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Dec 11 2021 12:19:14.649037 - Added overlay (settings_desktop)
+Sat Dec 11 2021 12:19:15.014106 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Dec 11 2021 12:19:15.014224 - Added overlay (systemui)
+Sat Dec 11 2021 12:19:15.014771 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Dec 11 2021 12:19:15.014830 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Dec 11 2021 12:19:15.014849 - Starting CEF Message Loop...
+Sat Dec 11 2021 12:28:11.684549 - Spinning up controllerbinding because binding_load_failed was sent to bindingui/overlay
+Sat Dec 11 2021 12:28:11.685201 - Creating browser pointed at http://localhost:27062/dashboard/controllerbinding.html (max fps 120)
+Sat Dec 11 2021 12:28:11.685281 - Spinning up controllerbinding because binding_load_failed was sent to bindingui/overlay
+Sat Dec 11 2021 12:56:20.168176 - Completed CEF Message Loop.
+Sat Dec 11 2021 12:56:20.169070 - CEF Shutdown...
+Sat Dec 11 2021 12:56:20.326830 - SDL Quitting...
+Sat Dec 11 2021 12:56:20.468310 - VR Shutting down...
+Fri Dec 24 2021 16:32:54.629105 - //==============================================================================================
+Fri Dec 24 2021 16:32:54.646969 - ================================================================================================
+Fri Dec 24 2021 16:32:54.647028 - ================================================================================================
+Fri Dec 24 2021 16:32:54.647075 - vrwebhelper 1.20.4 startup with PID=32415, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Fri Dec 24 2021 16:32:57.430147 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Fri Dec 24 2021 16:32:57.789179 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Fri Dec 24 2021 16:32:57.789280 - CSharedResourceNamespaceClient::Init(): received namespace data 32343
+Fri Dec 24 2021 16:32:58.160827 - Added overlay (pairing)
+Fri Dec 24 2021 16:32:58.750983 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Fri Dec 24 2021 16:32:58.751549 - Added overlay (bindingcallouts)
+Fri Dec 24 2021 16:32:58.751576 - Added overlay (controllerbinding)
+Fri Dec 24 2021 16:32:58.751594 - Added overlay (controllerbinding_desktop)
+Fri Dec 24 2021 16:32:58.751650 - Added overlay (debugcommands_desktop)
+Fri Dec 24 2021 16:32:58.751715 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Fri Dec 24 2021 16:32:58.751736 - Added overlay (keyboard)
+Fri Dec 24 2021 16:32:58.752116 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Fri Dec 24 2021 16:32:58.752150 - Added overlay (managetrackers_desktop)
+Fri Dec 24 2021 16:32:58.752197 - Added overlay (messageoverlay)
+Fri Dec 24 2021 16:32:58.752218 - Added overlay (notificationtoast)
+Fri Dec 24 2021 16:32:58.752252 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Fri Dec 24 2021 16:32:58.752270 - Added overlay (settings_desktop)
+Fri Dec 24 2021 16:32:59.014698 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Fri Dec 24 2021 16:32:59.014798 - Added overlay (systemui)
+Fri Dec 24 2021 16:32:59.015203 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Fri Dec 24 2021 16:32:59.015247 - Added 11 overlays from 2 configurations. 4 have been opened.
+Fri Dec 24 2021 16:32:59.015262 - Starting CEF Message Loop...
+Fri Dec 24 2021 16:33:02.107830 - Completed CEF Message Loop.
+Fri Dec 24 2021 16:33:02.109970 - CEF Shutdown...
+Fri Dec 24 2021 16:33:02.132590 - SDL Quitting...
+Fri Dec 24 2021 16:33:02.211298 - VR Shutting down...
+Sun Dec 26 2021 14:47:32.149298 - //==============================================================================================
+Sun Dec 26 2021 14:47:32.167264 - ================================================================================================
+Sun Dec 26 2021 14:47:32.167304 - ================================================================================================
+Sun Dec 26 2021 14:47:32.167337 - vrwebhelper 1.20.4 startup with PID=25578, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sun Dec 26 2021 14:47:34.614171 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sun Dec 26 2021 14:47:35.031971 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sun Dec 26 2021 14:47:35.032095 - CSharedResourceNamespaceClient::Init(): received namespace data 25509
+Sun Dec 26 2021 14:47:35.187805 - Added overlay (pairing)
+Sun Dec 26 2021 14:47:35.450490 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sun Dec 26 2021 14:47:35.451075 - Added overlay (bindingcallouts)
+Sun Dec 26 2021 14:47:35.451105 - Added overlay (controllerbinding)
+Sun Dec 26 2021 14:47:35.451125 - Added overlay (controllerbinding_desktop)
+Sun Dec 26 2021 14:47:35.451214 - Added overlay (debugcommands_desktop)
+Sun Dec 26 2021 14:47:35.451286 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sun Dec 26 2021 14:47:35.451305 - Added overlay (keyboard)
+Sun Dec 26 2021 14:47:35.451709 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sun Dec 26 2021 14:47:35.451763 - Added overlay (managetrackers_desktop)
+Sun Dec 26 2021 14:47:35.451851 - Added overlay (messageoverlay)
+Sun Dec 26 2021 14:47:35.451901 - Added overlay (notificationtoast)
+Sun Dec 26 2021 14:47:35.451959 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sun Dec 26 2021 14:47:35.451987 - Added overlay (settings_desktop)
+Sun Dec 26 2021 14:47:35.584237 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sun Dec 26 2021 14:47:35.584362 - Added overlay (systemui)
+Sun Dec 26 2021 14:47:35.584814 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sun Dec 26 2021 14:47:35.584862 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sun Dec 26 2021 14:47:35.584882 - Starting CEF Message Loop...
+Sun Dec 26 2021 14:52:56.924434 - Completed CEF Message Loop.
+Sun Dec 26 2021 14:52:56.954365 - CEF Shutdown...
+Sun Dec 26 2021 14:52:57.108499 - SDL Quitting...
+Sun Dec 26 2021 14:52:57.152125 - VR Shutting down...
+Sun Dec 26 2021 15:07:58.158863 - //==============================================================================================
+Sun Dec 26 2021 15:07:58.164637 - ================================================================================================
+Sun Dec 26 2021 15:07:58.164683 - ================================================================================================
+Sun Dec 26 2021 15:07:58.164723 - vrwebhelper 1.20.4 startup with PID=31350, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sun Dec 26 2021 15:08:00.918899 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sun Dec 26 2021 15:08:01.858729 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sun Dec 26 2021 15:08:01.858833 - CSharedResourceNamespaceClient::Init(): received namespace data 31278
+Sun Dec 26 2021 15:08:02.112682 - Added overlay (pairing)
+Sun Dec 26 2021 15:08:02.440470 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sun Dec 26 2021 15:08:02.441131 - Added overlay (bindingcallouts)
+Sun Dec 26 2021 15:08:02.441168 - Added overlay (controllerbinding)
+Sun Dec 26 2021 15:08:02.441190 - Added overlay (controllerbinding_desktop)
+Sun Dec 26 2021 15:08:02.441267 - Added overlay (debugcommands_desktop)
+Sun Dec 26 2021 15:08:02.441350 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sun Dec 26 2021 15:08:02.441371 - Added overlay (keyboard)
+Sun Dec 26 2021 15:08:02.441816 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sun Dec 26 2021 15:08:02.441864 - Added overlay (managetrackers_desktop)
+Sun Dec 26 2021 15:08:02.441922 - Added overlay (messageoverlay)
+Sun Dec 26 2021 15:08:02.441946 - Added overlay (notificationtoast)
+Sun Dec 26 2021 15:08:02.441995 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sun Dec 26 2021 15:08:02.442014 - Added overlay (settings_desktop)
+Sun Dec 26 2021 15:08:03.290846 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sun Dec 26 2021 15:08:03.291038 - Added overlay (systemui)
+Sun Dec 26 2021 15:08:03.293030 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sun Dec 26 2021 15:08:03.293167 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sun Dec 26 2021 15:08:03.293193 - Starting CEF Message Loop...
+Sun Dec 26 2021 15:08:24.998104 - Completed CEF Message Loop.
+Sun Dec 26 2021 15:08:25.119947 - CEF Shutdown...
+Sun Dec 26 2021 15:08:25.852621 - SDL Quitting...
+Sun Dec 26 2021 15:08:26.171740 - VR Shutting down...
+Mon Feb 07 2022 15:23:45.668226 - //==============================================================================================
+Mon Feb 07 2022 15:23:45.736772 - ================================================================================================
+Mon Feb 07 2022 15:23:45.736814 - ================================================================================================
+Mon Feb 07 2022 15:23:45.736846 - vrwebhelper 1.20.4 startup with PID=36864, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Mon Feb 07 2022 15:23:48.242465 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Mon Feb 07 2022 15:23:48.658611 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Mon Feb 07 2022 15:23:48.658799 - CSharedResourceNamespaceClient::Init(): received namespace data 36558
+Mon Feb 07 2022 15:23:48.924118 - Added overlay (pairing)
+Mon Feb 07 2022 15:23:49.354225 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Mon Feb 07 2022 15:23:49.355558 - Added overlay (bindingcallouts)
+Mon Feb 07 2022 15:23:49.355594 - Added overlay (controllerbinding)
+Mon Feb 07 2022 15:23:49.355619 - Added overlay (controllerbinding_desktop)
+Mon Feb 07 2022 15:23:49.355719 - Added overlay (debugcommands_desktop)
+Mon Feb 07 2022 15:23:49.355822 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Mon Feb 07 2022 15:23:49.355847 - Added overlay (keyboard)
+Mon Feb 07 2022 15:23:49.356416 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Mon Feb 07 2022 15:23:49.356473 - Added overlay (managetrackers_desktop)
+Mon Feb 07 2022 15:23:49.356557 - Added overlay (messageoverlay)
+Mon Feb 07 2022 15:23:49.356593 - Added overlay (notificationtoast)
+Mon Feb 07 2022 15:23:49.356670 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Mon Feb 07 2022 15:23:49.356702 - Added overlay (settings_desktop)
+Mon Feb 07 2022 15:23:49.645518 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Mon Feb 07 2022 15:23:49.645613 - Added overlay (systemui)
+Mon Feb 07 2022 15:23:49.646119 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Mon Feb 07 2022 15:23:49.646167 - Added 11 overlays from 2 configurations. 4 have been opened.
+Mon Feb 07 2022 15:23:49.646187 - Starting CEF Message Loop...
+Mon Feb 07 2022 15:24:51.088325 - Completed CEF Message Loop.
+Mon Feb 07 2022 15:24:51.111716 - CEF Shutdown...
+Mon Feb 07 2022 15:24:51.147073 - SDL Quitting...
+Mon Feb 07 2022 15:24:51.259568 - VR Shutting down...
+Sat Mar 12 2022 22:40:57.627299 - //==============================================================================================
+Sat Mar 12 2022 22:40:57.630685 - ================================================================================================
+Sat Mar 12 2022 22:40:57.630769 - ================================================================================================
+Sat Mar 12 2022 22:40:57.630834 - vrwebhelper 1.21.11 startup with PID=86285, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Mar 12 2022 22:41:00.530639 - Using htmlcache path /home/waterdev/.cache/SteamVR/htmlcache
+Sat Mar 12 2022 22:41:00.963558 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Mar 12 2022 22:41:00.963683 - CSharedResourceNamespaceClient::Init(): received namespace data 86225
+Sat Mar 12 2022 22:41:01.455157 - Added overlay (pairing)
+Sat Mar 12 2022 22:41:01.897917 - Creating browser pointed at http://localhost:27062/lighthouse/webinterface/pairing.html?persisted=true (max fps 120)
+Sat Mar 12 2022 22:41:01.898610 - Added overlay (bindingcallouts)
+Sat Mar 12 2022 22:41:01.898650 - Added overlay (controllerbinding)
+Sat Mar 12 2022 22:41:01.898675 - Added overlay (controllerbinding_desktop)
+Sat Mar 12 2022 22:41:01.898820 - Added overlay (debugcommands_desktop)
+Sat Mar 12 2022 22:41:01.898958 - Skipped overlay (fallback) because setting "driver_lighthouse.enableImuFallback" is False
+Sat Mar 12 2022 22:41:01.898989 - Added overlay (keyboard)
+Sat Mar 12 2022 22:41:01.899869 - Creating browser pointed at http://localhost:27062/dashboard/keyboard.html (max fps 120)
+Sat Mar 12 2022 22:41:01.899935 - Added overlay (managetrackers_desktop)
+Sat Mar 12 2022 22:41:01.900075 - Added overlay (messageoverlay)
+Sat Mar 12 2022 22:41:01.900111 - Added overlay (notificationtoast)
+Sat Mar 12 2022 22:41:01.900191 - Skipped overlay (scenegraphtest) because setting "dashboard.sceneGraphTest" is False
+Sat Mar 12 2022 22:41:01.900242 - Added overlay (settings_desktop)
+Sat Mar 12 2022 22:41:02.266025 - Creating browser pointed at http://localhost:27062/dashboard/settings_desktop.html?persisted=true&desktop=true (max fps 120)
+Sat Mar 12 2022 22:41:02.266199 - Added overlay (systemui)
+Sat Mar 12 2022 22:41:02.266825 - Creating browser pointed at http://localhost:27062/dashboard/systemui.html (max fps 120)
+Sat Mar 12 2022 22:41:02.266882 - Added 11 overlays from 2 configurations. 4 have been opened.
+Sat Mar 12 2022 22:41:02.266900 - Starting CEF Message Loop...
+Sat Mar 12 2022 22:43:26.139141 - Completed CEF Message Loop.
+Sat Mar 12 2022 22:43:26.140314 - CEF Shutdown...
+Sat Mar 12 2022 22:43:26.257341 - SDL Quitting...
+Sat Mar 12 2022 22:43:26.322376 - VR Shutting down...

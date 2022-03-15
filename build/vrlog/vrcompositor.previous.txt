@@ -1,0 +1,2089 @@
+Sat Dec 04 2021 15:02:44.268119 - //==============================================================================================
+Sat Dec 04 2021 15:02:44.268192 - ================================================================================================
+Sat Dec 04 2021 15:02:44.268223 - ================================================================================================
+Sat Dec 04 2021 15:02:44.268265 - vrcompositor 1.20.4 startup with PID=47355, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:02:44.268303 - VR compositor 1.20.4 (v1634602223) Mixed starting up
+Sat Dec 04 2021 15:02:44.306309 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 15:02:44.306420 - CSharedResourceNamespaceClient::Init(): received namespace data 47343
+Sat Dec 04 2021 15:02:44.306471 - CIPCPipe::CreatePipe(VR_CompositorPipe_47343) bound to steamvr:VR_CompositorPipe_47343
+Sat Dec 04 2021 15:02:44.307411 - Set fd limit to: 1048576
+Sat Dec 04 2021 15:02:44.307438 - Forcing debug mode for sample driver because of Prop_DisplayDebugMode_Bool.
+Sat Dec 04 2021 15:02:44.308649 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:02:44.308740 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:02:44.308826 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:02:44.308917 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:02:44.309227 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:02:44.309992 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 15:02:44.311103 - Events created
+Sat Dec 04 2021 15:02:44.311753 - Creating CHmdWindowSDL!
+Sat Dec 04 2021 15:02:44.765943 - Instance layers available:
+Sat Dec 04 2021 15:02:44.766007 -  - VK_LAYER_MESA_device_select, version 4202569
+Sat Dec 04 2021 15:02:44.766025 -  - VK_LAYER_NV_optimus, version 4202682
+Sat Dec 04 2021 15:02:44.766041 -  - VK_LAYER_VALVE_steam_fossilize_64, version 4202632
+Sat Dec 04 2021 15:02:44.766056 -  - VK_LAYER_VALVE_steam_overlay_64, version 4202632
+Sat Dec 04 2021 15:02:44.766070 -  - VK_LAYER_VALVE_steam_overlay_32, version 4202632
+Sat Dec 04 2021 15:02:44.766083 -  - VK_LAYER_VALVE_steam_fossilize_32, version 4202632
+Sat Dec 04 2021 15:02:44.766096 -  - VK_LAYER_MESA_overlay, version 4198473
+Sat Dec 04 2021 15:02:44.798295 - Instance extensions available:
+Sat Dec 04 2021 15:02:44.798367 -  - VK_KHR_device_group_creation, version 1
+Sat Dec 04 2021 15:02:44.798386 -  - VK_KHR_display, version 23
+Sat Dec 04 2021 15:02:44.798404 -  - VK_KHR_external_fence_capabilities, version 1
+Sat Dec 04 2021 15:02:44.798420 -  - VK_KHR_external_memory_capabilities, version 1
+Sat Dec 04 2021 15:02:44.798437 -  - VK_KHR_external_semaphore_capabilities, version 1
+Sat Dec 04 2021 15:02:44.798453 -  - VK_KHR_get_display_properties2, version 1
+Sat Dec 04 2021 15:02:44.798468 -  - VK_KHR_get_physical_device_properties2, version 1
+Sat Dec 04 2021 15:02:44.798481 -  - VK_KHR_get_surface_capabilities2, version 1
+Sat Dec 04 2021 15:02:44.798494 -  - VK_KHR_surface, version 25
+Sat Dec 04 2021 15:02:44.798508 -  - VK_KHR_surface_protected_capabilities, version 1
+Sat Dec 04 2021 15:02:44.798524 -  - VK_KHR_wayland_surface, version 6
+Sat Dec 04 2021 15:02:44.798538 -  - VK_KHR_xcb_surface, version 6
+Sat Dec 04 2021 15:02:44.798552 -  - VK_KHR_xlib_surface, version 6
+Sat Dec 04 2021 15:02:44.798567 -  - VK_EXT_acquire_xlib_display, version 1
+Sat Dec 04 2021 15:02:44.798601 -  - VK_EXT_debug_report, version 8
+Sat Dec 04 2021 15:02:44.798623 -  - VK_EXT_direct_mode_display, version 1
+Sat Dec 04 2021 15:02:44.798642 -  - VK_EXT_display_surface_counter, version 1
+Sat Dec 04 2021 15:02:44.798661 -  - VK_EXT_debug_utils, version 2
+Sat Dec 04 2021 15:02:44.798682 - Direct mode features: present
+Sat Dec 04 2021 15:02:44.798702 - Requesting 9 instance extensions:
+Sat Dec 04 2021 15:02:44.798720 -  - VK_KHR_surface
+Sat Dec 04 2021 15:02:44.798739 -  - VK_KHR_xcb_surface
+Sat Dec 04 2021 15:02:44.798757 -  - VK_KHR_display
+Sat Dec 04 2021 15:02:44.798775 -  - VK_EXT_direct_mode_display
+Sat Dec 04 2021 15:02:44.798793 -  - VK_EXT_acquire_xlib_display
+Sat Dec 04 2021 15:02:44.798812 -  - VK_EXT_display_surface_counter
+Sat Dec 04 2021 15:02:44.798831 -  - VK_KHR_external_memory_capabilities
+Sat Dec 04 2021 15:02:44.798849 -  - VK_KHR_external_semaphore_capabilities
+Sat Dec 04 2021 15:02:44.798867 -  - VK_KHR_get_physical_device_properties2
+Sat Dec 04 2021 15:02:44.817814 - HMD deviceUUID is 911dc535d30647bb
+Sat Dec 04 2021 15:02:44.817894 - Looking for direct display through RandR
+Sat Dec 04 2021 15:02:44.817916 -  - Root 0x1e4
+Sat Dec 04 2021 15:02:44.863595 -    - Output 0x1bd - 0 modes, 0 preferred
+Sat Dec 04 2021 15:02:44.863800 -    - Output 0x1be - 0 modes, 0 preferred
+Sat Dec 04 2021 15:02:44.864004 -    - Output 0x1bf - 0 modes, 0 preferred
+Sat Dec 04 2021 15:02:44.864080 -    - Output 0x1c0 - 0 modes, 0 preferred
+Sat Dec 04 2021 15:02:44.864251 -    - Output 0x1c1 - 28 modes, 1 preferred
+Sat Dec 04 2021 15:02:44.864278 -      - Mode 0 0x1c2 1920x1080 (looking for 2160x1200)
+Sat Dec 04 2021 15:02:44.865130 -    - Output 0x1de - 0 modes, 0 preferred
+Sat Dec 04 2021 15:02:44.865292 -    - Output 0x1df - 0 modes, 0 preferred
+Sat Dec 04 2021 15:02:44.865341 - Tried to find direct display through RandR: (nil)
+Sat Dec 04 2021 15:02:44.865387 - Looking for direct display through Vulkan WSI
+Sat Dec 04 2021 15:02:44.914205 -  - Vulkan output 0: 1920x1080 resolution, 480x270 dimensions - Ancor Communications Inc VE228 (HDMI-0)
+Sat Dec 04 2021 15:02:44.914307 - Tried to find direct display through Vulkan WSI: (nil)
+Sat Dec 04 2021 15:02:44.914334 - CHmdWindowSDL: Failed to create direct mode surface
+Sat Dec 04 2021 15:02:44.915076 - Requesting 10 device extensions:
+Sat Dec 04 2021 15:02:44.915132 -  - VK_KHR_swapchain
+Sat Dec 04 2021 15:02:44.915153 -  - VK_KHR_maintenance1
+Sat Dec 04 2021 15:02:44.915168 -  - VK_KHR_dedicated_allocation
+Sat Dec 04 2021 15:02:44.915183 -  - VK_KHR_get_memory_requirements2
+Sat Dec 04 2021 15:02:44.915198 -  - VK_KHR_external_memory
+Sat Dec 04 2021 15:02:44.915212 -  - VK_KHR_external_semaphore
+Sat Dec 04 2021 15:02:44.915227 -  - VK_EXT_display_control
+Sat Dec 04 2021 15:02:44.915244 -  - VK_KHR_external_memory_fd
+Sat Dec 04 2021 15:02:44.915265 -  - VK_KHR_external_semaphore_fd
+Sat Dec 04 2021 15:02:44.915284 -  - VK_EXT_global_priority
+Sat Dec 04 2021 15:02:44.915308 - Global priority query enabled: 1
+Sat Dec 04 2021 15:02:44.915329 - Attempting to enable async support...
+Sat Dec 04 2021 15:02:44.915348 - Enabling async support!
+Sat Dec 04 2021 15:02:44.962402 - m_pVkInstance : 0x56076373ec50
+Sat Dec 04 2021 15:02:44.962458 - m_pVkPhysicalDevice : 0x56076398d0b0
+Sat Dec 04 2021 15:02:44.962472 - m_pVkDevice : 0x560763a715a0
+Sat Dec 04 2021 15:02:44.962484 - m_pVkGraphicsQueue : 0x5607633ad860
+Sat Dec 04 2021 15:02:44.962496 - m_pVkComputeQueue : 0x560763c85190
+Sat Dec 04 2021 15:02:44.981586 - HMD swapchain mode:2 count:3
+Sat Dec 04 2021 15:02:45.186001 - Direct mode: disabled
+Sat Dec 04 2021 15:02:45.263559 - Mirror swapchain mode:0 count:3
+Sat Dec 04 2021 15:02:45.463590 - CGraphicsDevice Init...
+Sat Dec 04 2021 15:02:45.464203 - Headset display is on desktop
+Sat Dec 04 2021 15:02:45.464237 - Initializing timing resources
+Sat Dec 04 2021 15:02:45.464754 - Initializing CVulkanVRRenderer
+Sat Dec 04 2021 15:02:45.464796 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Sat Dec 04 2021 15:02:45.560672 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7fe1f8000000.
+Sat Dec 04 2021 15:02:45.564840 - Updated HMD Prop_DisplayFrequency_Float to 90.000000
+Sat Dec 04 2021 15:02:45.564958 - ****************************************** Begin GPU speed ******************************************
+Sat Dec 04 2021 15:02:45.564992 - GPU Vendor: "NVIDIA GeForce GTX 1660 Ti" GPU Driver: "2076901376"
+Sat Dec 04 2021 15:02:45.565814 - Initializing CVulkanVRRenderer
+Sat Dec 04 2021 15:02:45.565971 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Sat Dec 04 2021 15:02:45.654999 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7fe1e8000000.
+Sat Dec 04 2021 15:02:45.740197 - MeasureGpuMegaPixelsPerSecond(0): Returning 598 MP/sec. Total CPU time 0.17 seconds.
+Sat Dec 04 2021 15:02:45.767548 - GPU speed from average of 6 median samples: 651
+Sat Dec 04 2021 15:02:45.767895 - ******************************************* End GPU speed *******************************************
+Sat Dec 04 2021 15:02:45.767983 - HMD driver recommended: 1512x1680 90.0Hz HiddenArea(0.00%) = 457 MP/sec
+Sat Dec 04 2021 15:02:45.768002 - Raw ideal render target scale = 1.42
+Sat Dec 04 2021 15:02:45.768185 - New result of GetRecommendedRenderTargetSize for current app: 1800x2000
+Sat Dec 04 2021 15:02:45.768206 - Creating samplers
+Sat Dec 04 2021 15:02:45.768253 - Creating util resources
+Sat Dec 04 2021 15:02:45.769018 - Creating/Updating distortion surfaces
+Sat Dec 04 2021 15:02:45.817234 - Warp mesh (left eye) covers 99.91% of its viewport (shrink wrap saved 0.00%)
+Sat Dec 04 2021 15:02:46.152205 - Warp mesh (right eye) covers 99.91% of its viewport (shrink wrap saved 0.00%)
+Sat Dec 04 2021 15:02:46.431785 - Creating constant buffers
+Sat Dec 04 2021 15:02:46.433686 - Creating systemlayer textures (w=1800,h=2000)
+Sat Dec 04 2021 15:02:46.438405 - Initializing camera
+Sat Dec 04 2021 15:02:46.438472 - Done initializing CGraphicsDevice resources
+Sat Dec 04 2021 15:02:46.438498 - Loading MC resources
+Sat Dec 04 2021 15:02:46.438807 - Distort initialized
+Sat Dec 04 2021 15:02:46.440291 - Loading background skybox texture async '/home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/backgrounds/aurorasky.png'
+Sat Dec 04 2021 15:02:46.440325 - Loading reflection skybox texture async '/home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/reflections/dashboard_lights.png'
+Sat Dec 04 2021 15:02:46.444584 - Set thread 0x7fe22d1f0700 priority to: -15
+Sat Dec 04 2021 15:02:46.444776 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrstartup 47237
+Sat Dec 04 2021 15:02:46.445818 - Set thread 0x7fe24c2f5700 priority to: 15
+Sat Dec 04 2021 15:02:46.445907 - Compositor render thread started
+Sat Dec 04 2021 15:02:46.445987 - Set thread 0x7fe24c3f6700 priority to: 15
+Sat Dec 04 2021 15:02:46.446044 - Startup Complete (2.138634 seconds)
+Sat Dec 04 2021 15:02:46.446161 - Async running start is disabled.
+Sat Dec 04 2021 15:02:46.446283 - Thread failed to initialize 2
+Sat Dec 04 2021 15:02:46.446369 - Failed to start NewFrameHandler thread!
+Sat Dec 04 2021 15:02:46.457413 - Creating solid play area quad for compositor construct: 1.00 x 1.00
+Sat Dec 04 2021 15:02:48.625208 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrdashboard 47403
+Sat Dec 04 2021 15:02:50.326763 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/bin/linuxsteamrt64/steamtours 47418
+Sat Dec 04 2021 15:02:50.508829 - Socket closed
+Sat Dec 04 2021 15:02:50.508916 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:02:50.508959 - Process vrstartup (47237) disconnected (Thread(0x0x7fe1f0000ed0/0x0x7f)
+Sat Dec 04 2021 15:02:50.508989 - Lost pipe connection from vrstartup (47237)
+Sat Dec 04 2021 15:02:50.807192 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrmonitor 47412
+Sat Dec 04 2021 15:02:51.066095 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:02:51.142789 - External connection from /home/waterdev/.local/share/Steam/ubuntu12_32/steam 22615
+Sat Dec 04 2021 15:02:53.050430 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 47609
+Sat Dec 04 2021 15:02:53.817089 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 04 2021 15:02:54.300652 - Timed out waiting for signal thread after 1.15ms!
+Sat Dec 04 2021 15:02:56.328539 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 47870
+Sat Dec 04 2021 15:02:56.336385 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 47883
+Sat Dec 04 2021 15:02:56.341197 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 47890
+Sat Dec 04 2021 15:02:56.533218 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:02:57.170895 - Processing message VRMsg_CompositorNewSharedSemaphore from vrwebhelper_main (47609) took 0.0112 seconds
+Sat Dec 04 2021 15:02:57.798465 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:02:57.832495 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:02:58.409067 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 47897
+Sat Dec 04 2021 15:02:58.418856 - Processing message VRMsg_CompositorConnect from vrwebhelper_systemui (47897) took 0.00981 seconds
+Sat Dec 04 2021 15:02:58.630353 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:02:58.684904 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:02:58.696497 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:02:59.058309 - Processing message VRMsg_CompositorNewSharedImage from vrwebhelper_main (47609) took 0.00643 seconds
+Sat Dec 04 2021 15:02:59.464796 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:02:59.803468 - Timed out waiting for signal thread after 1.21ms!
+Sat Dec 04 2021 15:02:59.964764 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:00.226055 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (47418) took 0.0431 seconds
+Sat Dec 04 2021 15:03:00.371289 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (47418) took 0.0119 seconds
+Sat Dec 04 2021 15:03:00.390944 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (47418) took 0.00612 seconds
+Sat Dec 04 2021 15:03:00.449995 - Processing message VRMsg_CompositorNewSharedImage from steamtours (47418) took 0.0062 seconds
+Sat Dec 04 2021 15:03:01.027977 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:03:01.681561 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:01.848148 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:21.081144 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:21.598560 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:21.631372 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:22.181005 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:22.248214 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:22.415667 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:22.432478 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:22.514464 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:22.764661 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:03:22.914963 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:23.053459 - Timed out waiting for signal thread after 4.68ms!
+Sat Dec 04 2021 15:03:23.115028 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:26.264173 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:27.065166 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:28.448319 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:30.247964 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:39.567624 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:41.183164 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:03:41.582912 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:41.814732 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:42.232309 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:42.732678 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:03:43.849963 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:03:45.867829 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:47.315831 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:49.099985 - Timed out waiting for signal thread after 1.11ms!
+Sat Dec 04 2021 15:03:49.615067 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:49.687377 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:49.715706 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 04 2021 15:03:51.449026 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:03:51.682628 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 04 2021 15:03:52.081871 - Timed out waiting for signal thread after 1.17ms!
+Sat Dec 04 2021 15:03:53.315669 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:03:54.016096 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:54.382858 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:54.415430 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:03:54.715205 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:03:56.182614 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:00.899767 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:04:00.915975 - Timed out waiting for signal thread after 1.12ms!
+Sat Dec 04 2021 15:04:00.933153 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:01.083091 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:01.215922 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:01.715917 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:01.999226 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:02.232113 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:04:04.098135 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:04:04.232050 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:04:04.949609 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:05.148486 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:05.399964 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:04:06.235489 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:06.251587 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:04:06.749045 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:04:06.865561 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:06.899198 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:06.949471 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:07.115227 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:07.416611 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:07.900035 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:04:08.665134 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:08.898934 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:09.116374 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:14.133179 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:04:25.450051 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:35.150886 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:04:37.417042 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:43.500448 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:56.216954 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:56.534264 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:04:57.533790 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:05:00.500823 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:05:00.566486 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:05:01.183444 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:05:04.267058 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:05:04.934248 - Timed out waiting for signal thread after 1.14ms!
+Sat Dec 04 2021 15:05:06.000871 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:05:07.100692 - Timed out waiting for signal thread after 1.23ms!
+Sat Dec 04 2021 15:05:07.550988 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:05:13.450947 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:05:13.766577 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 04 2021 15:05:15.600582 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:05:22.250990 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:05:24.300911 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:05:25.017198 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:05:42.217926 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:05:58.235616 - Timed out waiting for signal thread after 1.10ms!
+Sat Dec 04 2021 15:06:17.235814 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:06:18.668351 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:06:21.319197 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:06:21.568647 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:06:22.619717 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:06:36.201883 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:06:37.902366 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:06:38.185400 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:06:45.486278 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:06:51.503111 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:06:55.903998 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:06:56.169717 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:07:02.103231 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:04.952901 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:05.053233 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:11.836162 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:07:13.853625 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:07:15.153793 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:16.169155 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:21.603264 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:21.966810 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:22.619873 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:07:22.903123 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:23.169047 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:23.936174 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:26.952989 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:34.070007 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:34.903333 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:38.137553 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:42.137766 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:43.570791 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:45.037076 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:49.056175 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:07:49.086532 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:49.803401 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:49.954645 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:50.620467 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:50.670003 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:50.804163 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:51.072597 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:51.337324 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:07:51.387043 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:07:53.403304 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:54.453655 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:07:54.554452 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:54.720413 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:07:57.753933 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:00.188473 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:08:01.387062 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:01.970583 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:02.437543 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:08:03.120500 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:03.420469 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:04.904100 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:05.903260 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:06.037735 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:07.570961 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:10.004828 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:08:10.555074 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:11.492406 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:08:11.754601 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:12.187008 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:12.854421 - Timed out waiting for signal thread after 1.20ms!
+Sat Dec 04 2021 15:08:13.488133 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:08:13.920639 - Timed out waiting for signal thread after 1.40ms!
+Sat Dec 04 2021 15:08:14.170457 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 04 2021 15:08:14.337173 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:14.354314 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:14.537956 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:14.638545 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:14.887916 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:15.074835 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:08:15.240100 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:16.337414 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:08:16.406816 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:08:17.036950 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:17.086999 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:17.875956 - Timed out waiting for signal thread after 2.10ms!
+Sat Dec 04 2021 15:08:22.670706 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:08:22.704076 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:22.822749 - Timed out waiting for signal thread after 2.92ms!
+Sat Dec 04 2021 15:08:22.887617 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:22.970852 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:23.437407 - Timed out waiting for signal thread after 1.03ms!
+Sat Dec 04 2021 15:08:23.620960 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:23.837299 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:23.937874 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:24.037099 - Timed out waiting for signal thread after 1.21ms!
+Sat Dec 04 2021 15:08:24.971069 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:26.954890 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:26.970953 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:28.103947 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:30.520986 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:08:30.987511 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:32.204936 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:08:37.937370 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:39.020809 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:48.788346 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:08:49.654482 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:53.521058 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:08:53.922059 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:08:55.155012 - Timed out waiting for signal thread after 1.11ms!
+Sat Dec 04 2021 15:08:57.854354 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:01.388029 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:09:05.088746 - Timed out waiting for signal thread after 1.10ms!
+Sat Dec 04 2021 15:09:06.705284 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:06.839772 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:09:09.339449 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:09.988337 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:10.989026 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:09:13.288072 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:15.855655 - Timed out waiting for signal thread after 1.12ms!
+Sat Dec 04 2021 15:09:16.624334 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:18.355928 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:22.889459 - Timed out waiting for signal thread after 1.32ms!
+Sat Dec 04 2021 15:09:23.057301 - Timed out waiting for signal thread after 1.77ms!
+Sat Dec 04 2021 15:09:23.072168 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:23.438497 - Timed out waiting for signal thread after 1.14ms!
+Sat Dec 04 2021 15:09:24.238956 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:09:24.339175 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:25.172731 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:25.706965 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:25.739123 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:09:26.139787 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:26.471790 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:27.839555 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:09:28.304902 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:29.255866 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:09:29.772357 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:09:30.105873 - Timed out waiting for signal thread after 1.10ms!
+Sat Dec 04 2021 15:09:31.205893 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:31.972081 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:34.989176 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:35.372161 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:36.806014 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:37.038746 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:37.539705 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:09:39.072247 - Timed out waiting for signal thread after 1.03ms!
+Sat Dec 04 2021 15:09:39.088518 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:09:41.189082 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:09:41.767193 - Socket closed
+Sat Dec 04 2021 15:09:41.767301 - Unable to read message from socket: 3
+Sat Dec 04 2021 15:09:41.767327 - Process steamtours (47418) disconnected (Thread(0x0x7fe1f0002990/0x0x7f)
+Sat Dec 04 2021 15:09:41.767343 - Lost pipe connection from steamtours (47418)
+Sat Dec 04 2021 15:09:41.767375 - ######################################################################
+Sat Dec 04 2021 15:09:41.767387 - Cumulative stats for pid: 47418
+Sat Dec 04 2021 15:09:41.767399 - Total.................. 24370 presents.  312 dropped. 23170 reprojected
+Sat Dec 04 2021 15:09:41.767410 - Startup................   466 presents.  187 dropped.   33 reprojected
+Sat Dec 04 2021 15:09:41.767421 - Loading...  1 total....     9 presents.    0 dropped.    7 reprojected
+Sat Dec 04 2021 15:09:41.767433 - Timed out.  0 total.... 20139 presents.   38 dropped. 19935 reprojected
+Sat Dec 04 2021 15:09:41.767443 - ######################################################################
+Sat Dec 04 2021 15:09:41.767454 - Total dropped frames: 977161
+Sat Dec 04 2021 15:12:10.125047 - CVulkanVRRenderer::UpdateBufferHelper. Ring Buffer Wrapped! (vkQueueWaitIdle)
+Sat Dec 04 2021 15:16:09.346765 - CVulkanVRRenderer::UpdateBufferHelper. Ring Buffer Wrapped! (vkQueueWaitIdle)
+Sat Dec 04 2021 15:22:55.873476 - External connection from /home/waterdev/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Proton 6.3/dist/bin/wine64-preloader 57830
+Sat Dec 04 2021 15:22:55.882335 - Processing message VRMsg_CompositorConnect from wine64-preloader (57830) took 0.0153 seconds
+Sat Dec 04 2021 15:22:56.176856 - Socket closed
+Sat Dec 04 2021 15:22:56.176913 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:22:56.176942 - Process wine64-preloader (57830) disconnected (Thread(0x0x7fe1f00087c0/0x0x7f)
+Sat Dec 04 2021 15:22:56.176958 - Lost pipe connection from wine64-preloader (57830)
+Sat Dec 04 2021 15:30:04.621573 - //==============================================================================================
+Sat Dec 04 2021 15:30:04.638160 - ================================================================================================
+Sat Dec 04 2021 15:30:04.638221 - ================================================================================================
+Sat Dec 04 2021 15:30:04.638285 - vrcompositor 1.20.4 startup with PID=7985, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:30:04.638345 - VR compositor 1.20.4 (v1634602223) Mixed starting up
+Sat Dec 04 2021 15:30:04.669137 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 15:30:04.669219 - CSharedResourceNamespaceClient::Init(): received namespace data 7972
+Sat Dec 04 2021 15:30:04.669256 - CIPCPipe::CreatePipe(VR_CompositorPipe_7972) bound to steamvr:VR_CompositorPipe_7972
+Sat Dec 04 2021 15:30:04.670279 - Set fd limit to: 1048576
+Sat Dec 04 2021 15:30:04.670310 - Forcing debug mode for sample driver because of Prop_DisplayDebugMode_Bool.
+Sat Dec 04 2021 15:30:04.671554 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:30:04.671643 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:30:04.671730 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:30:04.671814 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:30:04.672087 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:30:04.672688 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 15:30:04.674290 - Events created
+Sat Dec 04 2021 15:30:04.686164 - Creating CHmdWindowSDL!
+Sat Dec 04 2021 15:30:05.114707 - Instance layers available:
+Sat Dec 04 2021 15:30:05.114797 -  - VK_LAYER_MESA_device_select, version 4202569
+Sat Dec 04 2021 15:30:05.114829 -  - VK_LAYER_NV_optimus, version 4202682
+Sat Dec 04 2021 15:30:05.114869 -  - VK_LAYER_VALVE_steam_fossilize_64, version 4202632
+Sat Dec 04 2021 15:30:05.114918 -  - VK_LAYER_VALVE_steam_overlay_64, version 4202632
+Sat Dec 04 2021 15:30:05.114947 -  - VK_LAYER_VALVE_steam_overlay_32, version 4202632
+Sat Dec 04 2021 15:30:05.114972 -  - VK_LAYER_VALVE_steam_fossilize_32, version 4202632
+Sat Dec 04 2021 15:30:05.114996 -  - VK_LAYER_MESA_overlay, version 4198473
+Sat Dec 04 2021 15:30:05.139433 - Instance extensions available:
+Sat Dec 04 2021 15:30:05.139478 -  - VK_KHR_device_group_creation, version 1
+Sat Dec 04 2021 15:30:05.139491 -  - VK_KHR_display, version 23
+Sat Dec 04 2021 15:30:05.139502 -  - VK_KHR_external_fence_capabilities, version 1
+Sat Dec 04 2021 15:30:05.139513 -  - VK_KHR_external_memory_capabilities, version 1
+Sat Dec 04 2021 15:30:05.139523 -  - VK_KHR_external_semaphore_capabilities, version 1
+Sat Dec 04 2021 15:30:05.139533 -  - VK_KHR_get_display_properties2, version 1
+Sat Dec 04 2021 15:30:05.139543 -  - VK_KHR_get_physical_device_properties2, version 1
+Sat Dec 04 2021 15:30:05.139553 -  - VK_KHR_get_surface_capabilities2, version 1
+Sat Dec 04 2021 15:30:05.139562 -  - VK_KHR_surface, version 25
+Sat Dec 04 2021 15:30:05.139572 -  - VK_KHR_surface_protected_capabilities, version 1
+Sat Dec 04 2021 15:30:05.139581 -  - VK_KHR_wayland_surface, version 6
+Sat Dec 04 2021 15:30:05.139591 -  - VK_KHR_xcb_surface, version 6
+Sat Dec 04 2021 15:30:05.139600 -  - VK_KHR_xlib_surface, version 6
+Sat Dec 04 2021 15:30:05.139610 -  - VK_EXT_acquire_xlib_display, version 1
+Sat Dec 04 2021 15:30:05.139619 -  - VK_EXT_debug_report, version 8
+Sat Dec 04 2021 15:30:05.139629 -  - VK_EXT_direct_mode_display, version 1
+Sat Dec 04 2021 15:30:05.139638 -  - VK_EXT_display_surface_counter, version 1
+Sat Dec 04 2021 15:30:05.139647 -  - VK_EXT_debug_utils, version 2
+Sat Dec 04 2021 15:30:05.139659 - Direct mode features: present
+Sat Dec 04 2021 15:30:05.139669 - Requesting 9 instance extensions:
+Sat Dec 04 2021 15:30:05.139679 -  - VK_KHR_surface
+Sat Dec 04 2021 15:30:05.139712 -  - VK_KHR_xcb_surface
+Sat Dec 04 2021 15:30:05.139726 -  - VK_KHR_display
+Sat Dec 04 2021 15:30:05.139735 -  - VK_EXT_direct_mode_display
+Sat Dec 04 2021 15:30:05.139745 -  - VK_EXT_acquire_xlib_display
+Sat Dec 04 2021 15:30:05.139754 -  - VK_EXT_display_surface_counter
+Sat Dec 04 2021 15:30:05.139764 -  - VK_KHR_external_memory_capabilities
+Sat Dec 04 2021 15:30:05.139773 -  - VK_KHR_external_semaphore_capabilities
+Sat Dec 04 2021 15:30:05.139783 -  - VK_KHR_get_physical_device_properties2
+Sat Dec 04 2021 15:30:05.158931 - HMD deviceUUID is 911dc535d30647bb
+Sat Dec 04 2021 15:30:05.159009 - Looking for direct display through RandR
+Sat Dec 04 2021 15:30:05.159038 -  - Root 0x1e4
+Sat Dec 04 2021 15:30:05.204690 -    - Output 0x1bd - 0 modes, 0 preferred
+Sat Dec 04 2021 15:30:05.204790 -    - Output 0x1be - 0 modes, 0 preferred
+Sat Dec 04 2021 15:30:05.204838 -    - Output 0x1bf - 0 modes, 0 preferred
+Sat Dec 04 2021 15:30:05.204883 -    - Output 0x1c0 - 0 modes, 0 preferred
+Sat Dec 04 2021 15:30:05.204929 -    - Output 0x1c1 - 28 modes, 1 preferred
+Sat Dec 04 2021 15:30:05.204954 -      - Mode 0 0x1c2 1920x1080 (looking for 2160x1200)
+Sat Dec 04 2021 15:30:05.205028 -    - Output 0x1de - 0 modes, 0 preferred
+Sat Dec 04 2021 15:30:05.205082 -    - Output 0x1df - 0 modes, 0 preferred
+Sat Dec 04 2021 15:30:05.205108 - Tried to find direct display through RandR: (nil)
+Sat Dec 04 2021 15:30:05.205131 - Looking for direct display through Vulkan WSI
+Sat Dec 04 2021 15:30:05.251501 -  - Vulkan output 0: 1920x1080 resolution, 480x270 dimensions - Ancor Communications Inc VE228 (HDMI-0)
+Sat Dec 04 2021 15:30:05.251629 - Tried to find direct display through Vulkan WSI: (nil)
+Sat Dec 04 2021 15:30:05.251682 - CHmdWindowSDL: Failed to create direct mode surface
+Sat Dec 04 2021 15:30:05.253212 - Requesting 10 device extensions:
+Sat Dec 04 2021 15:30:05.253353 -  - VK_KHR_swapchain
+Sat Dec 04 2021 15:30:05.253414 -  - VK_KHR_maintenance1
+Sat Dec 04 2021 15:30:05.253467 -  - VK_KHR_dedicated_allocation
+Sat Dec 04 2021 15:30:05.253520 -  - VK_KHR_get_memory_requirements2
+Sat Dec 04 2021 15:30:05.253573 -  - VK_KHR_external_memory
+Sat Dec 04 2021 15:30:05.253624 -  - VK_KHR_external_semaphore
+Sat Dec 04 2021 15:30:05.253675 -  - VK_EXT_display_control
+Sat Dec 04 2021 15:30:05.253724 -  - VK_KHR_external_memory_fd
+Sat Dec 04 2021 15:30:05.253767 -  - VK_KHR_external_semaphore_fd
+Sat Dec 04 2021 15:30:05.253814 -  - VK_EXT_global_priority
+Sat Dec 04 2021 15:30:05.253869 - Global priority query enabled: 1
+Sat Dec 04 2021 15:30:05.253918 - Attempting to enable async support...
+Sat Dec 04 2021 15:30:05.253961 - Enabling async support!
+Sat Dec 04 2021 15:30:05.320201 - m_pVkInstance : 0x55bcd310d4a0
+Sat Dec 04 2021 15:30:05.320261 - m_pVkPhysicalDevice : 0x55bcd335c680
+Sat Dec 04 2021 15:30:05.320280 - m_pVkDevice : 0x55bcd3440b70
+Sat Dec 04 2021 15:30:05.320305 - m_pVkGraphicsQueue : 0x55bcd2d7c850
+Sat Dec 04 2021 15:30:05.320334 - m_pVkComputeQueue : 0x55bcd36541e0
+Sat Dec 04 2021 15:30:05.377060 - HMD swapchain mode:2 count:3
+Sat Dec 04 2021 15:30:05.497944 - Direct mode: disabled
+Sat Dec 04 2021 15:30:05.560297 - Mirror swapchain mode:0 count:3
+Sat Dec 04 2021 15:30:05.794226 - CGraphicsDevice Init...
+Sat Dec 04 2021 15:30:05.794967 - Headset display is on desktop
+Sat Dec 04 2021 15:30:05.795029 - Initializing timing resources
+Sat Dec 04 2021 15:30:05.796005 - Initializing CVulkanVRRenderer
+Sat Dec 04 2021 15:30:05.796057 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Sat Dec 04 2021 15:30:05.900692 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7fdc58000000.
+Sat Dec 04 2021 15:30:05.912665 - Updated HMD Prop_DisplayFrequency_Float to 90.000000
+Sat Dec 04 2021 15:30:05.912746 - ****************************************** Begin GPU speed ******************************************
+Sat Dec 04 2021 15:30:05.912763 - GPU Vendor: "NVIDIA GeForce GTX 1660 Ti" GPU Driver: "2076901376"
+Sat Dec 04 2021 15:30:05.913222 - Initializing CVulkanVRRenderer
+Sat Dec 04 2021 15:30:05.913297 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Sat Dec 04 2021 15:30:05.994907 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7fdc48000000.
+Sat Dec 04 2021 15:30:06.099937 - MeasureGpuMegaPixelsPerSecond(0): Returning 668 MP/sec. Total CPU time 0.19 seconds.
+Sat Dec 04 2021 15:30:06.127559 - GPU speed from average of 6 median samples: 651
+Sat Dec 04 2021 15:30:06.128760 - ******************************************* End GPU speed *******************************************
+Sat Dec 04 2021 15:30:06.128883 - HMD driver recommended: 1512x1680 90.0Hz HiddenArea(0.00%) = 457 MP/sec
+Sat Dec 04 2021 15:30:06.128918 - Raw ideal render target scale = 1.42
+Sat Dec 04 2021 15:30:06.129146 - New result of GetRecommendedRenderTargetSize for current app: 1800x2000
+Sat Dec 04 2021 15:30:06.129186 - Creating samplers
+Sat Dec 04 2021 15:30:06.129254 - Creating util resources
+Sat Dec 04 2021 15:30:06.130016 - Creating/Updating distortion surfaces
+Sat Dec 04 2021 15:30:06.171702 - Warp mesh (left eye) covers 99.91% of its viewport (shrink wrap saved 0.00%)
+Sat Dec 04 2021 15:30:06.487440 - Warp mesh (right eye) covers 99.91% of its viewport (shrink wrap saved 0.00%)
+Sat Dec 04 2021 15:30:06.750638 - Creating constant buffers
+Sat Dec 04 2021 15:30:06.752843 - Creating systemlayer textures (w=1800,h=2000)
+Sat Dec 04 2021 15:30:06.796364 - Initializing camera
+Sat Dec 04 2021 15:30:06.796437 - Done initializing CGraphicsDevice resources
+Sat Dec 04 2021 15:30:06.796470 - Loading MC resources
+Sat Dec 04 2021 15:30:06.796752 - Distort initialized
+Sat Dec 04 2021 15:30:06.799123 - Loading background skybox texture async '/home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/backgrounds/aurorasky.png'
+Sat Dec 04 2021 15:30:06.799189 - Loading reflection skybox texture async '/home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/reflections/dashboard_lights.png'
+Sat Dec 04 2021 15:30:06.805822 - Set thread 0x7fdc4ffff700 priority to: -15
+Sat Dec 04 2021 15:30:06.806454 - Set thread 0x7fdca83f4700 priority to: 15
+Sat Dec 04 2021 15:30:06.806515 - Compositor render thread started
+Sat Dec 04 2021 15:30:06.806555 - Set thread 0x7fdca84f5700 priority to: 15
+Sat Dec 04 2021 15:30:06.806590 - Startup Complete (2.136312 seconds)
+Sat Dec 04 2021 15:30:06.806634 - Async running start is disabled.
+Sat Dec 04 2021 15:30:06.806674 - Thread failed to initialize 2
+Sat Dec 04 2021 15:30:06.806697 - Failed to start NewFrameHandler thread!
+Sat Dec 04 2021 15:30:06.808669 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrstartup 7870
+Sat Dec 04 2021 15:30:06.820012 - Creating solid play area quad for compositor construct: 1.00 x 1.00
+Sat Dec 04 2021 15:30:08.364230 - Socket closed
+Sat Dec 04 2021 15:30:08.364300 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:30:08.364333 - Process vrstartup (7870) disconnected (Thread(0x0x7fdc54000ed0/0x0x7f)
+Sat Dec 04 2021 15:30:08.364353 - Lost pipe connection from vrstartup (7870)
+Sat Dec 04 2021 15:30:09.011250 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrdashboard 8053
+Sat Dec 04 2021 15:30:09.142639 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/bin/linuxsteamrt64/steamtours 8066
+Sat Dec 04 2021 15:30:11.846443 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:30:12.345042 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:30:13.771721 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:14.707957 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrmonitor 8062
+Sat Dec 04 2021 15:30:15.025934 - External connection from /home/waterdev/.local/share/Steam/ubuntu12_32/steam 3227
+Sat Dec 04 2021 15:30:16.588303 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:17.003303 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 8309
+Sat Dec 04 2021 15:30:18.681381 - Timed out waiting for signal thread after 1.24ms!
+Sat Dec 04 2021 15:30:20.915045 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 8565
+Sat Dec 04 2021 15:30:20.928666 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 8571
+Sat Dec 04 2021 15:30:21.688377 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:22.481948 - Timed out waiting for signal thread after 1.30ms!
+Sat Dec 04 2021 15:30:22.580577 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (8066) took 0.00619 seconds
+Sat Dec 04 2021 15:30:22.795031 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (8066) took 0.0566 seconds
+Sat Dec 04 2021 15:30:22.814167 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (8066) took 0.0149 seconds
+Sat Dec 04 2021 15:30:22.845759 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (8066) took 0.017 seconds
+Sat Dec 04 2021 15:30:22.860870 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (8066) took 0.0124 seconds
+Sat Dec 04 2021 15:30:22.897125 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (8066) took 0.0314 seconds
+Sat Dec 04 2021 15:30:22.946608 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (8066) took 0.0478 seconds
+Sat Dec 04 2021 15:30:22.976036 - Processing message VRMsg_CompositorNewSharedImage from steamtours (8066) took 0.00953 seconds
+Sat Dec 04 2021 15:30:22.983027 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 8557
+Sat Dec 04 2021 15:30:22.999138 - Processing message VRMsg_CompositorNewSharedImage from steamtours (8066) took 0.0201 seconds
+Sat Dec 04 2021 15:30:23.059098 - Processing message VRMsg_CompositorNewSharedImage from steamtours (8066) took 0.0562 seconds
+Sat Dec 04 2021 15:30:24.238126 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:25.738331 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:26.472169 - Timed out waiting for signal thread after 1.11ms!
+Sat Dec 04 2021 15:30:27.322091 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:27.588297 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:29.638408 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:30:30.171763 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:32.605775 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:32.821638 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:33.522330 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:33.788638 - Timed out waiting for signal thread after 1.11ms!
+Sat Dec 04 2021 15:30:35.872105 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:43.211955 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:48.222379 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:30:55.723136 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:31:05.640214 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:31:15.684404 - Socket closed
+Sat Dec 04 2021 15:31:15.684511 - Unable to read message from socket: 3
+Sat Dec 04 2021 15:31:15.684549 - Process steamtours (8066) disconnected (Thread(0x0x7fdc54001f00/0x0x7f)
+Sat Dec 04 2021 15:31:15.684572 - Lost pipe connection from steamtours (8066)
+Sat Dec 04 2021 15:31:15.684627 - ######################################################################
+Sat Dec 04 2021 15:31:15.684647 - Cumulative stats for pid: 8066
+Sat Dec 04 2021 15:31:15.684664 - Total..................  3767 presents.  208 dropped. 2912 reprojected
+Sat Dec 04 2021 15:31:15.684682 - Startup................   683 presents.  196 dropped.   32 reprojected
+Sat Dec 04 2021 15:31:15.684720 - Loading...  1 total....     0 presents.    0 dropped.    0 reprojected
+Sat Dec 04 2021 15:31:15.684744 - Timed out.  0 total....    31 presents.    1 dropped.   20 reprojected
+Sat Dec 04 2021 15:31:15.684762 - ######################################################################
+Sat Dec 04 2021 15:31:15.684780 - Total dropped frames: 22414
+Sat Dec 04 2021 15:32:07.061628 - Force application throttling: 1
+Sat Dec 04 2021 15:32:07.891949 - Force application throttling: 2
+Sat Dec 04 2021 15:33:58.092508 - CVulkanVRRenderer::UpdateBufferHelper. Ring Buffer Wrapped! (vkQueueWaitIdle)
+Sat Dec 04 2021 15:35:53.522735 - Socket closed
+Sat Dec 04 2021 15:35:53.522832 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:35:53.522894 - Process vrdashboard (8053) disconnected (Thread(0x0x7fdc54001c10/0x0x7f)
+Sat Dec 04 2021 15:35:53.522932 - Lost pipe connection from vrdashboard (8053)
+Sat Dec 04 2021 15:35:53.601399 - Received update_scene_graph message with an unknown owning overlay system.systemui
+Sat Dec 04 2021 15:35:53.629378 - Socket closed
+Sat Dec 04 2021 15:35:53.629468 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:35:53.629508 - Process vrwebhelper_keyboard (8557) disconnected (Thread(0x0x7fdc54006d60/0x0x7f)
+Sat Dec 04 2021 15:35:53.629533 - Lost pipe connection from vrwebhelper_keyboard (8557)
+Sat Dec 04 2021 15:35:53.630129 - Socket closed
+Sat Dec 04 2021 15:35:53.630173 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:35:53.630207 - Process vrwebhelper_settings_desktop (8565) disconnected (Thread(0x0x7fdc54005310/0x0x7f)
+Sat Dec 04 2021 15:35:53.630230 - Lost pipe connection from vrwebhelper_settings_desktop (8565)
+Sat Dec 04 2021 15:35:53.653534 - Socket closed
+Sat Dec 04 2021 15:35:53.653620 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:35:53.653662 - Process vrwebhelper_systemui (8571) disconnected (Thread(0x0x7fdc54006020/0x0x7f)
+Sat Dec 04 2021 15:35:53.653692 - Lost pipe connection from vrwebhelper_systemui (8571)
+Sat Dec 04 2021 15:35:53.757831 - Socket closed
+Sat Dec 04 2021 15:35:53.757908 - Unable to read message from socket: 3
+Sat Dec 04 2021 15:35:53.757940 - Process vrwebhelper_main (8309) disconnected (Thread(0x0x7fdc540046d0/0x0x7f)
+Sat Dec 04 2021 15:35:53.757959 - Lost pipe connection from vrwebhelper_main (8309)
+Sat Dec 04 2021 15:35:53.798509 - Socket closed
+Sat Dec 04 2021 15:35:53.798565 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:35:53.798595 - Process steam (3227) disconnected (Thread(0x0x7fdc540039b0/0x0x7f)
+Sat Dec 04 2021 15:35:53.798616 - Lost pipe connection from steam (3227)
+Sat Dec 04 2021 15:35:53.804310 - Destroying overlay 900000005 valve.steam.bigpicture (Steam)from pid 3227 because that process disconnected
+Sat Dec 04 2021 15:35:53.804423 - Destroying overlay A00000006 valve.steam.bigpicture.thumb (Steam (Thumb))from pid 3227 because that process disconnected
+Sat Dec 04 2021 15:35:53.804469 - Destroying overlay B00000007 valve.steam.desktop (Desktop)from pid 3227 because that process disconnected
+Sat Dec 04 2021 15:35:53.804527 - Destroying overlay C00000008 valve.steam.desktop.thumb (Desktop (Thumb))from pid 3227 because that process disconnected
+Sat Dec 04 2021 15:35:53.810293 - Render thread ending
+Sat Dec 04 2021 15:35:53.810367 - Signal thread ending
+Sat Dec 04 2021 15:35:53.814759 - VR compositor shutting down
+Sat Dec 04 2021 15:35:53.846389 - Listener thread ending
+Sat Dec 04 2021 15:35:53.901786 - Process vrmonitor (8062) disconnected (Thread(0x0x7fdc54002c60/0x0x7f)
+Sat Dec 04 2021 15:35:53.901882 - Ignoring LostPipeConnection from vrmonitor (8062) because compositor is shutting down
+Sat Dec 04 2021 15:35:53.914983 - Cleaning up
+Sat Dec 04 2021 15:35:53.970716 - Failed to kill gpu-trace
+Sat Dec 04 2021 15:35:54.115928 - SharedResourceManager: detected possible leak with type: 2 id: 0x2400001f31
+Sat Dec 04 2021 15:35:54.116042 - SharedResourceManager: detected possible leak with type: 2 id: 0x2500001f31
+Sat Dec 04 2021 15:35:54.116066 - SharedResourceManager: detected possible leak with type: 2 id: 0x2600001f31
+Sat Dec 04 2021 15:35:54.116104 - SharedResourceManager: detected possible leak with type: 2 id: 0x2700001f31
+Sat Dec 04 2021 15:35:54.116126 - SharedResourceManager: leak summary 4 items
+Sat Dec 04 2021 15:39:50.970113 - //==============================================================================================
+Sat Dec 04 2021 15:39:50.970155 - ================================================================================================
+Sat Dec 04 2021 15:39:50.970171 - ================================================================================================
+Sat Dec 04 2021 15:39:50.970197 - vrcompositor 1.20.4 startup with PID=15130, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:39:50.970213 - VR compositor 1.20.4 (v1634602223) Mixed starting up
+Sat Dec 04 2021 15:39:51.002196 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 04 2021 15:39:51.002260 - CSharedResourceNamespaceClient::Init(): received namespace data 15114
+Sat Dec 04 2021 15:39:51.002294 - CIPCPipe::CreatePipe(VR_CompositorPipe_15114) bound to steamvr:VR_CompositorPipe_15114
+Sat Dec 04 2021 15:39:51.003267 - Set fd limit to: 1048576
+Sat Dec 04 2021 15:39:51.003299 - Forcing debug mode for sample driver because of Prop_DisplayDebugMode_Bool.
+Sat Dec 04 2021 15:39:51.004472 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:39:51.004536 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:39:51.004607 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:39:51.004677 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:39:51.004918 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 04 2021 15:39:51.005466 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 04 2021 15:39:51.006488 - Events created
+Sat Dec 04 2021 15:39:51.026945 - Creating CHmdWindowSDL!
+Sat Dec 04 2021 15:39:51.462418 - Instance layers available:
+Sat Dec 04 2021 15:39:51.462473 -  - VK_LAYER_MESA_device_select, version 4202569
+Sat Dec 04 2021 15:39:51.462490 -  - VK_LAYER_NV_optimus, version 4202682
+Sat Dec 04 2021 15:39:51.462506 -  - VK_LAYER_VALVE_steam_fossilize_64, version 4202632
+Sat Dec 04 2021 15:39:51.462520 -  - VK_LAYER_VALVE_steam_overlay_64, version 4202632
+Sat Dec 04 2021 15:39:51.462534 -  - VK_LAYER_VALVE_steam_overlay_32, version 4202632
+Sat Dec 04 2021 15:39:51.462548 -  - VK_LAYER_VALVE_steam_fossilize_32, version 4202632
+Sat Dec 04 2021 15:39:51.462561 -  - VK_LAYER_MESA_overlay, version 4198473
+Sat Dec 04 2021 15:39:51.485275 - Instance extensions available:
+Sat Dec 04 2021 15:39:51.485339 -  - VK_KHR_device_group_creation, version 1
+Sat Dec 04 2021 15:39:51.485353 -  - VK_KHR_display, version 23
+Sat Dec 04 2021 15:39:51.485364 -  - VK_KHR_external_fence_capabilities, version 1
+Sat Dec 04 2021 15:39:51.485375 -  - VK_KHR_external_memory_capabilities, version 1
+Sat Dec 04 2021 15:39:51.485386 -  - VK_KHR_external_semaphore_capabilities, version 1
+Sat Dec 04 2021 15:39:51.485399 -  - VK_KHR_get_display_properties2, version 1
+Sat Dec 04 2021 15:39:51.485410 -  - VK_KHR_get_physical_device_properties2, version 1
+Sat Dec 04 2021 15:39:51.485421 -  - VK_KHR_get_surface_capabilities2, version 1
+Sat Dec 04 2021 15:39:51.485431 -  - VK_KHR_surface, version 25
+Sat Dec 04 2021 15:39:51.485441 -  - VK_KHR_surface_protected_capabilities, version 1
+Sat Dec 04 2021 15:39:51.485465 -  - VK_KHR_wayland_surface, version 6
+Sat Dec 04 2021 15:39:51.485475 -  - VK_KHR_xcb_surface, version 6
+Sat Dec 04 2021 15:39:51.485486 -  - VK_KHR_xlib_surface, version 6
+Sat Dec 04 2021 15:39:51.485497 -  - VK_EXT_acquire_xlib_display, version 1
+Sat Dec 04 2021 15:39:51.485507 -  - VK_EXT_debug_report, version 8
+Sat Dec 04 2021 15:39:51.485517 -  - VK_EXT_direct_mode_display, version 1
+Sat Dec 04 2021 15:39:51.485527 -  - VK_EXT_display_surface_counter, version 1
+Sat Dec 04 2021 15:39:51.485537 -  - VK_EXT_debug_utils, version 2
+Sat Dec 04 2021 15:39:51.485549 - Direct mode features: present
+Sat Dec 04 2021 15:39:51.485561 - Requesting 9 instance extensions:
+Sat Dec 04 2021 15:39:51.485571 -  - VK_KHR_surface
+Sat Dec 04 2021 15:39:51.485581 -  - VK_KHR_xcb_surface
+Sat Dec 04 2021 15:39:51.485591 -  - VK_KHR_display
+Sat Dec 04 2021 15:39:51.485600 -  - VK_EXT_direct_mode_display
+Sat Dec 04 2021 15:39:51.485610 -  - VK_EXT_acquire_xlib_display
+Sat Dec 04 2021 15:39:51.485620 -  - VK_EXT_display_surface_counter
+Sat Dec 04 2021 15:39:51.485632 -  - VK_KHR_external_memory_capabilities
+Sat Dec 04 2021 15:39:51.485642 -  - VK_KHR_external_semaphore_capabilities
+Sat Dec 04 2021 15:39:51.485652 -  - VK_KHR_get_physical_device_properties2
+Sat Dec 04 2021 15:39:51.504932 - HMD deviceUUID is 911dc535d30647bb
+Sat Dec 04 2021 15:39:51.505003 - Looking for direct display through RandR
+Sat Dec 04 2021 15:39:51.505029 -  - Root 0x1e4
+Sat Dec 04 2021 15:39:51.551436 -    - Output 0x1bd - 0 modes, 0 preferred
+Sat Dec 04 2021 15:39:51.552153 -    - Output 0x1be - 0 modes, 0 preferred
+Sat Dec 04 2021 15:39:51.552321 -    - Output 0x1bf - 0 modes, 0 preferred
+Sat Dec 04 2021 15:39:51.552413 -    - Output 0x1c0 - 0 modes, 0 preferred
+Sat Dec 04 2021 15:39:51.552451 -    - Output 0x1c1 - 28 modes, 1 preferred
+Sat Dec 04 2021 15:39:51.552468 -      - Mode 0 0x1c2 1920x1080 (looking for 2160x1200)
+Sat Dec 04 2021 15:39:51.552502 -    - Output 0x1de - 0 modes, 0 preferred
+Sat Dec 04 2021 15:39:51.552534 -    - Output 0x1df - 0 modes, 0 preferred
+Sat Dec 04 2021 15:39:51.552554 - Tried to find direct display through RandR: (nil)
+Sat Dec 04 2021 15:39:51.552567 - Looking for direct display through Vulkan WSI
+Sat Dec 04 2021 15:39:51.598708 -  - Vulkan output 0: 1920x1080 resolution, 480x270 dimensions - Ancor Communications Inc VE228 (HDMI-0)
+Sat Dec 04 2021 15:39:51.598783 - Tried to find direct display through Vulkan WSI: (nil)
+Sat Dec 04 2021 15:39:51.598796 - CHmdWindowSDL: Failed to create direct mode surface
+Sat Dec 04 2021 15:39:51.599450 - Requesting 10 device extensions:
+Sat Dec 04 2021 15:39:51.599509 -  - VK_KHR_swapchain
+Sat Dec 04 2021 15:39:51.599523 -  - VK_KHR_maintenance1
+Sat Dec 04 2021 15:39:51.599537 -  - VK_KHR_dedicated_allocation
+Sat Dec 04 2021 15:39:51.599551 -  - VK_KHR_get_memory_requirements2
+Sat Dec 04 2021 15:39:51.599563 -  - VK_KHR_external_memory
+Sat Dec 04 2021 15:39:51.599578 -  - VK_KHR_external_semaphore
+Sat Dec 04 2021 15:39:51.599591 -  - VK_EXT_display_control
+Sat Dec 04 2021 15:39:51.599603 -  - VK_KHR_external_memory_fd
+Sat Dec 04 2021 15:39:51.599617 -  - VK_KHR_external_semaphore_fd
+Sat Dec 04 2021 15:39:51.599630 -  - VK_EXT_global_priority
+Sat Dec 04 2021 15:39:51.599647 - Global priority query enabled: 1
+Sat Dec 04 2021 15:39:51.599661 - Attempting to enable async support...
+Sat Dec 04 2021 15:39:51.599675 - Enabling async support!
+Sat Dec 04 2021 15:39:51.654043 - m_pVkInstance : 0x5629bb0f9f60
+Sat Dec 04 2021 15:39:51.654097 - m_pVkPhysicalDevice : 0x5629bb348d60
+Sat Dec 04 2021 15:39:51.654111 - m_pVkDevice : 0x5629bb42d250
+Sat Dec 04 2021 15:39:51.654122 - m_pVkGraphicsQueue : 0x5629bad68860
+Sat Dec 04 2021 15:39:51.654133 - m_pVkComputeQueue : 0x5629bb640db0
+Sat Dec 04 2021 15:39:51.725753 - HMD swapchain mode:2 count:3
+Sat Dec 04 2021 15:39:51.863581 - Direct mode: disabled
+Sat Dec 04 2021 15:39:51.940074 - Mirror swapchain mode:0 count:3
+Sat Dec 04 2021 15:39:52.123403 - CGraphicsDevice Init...
+Sat Dec 04 2021 15:39:52.124264 - Headset display is on desktop
+Sat Dec 04 2021 15:39:52.124352 - Initializing timing resources
+Sat Dec 04 2021 15:39:52.125167 - Initializing CVulkanVRRenderer
+Sat Dec 04 2021 15:39:52.125255 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Sat Dec 04 2021 15:39:52.205402 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7f13a8000000.
+Sat Dec 04 2021 15:39:52.211842 - Updated HMD Prop_DisplayFrequency_Float to 90.000000
+Sat Dec 04 2021 15:39:52.211935 - ****************************************** Begin GPU speed ******************************************
+Sat Dec 04 2021 15:39:52.211958 - GPU Vendor: "NVIDIA GeForce GTX 1660 Ti" GPU Driver: "2076901376"
+Sat Dec 04 2021 15:39:52.212558 - Initializing CVulkanVRRenderer
+Sat Dec 04 2021 15:39:52.212656 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Sat Dec 04 2021 15:39:52.292976 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7f1398000000.
+Sat Dec 04 2021 15:39:52.386174 - MeasureGpuMegaPixelsPerSecond(0): Returning 667 MP/sec. Total CPU time 0.17 seconds.
+Sat Dec 04 2021 15:39:52.409040 - GPU speed from average of 6 median samples: 655
+Sat Dec 04 2021 15:39:52.410769 - ******************************************* End GPU speed *******************************************
+Sat Dec 04 2021 15:39:52.410938 - HMD driver recommended: 1512x1680 90.0Hz HiddenArea(0.00%) = 457 MP/sec
+Sat Dec 04 2021 15:39:52.410997 - Raw ideal render target scale = 1.43
+Sat Dec 04 2021 15:39:52.411236 - New result of GetRecommendedRenderTargetSize for current app: 1812x2016
+Sat Dec 04 2021 15:39:52.411295 - Creating samplers
+Sat Dec 04 2021 15:39:52.411378 - Creating util resources
+Sat Dec 04 2021 15:39:52.412165 - Creating/Updating distortion surfaces
+Sat Dec 04 2021 15:39:52.467081 - Warp mesh (left eye) covers 99.91% of its viewport (shrink wrap saved 0.00%)
+Sat Dec 04 2021 15:39:52.779586 - Warp mesh (right eye) covers 99.91% of its viewport (shrink wrap saved 0.00%)
+Sat Dec 04 2021 15:39:53.077491 - Creating constant buffers
+Sat Dec 04 2021 15:39:53.126766 - Creating systemlayer textures (w=1812,h=2016)
+Sat Dec 04 2021 15:39:53.133765 - Initializing camera
+Sat Dec 04 2021 15:39:53.133822 - Done initializing CGraphicsDevice resources
+Sat Dec 04 2021 15:39:53.133847 - Loading MC resources
+Sat Dec 04 2021 15:39:53.134046 - Distort initialized
+Sat Dec 04 2021 15:39:53.135436 - Loading background skybox texture async '/home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/backgrounds/aurorasky.png'
+Sat Dec 04 2021 15:39:53.135462 - Loading reflection skybox texture async '/home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/reflections/dashboard_lights.png'
+Sat Dec 04 2021 15:39:53.139750 - Set thread 0x7f13c69f3700 priority to: -15
+Sat Dec 04 2021 15:39:53.140003 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrstartup 15017
+Sat Dec 04 2021 15:39:53.140849 - Set thread 0x7f14043f4700 priority to: 15
+Sat Dec 04 2021 15:39:53.140982 - Compositor render thread started
+Sat Dec 04 2021 15:39:53.141012 - Set thread 0x7f14044f5700 priority to: 15
+Sat Dec 04 2021 15:39:53.141054 - Startup Complete (2.137789 seconds)
+Sat Dec 04 2021 15:39:53.141088 - Async running start is disabled.
+Sat Dec 04 2021 15:39:53.141163 - Thread failed to initialize 2
+Sat Dec 04 2021 15:39:53.141186 - Failed to start NewFrameHandler thread!
+Sat Dec 04 2021 15:39:53.149784 - Creating solid play area quad for compositor construct: 1.00 x 1.00
+Sat Dec 04 2021 15:39:55.239358 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrdashboard 15179
+Sat Dec 04 2021 15:39:56.104649 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/bin/linuxsteamrt64/steamtours 15192
+Sat Dec 04 2021 15:39:56.200936 - Socket closed
+Sat Dec 04 2021 15:39:56.201067 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:39:56.201148 - Process vrstartup (15017) disconnected (Thread(0x0x7f13a4000ed0/0x0x7f)
+Sat Dec 04 2021 15:39:56.201229 - Lost pipe connection from vrstartup (15017)
+Sat Dec 04 2021 15:39:57.341804 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrmonitor 15188
+Sat Dec 04 2021 15:39:57.684706 - External connection from /home/waterdev/.local/share/Steam/ubuntu12_32/steam 13634
+Sat Dec 04 2021 15:39:59.561682 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 15425
+Sat Dec 04 2021 15:39:59.726269 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:40:00.726533 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:40:01.393187 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:40:02.372607 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 15665
+Sat Dec 04 2021 15:40:02.384827 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 15658
+Sat Dec 04 2021 15:40:02.434167 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 15676
+Sat Dec 04 2021 15:40:04.456638 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 15674
+Sat Dec 04 2021 15:40:05.067003 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 04 2021 15:40:05.766242 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (15192) took 0.0201 seconds
+Sat Dec 04 2021 15:40:05.853364 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (15192) took 0.0504 seconds
+Sat Dec 04 2021 15:40:05.868152 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (15192) took 0.00607 seconds
+Sat Dec 04 2021 15:40:05.884689 - Processing message VRMsg_CompositorNewSharedBuffer from steamtours (15192) took 0.00501 seconds
+Sat Dec 04 2021 15:40:05.927516 - Processing message VRMsg_CompositorNewSharedImage from steamtours (15192) took 0.00947 seconds
+Sat Dec 04 2021 15:40:05.947306 - Processing message VRMsg_CompositorNewSharedImage from steamtours (15192) took 0.0124 seconds
+Sat Dec 04 2021 15:40:06.232689 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:40:14.299485 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:40:40.501171 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:40:41.067228 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:40:42.989309 - Socket closed
+Sat Dec 04 2021 15:40:42.989432 - Unable to read message from socket: 3
+Sat Dec 04 2021 15:40:42.989517 - Process steamtours (15192) disconnected (Thread(0x0x7f13a4002990/0x0x7f)
+Sat Dec 04 2021 15:40:42.989578 - Lost pipe connection from steamtours (15192)
+Sat Dec 04 2021 15:40:42.989671 - ######################################################################
+Sat Dec 04 2021 15:40:42.989725 - Cumulative stats for pid: 15192
+Sat Dec 04 2021 15:40:42.989968 - Total..................  2631 presents.  167 dropped. 2049 reprojected
+Sat Dec 04 2021 15:40:42.990018 - Startup................   483 presents.  148 dropped.   36 reprojected
+Sat Dec 04 2021 15:40:42.990060 - Loading...  1 total....     0 presents.    0 dropped.    0 reprojected
+Sat Dec 04 2021 15:40:42.990101 - Timed out.  0 total....    19 presents.    0 dropped.   17 reprojected
+Sat Dec 04 2021 15:40:42.990141 - ######################################################################
+Sat Dec 04 2021 15:40:42.990186 - Total dropped frames: 57575
+Sat Dec 04 2021 15:40:49.760557 - External connection from /home/waterdev/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Proton 6.3/dist/bin/wine64-preloader 16762
+Sat Dec 04 2021 15:40:49.941505 - Socket closed
+Sat Dec 04 2021 15:40:49.941571 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:40:49.941606 - Process wine64-preloader (16762) disconnected (Thread(0x0x7f13a4008780/0x0x7f)
+Sat Dec 04 2021 15:40:49.941641 - Lost pipe connection from wine64-preloader (16762)
+Sat Dec 04 2021 15:40:55.478334 - External connection from /home/waterdev/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Proton 6.3/dist/bin/wine64-preloader 16866
+Sat Dec 04 2021 15:40:58.370582 - Processing message VRMsg_CompositorNewSharedSemaphore from wine64-preloader (16866) took 0.00696 seconds
+Sat Dec 04 2021 15:40:58.563752 - Processing message VRMsg_CompositorNewSharedImage from wine64-preloader (16866) took 0.00987 seconds
+Sat Dec 04 2021 15:41:00.187316 - Screenshot: HookScreenshot, 1 types
+Sat Dec 04 2021 15:41:01.400768 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:41:01.879069 - Timed out waiting for signal thread after 1.10ms!
+Sat Dec 04 2021 15:41:07.151190 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:41:08.951042 - Timed out waiting for signal thread after 1.11ms!
+Sat Dec 04 2021 15:41:13.667339 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:41:16.000236 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:41:20.401010 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:41:22.400324 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:41:26.467545 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:41:39.868266 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:41:50.152507 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:42:05.502439 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:42:14.052211 - Timed out waiting for signal thread after 1.10ms!
+Sat Dec 04 2021 15:42:20.535706 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:42:23.988049 - Timed out waiting for signal thread after 1.97ms!
+Sat Dec 04 2021 15:42:41.252983 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:42:50.753851 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:42:51.986448 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:42:54.569711 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:42:55.569801 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:42:55.819995 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:43:03.137306 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:43:03.853453 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:43:06.520064 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:43:18.171062 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:43:39.171364 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:43:41.920174 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:43:44.237734 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:43:46.688099 - Timed out waiting for signal thread after 1.13ms!
+Sat Dec 04 2021 15:43:58.787800 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:44:00.504075 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:44:26.921129 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:44:28.921738 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:44:31.822490 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:44:32.387603 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:44:32.921993 - Timed out waiting for signal thread after 1.45ms!
+Sat Dec 04 2021 15:44:38.871586 - Timed out waiting for signal thread after 1.19ms!
+Sat Dec 04 2021 15:44:40.423003 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:44:41.404865 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:44:43.122238 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:44:43.372534 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:44:45.606113 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:44:48.905835 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:44:49.090131 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:44:51.356204 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:44:51.406039 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:44:51.805500 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:44:53.922602 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:44:56.855476 - Timed out waiting for signal thread after 1.17ms!
+Sat Dec 04 2021 15:44:57.172311 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:44:57.939643 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:44:59.838372 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:03.589535 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:04.855475 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:05.856194 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:16.173128 - Timed out waiting for signal thread after 1.41ms!
+Sat Dec 04 2021 15:45:19.139612 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:45:33.522986 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:41.422733 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:45:41.973335 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:42.590903 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:43.440184 - Timed out waiting for signal thread after 1.13ms!
+Sat Dec 04 2021 15:45:44.641297 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:46.939948 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:47.940256 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:45:49.940666 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:50.939680 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:55.244950 - Force application throttling: 1
+Sat Dec 04 2021 15:45:57.074269 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:58.540737 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:45:58.672535 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:45:59.173500 - Timed out waiting for signal thread after 1.21ms!
+Sat Dec 04 2021 15:46:00.173674 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:46:00.458151 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:00.492283 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:00.589822 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:46:00.957282 - Timed out waiting for signal thread after 1.14ms!
+Sat Dec 04 2021 15:46:01.523715 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:06.949050 - Force application throttling: 2
+Sat Dec 04 2021 15:46:12.491741 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:15.390326 - Timed out waiting for signal thread after 1.02ms!
+Sat Dec 04 2021 15:46:15.590908 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:23.958869 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:46:25.241113 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:46:26.974538 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:27.474740 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:27.959083 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:29.191969 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:30.207871 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:46:30.674736 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:46:30.741280 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:30.924411 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:46:32.424372 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:37.958449 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:46:38.008538 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:39.458149 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:46:41.857919 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:42.692027 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:44.507614 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:46.908270 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:50.007475 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:50.107731 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 04 2021 15:46:51.941976 - Timed out waiting for signal thread after 1.40ms!
+Sat Dec 04 2021 15:46:54.024326 - CVulkanVRRenderer::UpdateBufferHelper. Ring Buffer Wrapped! (vkQueueWaitIdle)
+Sat Dec 04 2021 15:46:55.825395 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:57.108644 - Timed out waiting for signal thread after 1.15ms!
+Sat Dec 04 2021 15:46:57.408121 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:46:58.040544 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:58.274542 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:46:58.892066 - Timed out waiting for signal thread after 1.40ms!
+Sat Dec 04 2021 15:47:02.741351 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:47:04.058822 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:08.192017 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:08.791829 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:10.507564 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:10.525970 - Timed out waiting for signal thread after 1.58ms!
+Sat Dec 04 2021 15:47:13.041249 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:13.291738 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:47:13.391903 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:14.591578 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:14.741856 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:15.258568 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:15.425535 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:15.525551 - Timed out waiting for signal thread after 1.10ms!
+Sat Dec 04 2021 15:47:15.591973 - Timed out waiting for signal thread after 1.41ms!
+Sat Dec 04 2021 15:47:15.625983 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:15.758212 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:16.541973 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:17.741945 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:17.774277 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:19.837880 - Force application throttling: 3
+Sat Dec 04 2021 15:47:20.525373 - Timed out waiting for signal thread after 1.14ms!
+Sat Dec 04 2021 15:47:21.375484 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:47:22.491994 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:23.625855 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:26.842678 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:47:27.892307 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:27.924684 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:28.492714 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:28.642204 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:28.792950 - Timed out waiting for signal thread after 1.45ms!
+Sat Dec 04 2021 15:47:29.259692 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:30.491727 - Timed out waiting for signal thread after 1.19ms!
+Sat Dec 04 2021 15:47:33.375953 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:47:35.292426 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:35.492020 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 04 2021 15:47:35.559665 - Timed out waiting for signal thread after 1.11ms!
+Sat Dec 04 2021 15:47:37.541866 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:38.309168 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:47:41.842348 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:47:42.293687 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:42.641896 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:42.742556 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:47:43.875817 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:47:43.891848 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:44.042798 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:47:44.110249 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:44.725745 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:45.108926 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:48.492521 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:48.591875 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:47:51.341598 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:52.759542 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:47:52.842073 - Timed out waiting for signal thread after 1.12ms!
+Sat Dec 04 2021 15:47:54.542206 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:55.392272 - Timed out waiting for signal thread after 1.02ms!
+Sat Dec 04 2021 15:47:56.243171 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:56.775749 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:47:57.309950 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:47:57.609656 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:47:57.859648 - Timed out waiting for signal thread after 1.15ms!
+Sat Dec 04 2021 15:48:00.508576 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:00.958609 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:01.093676 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:48:01.276512 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:01.625847 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:48:02.192608 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:48:02.691822 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:02.842930 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:04.542646 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:06.680350 - Force application throttling: 1
+Sat Dec 04 2021 15:48:07.842494 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:08.343386 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:48:09.827296 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:10.159640 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:12.344004 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:13.427144 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:14.776435 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:17.910300 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:17.959138 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:20.509716 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:22.860284 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:23.410027 - Timed out waiting for signal thread after 1.23ms!
+Sat Dec 04 2021 15:48:26.359897 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:30.093078 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:31.009768 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:48:33.959752 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:48:34.126563 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:48:34.409696 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:34.710309 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:34.876533 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:36.010310 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:48:39.943923 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:40.126677 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:40.343472 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:41.143878 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:41.577776 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:41.593405 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:43.159834 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:44.143869 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:45.711073 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:48:47.160645 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:48:48.776401 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:50.959536 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:53.776791 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:48:54.927771 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:48:56.910458 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:48:58.994165 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:00.026878 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:00.677320 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:00.962189 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:01.443464 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 04 2021 15:49:03.110342 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:49:03.293218 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:49:05.793927 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:07.311265 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:08.010284 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:08.311441 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:09.795842 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:15.393396 - Timed out waiting for signal thread after 1.16ms!
+Sat Dec 04 2021 15:49:17.510413 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:20.410873 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:49:20.560293 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:22.394103 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:22.827265 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:49:23.561401 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:25.061649 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:49:25.214137 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:25.546358 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:25.644878 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:25.661767 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:28.344204 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:38.527972 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:49:39.494996 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:41.395326 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 04 2021 15:49:42.377386 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:49:47.545438 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:49.595003 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 04 2021 15:49:55.795753 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:49:57.061835 - Timed out waiting for signal thread after 1.12ms!
+Sat Dec 04 2021 15:50:03.078692 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:50:03.895387 - Timed out waiting for signal thread after 1.16ms!
+Sat Dec 04 2021 15:50:07.830011 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:50:10.895248 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:50:16.145178 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:50:18.095624 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:50:20.678644 - Timed out waiting for signal thread after 1.10ms!
+Sat Dec 04 2021 15:50:21.679175 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:50:27.129887 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:50:27.879909 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:50:28.378533 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:50:30.395576 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:50:30.679617 - Timed out waiting for signal thread after 1.03ms!
+Sat Dec 04 2021 15:50:30.895312 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:50:31.362657 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 04 2021 15:50:32.045376 - Timed out waiting for signal thread after 1.11ms!
+Sat Dec 04 2021 15:50:36.878432 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:50:45.163183 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:50:47.663043 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 04 2021 15:50:48.430187 - Processing message VRMsg_CompositorNewSharedImage from wine64-preloader (16866) took 0.00645 seconds
+Sat Dec 04 2021 15:50:49.780134 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:51:02.479211 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:51:06.496316 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 04 2021 15:51:08.124007 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 04 2021 15:51:10.927943 - Socket closed
+Sat Dec 04 2021 15:51:10.927994 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:51:10.928030 - Process vrdashboard (15179) disconnected (Thread(0x0x7f13a4001c30/0x0x7f)
+Sat Dec 04 2021 15:51:10.928052 - Lost pipe connection from vrdashboard (15179)
+Sat Dec 04 2021 15:51:10.949845 - Socket closed
+Sat Dec 04 2021 15:51:10.949970 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:51:10.950037 - Process vrwebhelper_pairing (15658) disconnected (Thread(0x0x7f13a4005ff0/0x0x7f)
+Sat Dec 04 2021 15:51:10.950068 - Lost pipe connection from vrwebhelper_pairing (15658)
+Sat Dec 04 2021 15:51:10.984665 - Received update_scene_graph message with an unknown owning overlay system.systemui
+Sat Dec 04 2021 15:51:11.001004 - Socket closed
+Sat Dec 04 2021 15:51:11.001137 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:51:11.001186 - Process vrwebhelper_settings_desktop (15674) disconnected (Thread(0x0x7f13a4007a70/0x0x7f)
+Sat Dec 04 2021 15:51:11.001238 - Lost pipe connection from vrwebhelper_settings_desktop (15674)
+Sat Dec 04 2021 15:51:11.003298 - Socket closed
+Sat Dec 04 2021 15:51:11.003398 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:51:11.003433 - Process vrwebhelper_keyboard (15665) disconnected (Thread(0x0x7f13a40052e0/0x0x7f)
+Sat Dec 04 2021 15:51:11.003451 - Lost pipe connection from vrwebhelper_keyboard (15665)
+Sat Dec 04 2021 15:51:11.040141 - Socket closed
+Sat Dec 04 2021 15:51:11.040229 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:51:11.040280 - Process vrwebhelper_systemui (15676) disconnected (Thread(0x0x7f13a4006d30/0x0x7f)
+Sat Dec 04 2021 15:51:11.040313 - Lost pipe connection from vrwebhelper_systemui (15676)
+Sat Dec 04 2021 15:51:11.227754 - Socket closed
+Sat Dec 04 2021 15:51:11.227841 - Unable to read message from socket: 3
+Sat Dec 04 2021 15:51:11.227880 - Process vrwebhelper_main (15425) disconnected (Thread(0x0x7f13a40045f0/0x0x7f)
+Sat Dec 04 2021 15:51:11.227904 - Lost pipe connection from vrwebhelper_main (15425)
+Sat Dec 04 2021 15:51:13.040446 - Socket closed
+Sat Dec 04 2021 15:51:13.040523 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:51:13.040566 - Process steam (13634) disconnected (Thread(0x0x7f13a40038d0/0x0x7f)
+Sat Dec 04 2021 15:51:13.040624 - Lost pipe connection from steam (13634)
+Sat Dec 04 2021 15:51:13.049387 - Destroying overlay A00000005 valve.steam.bigpicture (Steam)from pid 13634 because that process disconnected
+Sat Dec 04 2021 15:51:13.049459 - Destroying overlay B00000006 valve.steam.bigpicture.thumb (Steam (Thumb))from pid 13634 because that process disconnected
+Sat Dec 04 2021 15:51:13.049478 - Destroying overlay C00000007 valve.steam.desktop (Desktop)from pid 13634 because that process disconnected
+Sat Dec 04 2021 15:51:13.049495 - Destroying overlay D00000008 valve.steam.desktop.thumb (Desktop (Thumb))from pid 13634 because that process disconnected
+Sat Dec 04 2021 15:51:16.072091 - Socket closed
+Sat Dec 04 2021 15:51:16.072203 - Unable to read message from socket: 3
+Sat Dec 04 2021 15:51:16.072270 - Process wine64-preloader (16866) disconnected (Thread(0x0x7f13a4008830/0x0x7f)
+Sat Dec 04 2021 15:51:16.072313 - Lost pipe connection from wine64-preloader (16866)
+Sat Dec 04 2021 15:51:16.072404 - ######################################################################
+Sat Dec 04 2021 15:51:16.072441 - Cumulative stats for pid: 16866
+Sat Dec 04 2021 15:51:16.072478 - Total.................. 37034 presents.   84 dropped. 28809 reprojected
+Sat Dec 04 2021 15:51:16.072524 - Startup................   201 presents.   25 dropped.   12 reprojected
+Sat Dec 04 2021 15:51:16.072570 - Loading...  2 total....  1426 presents.    0 dropped.   22 reprojected
+Sat Dec 04 2021 15:51:16.072636 - Timed out.  0 total....  9190 presents.   18 dropped. 7159 reprojected
+Sat Dec 04 2021 15:51:16.072683 - ######################################################################
+Sat Dec 04 2021 15:51:16.072727 - Total dropped frames: 57685
+Sat Dec 04 2021 15:51:16.077029 - Destroying overlay 100000000B unity:VRChat.VRChat.FrontLoadingScreen (FrontLoadingScreen)from pid 16866 because that process disconnected
+Sat Dec 04 2021 15:51:16.077121 - Destroying overlay 110000000C unity:VRChat.VRChat.BackLoadingScreen (BackLoadingScreen)from pid 16866 because that process disconnected
+Sat Dec 04 2021 15:51:16.077202 - Destroying overlay 120000000D unity:VRChat.VRChat.FrontLoadingScreenWorldImage (FrontLoadingScreenWorldImage)from pid 16866 because that process disconnected
+Sat Dec 04 2021 15:51:16.077266 - Destroying overlay 130000000E unity:VRChat.VRChat.BackLoadingScreenWorldImage (BackLoadingScreenWorldImage)from pid 16866 because that process disconnected
+Sat Dec 04 2021 15:51:16.079104 - Render thread ending
+Sat Dec 04 2021 15:51:16.079169 - Signal thread ending
+Sat Dec 04 2021 15:51:16.087456 - VR compositor shutting down
+Sat Dec 04 2021 15:51:16.120814 - Socket closed
+Sat Dec 04 2021 15:51:16.120889 - Unable to read message from socket: 0
+Sat Dec 04 2021 15:51:16.120937 - Process vrmonitor (15188) disconnected (Thread(0x0x7f13a40036e0/0x0x7f)
+Sat Dec 04 2021 15:51:16.120955 - Ignoring LostPipeConnection from vrmonitor (15188) because compositor is shutting down
+Sat Dec 04 2021 15:51:16.128241 - Listener thread ending
+Sat Dec 04 2021 15:51:16.137590 - Cleaning up
+Sat Dec 04 2021 15:51:16.371544 - Failed to kill gpu-trace
+Sat Dec 04 2021 15:51:16.645808 - SharedResourceManager: detected possible leak with type: 2 id: 0x2600003b1a
+Sat Dec 04 2021 15:51:16.645941 - SharedResourceManager: detected possible leak with type: 2 id: 0x2700003b1a
+Sat Dec 04 2021 15:51:16.645987 - SharedResourceManager: detected possible leak with type: 2 id: 0x2800003b1a
+Sat Dec 04 2021 15:51:16.646024 - SharedResourceManager: detected possible leak with type: 2 id: 0x2900003b1a
+Sat Dec 04 2021 15:51:16.646058 - SharedResourceManager: detected possible leak with type: 2 id: 0x3b00003b1a
+Sat Dec 04 2021 15:51:16.646091 - SharedResourceManager: detected possible leak with type: 2 id: 0x3c00003b1a
+Sat Dec 04 2021 15:51:16.646123 - SharedResourceManager: detected possible leak with type: 2 id: 0x3d00003b1a
+Sat Dec 04 2021 15:51:16.646154 - SharedResourceManager: detected possible leak with type: 2 id: 0x3e00003b1a
+Sat Dec 04 2021 15:51:16.646186 - SharedResourceManager: leak summary 8 items
+Sat Dec 11 2021 12:19:04.394393 - //==============================================================================================
+Sat Dec 11 2021 12:19:04.431662 - ================================================================================================
+Sat Dec 11 2021 12:19:04.431727 - ================================================================================================
+Sat Dec 11 2021 12:19:04.431778 - vrcompositor 1.20.4 startup with PID=11139, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 11 2021 12:19:04.431813 - VR compositor 1.20.4 (v1634602223) Mixed starting up
+Sat Dec 11 2021 12:19:04.479388 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Sat Dec 11 2021 12:19:04.479486 - CSharedResourceNamespaceClient::Init(): received namespace data 11125
+Sat Dec 11 2021 12:19:04.479518 - CIPCPipe::CreatePipe(VR_CompositorPipe_11125) bound to steamvr:VR_CompositorPipe_11125
+Sat Dec 11 2021 12:19:04.480561 - Set fd limit to: 1048576
+Sat Dec 11 2021 12:19:04.480601 - Forcing debug mode for sample driver because of Prop_DisplayDebugMode_Bool.
+Sat Dec 11 2021 12:19:04.481844 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:19:04.481917 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:19:04.481976 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:19:04.482035 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:19:04.482260 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Sat Dec 11 2021 12:19:04.482802 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Sat Dec 11 2021 12:19:04.484451 - Events created
+Sat Dec 11 2021 12:19:04.495074 - Creating CHmdWindowSDL!
+Sat Dec 11 2021 12:19:04.844645 - Instance layers available:
+Sat Dec 11 2021 12:19:04.844694 -  - VK_LAYER_MESA_device_select, version 4202569
+Sat Dec 11 2021 12:19:04.844708 -  - VK_LAYER_NV_optimus, version 4202682
+Sat Dec 11 2021 12:19:04.844720 -  - VK_LAYER_VALVE_steam_fossilize_64, version 4202632
+Sat Dec 11 2021 12:19:04.844732 -  - VK_LAYER_VALVE_steam_overlay_64, version 4202632
+Sat Dec 11 2021 12:19:04.844755 -  - VK_LAYER_VALVE_steam_overlay_32, version 4202632
+Sat Dec 11 2021 12:19:04.844766 -  - VK_LAYER_VALVE_steam_fossilize_32, version 4202632
+Sat Dec 11 2021 12:19:04.844776 -  - VK_LAYER_MESA_overlay, version 4198473
+Sat Dec 11 2021 12:19:04.859606 - Instance extensions available:
+Sat Dec 11 2021 12:19:04.859650 -  - VK_KHR_device_group_creation, version 1
+Sat Dec 11 2021 12:19:04.859661 -  - VK_KHR_display, version 23
+Sat Dec 11 2021 12:19:04.859672 -  - VK_KHR_external_fence_capabilities, version 1
+Sat Dec 11 2021 12:19:04.859681 -  - VK_KHR_external_memory_capabilities, version 1
+Sat Dec 11 2021 12:19:04.859691 -  - VK_KHR_external_semaphore_capabilities, version 1
+Sat Dec 11 2021 12:19:04.859700 -  - VK_KHR_get_display_properties2, version 1
+Sat Dec 11 2021 12:19:04.859709 -  - VK_KHR_get_physical_device_properties2, version 1
+Sat Dec 11 2021 12:19:04.859718 -  - VK_KHR_get_surface_capabilities2, version 1
+Sat Dec 11 2021 12:19:04.859726 -  - VK_KHR_surface, version 25
+Sat Dec 11 2021 12:19:04.859735 -  - VK_KHR_surface_protected_capabilities, version 1
+Sat Dec 11 2021 12:19:04.859744 -  - VK_KHR_wayland_surface, version 6
+Sat Dec 11 2021 12:19:04.859752 -  - VK_KHR_xcb_surface, version 6
+Sat Dec 11 2021 12:19:04.859761 -  - VK_KHR_xlib_surface, version 6
+Sat Dec 11 2021 12:19:04.859769 -  - VK_EXT_acquire_xlib_display, version 1
+Sat Dec 11 2021 12:19:04.859778 -  - VK_EXT_debug_report, version 8
+Sat Dec 11 2021 12:19:04.859787 -  - VK_EXT_direct_mode_display, version 1
+Sat Dec 11 2021 12:19:04.859796 -  - VK_EXT_display_surface_counter, version 1
+Sat Dec 11 2021 12:19:04.859804 -  - VK_EXT_debug_utils, version 2
+Sat Dec 11 2021 12:19:04.859815 - Direct mode features: present
+Sat Dec 11 2021 12:19:04.859824 - Requesting 9 instance extensions:
+Sat Dec 11 2021 12:19:04.859832 -  - VK_KHR_surface
+Sat Dec 11 2021 12:19:04.859841 -  - VK_KHR_xcb_surface
+Sat Dec 11 2021 12:19:04.859849 -  - VK_KHR_display
+Sat Dec 11 2021 12:19:04.859858 -  - VK_EXT_direct_mode_display
+Sat Dec 11 2021 12:19:04.859866 -  - VK_EXT_acquire_xlib_display
+Sat Dec 11 2021 12:19:04.859875 -  - VK_EXT_display_surface_counter
+Sat Dec 11 2021 12:19:04.859883 -  - VK_KHR_external_memory_capabilities
+Sat Dec 11 2021 12:19:04.859892 -  - VK_KHR_external_semaphore_capabilities
+Sat Dec 11 2021 12:19:04.859900 -  - VK_KHR_get_physical_device_properties2
+Sat Dec 11 2021 12:19:04.882581 - HMD deviceUUID is 911dc535d30647bb
+Sat Dec 11 2021 12:19:04.882645 - Looking for direct display through RandR
+Sat Dec 11 2021 12:19:04.882665 -  - Root 0x1e4
+Sat Dec 11 2021 12:19:04.928271 -    - Output 0x1bd - 0 modes, 0 preferred
+Sat Dec 11 2021 12:19:04.928478 -    - Output 0x1be - 0 modes, 0 preferred
+Sat Dec 11 2021 12:19:04.928585 -    - Output 0x1bf - 0 modes, 0 preferred
+Sat Dec 11 2021 12:19:04.929332 -    - Output 0x1c0 - 0 modes, 0 preferred
+Sat Dec 11 2021 12:19:04.929765 -    - Output 0x1c1 - 28 modes, 1 preferred
+Sat Dec 11 2021 12:19:04.929846 -      - Mode 0 0x1c2 1920x1080 (looking for 2160x1200)
+Sat Dec 11 2021 12:19:04.930036 -    - Output 0x1de - 0 modes, 0 preferred
+Sat Dec 11 2021 12:19:04.930192 -    - Output 0x1df - 0 modes, 0 preferred
+Sat Dec 11 2021 12:19:04.930255 - Tried to find direct display through RandR: (nil)
+Sat Dec 11 2021 12:19:04.930280 - Looking for direct display through Vulkan WSI
+Sat Dec 11 2021 12:19:04.976265 -  - Vulkan output 0: 1920x1080 resolution, 480x270 dimensions - Ancor Communications Inc VE228 (HDMI-0)
+Sat Dec 11 2021 12:19:04.976340 - Tried to find direct display through Vulkan WSI: (nil)
+Sat Dec 11 2021 12:19:04.976362 - CHmdWindowSDL: Failed to create direct mode surface
+Sat Dec 11 2021 12:19:04.976855 - Requesting 10 device extensions:
+Sat Dec 11 2021 12:19:04.976873 -  - VK_KHR_swapchain
+Sat Dec 11 2021 12:19:04.976885 -  - VK_KHR_maintenance1
+Sat Dec 11 2021 12:19:04.976895 -  - VK_KHR_dedicated_allocation
+Sat Dec 11 2021 12:19:04.976905 -  - VK_KHR_get_memory_requirements2
+Sat Dec 11 2021 12:19:04.976915 -  - VK_KHR_external_memory
+Sat Dec 11 2021 12:19:04.976925 -  - VK_KHR_external_semaphore
+Sat Dec 11 2021 12:19:04.976945 -  - VK_EXT_display_control
+Sat Dec 11 2021 12:19:04.976955 -  - VK_KHR_external_memory_fd
+Sat Dec 11 2021 12:19:04.976965 -  - VK_KHR_external_semaphore_fd
+Sat Dec 11 2021 12:19:04.976974 -  - VK_EXT_global_priority
+Sat Dec 11 2021 12:19:04.976985 - Global priority query enabled: 1
+Sat Dec 11 2021 12:19:04.976995 - Attempting to enable async support...
+Sat Dec 11 2021 12:19:04.977004 - Enabling async support!
+Sat Dec 11 2021 12:19:05.024378 - m_pVkInstance : 0x557606ffa430
+Sat Dec 11 2021 12:19:05.024431 - m_pVkPhysicalDevice : 0x557607249c60
+Sat Dec 11 2021 12:19:05.024444 - m_pVkDevice : 0x55760732e150
+Sat Dec 11 2021 12:19:05.024456 - m_pVkGraphicsQueue : 0x557606c69850
+Sat Dec 11 2021 12:19:05.024467 - m_pVkComputeQueue : 0x557607541d40
+Sat Dec 11 2021 12:19:05.065238 - HMD swapchain mode:2 count:3
+Sat Dec 11 2021 12:19:05.151073 - Direct mode: disabled
+Sat Dec 11 2021 12:19:05.210383 - Mirror swapchain mode:0 count:3
+Sat Dec 11 2021 12:19:05.297468 - CGraphicsDevice Init...
+Sat Dec 11 2021 12:19:05.298415 - Headset display is on desktop
+Sat Dec 11 2021 12:19:05.298493 - Initializing timing resources
+Sat Dec 11 2021 12:19:05.299338 - Initializing CVulkanVRRenderer
+Sat Dec 11 2021 12:19:05.299449 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Sat Dec 11 2021 12:19:05.412747 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7fc02c000000.
+Sat Dec 11 2021 12:19:05.423221 - Updated HMD Prop_DisplayFrequency_Float to 90.000000
+Sat Dec 11 2021 12:19:05.423288 - ****************************************** Begin GPU speed ******************************************
+Sat Dec 11 2021 12:19:05.423306 - GPU Vendor: "NVIDIA GeForce GTX 1660 Ti" GPU Driver: "2076901376"
+Sat Dec 11 2021 12:19:05.423630 - Initializing CVulkanVRRenderer
+Sat Dec 11 2021 12:19:05.423672 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Sat Dec 11 2021 12:19:05.492986 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7fc01c000000.
+Sat Dec 11 2021 12:19:05.872948 - MeasureGpuMegaPixelsPerSecond(12): Returning 654 MP/sec. Total CPU time 0.45 seconds.
+Sat Dec 11 2021 12:19:05.889653 - GPU speed from average of 6 median samples: 655
+Sat Dec 11 2021 12:19:05.890125 - ******************************************* End GPU speed *******************************************
+Sat Dec 11 2021 12:19:05.890181 - HMD driver recommended: 1512x1680 90.0Hz HiddenArea(0.00%) = 457 MP/sec
+Sat Dec 11 2021 12:19:05.890196 - Raw ideal render target scale = 1.43
+Sat Dec 11 2021 12:19:05.890339 - New result of GetRecommendedRenderTargetSize for current app: 1812x2016
+Sat Dec 11 2021 12:19:05.890356 - Creating samplers
+Sat Dec 11 2021 12:19:05.890394 - Creating util resources
+Sat Dec 11 2021 12:19:05.890809 - Creating/Updating distortion surfaces
+Sat Dec 11 2021 12:19:05.932472 - Warp mesh (left eye) covers 99.91% of its viewport (shrink wrap saved 0.00%)
+Sat Dec 11 2021 12:19:06.242219 - Warp mesh (right eye) covers 99.91% of its viewport (shrink wrap saved 0.00%)
+Sat Dec 11 2021 12:19:06.503476 - Creating constant buffers
+Sat Dec 11 2021 12:19:06.506221 - Creating systemlayer textures (w=1812,h=2016)
+Sat Dec 11 2021 12:19:06.607814 - Initializing camera
+Sat Dec 11 2021 12:19:06.607876 - Done initializing CGraphicsDevice resources
+Sat Dec 11 2021 12:19:06.607899 - Loading MC resources
+Sat Dec 11 2021 12:19:06.608112 - Distort initialized
+Sat Dec 11 2021 12:19:06.611059 - Loading background skybox texture async '/home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/backgrounds/aurorasky.png'
+Sat Dec 11 2021 12:19:06.611121 - Loading reflection skybox texture async '/home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/reflections/dashboard_lights.png'
+Sat Dec 11 2021 12:19:06.619676 - Set thread 0x7fc0611f0700 priority to: -15
+Sat Dec 11 2021 12:19:06.619875 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrstartup 11028
+Sat Dec 11 2021 12:19:06.621143 - Set thread 0x7fc0804f5700 priority to: 15
+Sat Dec 11 2021 12:19:06.621289 - Compositor render thread started
+Sat Dec 11 2021 12:19:06.621369 - Set thread 0x7fc0805f6700 priority to: 15
+Sat Dec 11 2021 12:19:06.621443 - Startup Complete (2.140861 seconds)
+Sat Dec 11 2021 12:19:06.621535 - Async running start is disabled.
+Sat Dec 11 2021 12:19:06.621632 - Thread failed to initialize 2
+Sat Dec 11 2021 12:19:06.621694 - Failed to start NewFrameHandler thread!
+Sat Dec 11 2021 12:19:06.630244 - Creating solid play area quad for compositor construct: 1.00 x 1.00
+Sat Dec 11 2021 12:19:08.854726 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrdashboard 11187
+Sat Dec 11 2021 12:19:09.459804 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/bin/linuxsteamrt64/steamtours 11200
+Sat Dec 11 2021 12:19:09.682472 - Socket closed
+Sat Dec 11 2021 12:19:09.682547 - Unable to read message from socket: 0
+Sat Dec 11 2021 12:19:09.682586 - Process vrstartup (11028) disconnected (Thread(0x0x7fc024000ed0/0x0x7f)
+Sat Dec 11 2021 12:19:09.682607 - Lost pipe connection from vrstartup (11028)
+Sat Dec 11 2021 12:19:10.929322 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrmonitor 11196
+Sat Dec 11 2021 12:19:11.546911 - External connection from /home/waterdev/.local/share/Steam/ubuntu12_32/steam 3462
+Sat Dec 11 2021 12:19:13.343030 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 11442
+Sat Dec 11 2021 12:19:16.310821 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 11689
+Sat Dec 11 2021 12:19:16.435688 - Processing message VRMsg_CompositorNewSharedSemaphore from vrwebhelper_main (11442) took 0.00557 seconds
+Sat Dec 11 2021 12:19:16.441132 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:19:16.442764 - Processing message VRMsg_CompositorNewSharedSemaphore from vrwebhelper_main (11442) took 0.00538 seconds
+Sat Dec 11 2021 12:19:18.314004 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (11200) took 0.00821 seconds
+Sat Dec 11 2021 12:19:18.328064 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (11200) took 0.0128 seconds
+Sat Dec 11 2021 12:19:18.355457 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 11674
+Sat Dec 11 2021 12:19:18.449113 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (11200) took 0.0109 seconds
+Sat Dec 11 2021 12:19:18.494311 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (11200) took 0.0275 seconds
+Sat Dec 11 2021 12:19:18.512221 - Processing message VRMsg_CompositorNewSharedSemaphore from steamtours (11200) took 0.0157 seconds
+Sat Dec 11 2021 12:19:18.543903 - Processing message VRMsg_CompositorNewSharedImage from steamtours (11200) took 0.0109 seconds
+Sat Dec 11 2021 12:20:13.078823 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:20:13.847488 - Timed out waiting for signal thread after 1.22ms!
+Sat Dec 11 2021 12:20:28.041424 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:20:29.525423 - Timed out waiting for signal thread after 1.25ms!
+Sat Dec 11 2021 12:20:48.744695 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:21:01.059180 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:22:08.576734 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:22:52.411036 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:22:59.429112 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:23:13.561060 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:23:14.828339 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:23:14.844610 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:23:15.711652 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:23:37.179044 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:23:45.912755 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:24:10.429305 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:24:10.595436 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:24:19.480195 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:25:11.315172 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:25:31.732310 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:02.431376 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:02.781504 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:06.515990 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:26:07.231373 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:07.519056 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:07.714558 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:08.648664 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:09.014351 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:26:09.481708 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:09.732394 - Timed out waiting for signal thread after 1.14ms!
+Sat Dec 11 2021 12:26:09.798794 - Timed out waiting for signal thread after 1.30ms!
+Sat Dec 11 2021 12:26:10.098405 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:10.415075 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:11.715537 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:26:12.598721 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:12.881460 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:13.848980 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:13.865196 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:13.965201 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:14.048145 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:14.933378 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:15.265143 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:26:15.297777 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:15.965152 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:26:17.015241 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:17.215646 - Timed out waiting for signal thread after 1.03ms!
+Sat Dec 11 2021 12:26:17.499197 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:26:19.032068 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:19.548436 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:20.199099 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:23.765268 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:23.948813 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:26:24.250009 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:26:24.464519 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:25.564206 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:25.614268 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:26:25.965852 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:26.748306 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:27.231589 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:26:27.381087 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:27.398242 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:27.415215 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:27.431345 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:27.448712 - Timed out waiting for signal thread after 1.19ms!
+Sat Dec 11 2021 12:26:27.465366 - Timed out waiting for signal thread after 1.16ms!
+Sat Dec 11 2021 12:26:27.481820 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:27.498954 - Timed out waiting for signal thread after 1.14ms!
+Sat Dec 11 2021 12:26:27.683369 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:27.731164 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:28.131488 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:28.232582 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:26:28.265560 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:28.298854 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:26:28.415113 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:28.671086 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:30.615731 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:30.656210 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:31.298711 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:31.581251 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:32.014109 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:26:32.148676 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:32.215544 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:32.647321 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:33.766259 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:26:33.798589 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:33.814997 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:26:34.965843 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:26:43.748896 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:26:44.532328 - Timed out waiting for signal thread after 1.01ms!
+Sat Dec 11 2021 12:26:47.732044 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:26:50.665632 - Timed out waiting for signal thread after 1.03ms!
+Sat Dec 11 2021 12:26:58.065372 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:27:00.549084 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:27:05.282128 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:27:13.233712 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:27:13.316235 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:27:22.600206 - Timed out waiting for signal thread after 1.10ms!
+Sat Dec 11 2021 12:27:23.683810 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:27:23.699381 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:27:28.899876 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:27:38.633334 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:27:39.983173 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:27:46.132979 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:27:47.233579 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:27:54.633877 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:27:58.067995 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:28:08.784634 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:28:09.136428 - Socket closed
+Sat Dec 11 2021 12:28:09.136493 - Unable to read message from socket: 3
+Sat Dec 11 2021 12:28:09.136522 - Process steamtours (11200) disconnected (Thread(0x0x7fc024002990/0x0x7f)
+Sat Dec 11 2021 12:28:09.136553 - Lost pipe connection from steamtours (11200)
+Sat Dec 11 2021 12:28:09.136590 - ######################################################################
+Sat Dec 11 2021 12:28:09.136606 - Cumulative stats for pid: 11200
+Sat Dec 11 2021 12:28:09.136621 - Total.................. 32134 presents.  232 dropped. 29927 reprojected
+Sat Dec 11 2021 12:28:09.136635 - Startup................   452 presents.  135 dropped.   26 reprojected
+Sat Dec 11 2021 12:28:09.136650 - Loading...  1 total....     0 presents.    0 dropped.    0 reprojected
+Sat Dec 11 2021 12:28:09.136664 - Timed out.  0 total....  7095 presents.   33 dropped. 6929 reprojected
+Sat Dec 11 2021 12:28:09.136678 - ######################################################################
+Sat Dec 11 2021 12:28:09.136692 - Total dropped frames: 559028
+Sat Dec 11 2021 12:28:11.534161 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/Godot Engine/godot.x11.opt.tools.64 15038
+Sat Dec 11 2021 12:28:14.008873 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/bin/vrwebhelper/linux64/vrwebhelper 15099
+Sat Dec 11 2021 12:28:16.483536 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:28:16.500216 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:28:19.318013 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:28:23.651509 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:28:27.534905 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:28:29.368109 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:28:31.734446 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:28:33.467492 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:28:37.167915 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:28:41.690546 - Socket closed
+Sat Dec 11 2021 12:28:41.690616 - Unable to read message from socket: 3
+Sat Dec 11 2021 12:28:41.690657 - Process godot.x11.opt.tools (15038) disconnected (Thread(0x0x7fc024006c70/0x0x7f)
+Sat Dec 11 2021 12:28:41.690685 - Lost pipe connection from godot.x11.opt.tools (15038)
+Sat Dec 11 2021 12:28:41.690758 - ######################################################################
+Sat Dec 11 2021 12:28:41.690783 - Cumulative stats for pid: 15038
+Sat Dec 11 2021 12:28:41.690809 - Total..................  1775 presents.    8 dropped. 1639 reprojected
+Sat Dec 11 2021 12:28:41.690836 - Startup................    70 presents.    7 dropped.   10 reprojected
+Sat Dec 11 2021 12:28:41.690861 - Loading...  0 total....     0 presents.    0 dropped.    0 reprojected
+Sat Dec 11 2021 12:28:41.690883 - Timed out.  0 total....     2 presents.    0 dropped.    2 reprojected
+Sat Dec 11 2021 12:28:41.690902 - ######################################################################
+Sat Dec 11 2021 12:28:41.690922 - Total dropped frames: 559046
+Sat Dec 11 2021 12:28:44.757523 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/bin/linuxsteamrt64/steamtours 15333
+Sat Dec 11 2021 12:28:45.684884 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:28:47.801391 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:28:50.034490 - Socket closed
+Sat Dec 11 2021 12:28:50.034546 - Unable to read message from socket: 0
+Sat Dec 11 2021 12:28:50.034584 - Process steamtours (15333) disconnected (Thread(0x0x7fc024007a20/0x0x7f)
+Sat Dec 11 2021 12:28:50.034607 - Lost pipe connection from steamtours (15333)
+Sat Dec 11 2021 12:28:50.034664 - ######################################################################
+Sat Dec 11 2021 12:28:50.034693 - Cumulative stats for pid: 15333
+Sat Dec 11 2021 12:28:50.034714 - Total..................   282 presents.   30 dropped.    0 reprojected
+Sat Dec 11 2021 12:28:50.034734 - Startup................   282 presents.   30 dropped.    0 reprojected
+Sat Dec 11 2021 12:28:50.034756 - Loading...  0 total....     0 presents.    0 dropped.    0 reprojected
+Sat Dec 11 2021 12:28:50.034798 - Timed out.  0 total....     0 presents.    0 dropped.    0 reprojected
+Sat Dec 11 2021 12:28:50.034819 - ######################################################################
+Sat Dec 11 2021 12:28:50.034838 - Total dropped frames: 559099
+Sat Dec 11 2021 12:28:52.291073 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/Godot Engine/godot.x11.opt.tools.64 15409
+Sat Dec 11 2021 12:29:04.518602 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:29:07.034709 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:29:26.935305 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:29:48.102675 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:29:49.103370 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:29:50.403508 - Timed out waiting for signal thread after 1.11ms!
+Sat Dec 11 2021 12:29:53.269005 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:29:53.687135 - Timed out waiting for signal thread after 1.48ms!
+Sat Dec 11 2021 12:30:02.502266 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:30:03.019212 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:30:03.652763 - Timed out waiting for signal thread after 1.52ms!
+Sat Dec 11 2021 12:30:11.986704 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:30:37.936912 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:30:38.470267 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:30:40.970111 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:30:42.888081 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:30:43.687847 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:30:44.120356 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:30:48.087245 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:30:48.437504 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:30:49.971056 - Timed out waiting for signal thread after 1.24ms!
+Sat Dec 11 2021 12:30:56.520604 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:30:57.704118 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:01.753404 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:02.371187 - Timed out waiting for signal thread after 1.03ms!
+Sat Dec 11 2021 12:31:09.071538 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:09.770884 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:15.687435 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:15.704470 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:16.187701 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:31:16.371208 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:31:18.437938 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:20.271266 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:31:22.371305 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:32.804707 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:33.037503 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:41.905429 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:42.438900 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:31:42.671417 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:45.188604 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:31:49.538884 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:50.971854 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:31:52.555225 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:32:02.822483 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:32:06.488931 - Timed out waiting for signal thread after 1.16ms!
+Sat Dec 11 2021 12:32:14.605804 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:32:19.222725 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:32:20.322725 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:32:22.980175 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:32:26.338679 - Socket closed
+Sat Dec 11 2021 12:32:26.338765 - Unable to read message from socket: 3
+Sat Dec 11 2021 12:32:26.338802 - Process godot.x11.opt.tools (15409) disconnected (Thread(0x0x7fc024007ad0/0x0x7f)
+Sat Dec 11 2021 12:32:26.338827 - Lost pipe connection from godot.x11.opt.tools (15409)
+Sat Dec 11 2021 12:32:26.338903 - ######################################################################
+Sat Dec 11 2021 12:32:26.338930 - Cumulative stats for pid: 15409
+Sat Dec 11 2021 12:32:26.338949 - Total.................. 12807 presents.   16 dropped. 11134 reprojected
+Sat Dec 11 2021 12:32:26.338964 - Startup................    65 presents.    3 dropped.    6 reprojected
+Sat Dec 11 2021 12:32:26.338979 - Loading...  0 total....     0 presents.    0 dropped.    0 reprojected
+Sat Dec 11 2021 12:32:26.338993 - Timed out.  0 total....    40 presents.    2 dropped.   30 reprojected
+Sat Dec 11 2021 12:32:26.339007 - ######################################################################
+Sat Dec 11 2021 12:32:26.339022 - Total dropped frames: 559117
+Sat Dec 11 2021 12:32:27.518896 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/bin/linuxsteamrt64/steamtours 16516
+Sat Dec 11 2021 12:32:39.076382 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:33:19.914816 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:33:20.603136 - Socket closed
+Sat Dec 11 2021 12:33:20.603207 - Unable to read message from socket: 3
+Sat Dec 11 2021 12:33:20.603243 - Process steamtours (16516) disconnected (Thread(0x0x7fc024007b80/0x0x7f)
+Sat Dec 11 2021 12:33:20.603266 - Lost pipe connection from steamtours (16516)
+Sat Dec 11 2021 12:33:20.603323 - ######################################################################
+Sat Dec 11 2021 12:33:20.603343 - Cumulative stats for pid: 16516
+Sat Dec 11 2021 12:33:20.603361 - Total..................  3125 presents.   52 dropped. 2219 reprojected
+Sat Dec 11 2021 12:33:20.603379 - Startup................   497 presents.   15 dropped.   24 reprojected
+Sat Dec 11 2021 12:33:20.603398 - Loading...  1 total....     0 presents.    0 dropped.    0 reprojected
+Sat Dec 11 2021 12:33:20.603414 - Timed out.  0 total....    29 presents.   13 dropped.   18 reprojected
+Sat Dec 11 2021 12:33:20.603427 - ######################################################################
+Sat Dec 11 2021 12:33:20.603441 - Total dropped frames: 559185
+Sat Dec 11 2021 12:33:23.127410 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/Godot Engine/godot.x11.opt.tools.64 16859
+Sat Dec 11 2021 12:33:25.057321 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:33:29.607245 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:33:33.190389 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:33:53.124993 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:34:06.174896 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:34:49.408340 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:35:07.843040 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:35:11.060038 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:35:15.208516 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:35:19.626220 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:35:26.109433 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:35:32.109070 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:35:35.159396 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:35:35.609819 - Timed out waiting for signal thread after 1.17ms!
+Sat Dec 11 2021 12:35:36.260200 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:35:45.092347 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:35:47.026577 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:35:48.326326 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:00.327868 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:02.326994 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:03.127096 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:12.276286 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:12.477384 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:36:15.260247 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:21.044065 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:36:27.693677 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:31.993943 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:36:35.543784 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:36:35.627696 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:36:37.643882 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:37.960616 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:45.847051 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:45.944061 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:36:45.960368 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:46.560535 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:46.595071 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:46.927178 - Timed out waiting for signal thread after 1.10ms!
+Sat Dec 11 2021 12:36:48.310674 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:48.827219 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:56.361732 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:36:59.413554 - Timed out waiting for signal thread after 3.30ms!
+Sat Dec 11 2021 12:36:59.928314 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:00.912113 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:37:01.127971 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:37:03.012097 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:04.060562 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:04.245242 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:04.628520 - Timed out waiting for signal thread after 1.23ms!
+Sat Dec 11 2021 12:37:04.795194 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:05.978761 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:13.311534 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:15.711387 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:16.228741 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:20.578790 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:22.028414 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:37:22.495185 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:25.428728 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:37:31.546385 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:35.863517 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:41.395893 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:44.312538 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:55.311404 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:37:59.329303 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:38:07.129174 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:38:07.146097 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 11 2021 12:38:07.162363 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:38:17.579440 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:38:21.996847 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:38:26.145320 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:38:37.629422 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:38:40.212360 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:38:45.296964 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:38:46.796983 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:38:50.597306 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:39:20.914902 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:39:26.481550 - Timed out waiting for signal thread after 1.11ms!
+Sat Dec 11 2021 12:39:33.330874 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:39:36.614856 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 11 2021 12:39:36.731199 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:39:39.265069 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:39:43.281164 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:39:49.698847 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:39:49.881634 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:39:50.616203 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:39:50.631716 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:39:50.998113 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:39:54.399633 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 11 2021 12:39:55.114829 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:39:55.181629 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:39:57.115402 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:39:58.015140 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:39:59.448699 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:00.865903 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:40:06.781837 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:40:09.815608 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:10.015828 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:40:10.032611 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:11.632164 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:12.648207 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:16.748768 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:21.898430 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:21.948544 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:26.749537 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:40:29.965384 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:30.012876 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:40:30.382875 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:30.566201 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:34.599395 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:46.715383 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:40:47.632184 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:40:48.316289 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:40:58.849280 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:41:04.633063 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:41:04.733075 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:41:16.232534 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:41:18.350626 - Timed out waiting for signal thread after 1.79ms!
+Sat Dec 11 2021 12:41:18.449674 - Timed out waiting for signal thread after 1.13ms!
+Sat Dec 11 2021 12:41:21.616592 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:41:23.400101 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:41:25.684318 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:41:33.516828 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:41:37.616333 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:41:38.034073 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:41:53.550580 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:41:54.900916 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:42:10.118725 - Timed out waiting for signal thread after 2.24ms!
+Sat Dec 11 2021 12:42:10.300476 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:42:10.616520 - CVulkanVRRenderer::UpdateBufferHelper. Ring Buffer Wrapped! (vkQueueWaitIdle)
+Sat Dec 11 2021 12:42:24.834220 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:42:27.251621 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:42:36.200877 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:42:38.151105 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:42:45.634440 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:42:46.635140 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:42:48.469194 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:42:48.519115 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:42:48.969014 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:42:54.851982 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:42:55.451327 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:42:58.585616 - Timed out waiting for signal thread after 1.03ms!
+Sat Dec 11 2021 12:43:00.935458 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 11 2021 12:43:04.402494 - Timed out waiting for signal thread after 1.23ms!
+Sat Dec 11 2021 12:43:07.684922 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:43:07.785313 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:43:10.585235 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:43:12.301526 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:43:22.168727 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:43:30.052999 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:43:32.952147 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:43:36.752128 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:43:37.385467 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:43:38.202200 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:43:49.485318 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:43:51.685365 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:43:56.520129 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:06.252220 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:07.236816 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:11.957264 - Force application throttling: 1
+Sat Dec 11 2021 12:44:14.411914 - Force application throttling: 2
+Sat Dec 11 2021 12:44:15.171119 - Timed out waiting for signal thread after 1.11ms!
+Sat Dec 11 2021 12:44:16.171010 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:44:21.536483 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:22.199658 - Force application throttling: 3
+Sat Dec 11 2021 12:44:22.798175 - Force application throttling: 1
+Sat Dec 11 2021 12:44:24.820166 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:26.087260 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:44:27.070993 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:44:28.670070 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:44:33.603118 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:44:37.321127 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:44:37.487939 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:38.287316 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:40.770901 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:41.370366 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:41.920156 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:44:42.171212 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:44:47.304528 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:44:48.520250 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:44:48.903242 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:51.937624 - Timed out waiting for signal thread after 1.04ms!
+Sat Dec 11 2021 12:44:53.053206 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:53.854386 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:56.070839 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:44:56.188223 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:45:00.504733 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:03.121261 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:45:03.322139 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:03.504598 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:06.887825 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:06.921466 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:45:15.921049 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:17.171086 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:18.137639 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:19.188072 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:45:19.953931 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:22.820795 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:23.321315 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:45:24.188488 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:25.089021 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:45:25.121491 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:25.404462 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:27.921901 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:45:27.971692 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:45:28.537180 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:45:29.388055 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:32.971903 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:35.171875 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:45:35.639128 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:40.909724 - Timed out waiting for signal thread after 3.08ms!
+Sat Dec 11 2021 12:45:41.039025 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:41.468929 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:45:43.388899 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:50.005175 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:45:50.621899 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:45:52.554616 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:45:55.856014 - Timed out waiting for signal thread after 1.31ms!
+Sat Dec 11 2021 12:45:57.138782 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:01.189810 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:05.839457 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:46:06.638939 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:11.372590 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:14.488819 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:46:17.122606 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:46:21.755571 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:22.039547 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:22.138969 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:23.322354 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:25.189534 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:46:26.522263 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:27.272342 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:27.306931 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:46:28.223043 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:33.239724 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:46:33.839826 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:46:35.189268 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:35.239384 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:37.874026 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:39.173337 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:41.422255 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:41.640251 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:42.706474 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:46:43.039379 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:43.055929 - Timed out waiting for signal thread after 1.30ms!
+Sat Dec 11 2021 12:46:43.672729 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:44.190235 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:46:47.956827 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:46:51.673264 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:53.690229 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:46:54.806405 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:56.823563 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:56.973249 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:46:57.906925 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:02.974044 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:02.990422 - Timed out waiting for signal thread after 1.01ms!
+Sat Dec 11 2021 12:47:06.590161 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:08.207238 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:08.423908 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:11.139599 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:15.806436 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:47:24.840523 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:30.790812 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:31.441021 - Timed out waiting for signal thread after 2.09ms!
+Sat Dec 11 2021 12:47:31.457365 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:35.107606 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:36.424457 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:36.824231 - Timed out waiting for signal thread after 1.61ms!
+Sat Dec 11 2021 12:47:37.240322 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:37.623763 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:47:37.940797 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:38.240399 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:47:39.174463 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:47:39.707460 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:47:41.374417 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:47:43.374274 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:43.707402 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:47:47.482905 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:47.724284 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:48.924475 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:49.841322 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:52.091086 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:54.091661 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:54.874315 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:47:58.224885 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:47:59.307696 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:00.974824 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:01.974311 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:04.475426 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:04.708085 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:05.557270 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:07.091521 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:07.758806 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:10.491367 - Timed out waiting for signal thread after 1.02ms!
+Sat Dec 11 2021 12:48:10.507288 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:21.031102 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:48:21.757160 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:23.691951 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:25.809118 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:29.941132 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:48:30.041631 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:38.391215 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:38.408336 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:41.543117 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:44.451072 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:48:48.008952 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:48:57.042977 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:01.309294 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:01.877055 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:04.842696 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:49:10.076799 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:49:10.742894 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:12.867742 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:13.609150 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:16.942866 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:21.942897 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:22.326670 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:26.209429 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:49:27.292444 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:34.692606 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:36.360167 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:45.310271 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:45.660429 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:49:45.760213 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:45.926780 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:48.927533 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:54.011299 - Timed out waiting for signal thread after 1.10ms!
+Sat Dec 11 2021 12:49:55.243971 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:49:58.027103 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:01.845239 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:04.843362 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:06.693781 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:12.660853 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:15.959249 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:20.277253 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:50:20.410431 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:24.727697 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:25.894071 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:26.962126 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:31.561049 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:40.777256 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:50:45.644565 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:55.194999 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:55.728449 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:50:58.845374 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:51:13.945346 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:51:21.528093 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:51:22.962394 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:51:24.612197 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:51:35.613056 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:51:52.228283 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:51:58.195316 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:51:58.296678 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:51:58.313015 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:52:13.263208 - Timed out waiting for signal thread after 1.20ms!
+Sat Dec 11 2021 12:52:14.029271 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:52:23.797057 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:52:31.731282 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:52:39.313358 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:52:44.580823 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:52:48.080637 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:52:51.280770 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:52:56.797409 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:52:57.947921 - Timed out waiting for signal thread after 1.15ms!
+Sat Dec 11 2021 12:53:00.430665 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:02.647921 - Timed out waiting for signal thread after 1.19ms!
+Sat Dec 11 2021 12:53:03.217639 - Timed out waiting for signal thread after 4.00ms!
+Sat Dec 11 2021 12:53:04.098553 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:14.897928 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:29.098302 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:34.231424 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:36.631900 - Timed out waiting for signal thread after 1.26ms!
+Sat Dec 11 2021 12:53:37.747581 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:40.064600 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:40.481611 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:48.132163 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:48.148669 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:50.764639 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:57.415825 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:58.998351 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:53:59.098413 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:53:59.165001 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:02.131437 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:02.364716 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:15.466231 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:54:15.631601 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:54:16.315878 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:54:16.681810 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:17.199191 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:17.882749 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:18.698339 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:54:19.116304 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:54:22.748497 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:24.449447 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:28.099051 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:32.398523 - Timed out waiting for signal thread after 1.05ms!
+Sat Dec 11 2021 12:54:33.216439 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:54:33.266992 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:54:34.015721 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:36.215273 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:40.982913 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:54:43.482914 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:49.049621 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:50.716681 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:54:53.549649 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:54:53.982896 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:54:58.684757 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:55:01.016591 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:55:02.099364 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:55:02.283020 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:55:03.499467 - Timed out waiting for signal thread after 1.09ms!
+Sat Dec 11 2021 12:55:03.799963 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:55:16.917150 - Timed out waiting for signal thread after 1.85ms!
+Sat Dec 11 2021 12:55:18.832663 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:55:19.566965 - Timed out waiting for signal thread after 1.36ms!
+Sat Dec 11 2021 12:55:20.849625 - Timed out waiting for signal thread after 1.08ms!
+Sat Dec 11 2021 12:55:23.252989 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:55:24.716493 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:55:28.399475 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:55:30.332907 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:55:38.502029 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:55:43.084339 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:55:44.134926 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:55:45.451259 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:55:52.718343 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:55:55.618384 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:55:58.368174 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:55:58.434995 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:55:58.867908 - Timed out waiting for signal thread after 1.07ms!
+Sat Dec 11 2021 12:55:59.871014 - Socket closed
+Sat Dec 11 2021 12:55:59.871108 - Unable to read message from socket: 3
+Sat Dec 11 2021 12:55:59.871158 - Process godot.x11.opt.tools (16859) disconnected (Thread(0x0x7fc024007c30/0x0x7f)
+Sat Dec 11 2021 12:55:59.871204 - Lost pipe connection from godot.x11.opt.tools (16859)
+Sat Dec 11 2021 12:55:59.871306 - ######################################################################
+Sat Dec 11 2021 12:55:59.871336 - Cumulative stats for pid: 16859
+Sat Dec 11 2021 12:55:59.871363 - Total.................. 81160 presents.  225 dropped. 28274 reprojected
+Sat Dec 11 2021 12:55:59.871390 - Startup................    67 presents.    3 dropped.    7 reprojected
+Sat Dec 11 2021 12:55:59.871447 - Loading...  0 total....     0 presents.    0 dropped.    0 reprojected
+Sat Dec 11 2021 12:55:59.871488 - Timed out.  0 total....   110 presents.   18 dropped.   50 reprojected
+Sat Dec 11 2021 12:55:59.871522 - ######################################################################
+Sat Dec 11 2021 12:55:59.871550 - Total dropped frames: 559411
+Sat Dec 11 2021 12:55:59.939856 - Creating solid play area quad for compositor construct: 1.00 x 1.00
+Sat Dec 11 2021 12:56:00.639838 - External connection from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/bin/linuxsteamrt64/steamtours 23587
+Sat Dec 11 2021 12:56:00.884262 - Timed out waiting for signal thread after 1.15ms!
+Sat Dec 11 2021 12:56:01.016684 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:56:08.872198 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:56:09.435694 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:56:10.885089 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:56:12.943681 - Timed out waiting for signal thread after 1.06ms!
+Sat Dec 11 2021 12:56:20.141614 - Socket closed
+Sat Dec 11 2021 12:56:20.141707 - Unable to read message from socket: 0
+Sat Dec 11 2021 12:56:20.141762 - Process vrdashboard (11187) disconnected (Thread(0x0x7fc024001c30/0x0x7f)
+Sat Dec 11 2021 12:56:20.141783 - Lost pipe connection from vrdashboard (11187)
+Sat Dec 11 2021 12:56:20.177067 - Socket closed
+Sat Dec 11 2021 12:56:20.177149 - Unable to read message from socket: 0
+Sat Dec 11 2021 12:56:20.177187 - Process vrwebhelper_pairing (11674) disconnected (Thread(0x0x7fc024005ff0/0x0x7f)
+Sat Dec 11 2021 12:56:20.177207 - Lost pipe connection from vrwebhelper_pairing (11674)
+Sat Dec 11 2021 12:56:20.269524 - Socket closed
+Sat Dec 11 2021 12:56:20.269656 - Unable to read message from socket: 0
+Sat Dec 11 2021 12:56:20.269691 - Process vrwebhelper_systemui (11689) disconnected (Thread(0x0x7fc0240052e0/0x0x7f)
+Sat Dec 11 2021 12:56:20.269707 - Lost pipe connection from vrwebhelper_systemui (11689)
+Sat Dec 11 2021 12:56:20.301231 - Socket closed
+Sat Dec 11 2021 12:56:20.301312 - Unable to read message from socket: 0
+Sat Dec 11 2021 12:56:20.301351 - Process vrwebhelper_controllerbinding (15099) disconnected (Thread(0x0x7fc024006da0/0x0x7f)
+Sat Dec 11 2021 12:56:20.301375 - Lost pipe connection from vrwebhelper_controllerbinding (15099)
+Sat Dec 11 2021 12:56:20.328880 - Socket closed
+Sat Dec 11 2021 12:56:20.328929 - Unable to read message from socket: 3
+Sat Dec 11 2021 12:56:20.328951 - Process steamtours (23587) disconnected (Thread(0x0x7fc024002a40/0x0x7f)
+Sat Dec 11 2021 12:56:20.328964 - Lost pipe connection from steamtours (23587)
+Sat Dec 11 2021 12:56:20.329010 - ######################################################################
+Sat Dec 11 2021 12:56:20.329022 - Cumulative stats for pid: 23587
+Sat Dec 11 2021 12:56:20.329033 - Total..................  1149 presents.   17 dropped.   32 reprojected
+Sat Dec 11 2021 12:56:20.329043 - Startup................   506 presents.   16 dropped.   30 reprojected
+Sat Dec 11 2021 12:56:20.329053 - Loading...  1 total....     0 presents.    0 dropped.    0 reprojected
+Sat Dec 11 2021 12:56:20.329064 - Timed out.  0 total....     2 presents.    1 dropped.    1 reprojected
+Sat Dec 11 2021 12:56:20.329073 - ######################################################################
+Sat Dec 11 2021 12:56:20.329083 - Total dropped frames: 559441
+Sat Dec 11 2021 12:56:20.538779 - Socket closed
+Sat Dec 11 2021 12:56:20.538865 - Unable to read message from socket: 3
+Sat Dec 11 2021 12:56:20.538935 - Process vrwebhelper_main (11442) disconnected (Thread(0x0x7fc024004650/0x0x7f)
+Sat Dec 11 2021 12:56:20.538966 - Lost pipe connection from vrwebhelper_main (11442)
+Sat Dec 11 2021 12:56:21.767661 - Socket closed
+Sat Dec 11 2021 12:56:21.767769 - Unable to read message from socket: 0
+Sat Dec 11 2021 12:56:21.767829 - Process steam (3462) disconnected (Thread(0x0x7fc024003930/0x0x7f)
+Sat Dec 11 2021 12:56:21.767865 - Lost pipe connection from steam (3462)
+Sat Dec 11 2021 12:56:21.769401 - Destroying overlay 900000005 valve.steam.bigpicture (Steam)from pid 3462 because that process disconnected
+Sat Dec 11 2021 12:56:21.769500 - Destroying overlay A00000006 valve.steam.bigpicture.thumb (Steam (Thumb))from pid 3462 because that process disconnected
+Sat Dec 11 2021 12:56:21.769554 - Destroying overlay B00000007 valve.steam.desktop (Desktop)from pid 3462 because that process disconnected
+Sat Dec 11 2021 12:56:21.769627 - Destroying overlay C00000008 valve.steam.desktop.thumb (Desktop (Thumb))from pid 3462 because that process disconnected
+Sat Dec 11 2021 12:56:21.799631 - Render thread ending
+Sat Dec 11 2021 12:56:21.799848 - Signal thread ending
+Sat Dec 11 2021 12:56:21.800144 - VR compositor shutting down
+Sat Dec 11 2021 12:56:21.825634 - Process vrmonitor (11196) disconnected (Thread(0x0x7fc0240036e0/0x0x7f)
+Sat Dec 11 2021 12:56:21.825740 - Ignoring LostPipeConnection from vrmonitor (11196) because compositor is shutting down
+Sat Dec 11 2021 12:56:21.866586 - Listener thread ending
+Sat Dec 11 2021 12:56:21.900424 - Cleaning up
+Sat Dec 11 2021 12:56:21.955269 - Failed to kill gpu-trace
+Sat Dec 11 2021 12:56:22.055318 - SharedResourceManager: detected possible leak with type: 2 id: 0x2600002b83
+Sat Dec 11 2021 12:56:22.055424 - SharedResourceManager: detected possible leak with type: 2 id: 0x2700002b83
+Sat Dec 11 2021 12:56:22.055444 - SharedResourceManager: detected possible leak with type: 2 id: 0x2800002b83
+Sat Dec 11 2021 12:56:22.055461 - SharedResourceManager: detected possible leak with type: 2 id: 0x2900002b83
+Sat Dec 11 2021 12:56:22.055479 - SharedResourceManager: detected possible leak with type: 2 id: 0x3b00002b83
+Sat Dec 11 2021 12:56:22.055495 - SharedResourceManager: detected possible leak with type: 2 id: 0x3c00002b83
+Sat Dec 11 2021 12:56:22.055513 - SharedResourceManager: detected possible leak with type: 2 id: 0x3d00002b83
+Sat Dec 11 2021 12:56:22.055529 - SharedResourceManager: detected possible leak with type: 2 id: 0x3e00002b83
+Sat Dec 11 2021 12:56:22.055547 - SharedResourceManager: detected possible leak with type: 2 id: 0x5d00002b83
+Sat Dec 11 2021 12:56:22.055568 - SharedResourceManager: detected possible leak with type: 2 id: 0x5e00002b83
+Sat Dec 11 2021 12:56:22.055587 - SharedResourceManager: detected possible leak with type: 2 id: 0x5f00002b83
+Sat Dec 11 2021 12:56:22.055603 - SharedResourceManager: detected possible leak with type: 2 id: 0x6000002b83
+Sat Dec 11 2021 12:56:22.055619 - SharedResourceManager: detected possible leak with type: 2 id: 0x7800002b83
+Sat Dec 11 2021 12:56:22.055634 - SharedResourceManager: detected possible leak with type: 2 id: 0x7900002b83
+Sat Dec 11 2021 12:56:22.055651 - SharedResourceManager: detected possible leak with type: 2 id: 0x7a00002b83
+Sat Dec 11 2021 12:56:22.055665 - SharedResourceManager: detected possible leak with type: 2 id: 0x7b00002b83
+Sat Dec 11 2021 12:56:22.055682 - SharedResourceManager: detected possible leak with type: 2 id: 0x8d00002b83
+Sat Dec 11 2021 12:56:22.055698 - SharedResourceManager: detected possible leak with type: 2 id: 0x8e00002b83
+Sat Dec 11 2021 12:56:22.055714 - SharedResourceManager: detected possible leak with type: 2 id: 0x8f00002b83
+Sat Dec 11 2021 12:56:22.055731 - SharedResourceManager: detected possible leak with type: 2 id: 0x9000002b83
+Sat Dec 11 2021 12:56:22.055750 - SharedResourceManager: detected possible leak with type: 2 id: 0xa800002b83
+Sat Dec 11 2021 12:56:22.055768 - SharedResourceManager: detected possible leak with type: 2 id: 0xa900002b83
+Sat Dec 11 2021 12:56:22.055787 - SharedResourceManager: detected possible leak with type: 2 id: 0xaa00002b83
+Sat Dec 11 2021 12:56:22.055802 - SharedResourceManager: detected possible leak with type: 2 id: 0xab00002b83
+Sat Dec 11 2021 12:56:22.055818 - SharedResourceManager: leak summary 24 items

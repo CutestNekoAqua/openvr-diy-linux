@@ -17,10 +17,23 @@ bool g_bExiting = false;
 
 #if !defined(_WINDOWS)
 
-int GetAsyncKeyState(int key)
+Display *dpy = XOpenDisplay(":0");
+
+bool GetAsyncKeyState(KeySym ks)
 {
-    // TODO implement
-    return 0;
+
+    char keys_return[32];
+    XQueryKeymap(dpy, keys_return);
+    KeyCode kc2 = XKeysymToKeycode(dpy, ks);
+    bool isPressed = !!(keys_return[kc2 >> 3] & (1 << (kc2 & 7))); /* keys_return is an array of 32*8 bits,
+                                                                    * where every bit with the number kc2 is a status of the corresponding key with keycode kc2.
+                                                                    * Our goal is to convert kc2 to somewhat of coordinates in "two-dimensional array" keys_return.
+                                                                    * To achieve that, we first need to get correct row by dividing kc2 / 8
+                                                                    * remember each "row" is 8 bits.
+                                                                    * kc2 >> 3 does the same as kc2 / 8. Then we get "column" kc2 % 8,
+                                                                    * which is the same as kc2 & 7. Hovewer, since it's a bit, we need to shift 1 to get it.
+                                                                    */
+    return isPressed; //  Returns true if pressed otherwise false
 }
 
 #endif

@@ -1,0 +1,886 @@
+Sat Dec 04 2021 13:28:08.470825 - //==============================================================================================
+Sat Dec 04 2021 13:28:08.470882 - ================================================================================================
+Sat Dec 04 2021 13:28:08.470902 - ================================================================================================
+Sat Dec 04 2021 13:28:08.470934 - vrwebhelper 1.20.4 startup with PID=25310, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:28:08.647543 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Dec 04 2021 13:28:08.650966 - Creating VRHML JS object
+Sat Dec 04 2021 13:28:08.706447 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:28:08.710575 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:28:08.837337 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sat Dec 04 2021 13:28:08.996705 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sat Dec 04 2021 13:28:08.996834 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 13:28:08.997570 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Dec 04 2021 13:28:08.997686 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 13:28:09.087780 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 13:28:09.088248 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 13:28:09.088600 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 13:28:09.088784 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:28:09.440672 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Dec 04 2021 13:28:09.442247 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Dec 04 2021 13:28:09.442364 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Dec 04 2021 13:28:09.442439 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Dec 04 2021 13:28:09.442515 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Dec 04 2021 13:28:09.442609 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Dec 04 2021 13:28:10.189225 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sat Dec 04 2021 13:28:10.189412 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Dec 04 2021 13:28:10.344255 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404
+Sat Dec 04 2021 13:28:10.344356 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/382110/library_600x900.jpg -> 404
+Sat Dec 04 2021 13:28:10.366522 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Dec 04 2021 13:28:10.962359 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:29:57.950156 - Closing context.
+Sat Dec 04 2021 13:37:42.412579 - //==============================================================================================
+Sat Dec 04 2021 13:37:42.412694 - ================================================================================================
+Sat Dec 04 2021 13:37:42.412964 - ================================================================================================
+Sat Dec 04 2021 13:37:42.413034 - vrwebhelper 1.20.4 startup with PID=28424, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:37:42.508114 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Dec 04 2021 13:37:42.514593 - Creating VRHML JS object
+Sat Dec 04 2021 13:37:42.542623 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:37:42.561090 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:37:42.593903 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:37:42.683157 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:37:42.694617 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sat Dec 04 2021 13:37:42.716508 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sat Dec 04 2021 13:37:42.717780 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 13:37:42.717935 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Dec 04 2021 13:37:42.718023 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 13:37:42.755012 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 13:37:43.596413 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 13:37:43.597682 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 13:37:43.597951 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Dec 04 2021 13:37:43.598110 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Dec 04 2021 13:37:43.598303 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Dec 04 2021 13:37:43.598415 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Dec 04 2021 13:37:43.598619 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Dec 04 2021 13:37:43.598699 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Dec 04 2021 13:37:43.598907 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:37:43.767574 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sat Dec 04 2021 13:37:43.767780 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Dec 04 2021 13:37:43.770746 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:37:43.883638 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Dec 04 2021 13:37:43.903846 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/382110/library_600x900.jpg -> 404 (Not Found)
+Sat Dec 04 2021 13:37:43.955154 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404 (Not Found)
+Sat Dec 04 2021 13:37:44.883124 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:38:58.111930 - Closing context.
+Sat Dec 04 2021 13:53:10.078999 - //==============================================================================================
+Sat Dec 04 2021 13:53:10.079062 - ================================================================================================
+Sat Dec 04 2021 13:53:10.079089 - ================================================================================================
+Sat Dec 04 2021 13:53:10.079139 - vrwebhelper 1.20.4 startup with PID=31955, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:53:12.227166 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Dec 04 2021 13:53:12.227980 - Creating VRHML JS object
+Sat Dec 04 2021 13:53:12.237346 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:53:12.237759 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:53:12.351671 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sat Dec 04 2021 13:53:12.357412 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sat Dec 04 2021 13:53:12.358147 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 13:53:12.358845 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Dec 04 2021 13:53:12.358984 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 13:53:12.363092 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:53:12.372635 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 13:53:12.380301 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:53:12.380550 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 13:53:12.580448 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 13:53:12.589353 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Dec 04 2021 13:53:12.591869 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Dec 04 2021 13:53:12.591999 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Dec 04 2021 13:53:12.592079 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Dec 04 2021 13:53:12.597876 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Dec 04 2021 13:53:12.598041 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Dec 04 2021 13:53:12.608366 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 13:53:12.631539 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sat Dec 04 2021 13:53:12.631661 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Dec 04 2021 13:53:12.693821 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Dec 04 2021 13:53:12.926264 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/382110/library_600x900.jpg -> 404
+Sat Dec 04 2021 13:53:13.562868 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404
+Sat Dec 04 2021 13:53:14.619373 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:53:14.629970 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:53:32.619461 - Closing context.
+Sat Dec 04 2021 14:29:06.798609 - //==============================================================================================
+Sat Dec 04 2021 14:29:06.798650 - ================================================================================================
+Sat Dec 04 2021 14:29:06.798667 - ================================================================================================
+Sat Dec 04 2021 14:29:06.798693 - vrwebhelper 1.20.4 startup with PID=36083, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:29:06.870227 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Dec 04 2021 14:29:06.870934 - Creating VRHML JS object
+Sat Dec 04 2021 14:29:06.947217 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:29:07.014157 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:29:07.637937 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sat Dec 04 2021 14:29:07.638262 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sat Dec 04 2021 14:29:07.643350 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:29:07.645152 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Dec 04 2021 14:29:07.645276 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 14:29:07.645515 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:29:07.914309 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 14:29:08.287589 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:29:08.287722 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:29:08.287798 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:29:08.417426 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Dec 04 2021 14:29:08.424066 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Dec 04 2021 14:29:08.428628 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Dec 04 2021 14:29:08.428784 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Dec 04 2021 14:29:08.470905 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Dec 04 2021 14:29:08.473696 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Dec 04 2021 14:29:08.840772 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sat Dec 04 2021 14:29:08.840919 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Dec 04 2021 14:29:08.977983 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/382110/library_600x900.jpg -> 404
+Sat Dec 04 2021 14:29:08.978108 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404
+Sat Dec 04 2021 14:29:09.111330 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Dec 04 2021 14:29:09.290241 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:34:29.979197 - Closing context.
+Sat Dec 04 2021 14:34:45.190663 - //==============================================================================================
+Sat Dec 04 2021 14:34:45.190730 - ================================================================================================
+Sat Dec 04 2021 14:34:45.190751 - ================================================================================================
+Sat Dec 04 2021 14:34:45.190796 - vrwebhelper 1.20.4 startup with PID=38505, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:34:45.334528 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Dec 04 2021 14:34:45.335151 - Creating VRHML JS object
+Sat Dec 04 2021 14:34:45.345272 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:45.345369 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:45.504676 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sat Dec 04 2021 14:34:45.989539 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sat Dec 04 2021 14:34:45.989718 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:34:45.989898 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Dec 04 2021 14:34:45.990022 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 14:34:46.018784 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:46.024169 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:34:46.105116 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 14:34:46.105279 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:46.669028 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:34:46.669524 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Dec 04 2021 14:34:46.669717 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Dec 04 2021 14:34:46.669800 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Dec 04 2021 14:34:46.669918 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Dec 04 2021 14:34:46.670055 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Dec 04 2021 14:34:46.670176 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Dec 04 2021 14:34:46.670615 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:34:46.718129 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sat Dec 04 2021 14:34:46.718277 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Dec 04 2021 14:34:46.854657 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404
+Sat Dec 04 2021 14:34:46.862527 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Dec 04 2021 14:34:47.416664 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/382110/library_600x900.jpg -> 404
+Sat Dec 04 2021 14:34:47.557820 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:34:48.312415 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:48.333077 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:35:25.559781 - Closing context.
+Sat Dec 04 2021 14:36:17.089439 - //==============================================================================================
+Sat Dec 04 2021 14:36:17.089478 - ================================================================================================
+Sat Dec 04 2021 14:36:17.089492 - ================================================================================================
+Sat Dec 04 2021 14:36:17.089516 - vrwebhelper 1.20.4 startup with PID=39983, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:36:19.272331 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Dec 04 2021 14:36:19.273132 - Creating VRHML JS object
+Sat Dec 04 2021 14:36:19.308161 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:36:19.310203 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:36:19.530541 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sat Dec 04 2021 14:36:19.530684 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sat Dec 04 2021 14:36:19.530794 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:36:19.530872 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Dec 04 2021 14:36:19.530934 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 14:36:19.531104 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:36:19.642804 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 14:36:19.798771 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:36:19.801829 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Dec 04 2021 14:36:19.802319 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Dec 04 2021 14:36:19.802464 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Dec 04 2021 14:36:19.802563 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Dec 04 2021 14:36:19.803001 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Dec 04 2021 14:36:19.803126 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Dec 04 2021 14:36:19.813326 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:36:19.818605 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sat Dec 04 2021 14:36:19.818883 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Dec 04 2021 14:36:19.945817 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Dec 04 2021 14:36:20.364808 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404 (Not Found)
+Sat Dec 04 2021 14:36:20.364938 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/382110/library_600x900.jpg -> 404 (Not Found)
+Sat Dec 04 2021 14:44:45.976681 - Closing context.
+Sat Dec 04 2021 14:55:27.854458 - //==============================================================================================
+Sat Dec 04 2021 14:55:27.854532 - ================================================================================================
+Sat Dec 04 2021 14:55:27.854556 - ================================================================================================
+Sat Dec 04 2021 14:55:27.854593 - vrwebhelper 1.20.4 startup with PID=44163, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:55:30.026027 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Dec 04 2021 14:55:30.026599 - Creating VRHML JS object
+Sat Dec 04 2021 14:55:30.034021 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:55:30.035003 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:55:30.062868 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:55:30.071238 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:55:30.216565 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sat Dec 04 2021 14:55:30.216737 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sat Dec 04 2021 14:55:30.216875 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:55:30.217034 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Dec 04 2021 14:55:30.235550 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 14:55:30.244079 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 14:55:30.244376 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:55:30.481218 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:55:30.489741 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Dec 04 2021 14:55:30.492237 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Dec 04 2021 14:55:30.492389 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Dec 04 2021 14:55:30.492493 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Dec 04 2021 14:55:30.495110 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Dec 04 2021 14:55:30.495259 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Dec 04 2021 14:55:30.504642 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:55:30.530840 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sat Dec 04 2021 14:55:30.531059 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Dec 04 2021 14:55:30.597622 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Dec 04 2021 14:55:30.917287 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/382110/library_600x900.jpg -> 404
+Sat Dec 04 2021 14:55:30.923361 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404
+Sat Dec 04 2021 14:56:31.587516 - Registering to receive audio changes because of callback
+Sat Dec 04 2021 14:56:31.667996 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_9...
+Sat Dec 04 2021 14:56:31.668389 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_10...
+Sat Dec 04 2021 14:56:31.668866 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:56:31.743976 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:26.965118 - Closing context.
+Sat Dec 04 2021 14:57:52.207414 - //==============================================================================================
+Sat Dec 04 2021 14:57:52.207459 - ================================================================================================
+Sat Dec 04 2021 14:57:52.207481 - ================================================================================================
+Sat Dec 04 2021 14:57:52.207510 - vrwebhelper 1.20.4 startup with PID=45753, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:57:54.357761 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Dec 04 2021 14:57:54.358449 - Creating VRHML JS object
+Sat Dec 04 2021 14:57:54.366620 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:54.367616 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:54.405431 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:54.509877 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:54.518440 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sat Dec 04 2021 14:57:54.531605 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sat Dec 04 2021 14:57:54.532142 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 14:57:54.532346 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Dec 04 2021 14:57:54.532428 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 14:57:54.601209 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 14:57:54.601439 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 14:57:54.784537 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 14:57:54.804018 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Dec 04 2021 14:57:54.804331 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Dec 04 2021 14:57:54.804426 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Dec 04 2021 14:57:54.804508 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Dec 04 2021 14:57:54.804724 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Dec 04 2021 14:57:54.804937 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Dec 04 2021 14:57:54.819706 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 14:57:54.871496 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sat Dec 04 2021 14:57:54.871622 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Dec 04 2021 14:57:54.959947 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Dec 04 2021 14:57:55.361746 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/382110/library_600x900.jpg -> 404 (Not Found)
+Sat Dec 04 2021 14:57:55.362064 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404 (Not Found)
+Sat Dec 04 2021 14:59:10.868515 - Registering to receive audio changes because of callback
+Sat Dec 04 2021 14:59:10.950642 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_9...
+Sat Dec 04 2021 14:59:10.950978 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_10...
+Sat Dec 04 2021 14:59:10.960440 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:59:11.000616 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:00:13.361242 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_11...
+Sat Dec 04 2021 15:00:13.362192 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_12...
+Sat Dec 04 2021 15:01:18.836378 - Closing context.
+Sat Dec 04 2021 15:02:56.221787 - //==============================================================================================
+Sat Dec 04 2021 15:02:56.221856 - ================================================================================================
+Sat Dec 04 2021 15:02:56.221880 - ================================================================================================
+Sat Dec 04 2021 15:02:56.221920 - vrwebhelper 1.20.4 startup with PID=47897, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:02:58.415100 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Dec 04 2021 15:02:58.415813 - Creating VRHML JS object
+Sat Dec 04 2021 15:02:58.497459 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:02:58.497582 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:02:58.918064 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sat Dec 04 2021 15:02:58.918228 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sat Dec 04 2021 15:02:58.918313 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 15:02:58.918433 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Dec 04 2021 15:02:58.919426 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 15:02:59.029774 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:02:59.030620 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 15:02:59.075831 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 15:02:59.193775 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:02:59.230593 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 15:02:59.230761 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:02:59.754869 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Dec 04 2021 15:02:59.766458 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Dec 04 2021 15:02:59.766638 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Dec 04 2021 15:02:59.766728 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Dec 04 2021 15:02:59.774734 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Dec 04 2021 15:02:59.776856 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Dec 04 2021 15:02:59.895684 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sat Dec 04 2021 15:02:59.895829 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Dec 04 2021 15:03:00.063519 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Dec 04 2021 15:03:00.088071 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404
+Sat Dec 04 2021 15:03:00.088812 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/382110/library_600x900.jpg -> 404
+Sat Dec 04 2021 15:09:41.518797 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:09:41.574310 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:22:00.718428 - Registering to receive audio changes because of callback
+Sat Dec 04 2021 15:22:00.936898 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_9...
+Sat Dec 04 2021 15:22:00.937127 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_10...
+Sat Dec 04 2021 15:22:33.003901 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_11...
+Sat Dec 04 2021 15:22:33.035557 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_12...
+Sat Dec 04 2021 15:30:20.818217 - //==============================================================================================
+Sat Dec 04 2021 15:30:20.818428 - ================================================================================================
+Sat Dec 04 2021 15:30:20.818456 - ================================================================================================
+Sat Dec 04 2021 15:30:20.818502 - vrwebhelper 1.20.4 startup with PID=8571, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:30:20.934955 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Dec 04 2021 15:30:20.937198 - Creating VRHML JS object
+Sat Dec 04 2021 15:30:20.986942 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:30:20.998903 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:30:22.504658 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sat Dec 04 2021 15:30:22.562697 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sat Dec 04 2021 15:30:22.562939 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 15:30:22.563037 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Dec 04 2021 15:30:22.563112 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 15:30:23.187392 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 15:30:23.187600 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 15:30:23.552057 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 15:30:23.690923 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Dec 04 2021 15:30:23.717315 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Dec 04 2021 15:30:23.724666 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Dec 04 2021 15:30:23.724826 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Dec 04 2021 15:30:23.781025 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Dec 04 2021 15:30:23.781187 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Dec 04 2021 15:30:23.792357 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:30:24.167025 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sat Dec 04 2021 15:30:24.167149 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Dec 04 2021 15:30:24.283685 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Dec 04 2021 15:30:25.571455 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404 (Not Found)
+Sat Dec 04 2021 15:30:25.572713 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/382110/library_600x900.jpg -> 404 (Not Found)
+Sat Dec 04 2021 15:30:26.406259 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:33:53.195603 - Registering to receive audio changes because of callback
+Sat Dec 04 2021 15:33:53.299899 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_9...
+Sat Dec 04 2021 15:33:53.300503 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_10...
+Sat Dec 04 2021 15:33:55.554101 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_11...
+Sat Dec 04 2021 15:33:55.556305 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_12...
+Sat Dec 04 2021 15:35:53.624276 - Closing context.
+Sat Dec 04 2021 15:40:02.285999 - //==============================================================================================
+Sat Dec 04 2021 15:40:02.286056 - ================================================================================================
+Sat Dec 04 2021 15:40:02.286073 - ================================================================================================
+Sat Dec 04 2021 15:40:02.286103 - vrwebhelper 1.20.4 startup with PID=15676, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:40:02.438937 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Dec 04 2021 15:40:02.439650 - Creating VRHML JS object
+Sat Dec 04 2021 15:40:02.457970 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:40:02.458651 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:40:02.626486 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sat Dec 04 2021 15:40:02.657855 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sat Dec 04 2021 15:40:02.658053 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 04 2021 15:40:02.662329 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Dec 04 2021 15:40:02.662484 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 04 2021 15:40:02.662571 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:40:03.490782 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:40:03.490976 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 04 2021 15:40:03.491099 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 04 2021 15:40:03.492412 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 04 2021 15:40:03.492534 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:40:03.492836 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Dec 04 2021 15:40:03.492954 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Dec 04 2021 15:40:03.493044 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Dec 04 2021 15:40:03.493139 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Dec 04 2021 15:40:03.493312 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Dec 04 2021 15:40:03.493459 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Dec 04 2021 15:40:03.782225 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sat Dec 04 2021 15:40:03.782388 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Dec 04 2021 15:40:03.790522 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:40:03.864653 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/382110/library_600x900.jpg -> 404 (Not Found)
+Sat Dec 04 2021 15:40:03.952393 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Dec 04 2021 15:40:03.955496 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404 (Not Found)
+Sat Dec 04 2021 15:40:04.698630 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 04 2021 15:40:05.135858 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:40:05.146532 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:41:46.325072 - Registering to receive audio changes because of callback
+Sat Dec 04 2021 15:41:46.440075 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_9...
+Sat Dec 04 2021 15:41:46.442747 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_10...
+Sat Dec 04 2021 15:42:27.400557 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_11...
+Sat Dec 04 2021 15:42:27.400882 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_12...
+Sat Dec 04 2021 15:42:29.523817 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_13...
+Sat Dec 04 2021 15:42:29.524182 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_14...
+Sat Dec 04 2021 15:45:30.450175 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_15...
+Sat Dec 04 2021 15:45:30.450676 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_16...
+Sat Dec 04 2021 15:46:03.201839 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_17...
+Sat Dec 04 2021 15:46:03.213756 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_18...
+Sat Dec 04 2021 15:46:16.960180 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_19...
+Sat Dec 04 2021 15:46:16.963487 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_20...
+Sat Dec 04 2021 15:47:09.388235 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_21...
+Sat Dec 04 2021 15:47:09.415013 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_22...
+Sat Dec 04 2021 15:47:18.157551 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_23...
+Sat Dec 04 2021 15:47:18.157721 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_24...
+Sat Dec 04 2021 15:48:23.384487 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_25...
+Sat Dec 04 2021 15:48:23.384668 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_26...
+Sat Dec 04 2021 15:48:27.804935 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_27...
+Sat Dec 04 2021 15:48:27.805838 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_28...
+Sat Dec 04 2021 15:48:32.195834 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_29...
+Sat Dec 04 2021 15:48:32.195970 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_30...
+Sat Dec 04 2021 15:48:50.477621 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_31...
+Sat Dec 04 2021 15:48:50.484762 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_32...
+Sat Dec 04 2021 15:49:28.774446 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_33...
+Sat Dec 04 2021 15:49:28.774620 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_34...
+Sat Dec 04 2021 15:49:42.689309 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_35...
+Sat Dec 04 2021 15:49:42.689484 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_36...
+Sat Dec 04 2021 15:50:00.338028 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_37...
+Sat Dec 04 2021 15:50:00.338352 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_38...
+Sat Dec 04 2021 15:50:04.618713 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_39...
+Sat Dec 04 2021 15:50:04.618864 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_40...
+Sat Dec 04 2021 15:50:48.385549 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_41...
+Sat Dec 04 2021 15:50:48.385827 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_42...
+Sat Dec 04 2021 15:51:10.990883 - Closing context.
+Sat Dec 11 2021 12:19:16.136553 - //==============================================================================================
+Sat Dec 11 2021 12:19:16.156811 - ================================================================================================
+Sat Dec 11 2021 12:19:16.156851 - ================================================================================================
+Sat Dec 11 2021 12:19:16.156884 - vrwebhelper 1.20.4 startup with PID=11689, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 11 2021 12:19:16.314908 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Dec 11 2021 12:19:16.316863 - Creating VRHML JS object
+Sat Dec 11 2021 12:19:16.327878 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 11 2021 12:19:16.609321 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 11 2021 12:19:16.612021 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sat Dec 11 2021 12:19:16.612224 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sat Dec 11 2021 12:19:16.612476 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sat Dec 11 2021 12:19:16.612653 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Dec 11 2021 12:19:16.612826 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sat Dec 11 2021 12:19:16.613247 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Dec 11 2021 12:19:16.613702 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 11 2021 12:19:16.613835 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 11 2021 12:19:16.758836 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sat Dec 11 2021 12:19:17.111650 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sat Dec 11 2021 12:19:17.120106 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 11 2021 12:19:17.156979 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Dec 11 2021 12:19:17.175211 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Dec 11 2021 12:19:17.175371 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Dec 11 2021 12:19:17.175444 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Dec 11 2021 12:19:17.192790 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Dec 11 2021 12:19:17.195512 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Dec 11 2021 12:19:17.396722 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sat Dec 11 2021 12:19:17.396873 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Dec 11 2021 12:19:17.707689 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Dec 11 2021 12:19:17.809725 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/382110/library_600x900.jpg -> 404 (Not Found)
+Sat Dec 11 2021 12:19:17.859359 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404 (Not Found)
+Sat Dec 11 2021 12:23:10.614784 - Registering to receive audio changes because of callback
+Sat Dec 11 2021 12:23:10.696949 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_9...
+Sat Dec 11 2021 12:23:10.697251 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_10...
+Sat Dec 11 2021 12:23:10.711947 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 11 2021 12:23:10.762217 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Dec 11 2021 12:23:12.016720 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_11...
+Sat Dec 11 2021 12:23:12.017154 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_12...
+Sat Dec 11 2021 12:24:59.423742 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_13...
+Sat Dec 11 2021 12:24:59.423897 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_14...
+Sat Dec 11 2021 12:27:28.532466 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_15...
+Sat Dec 11 2021 12:27:28.532745 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_16...
+Sat Dec 11 2021 12:28:09.160050 - CEF Local Resource Load Error: http://localhost:27062/app/image?app_key=steam.app.404790 -> 404 (Not Found)
+Sat Dec 11 2021 12:28:14.407542 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sat Dec 11 2021 12:28:50.107725 - CEF Local Resource Load Error: http://localhost:27062/app/image?app_key=steam.app.404790 -> 404 (Not Found)
+Sat Dec 11 2021 12:29:54.710803 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_17...
+Sat Dec 11 2021 12:29:54.710923 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_18...
+Sat Dec 11 2021 12:29:54.728863 - CEF Local Resource Load Error: http://localhost:27062/app/image?app_key=steam.app.404790 -> 404 (Not Found)
+Sat Dec 11 2021 12:33:20.652158 - CEF Local Resource Load Error: http://localhost:27062/app/image?app_key=steam.app.404790 -> 404 (Not Found)
+Sat Dec 11 2021 12:34:46.902736 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_19...
+Sat Dec 11 2021 12:34:46.902860 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_20...
+Sat Dec 11 2021 12:34:46.920444 - CEF Local Resource Load Error: http://localhost:27062/app/image?app_key=steam.app.404790 -> 404 (Not Found)
+Sat Dec 11 2021 12:37:17.768609 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_21...
+Sat Dec 11 2021 12:37:17.768771 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_22...
+Sat Dec 11 2021 12:37:17.782707 - CEF Local Resource Load Error: http://localhost:27062/app/image?app_key=steam.app.404790 -> 404 (Not Found)
+Sat Dec 11 2021 12:37:31.458647 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_23...
+Sat Dec 11 2021 12:37:31.458898 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_24...
+Sat Dec 11 2021 12:37:31.479878 - CEF Local Resource Load Error: http://localhost:27062/app/image?app_key=steam.app.404790 -> 404 (Not Found)
+Sat Dec 11 2021 12:37:42.208023 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_25...
+Sat Dec 11 2021 12:37:42.208542 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_26...
+Sat Dec 11 2021 12:37:42.221519 - CEF Local Resource Load Error: http://localhost:27062/app/image?app_key=steam.app.404790 -> 404 (Not Found)
+Sat Dec 11 2021 12:42:25.231109 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_27...
+Sat Dec 11 2021 12:42:25.231450 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_28...
+Sat Dec 11 2021 12:42:25.249109 - CEF Local Resource Load Error: http://localhost:27062/app/image?app_key=steam.app.404790 -> 404 (Not Found)
+Sat Dec 11 2021 12:43:10.681662 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_29...
+Sat Dec 11 2021 12:43:10.681938 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_30...
+Sat Dec 11 2021 12:43:10.719768 - CEF Local Resource Load Error: http://localhost:27062/app/image?app_key=steam.app.404790 -> 404 (Not Found)
+Sat Dec 11 2021 12:56:20.227261 - Closing context.
+Sun Dec 26 2021 15:08:04.654928 - //==============================================================================================
+Sun Dec 26 2021 15:08:04.674382 - ================================================================================================
+Sun Dec 26 2021 15:08:04.674421 - ================================================================================================
+Sun Dec 26 2021 15:08:04.674478 - vrwebhelper 1.20.4 startup with PID=31644, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sun Dec 26 2021 15:08:06.875571 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sun Dec 26 2021 15:08:06.880778 - Creating VRHML JS object
+Sun Dec 26 2021 15:08:06.904073 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sun Dec 26 2021 15:08:06.905911 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sun Dec 26 2021 15:08:06.947067 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sun Dec 26 2021 15:08:07.069711 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sun Dec 26 2021 15:08:07.084751 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Bootstrapping SystemUIRoot
+Sun Dec 26 2021 15:08:07.188427 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox settings/overlay...
+Sun Dec 26 2021 15:08:07.190182 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsettings...
+Sun Dec 26 2021 15:08:07.190349 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sun Dec 26 2021 15:08:07.190494 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Connecting vrsystem...
+Sun Dec 26 2021 15:08:07.285026 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sun Dec 26 2021 15:08:07.285171 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Websocket connected
+Sun Dec 26 2021 15:08:07.285410 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got vr settings schema
+Sun Dec 26 2021 15:08:07.285507 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=b1f2ed18f95a2325692c:5:
+| Got audio devices
+Sun Dec 26 2021 15:08:07.538267 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sun Dec 26 2021 15:08:07.538597 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sun Dec 26 2021 15:08:07.538682 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sun Dec 26 2021 15:08:07.538770 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sun Dec 26 2021 15:08:07.539151 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sun Dec 26 2021 15:08:07.539401 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sun Dec 26 2021 15:08:07.660207 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Initializing sg_mailbox
+Sun Dec 26 2021 15:08:07.660351 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sun Dec 26 2021 15:08:07.832435 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=e06a81ee826b40f54c32:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sun Dec 26 2021 15:08:08.189964 - CEF External Resource Load Error: https://cdn.cloudflare.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404
+Sun Dec 26 2021 15:08:25.677585 - Closing context.
+Sat Mar 12 2022 22:41:03.659427 - //==============================================================================================
+Sat Mar 12 2022 22:41:03.690396 - ================================================================================================
+Sat Mar 12 2022 22:41:03.690444 - ================================================================================================
+Sat Mar 12 2022 22:41:03.690487 - vrwebhelper 1.21.11 startup with PID=87007, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Mar 12 2022 22:41:03.887714 - Browser context created for browser "systemui" (overlay key: "system.systemui")
+Sat Mar 12 2022 22:41:03.888533 - Creating VRHML JS object
+Sat Mar 12 2022 22:41:03.898056 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:03.898684 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:03.947097 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:03.957748 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:04.111379 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| systemui.tsx is running
+Sat Mar 12 2022 22:41:04.111513 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Bootstrapping SystemUIRoot
+Sat Mar 12 2022 22:41:04.111592 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox settings/overlay...
+Sat Mar 12 2022 22:41:04.111684 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Connecting vrsettings...
+Sat Mar 12 2022 22:41:04.111769 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox input_state/vrwebhelper_systemui_1...
+Sat Mar 12 2022 22:41:04.111837 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Connecting vrsystem...
+Sat Mar 12 2022 22:41:05.203078 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sat Mar 12 2022 22:41:05.203339 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Websocket connected
+Sat Mar 12 2022 22:41:05.203434 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Got vr settings schema
+Sat Mar 12 2022 22:41:05.203513 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Got audio devices
+Sat Mar 12 2022 22:41:05.203626 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox systemui/vrwebhelper_systemui_2...
+Sat Mar 12 2022 22:41:05.203721 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox base_station_status_overlay/vrwebhelper_systemui_3...
+Sat Mar 12 2022 22:41:05.203813 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox sgtransformcache/vrwebhelper_systemui_4...
+Sat Mar 12 2022 22:41:05.203909 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox systemui_dashboard/vrwebhelper_systemui_5...
+Sat Mar 12 2022 22:41:05.204010 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox systemui_desktopview/vrwebhelper_systemui_6...
+Sat Mar 12 2022 22:41:05.204100 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox resetuniverseorigincountdown/vrwebhelper_systemui_7...
+Sat Mar 12 2022 22:41:05.205388 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Initializing sg_mailbox
+Sat Mar 12 2022 22:41:05.205495 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox sg_mailbox/vrwebhelper_systemui_8...
+Sat Mar 12 2022 22:41:05.635981 - CEF External Resource Load Error: https://cdn.akamai.steamstatic.com/steam/apps/348250/library_600x900.jpg -> 404 (Not Found)
+Sat Mar 12 2022 22:41:05.676958 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Got audio devices
+Sat Mar 12 2022 22:41:05.799243 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox ogs_client/system.systemui...
+Sat Mar 12 2022 22:41:06.239532 - Console message (Info) from http://localhost:27062/dashboard/vrwebui_shared.js?v=bcbaac2e5427c9353a4a:5:
+| Got audio devices
+Sat Mar 12 2022 22:41:06.468766 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:06.485995 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-bold.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:45.908673 - Registering to receive audio changes because of callback
+Sat Mar 12 2022 22:41:46.000143 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_9...
+Sat Mar 12 2022 22:41:46.007047 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_10...
+Sat Mar 12 2022 22:42:14.588609 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_11...
+Sat Mar 12 2022 22:42:14.588808 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_12...
+Sat Mar 12 2022 22:42:17.525325 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox dashboard_resetseatedbutton/vrwebhelper_systemui_13...
+Sat Mar 12 2022 22:42:17.525993 - Console message (Info) from http://localhost:27062/dashboard/systemui.js?v=d1bf3255aaec63f53343:4:
+| Connecting vrmailbox systemui_desktoptray/vrwebhelper_systemui_14...
+Sat Mar 12 2022 22:43:26.190891 - Closing context.

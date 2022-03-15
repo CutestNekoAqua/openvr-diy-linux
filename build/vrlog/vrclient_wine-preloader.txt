@@ -1,0 +1,71 @@
+Mo Dez 27 2021 22:11:00.543931 - //==============================================================================================
+Mo Dez 27 2021 22:11:00.544035 - ================================================================================================
+Mo Dez 27 2021 22:11:00.544064 - ================================================================================================
+Mo Dez 27 2021 22:11:00.544116 - wine-preloader 1.20.4 startup with PID=36618, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Mo Dez 27 2021 22:11:00.544228 - vrclient type=VRApplication_Background
+Mo Dez 27 2021 22:11:00.587859 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Mo Dez 27 2021 22:11:00.588506 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Mo Dez 27 2021 22:11:00.589118 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Mo Dez 27 2021 22:11:00.589731 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Mo Dez 27 2021 22:11:00.590478 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Mo Dez 27 2021 22:11:00.591654 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Mo Dez 27 2021 22:11:00.592567 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Mo Dez 27 2021 22:11:00.592602 - Unable to connect to pipe errno=111
+Mo Dez 27 2021 22:11:00.592627 - Not starting vrserver for background application.
+Mo Dez 27 2021 22:11:00.592645 - Skipping starting apps because we're in an app container
+Fr Mär 04 2022 23:18:55.771562 - //==============================================================================================
+Fr Mär 04 2022 23:18:55.781612 - ================================================================================================
+Fr Mär 04 2022 23:18:55.781691 - ================================================================================================
+Fr Mär 04 2022 23:18:55.781807 - wine-preloader 1.21.8 startup with PID=37328, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Fr Mär 04 2022 23:18:55.782025 - vrclient type=VRApplication_Background
+Fr Mär 04 2022 23:18:55.784699 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:55.784855 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:55.785006 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:55.785163 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:55.785745 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:55.787217 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Fr Mär 04 2022 23:18:56.156982 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Fr Mär 04 2022 23:18:56.157089 - Unable to connect to pipe errno=111
+Fr Mär 04 2022 23:18:56.157145 - Not starting vrserver for VRApplication_Background application.
+Fr Mär 04 2022 23:18:58.423007 - //==============================================================================================
+Fr Mär 04 2022 23:18:58.423063 - ================================================================================================
+Fr Mär 04 2022 23:18:58.423079 - ================================================================================================
+Fr Mär 04 2022 23:18:58.423178 - wine-preloader 1.21.8 startup with PID=37328, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Fr Mär 04 2022 23:18:58.423234 - vrclient type=VRApplication_Background
+Fr Mär 04 2022 23:18:58.424043 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:58.424105 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:58.424164 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:58.424246 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:58.424477 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:18:58.425031 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Fr Mär 04 2022 23:18:58.425345 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Fr Mär 04 2022 23:18:58.425373 - Unable to connect to pipe errno=111
+Fr Mär 04 2022 23:18:58.425393 - Not starting vrserver for VRApplication_Background application.
+Fr Mär 04 2022 23:20:29.353838 - //==============================================================================================
+Fr Mär 04 2022 23:20:29.353938 - ================================================================================================
+Fr Mär 04 2022 23:20:29.353978 - ================================================================================================
+Fr Mär 04 2022 23:20:29.354031 - wine-preloader 1.21.8 startup with PID=38438, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Fr Mär 04 2022 23:20:29.354152 - vrclient type=VRApplication_Background
+Fr Mär 04 2022 23:20:29.355771 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:20:29.355860 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:20:29.355947 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:20:29.356036 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:20:29.356370 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:20:29.357215 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Fr Mär 04 2022 23:20:29.727877 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Fr Mär 04 2022 23:20:29.727940 - Unable to connect to pipe errno=111
+Fr Mär 04 2022 23:20:29.727964 - Not starting vrserver for VRApplication_Background application.
+Fr Mär 04 2022 23:20:30.917553 - //==============================================================================================
+Fr Mär 04 2022 23:20:30.917619 - ================================================================================================
+Fr Mär 04 2022 23:20:30.917641 - ================================================================================================
+Fr Mär 04 2022 23:20:30.917665 - wine-preloader 1.21.8 startup with PID=38438, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Fr Mär 04 2022 23:20:30.917735 - vrclient type=VRApplication_Background
+Fr Mär 04 2022 23:20:30.918982 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:20:30.919096 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:20:30.919222 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:20:30.919354 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/drivers/sample/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:20:30.919820 - [Settings] Load Default Json Settings from /home/waterdev/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Fr Mär 04 2022 23:20:30.920805 - [Settings] Load Json Settings from /home/waterdev/.local/share/Steam/config/steamvr.vrsettings
+Fr Mär 04 2022 23:20:30.921219 - CIPCPipe::ConnectPipe(SteamVR_Namespace) attempting connect to steamvr:SteamVR_Namespace
+Fr Mär 04 2022 23:20:30.921256 - Unable to connect to pipe errno=111
+Fr Mär 04 2022 23:20:30.921285 - Not starting vrserver for VRApplication_Background application.

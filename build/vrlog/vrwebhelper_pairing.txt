@@ -1,0 +1,253 @@
+Thu Dec 02 2021 18:09:45.853638 - //==============================================================================================
+Thu Dec 02 2021 18:09:45.853676 - ================================================================================================
+Thu Dec 02 2021 18:09:45.853689 - ================================================================================================
+Thu Dec 02 2021 18:09:45.853713 - vrwebhelper 1.20.4 startup with PID=35268, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:09:48.010684 - Browser context created for browser "pairing" (overlay key: "")
+Thu Dec 02 2021 18:09:48.011240 - Creating limited VRHTML object (No HMD present)
+Thu Dec 02 2021 18:09:48.057498 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Thu Dec 02 2021 18:09:48.086769 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:09:48.088005 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:10:30.469349 - Closing context.
+Thu Dec 02 2021 18:14:53.645489 - //==============================================================================================
+Thu Dec 02 2021 18:14:53.645561 - ================================================================================================
+Thu Dec 02 2021 18:14:53.645593 - ================================================================================================
+Thu Dec 02 2021 18:14:53.645637 - vrwebhelper 1.20.4 startup with PID=36205, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:14:53.700923 - Browser context created for browser "pairing" (overlay key: "")
+Thu Dec 02 2021 18:14:53.701687 - Creating limited VRHTML object (No HMD present)
+Thu Dec 02 2021 18:14:53.795829 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Thu Dec 02 2021 18:14:53.826538 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:14:53.828015 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:31:06.563707 - Closing context.
+Thu Dec 02 2021 18:49:00.484961 - //==============================================================================================
+Thu Dec 02 2021 18:49:00.485023 - ================================================================================================
+Thu Dec 02 2021 18:49:00.485046 - ================================================================================================
+Thu Dec 02 2021 18:49:00.485082 - vrwebhelper 1.20.4 startup with PID=13709, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Thu Dec 02 2021 18:49:02.803467 - Browser context created for browser "pairing" (overlay key: "")
+Thu Dec 02 2021 18:49:02.803806 - Creating limited VRHTML object (No HMD present)
+Thu Dec 02 2021 18:49:02.886978 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Thu Dec 02 2021 18:49:02.887130 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:49:02.896151 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Thu Dec 02 2021 18:49:04.810534 - Closing context.
+Sat Dec 04 2021 11:51:45.377008 - //==============================================================================================
+Sat Dec 04 2021 11:51:45.389604 - ================================================================================================
+Sat Dec 04 2021 11:51:45.389638 - ================================================================================================
+Sat Dec 04 2021 11:51:45.389674 - vrwebhelper 1.20.4 startup with PID=12541, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:51:47.562319 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 11:51:47.562730 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 11:51:47.622619 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 11:51:47.647128 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 11:51:47.649361 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 11:52:59.908741 - Closing context.
+Sat Dec 04 2021 11:54:22.218923 - //==============================================================================================
+Sat Dec 04 2021 11:54:22.218984 - ================================================================================================
+Sat Dec 04 2021 11:54:22.219002 - ================================================================================================
+Sat Dec 04 2021 11:54:22.219039 - vrwebhelper 1.20.4 startup with PID=13173, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 11:54:22.301317 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 11:54:22.302092 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 11:54:22.403781 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 11:54:22.420309 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 11:54:22.432707 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 11:55:00.194843 - Closing context.
+Sat Dec 04 2021 12:04:22.936139 - //==============================================================================================
+Sat Dec 04 2021 12:04:22.946294 - ================================================================================================
+Sat Dec 04 2021 12:04:22.946320 - ================================================================================================
+Sat Dec 04 2021 12:04:22.946362 - vrwebhelper 1.20.4 startup with PID=15213, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:04:23.102697 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 12:04:23.103035 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 12:04:23.190938 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 12:04:23.207022 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:04:23.208543 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:14:21.297658 - //==============================================================================================
+Sat Dec 04 2021 12:14:21.297696 - ================================================================================================
+Sat Dec 04 2021 12:14:21.297710 - ================================================================================================
+Sat Dec 04 2021 12:14:21.297748 - vrwebhelper 1.20.4 startup with PID=16613, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:14:21.447174 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 12:14:21.447801 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 12:14:21.537921 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 12:14:21.561947 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:14:21.563959 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:14:50.226588 - Closing context.
+Sat Dec 04 2021 12:28:02.521069 - //==============================================================================================
+Sat Dec 04 2021 12:28:02.521110 - ================================================================================================
+Sat Dec 04 2021 12:28:02.521131 - ================================================================================================
+Sat Dec 04 2021 12:28:02.521166 - vrwebhelper 1.20.4 startup with PID=17507, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 12:28:04.692559 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 12:28:04.693151 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 12:28:04.770763 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 12:28:04.773248 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:28:04.775175 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 12:28:19.420764 - Closing context.
+Sat Dec 04 2021 13:31:50.123392 - //==============================================================================================
+Sat Dec 04 2021 13:31:50.123442 - ================================================================================================
+Sat Dec 04 2021 13:31:50.123463 - ================================================================================================
+Sat Dec 04 2021 13:31:50.123504 - vrwebhelper 1.20.4 startup with PID=26795, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:31:50.177210 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 13:31:50.177664 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 13:31:50.287958 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 13:31:50.320142 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:31:50.321337 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:32:02.024995 - Closing context.
+Sat Dec 04 2021 13:34:16.772456 - //==============================================================================================
+Sat Dec 04 2021 13:34:16.772523 - ================================================================================================
+Sat Dec 04 2021 13:34:16.772547 - ================================================================================================
+Sat Dec 04 2021 13:34:16.772586 - vrwebhelper 1.20.4 startup with PID=27331, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:34:16.823622 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 13:34:16.824387 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 13:34:16.894585 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 13:34:16.922395 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:34:16.924799 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:35:30.927654 - Closing context.
+Sat Dec 04 2021 13:37:42.402571 - //==============================================================================================
+Sat Dec 04 2021 13:37:42.402632 - ================================================================================================
+Sat Dec 04 2021 13:37:42.402652 - ================================================================================================
+Sat Dec 04 2021 13:37:42.402690 - vrwebhelper 1.20.4 startup with PID=28397, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:37:42.585033 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 13:37:42.585483 - Creating VRHML JS object
+Sat Dec 04 2021 13:37:42.694751 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 13:37:42.749805 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:37:43.182439 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:38:58.067668 - Closing context.
+Sat Dec 04 2021 13:39:34.969112 - //==============================================================================================
+Sat Dec 04 2021 13:39:34.969147 - ================================================================================================
+Sat Dec 04 2021 13:39:34.969163 - ================================================================================================
+Sat Dec 04 2021 13:39:34.969192 - vrwebhelper 1.20.4 startup with PID=29626, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:39:35.138312 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 13:39:35.139014 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 13:39:35.204727 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 13:39:35.226673 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:39:35.229174 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:52:35.694493 - //==============================================================================================
+Sat Dec 04 2021 13:52:35.694568 - ================================================================================================
+Sat Dec 04 2021 13:52:35.694598 - ================================================================================================
+Sat Dec 04 2021 13:52:35.694648 - vrwebhelper 1.20.4 startup with PID=31352, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:52:37.871527 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 13:52:37.872278 - Creating limited VRHTML object (No HMD present)
+Sat Dec 04 2021 13:52:37.930422 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 13:52:37.968988 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:52:37.973044 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:53:10.074469 - //==============================================================================================
+Sat Dec 04 2021 13:53:10.074510 - ================================================================================================
+Sat Dec 04 2021 13:53:10.074525 - ================================================================================================
+Sat Dec 04 2021 13:53:10.074560 - vrwebhelper 1.20.4 startup with PID=31932, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 13:53:10.152004 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 13:53:10.152618 - Creating VRHML JS object
+Sat Dec 04 2021 13:53:10.625670 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 13:53:10.649759 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 13:53:10.651331 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:45.067830 - //==============================================================================================
+Sat Dec 04 2021 14:34:45.074732 - ================================================================================================
+Sat Dec 04 2021 14:34:45.074795 - ================================================================================================
+Sat Dec 04 2021 14:34:45.074865 - vrwebhelper 1.20.4 startup with PID=38488, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:34:45.297218 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 14:34:45.298015 - Creating VRHML JS object
+Sat Dec 04 2021 14:34:45.424814 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 14:34:46.054638 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:34:46.054829 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:36:17.078629 - //==============================================================================================
+Sat Dec 04 2021 14:36:17.078680 - ================================================================================================
+Sat Dec 04 2021 14:36:17.078700 - ================================================================================================
+Sat Dec 04 2021 14:36:17.078735 - vrwebhelper 1.20.4 startup with PID=39962, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:36:17.207630 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 14:36:17.208250 - Creating VRHML JS object
+Sat Dec 04 2021 14:36:17.331506 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 14:36:17.331902 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:36:17.334041 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:55:27.817176 - //==============================================================================================
+Sat Dec 04 2021 14:55:27.817234 - ================================================================================================
+Sat Dec 04 2021 14:55:27.817257 - ================================================================================================
+Sat Dec 04 2021 14:55:27.817294 - vrwebhelper 1.20.4 startup with PID=44141, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:55:28.015253 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 14:55:28.015858 - Creating VRHML JS object
+Sat Dec 04 2021 14:55:28.173234 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 14:55:28.402109 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:55:28.411318 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:26.936803 - Closing context.
+Sat Dec 04 2021 14:57:52.007491 - //==============================================================================================
+Sat Dec 04 2021 14:57:52.007542 - ================================================================================================
+Sat Dec 04 2021 14:57:52.007563 - ================================================================================================
+Sat Dec 04 2021 14:57:52.007595 - vrwebhelper 1.20.4 startup with PID=45722, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 14:57:52.192666 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 14:57:52.193139 - Creating VRHML JS object
+Sat Dec 04 2021 14:57:52.334855 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 14:57:52.335965 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 14:57:52.368172 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:02:56.206255 - //==============================================================================================
+Sat Dec 04 2021 15:02:56.206316 - ================================================================================================
+Sat Dec 04 2021 15:02:56.206329 - ================================================================================================
+Sat Dec 04 2021 15:02:56.206359 - vrwebhelper 1.20.4 startup with PID=47870, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:02:56.336506 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 15:02:56.337118 - Creating VRHML JS object
+Sat Dec 04 2021 15:02:56.489977 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 15:02:56.763451 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:02:57.264743 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:40:02.268928 - //==============================================================================================
+Sat Dec 04 2021 15:40:02.284413 - ================================================================================================
+Sat Dec 04 2021 15:40:02.284441 - ================================================================================================
+Sat Dec 04 2021 15:40:02.284471 - vrwebhelper 1.20.4 startup with PID=15658, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 04 2021 15:40:02.399934 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 04 2021 15:40:02.404042 - Creating VRHML JS object
+Sat Dec 04 2021 15:40:02.563354 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 04 2021 15:40:02.639495 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:40:03.071427 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 04 2021 15:51:10.938015 - Closing context.
+Sat Dec 11 2021 12:19:16.137898 - //==============================================================================================
+Sat Dec 11 2021 12:19:16.164329 - ================================================================================================
+Sat Dec 11 2021 12:19:16.164392 - ================================================================================================
+Sat Dec 11 2021 12:19:16.164465 - vrwebhelper 1.20.4 startup with PID=11674, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Dec 11 2021 12:19:18.361078 - Browser context created for browser "pairing" (overlay key: "")
+Sat Dec 11 2021 12:19:18.361750 - Creating VRHML JS object
+Sat Dec 11 2021 12:19:18.484863 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Dec 11 2021 12:19:18.522575 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Dec 11 2021 12:19:18.524889 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Fri Dec 24 2021 16:33:00.235187 - //==============================================================================================
+Fri Dec 24 2021 16:33:00.235379 - ================================================================================================
+Fri Dec 24 2021 16:33:00.235397 - ================================================================================================
+Fri Dec 24 2021 16:33:00.235426 - vrwebhelper 1.20.4 startup with PID=32684, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Fri Dec 24 2021 16:33:00.405141 - Browser context created for browser "pairing" (overlay key: "")
+Fri Dec 24 2021 16:33:00.406864 - Creating VRHML JS object
+Fri Dec 24 2021 16:33:00.510600 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Fri Dec 24 2021 16:33:00.735910 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Fri Dec 24 2021 16:33:00.748626 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Fri Dec 24 2021 16:33:02.110847 - Closing context.
+Sun Dec 26 2021 15:08:04.654931 - //==============================================================================================
+Sun Dec 26 2021 15:08:04.681330 - ================================================================================================
+Sun Dec 26 2021 15:08:04.681403 - ================================================================================================
+Sun Dec 26 2021 15:08:04.681470 - vrwebhelper 1.20.4 startup with PID=31618, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sun Dec 26 2021 15:08:04.836182 - Browser context created for browser "pairing" (overlay key: "")
+Sun Dec 26 2021 15:08:04.840491 - Creating VRHML JS object
+Sun Dec 26 2021 15:08:04.987374 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=37fef0b92518e65bb4d6:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sun Dec 26 2021 15:08:05.449715 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sun Dec 26 2021 15:08:06.270888 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:03.658963 - //==============================================================================================
+Sat Mar 12 2022 22:41:03.675338 - ================================================================================================
+Sat Mar 12 2022 22:41:03.675380 - ================================================================================================
+Sat Mar 12 2022 22:41:03.675426 - vrwebhelper 1.21.11 startup with PID=86992, config=/home/waterdev/.local/share/Steam/config, runtime=/home/waterdev/.local/share/Steam/steamapps/common/SteamVR
+Sat Mar 12 2022 22:41:03.856298 - Browser context created for browser "pairing" (overlay key: "")
+Sat Mar 12 2022 22:41:03.857490 - Creating VRHML JS object
+Sat Mar 12 2022 22:41:04.017346 - Console message (Info) from http://localhost:27062/lighthouse/webinterface/pairing.js?v=55153d064df2a89ccd7e:4:
+| Connecting vrmailbox pairing_ui/vrwebhelper_pairing_1...
+Sat Mar 12 2022 22:41:04.018412 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
+Sat Mar 12 2022 22:41:04.025380 - CEF Local Resource Load Error: http://localhost:27062/fonts/get_font?font=motiva-sans-regular.ttf -> 404 (Not Found)
